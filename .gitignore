@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.processed_files.json
+
+# MotoGP PDFs — large binaries, stored locally and cached in CI
+# Track folders (all caps directories at repo root)
+[A-Z]*/
+
+# Local tools
+*.command
+Design/
+
+# macOS
+.DS_Store

@@ -1297,3 +1297,153 @@ table.rider-table {
 /* ── Highlight colours for best sector times ─────────────────────────────── */
 .best-sector { color: var(--purple) !important; font-weight: 700; }
 .best-lap    { color: var(--green)  !important; }
+
+/* ══════════════════════════════════════════════════════════════════════════
+   RESPONSIVE — TABLET (≤ 900px)
+   ══════════════════════════════════════════════════════════════════════════ */
+@media (max-width: 900px) {
+  .detail-body {
+    grid-template-columns: 1fr;
+    overflow-y: auto;
+  }
+
+  .detail-table-pane {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    max-height: 45vh;
+    flex-shrink: 0;
+  }
+
+  .mfr-charts-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sector-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   RESPONSIVE — MOBILE (≤ 640px)
+   ══════════════════════════════════════════════════════════════════════════ */
+@media (max-width: 640px) {
+
+  /* ── Nav ── */
+  .topnav {
+    padding: 0 10px;
+    gap: 8px;
+  }
+
+  /* Scroll nav links horizontally instead of wrapping */
+  .topnav-links {
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    flex-shrink: 1;
+    padding-bottom: 2px; /* room for active underline */
+  }
+  .topnav-links::-webkit-scrollbar { display: none; }
+
+  .nav-link {
+    white-space: nowrap;
+    padding: 6px 10px;
+  }
+
+  /* Hide status text — too crowded */
+  #status-text { display: none; }
+
+  /* ── Sessions — sidebar goes full-width on top ── */
+  .view-sessions { flex-direction: column; }
+
+  .view-sidebar {
+    width: 100%;
+    min-width: unset;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    padding: 10px 12px;
+    gap: 12px;
+    /* Collapse to a scrollable horizontal row of chips */
+    flex-direction: column;
+    max-height: 220px;
+    overflow-y: auto;
+  }
+
+  .sessions-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    padding: 12px;
+    gap: 8px;
+  }
+
+  /* ── Session detail — stack panes vertically ── */
+  .detail-header {
+    padding: 10px 12px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .detail-title-group h1 { font-size: 14px; }
+  .detail-subtitle, .detail-date { display: none; }
+
+  .detail-table-pane {
+    max-height: 42vh;
+  }
+
+  .chart-wrap { padding: 10px; }
+
+  /* ── Home ── */
+  .view-main.padded { padding: 16px; gap: 14px; }
+
+  .home-race-header { margin-bottom: 20px; }
+
+  .home-race-header h1 {
+    font-size: 22px;
+    letter-spacing: -0.02em;
+  }
+
+  /* Stack podium vertically: P1, P2, P3 */
+  .home-podium {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+
+  .podium-card {
+    max-width: 100%;
+    padding: 16px;
+  }
+
+  /* Remove P1 elevation on mobile — stacked layout makes it odd */
+  .podium-p1 { transform: none; box-shadow: var(--shadow-sm); }
+
+  /* Reorder: P1 first on mobile */
+  .podium-p1 { order: -1; }
+
+  .podium-lap { font-size: 17px; }
+  .podium-name { font-size: 15px; }
+
+  /* Stats table — allow horizontal scroll */
+  .home-stats-wrap { overflow-x: auto; }
+  .home-stats-table { min-width: 360px; }
+
+  /* ── Compare / Trends / Manufacturers ── */
+  .compare-session-filters { flex-direction: column; align-items: stretch; }
+  .styled-select { min-width: unset; width: 100%; }
+  .search-input.wide { width: 100%; }
+
+  .trends-controls, .mfr-controls {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  .sector-grid { grid-template-columns: 1fr 1fr; }
+
+  .cmp-chart-wrap { height: 260px; }
+  .chart-wrap.tall { height: 260px; }
+
+  /* ── Shared ── */
+  .view-header h1 { font-size: 16px; }
+  .view-sub { display: none; }
+}

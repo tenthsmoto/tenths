@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "year": 2016,
+    "gp": "Phillip_Island",
+    "gp_name": "Phillip_Island",
+    "circuit": "Chronological Analysis Of Performances 9",
+    "track_folder": "PHILLIP_ISLAND",
+    "session": "FP2",
+    "session_long": "Free Practice Nr. 2",
+    "date": "2016-10-21",
+    "class": "MotoGP",
+    "source_file": "PHILLIP_ISLAND/2016/AUS_MGP_FP2.pdf",
+    "parsed_at": "2026-06-21T18:38:01Z"
+  },
+  "riders": [
+    {
+      "position": 1,
+      "number": "8",
+      "name": "Hector Barbera",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "Ducati Team S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'51.958",
+        "best_lap_sec": 111.958,
+        "best_t1": 26.664,
+        "best_t2": 32.908,
+        "best_t3": 21.542,
+        "best_t4": 30.844,
+        "top_speed_kmh": 268.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'26.963",
+          "time_sec": 146.963,
+          "t1": 53.21,
+          "t2": 37.441,
+          "t3": 23.647,
+          "t4": 32.665,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'54.179",
+          "time_sec": 114.179,
+          "t1": 27.849,
+          "t2": 33.767,
+          "t3": 22.067,
+          "t4": 30.496,
+          "top_speed_kmh": 251.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'51.958",
+          "time_sec": 111.958,
+          "t1": 26.664,
+          "t2": 32.908,
+          "t3": 21.542,
+          "t4": 30.844,
+          "top_speed_kmh": 268.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "number": "7",
+      "name": "Mike Jones",
+      "nationality": "",
+      "bike": "",
+      "team": "Avintia Racing A",
+      "summary": {
+        "runs": 1,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'54.018",
+        "best_lap_sec": 114.018,
+        "best_t1": 27.043,
+        "best_t2": 33.628,
+        "best_t3": 22.335,
+        "best_t4": 31.012,
+        "top_speed_kmh": 278.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'29.049",
+          "time_sec": 149.049,
+          "t1": 57.18,
+          "t2": 35.659,
+          "t3": 23.669,
+          "t4": 32.541,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'56.304",
+          "time_sec": 116.304,
+          "t1": 27.945,
+          "t2": 34.655,
+          "t3": 22.512,
+          "t4": 31.192,
+          "top_speed_kmh": 267.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'54.018",
+          "time_sec": 114.018,
+          "t1": 27.043,
+          "t2": 33.628,
+          "t3": 22.335,
+          "t4": 31.012,
+          "top_speed_kmh": 278.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "number": "53",
+      "name": "Tito Rabat",
+      "nationality": "",
+      "bike": "",
+      "team": "Estrella Galicia 0,0 M S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 3,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'55.693",
+        "best_lap_sec": 115.693,
+        "best_t1": 28.013,
+        "best_t2": 34.405,
+        "best_t3": 22.18,
+        "best_t4": 31.095,
+        "top_speed_kmh": 256.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'55.693",
+          "time_sec": 115.693,
+          "t1": 28.013,
+          "t2": 34.405,
+          "t3": 22.18,
+          "t4": 31.095,
+          "top_speed_kmh": 256.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "number": "9",
+      "name": "Danilo Petrucci",
+      "nationality": "",
+      "bike": "",
+      "team": "OCTO Pramac Yakhn",
+      "summary": {
+        "runs": 1,
+        "total_laps": 3,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'55.722",
+        "best_lap_sec": 115.722,
+        "best_t1": 27.829,
+        "best_t2": 34.052,
+        "best_t3": 22.554,
+        "best_t4": 31.287,
+        "top_speed_kmh": 266.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'55.722",
+          "time_sec": 115.722,
+          "t1": 27.829,
+          "t2": 34.052,
+          "t3": 22.554,
+          "t4": 31.287,
+          "top_speed_kmh": 266.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "number": "41",
+      "name": "Aleix Espargaro",
+      "nationality": "",
+      "bike": "SUZUKI",
+      "team": "Team SUZUKI ECST S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'58.112",
+        "best_lap_sec": 118.112,
+        "best_t1": 27.973,
+        "best_t2": 34.661,
+        "best_t3": 23.248,
+        "best_t4": 32.23,
+        "top_speed_kmh": 251.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'58.620",
+          "time_sec": 118.62,
+          "t1": 29.077,
+          "t2": 34.648,
+          "t3": 22.966,
+          "t4": 31.929,
+          "top_speed_kmh": 279.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'58.112",
+          "time_sec": 118.112,
+          "t1": 27.973,
+          "t2": 34.661,
+          "t3": 23.248,
+          "t4": 32.23,
+          "top_speed_kmh": 251.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "number": "46",
+      "name": "Valentino Rossi",
+      "nationality": "",
+      "bike": "YAMAHA",
+      "team": "Movistar Yamaha Mot",
+      "summary": {
+        "runs": 1,
+        "total_laps": 3,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'58.412",
+        "best_lap_sec": 118.412,
+        "best_t1": 28.7,
+        "best_t2": 34.188,
+        "best_t3": 22.961,
+        "best_t4": 32.563,
+        "top_speed_kmh": 243.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'58.412",
+          "time_sec": 118.412,
+          "t1": 28.7,
+          "t2": 34.188,
+          "t3": 22.961,
+          "t4": 32.563,
+          "top_speed_kmh": 243.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "number": "45",
+      "name": "Scott Redding",
+      "nationality": "",
+      "bike": "",
+      "team": "OCTO Pramac Yakhn G",
+      "summary": {
+        "runs": 1,
+        "total_laps": 2,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 19,
+      "number": "76",
+      "name": "Loris Baz",
+      "nationality": "",
+      "bike": "",
+      "team": "Avintia Racing F",
+      "summary": {
+        "runs": 2,
+        "total_laps": 3,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "2'25.446",
+        "best_lap_sec": 145.446,
+        "best_t1": 54.425,
+        "best_t2": 35.667,
+        "best_t3": 23.408,
+        "best_t4": 31.946,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'25.446",
+          "time_sec": 145.446,
+          "t1": 54.425,
+          "t2": 35.667,
+          "t3": 23.408,
+          "t4": 31.946,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
+    }
+  ]
+}

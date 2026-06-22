@@ -1,0 +1,896 @@
+{
+  "meta": {
+    "year": 2017,
+    "gp": "Tt_Circuit_Assen",
+    "gp_name": "Tt_Circuit_Assen",
+    "circuit": "Chronological Analysis Of Performances 27",
+    "track_folder": "TT_CIRCUIT_ASSEN",
+    "session": "WUP",
+    "session_long": "Warm Up",
+    "date": "2017-06-25",
+    "class": "MotoGP",
+    "source_file": "TT_CIRCUIT_ASSEN/2017/NED_MGP_WUP.pdf",
+    "parsed_at": "2026-06-21T18:41:17Z"
+  },
+  "riders": [
+    {
+      "position": 1,
+      "number": "43",
+      "name": "Jack Miller",
+      "nationality": "",
+      "bike": "",
+      "team": "EG 0,0 Marc VDS A",
+      "summary": {
+        "runs": 2,
+        "total_laps": 5,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'48.221",
+        "best_lap_sec": 108.221,
+        "best_t1": 36.466,
+        "best_t2": 15.96,
+        "best_t3": 30.584,
+        "best_t4": 25.211,
+        "top_speed_kmh": 289.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'48.221",
+          "time_sec": 108.221,
+          "t1": 36.466,
+          "t2": 15.96,
+          "t3": 30.584,
+          "t4": 25.211,
+          "top_speed_kmh": 289.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'53.073",
+          "time_sec": 113.073,
+          "t1": 35.074,
+          "t2": 16.162,
+          "t3": 30.876,
+          "t4": 30.961,
+          "top_speed_kmh": 291.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'53.188",
+          "time_sec": 113.188,
+          "t1": 37.319,
+          "t2": 16.668,
+          "t3": 32.845,
+          "t4": 26.356,
+          "top_speed_kmh": 277.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'51.203",
+          "time_sec": 111.203,
+          "t1": 36.61,
+          "t2": 16.277,
+          "t3": 32.332,
+          "t4": 25.984,
+          "top_speed_kmh": 285.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "number": "93",
+      "name": "Marc Marquez",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "Repsol Honda Team S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'51.220",
+        "best_lap_sec": 111.22,
+        "best_t1": 36.429,
+        "best_t2": 16.337,
+        "best_t3": 32.609,
+        "best_t4": 25.845,
+        "top_speed_kmh": 281.0
+      },
+      "laps": [
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "1'56.473",
+          "time_sec": 116.473,
+          "t1": 38.258,
+          "t2": 17.254,
+          "t3": 34.115,
+          "t4": 26.846,
+          "top_speed_kmh": 262.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'51.220",
+          "time_sec": 111.22,
+          "t1": 36.429,
+          "t2": 16.337,
+          "t3": 32.609,
+          "t4": 25.845,
+          "top_speed_kmh": 281.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "number": "29",
+      "name": "Andrea IANNONE Team",
+      "nationality": "ECST",
+      "bike": "SUZUKI",
+      "team": "",
+      "summary": {
+        "runs": 2,
+        "total_laps": 5,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'51.840",
+        "best_lap_sec": 111.84,
+        "best_t1": 36.915,
+        "best_t2": 16.437,
+        "best_t3": 32.457,
+        "best_t4": 26.031,
+        "top_speed_kmh": 272.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'13.099",
+          "time_sec": 133.099,
+          "t1": 43.995,
+          "t2": 19.652,
+          "t3": 38.351,
+          "t4": 31.101,
+          "top_speed_kmh": 219.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'56.946",
+          "time_sec": 116.946,
+          "t1": 38.963,
+          "t2": 17.041,
+          "t3": 33.689,
+          "t4": 27.253,
+          "top_speed_kmh": 254.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'51.840",
+          "time_sec": 111.84,
+          "t1": 36.915,
+          "t2": 16.437,
+          "t3": 32.457,
+          "t4": 26.031,
+          "top_speed_kmh": 272.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "number": "19",
+      "name": "Alvaro Bautista",
+      "nationality": "",
+      "bike": "",
+      "team": "Pull&Bear Aspar Tea S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 5,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'52.113",
+        "best_lap_sec": 112.113,
+        "best_t1": 36.9,
+        "best_t2": 17.397,
+        "best_t3": 30.799,
+        "best_t4": 27.017,
+        "top_speed_kmh": 250.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'06.047",
+          "time_sec": 126.047,
+          "t1": 50.464,
+          "t2": 17.0,
+          "t3": 31.85,
+          "t4": 26.733,
+          "top_speed_kmh": 248.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'52.113",
+          "time_sec": 112.113,
+          "t1": 36.9,
+          "t2": 17.397,
+          "t3": 30.799,
+          "t4": 27.017,
+          "top_speed_kmh": 250.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'55.152",
+          "time_sec": 115.152,
+          "t1": 37.78,
+          "t2": 16.575,
+          "t3": 33.34,
+          "t4": 27.457,
+          "top_speed_kmh": 272.0,
+          "type": "Pit In"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "number": "42",
+      "name": "Alex Rins",
+      "nationality": "",
+      "bike": "SUZUKI",
+      "team": "Team SUZUKI ECST S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'52.583",
+        "best_lap_sec": 112.583,
+        "best_t1": 36.953,
+        "best_t2": 16.539,
+        "best_t3": 32.613,
+        "best_t4": 26.478,
+        "top_speed_kmh": 276.0
+      },
+      "laps": [
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "1'56.995",
+          "time_sec": 116.995,
+          "t1": 39.017,
+          "t2": 17.291,
+          "t3": 33.455,
+          "t4": 27.232,
+          "top_speed_kmh": 258.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'52.583",
+          "time_sec": 112.583,
+          "t1": 36.953,
+          "t2": 16.539,
+          "t3": 32.613,
+          "t4": 26.478,
+          "top_speed_kmh": 276.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "number": "53",
+      "name": "Tito Rabat",
+      "nationality": "",
+      "bike": "",
+      "team": "EG 0,0 Marc VDS S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 6,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'52.841",
+        "best_lap_sec": 112.841,
+        "best_t1": 36.661,
+        "best_t2": 16.866,
+        "best_t3": 32.919,
+        "best_t4": 26.395,
+        "top_speed_kmh": 263.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'02.941",
+          "time_sec": 122.941,
+          "t1": 47.912,
+          "t2": 16.872,
+          "t3": 30.987,
+          "t4": 27.17,
+          "top_speed_kmh": 261.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'05.008",
+          "time_sec": 125.008,
+          "t1": 39.043,
+          "t2": 18.492,
+          "t3": 37.322,
+          "t4": 30.151,
+          "top_speed_kmh": 242.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'57.059",
+          "time_sec": 117.059,
+          "t1": 38.36,
+          "t2": 17.266,
+          "t3": 34.013,
+          "t4": 27.42,
+          "top_speed_kmh": 262.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'53.870",
+          "time_sec": 113.87,
+          "t1": 37.2,
+          "t2": 16.923,
+          "t3": 33.224,
+          "t4": 26.523,
+          "top_speed_kmh": 269.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "1'52.841",
+          "time_sec": 112.841,
+          "t1": 36.661,
+          "t2": 16.866,
+          "t3": 32.919,
+          "t4": 26.395,
+          "top_speed_kmh": 263.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "number": "25",
+      "name": "Maverick Viñales",
+      "nationality": "SPA",
+      "bike": "YAMAHA",
+      "team": "Movistar Yamaha Mot",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": 2,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 8,
+      "number": "45",
+      "name": "Scott Redding",
+      "nationality": "GBR",
+      "bike": "",
+      "team": "OCTO Pramac Racin",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": 2,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 9,
+      "number": "44",
+      "name": "Pol Espargaro",
+      "nationality": "SPA",
+      "bike": "KTM",
+      "team": "Red Bull KTM Factory",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": 2,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 10,
+      "number": "46",
+      "name": "Valentino Rossi",
+      "nationality": "ITA",
+      "bike": "YAMAHA",
+      "team": "Movistar Yamaha Mot",
+      "summary": {
+        "runs": 2,
+        "total_laps": 5,
+        "full_laps": 2,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 11,
+      "number": "35",
+      "name": "Cal Crutchlow",
+      "nationality": "GBR",
+      "bike": "HONDA",
+      "team": "LCR Honda",
+      "summary": {
+        "runs": 2,
+        "total_laps": 5,
+        "full_laps": 2,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 12,
+      "number": "8",
+      "name": "Hector Barbera",
+      "nationality": "SPA",
+      "bike": "",
+      "team": "Reale Avintia Racing",
+      "summary": {
+        "runs": 3,
+        "total_laps": 5,
+        "full_laps": 1,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 13,
+      "number": "41",
+      "name": "Aleix Espargaro",
+      "nationality": "",
+      "bike": "APRILIA",
+      "team": "Aprilia Racing Team S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'56.173",
+        "best_lap_sec": 116.173,
+        "best_t1": 38.37,
+        "best_t2": 17.154,
+        "best_t3": 33.725,
+        "best_t4": 26.924,
+        "top_speed_kmh": 260.0
+      },
+      "laps": [
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "1'56.173",
+          "time_sec": 116.173,
+          "t1": 38.37,
+          "t2": 17.154,
+          "t3": 33.725,
+          "t4": 26.924,
+          "top_speed_kmh": 260.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "2'05.510",
+          "time_sec": 125.51,
+          "t1": 48.239,
+          "t2": 17.167,
+          "t3": 33.546,
+          "t4": 26.558,
+          "top_speed_kmh": 260.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "number": "94",
+      "name": "Jonas Folger",
+      "nationality": "",
+      "bike": "YAMAHA",
+      "team": "Monster Yamaha Tec G",
+      "summary": {
+        "runs": 2,
+        "total_laps": 4,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'56.366",
+        "best_lap_sec": 116.366,
+        "best_t1": 38.415,
+        "best_t2": 17.185,
+        "best_t3": 33.871,
+        "best_t4": 26.895,
+        "top_speed_kmh": 263.0
+      },
+      "laps": [
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "1'56.366",
+          "time_sec": 116.366,
+          "t1": 38.415,
+          "t2": 17.185,
+          "t3": 33.871,
+          "t4": 26.895,
+          "top_speed_kmh": 263.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'58.832",
+          "time_sec": 118.832,
+          "t1": 38.188,
+          "t2": 17.047,
+          "t3": 36.273,
+          "t4": 27.324,
+          "top_speed_kmh": 260.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "number": "17",
+      "name": "Karel Abraham",
+      "nationality": "",
+      "bike": "",
+      "team": "Pull&Bear Aspar Tea C",
+      "summary": {
+        "runs": 4,
+        "total_laps": 5,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'57.383",
+        "best_lap_sec": 117.383,
+        "best_t1": 39.288,
+        "best_t2": 17.199,
+        "best_t3": 33.488,
+        "best_t4": 27.408,
+        "top_speed_kmh": 260.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'59.209",
+          "time_sec": 119.209,
+          "t1": 41.643,
+          "t2": 18.652,
+          "t3": 33.616,
+          "t4": 25.298,
+          "top_speed_kmh": 239.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'57.383",
+          "time_sec": 117.383,
+          "t1": 39.288,
+          "t2": 17.199,
+          "t3": 33.488,
+          "t4": 27.408,
+          "top_speed_kmh": 260.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "number": "4",
+      "name": "Andrea Dovizioso",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "Ducati Team",
+      "summary": {
+        "runs": 2,
+        "total_laps": 3,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'05.035",
+          "time_sec": 125.035,
+          "t1": 39.953,
+          "t2": 19.053,
+          "t3": 37.183,
+          "t4": 28.846,
+          "top_speed_kmh": 240.0,
+          "type": "Pit In"
+        }
+      ]
+    },
+    {
+      "position": 17,
+      "number": "5",
+      "name": "Johann Zarco",
+      "nationality": "",
+      "bike": "YAMAHA",
+      "team": "Monster Yamaha Tec F",
+      "summary": {
+        "runs": 1,
+        "total_laps": 1,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 18,
+      "number": "9",
+      "name": "Danilo Petrucci",
+      "nationality": "",
+      "bike": "",
+      "team": "OCTO Pramac Racin",
+      "summary": {
+        "runs": 2,
+        "total_laps": 2,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 19,
+      "number": "22",
+      "name": "Sam Lowes",
+      "nationality": "",
+      "bike": "APRILIA",
+      "team": "Aprilia Racing Team G",
+      "summary": {
+        "runs": 2,
+        "total_laps": 2,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 20,
+      "number": "26",
+      "name": "Dani Pedrosa",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "Repsol Honda Team S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 2,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'59.898",
+          "time_sec": 119.898,
+          "t1": 47.134,
+          "t2": 16.73,
+          "t3": 31.157,
+          "t4": 24.877,
+          "top_speed_kmh": 244.0,
+          "type": "Pit In"
+        }
+      ]
+    },
+    {
+      "position": 21,
+      "number": "38",
+      "name": "Bradley Smith",
+      "nationality": "",
+      "bike": "KTM",
+      "team": "Red Bull KTM FactoryG",
+      "summary": {
+        "runs": 1,
+        "total_laps": 2,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'04.423",
+          "time_sec": 124.423,
+          "t1": 40.79,
+          "t2": 19.086,
+          "t3": 36.072,
+          "t4": 28.475,
+          "top_speed_kmh": 241.0,
+          "type": "Pit In"
+        }
+      ]
+    },
+    {
+      "position": 22,
+      "number": "76",
+      "name": "Loris Baz",
+      "nationality": "",
+      "bike": "",
+      "team": "Reale Avintia Racing F",
+      "summary": {
+        "runs": 2,
+        "total_laps": 3,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": "1'49.737",
+        "best_lap_sec": 109.737,
+        "best_t1": 38.678,
+        "best_t2": 16.15,
+        "best_t3": 30.087,
+        "best_t4": 24.822,
+        "top_speed_kmh": 282.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'49.737",
+          "time_sec": 109.737,
+          "t1": 38.678,
+          "t2": 16.15,
+          "t3": 30.087,
+          "t4": 24.822,
+          "top_speed_kmh": 282.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'49.031",
+          "time_sec": 109.031,
+          "t1": 34.654,
+          "t2": 16.193,
+          "t3": 30.86,
+          "t4": 27.324,
+          "top_speed_kmh": 271.0,
+          "type": "Pit In"
+        }
+      ]
+    },
+    {
+      "position": 23,
+      "number": "99",
+      "name": "Jorge Lorenzo",
+      "nationality": "SPA",
+      "bike": "DUCATI",
+      "team": "Ducati Team",
+      "summary": {
+        "runs": 3,
+        "total_laps": 4,
+        "full_laps": 0,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    }
+  ]
+}

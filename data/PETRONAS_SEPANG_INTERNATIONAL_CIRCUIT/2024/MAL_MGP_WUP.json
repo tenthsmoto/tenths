@@ -1,0 +1,1324 @@
+{
+  "meta": {
+    "year": 2024,
+    "gp": "Malaysia",
+    "gp_name": "Malaysia",
+    "circuit": "Chronological Analysis Of Performances 27",
+    "track_folder": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT",
+    "session": "WUP",
+    "session_long": "Grand Prix",
+    "date": "2024-11-03",
+    "class": "MotoGP",
+    "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2024/MAL_MGP_WUP.pdf",
+    "parsed_at": "2026-06-21T18:37:45Z"
+  },
+  "riders": [
+    {
+      "position": 1,
+      "number": "93",
+      "name": "Marc Marquez",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.073",
+        "best_lap_sec": 119.073,
+        "best_t1": 24.785,
+        "best_t2": 27.394,
+        "best_t3": 36.789,
+        "best_t4": 30.105,
+        "top_speed_kmh": 33.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'06.480",
+          "time_sec": 126.48,
+          "t1": 25.115,
+          "t2": 29.184,
+          "t3": 38.297,
+          "t4": 30.811,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'08.514",
+          "time_sec": 128.514,
+          "t1": 28.017,
+          "t2": 28.448,
+          "t3": 40.427,
+          "t4": 31.622,
+          "top_speed_kmh": 22.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.073",
+          "time_sec": 119.073,
+          "t1": 24.785,
+          "t2": 27.394,
+          "t3": 36.789,
+          "t4": 30.105,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'59.574",
+          "time_sec": 119.574,
+          "t1": 24.757,
+          "t2": 27.266,
+          "t3": 37.046,
+          "t4": 30.505,
+          "top_speed_kmh": 33.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'59.372",
+          "time_sec": 119.372,
+          "t1": 24.819,
+          "t2": 27.368,
+          "t3": 36.895,
+          "t4": 30.29,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "number": "89",
+      "name": "Jorge Martin",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.076",
+        "best_lap_sec": 119.076,
+        "best_t1": 24.724,
+        "best_t2": 27.351,
+        "best_t3": 36.78,
+        "best_t4": 30.221,
+        "top_speed_kmh": 33.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "3'01.422",
+          "time_sec": 181.422,
+          "t1": 25.049,
+          "t2": 28.666,
+          "t3": 37.803,
+          "t4": 30.513,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'59.657",
+          "time_sec": 119.657,
+          "t1": 24.903,
+          "t2": 27.551,
+          "t3": 36.869,
+          "t4": 30.334,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.076",
+          "time_sec": 119.076,
+          "t1": 24.724,
+          "t2": 27.351,
+          "t3": 36.78,
+          "t4": 30.221,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'00.852",
+          "time_sec": 120.852,
+          "t1": 24.765,
+          "t2": 27.318,
+          "t3": 37.302,
+          "t4": 31.467,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'59.319",
+          "time_sec": 119.319,
+          "t1": 24.874,
+          "t2": 27.39,
+          "t3": 36.731,
+          "t4": 30.324,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "number": "1",
+      "name": "Francesco Bagnaia",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.085",
+        "best_lap_sec": 119.085,
+        "best_t1": 24.714,
+        "best_t2": 27.256,
+        "best_t3": 36.906,
+        "best_t4": 30.209,
+        "top_speed_kmh": 33.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'06.075",
+          "time_sec": 126.075,
+          "t1": 24.96,
+          "t2": 29.012,
+          "t3": 38.212,
+          "t4": 30.867,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'59.647",
+          "time_sec": 119.647,
+          "t1": 24.761,
+          "t2": 27.477,
+          "t3": 37.029,
+          "t4": 30.38,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.085",
+          "time_sec": 119.085,
+          "t1": 24.714,
+          "t2": 27.256,
+          "t3": 36.906,
+          "t4": 30.209,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'59.322",
+          "time_sec": 119.322,
+          "t1": 24.775,
+          "t2": 27.306,
+          "t3": 36.932,
+          "t4": 30.309,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'59.704",
+          "time_sec": 119.704,
+          "t1": 25.053,
+          "t2": 27.434,
+          "t3": 36.896,
+          "t4": 30.321,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "number": "73",
+      "name": "Alex Marquez",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.136",
+        "best_lap_sec": 119.136,
+        "best_t1": 24.866,
+        "best_t2": 27.336,
+        "best_t3": 36.704,
+        "best_t4": 30.23,
+        "top_speed_kmh": 32.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'06.862",
+          "time_sec": 126.862,
+          "t1": 25.16,
+          "t2": 29.126,
+          "t3": 38.326,
+          "t4": 30.902,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'59.515",
+          "time_sec": 119.515,
+          "t1": 24.985,
+          "t2": 27.45,
+          "t3": 36.884,
+          "t4": 30.196,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.136",
+          "time_sec": 119.136,
+          "t1": 24.866,
+          "t2": 27.336,
+          "t3": 36.704,
+          "t4": 30.23,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'59.308",
+          "time_sec": 119.308,
+          "t1": 24.743,
+          "t2": 27.193,
+          "t3": 37.002,
+          "t4": 30.37,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'59.570",
+          "time_sec": 119.57,
+          "t1": 24.812,
+          "t2": 27.442,
+          "t3": 36.953,
+          "t4": 30.363,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "number": "31",
+      "name": "Pedro Acosta",
+      "nationality": "",
+      "bike": "KTM",
+      "team": "KTM S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'02.418",
+          "time_sec": 122.418,
+          "t1": 24.749,
+          "t2": 29.792,
+          "t3": 37.16,
+          "t4": 30.717,
+          "top_speed_kmh": 334.3,
+          "type": "Cancelled"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "number": "21",
+      "name": "Franco Morbidelli",
+      "nationality": "ITA",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'07.163",
+          "time_sec": 127.163,
+          "t1": 24.659,
+          "t2": 27.542,
+          "t3": 42.545,
+          "t4": 32.417,
+          "top_speed_kmh": 332.3,
+          "type": "Cancelled"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "number": "20",
+      "name": "Fabio Quartararo",
+      "nationality": "FRA",
+      "bike": "YAMAHA",
+      "team": "YAMAHA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 4,
+        "best_lap": "1'59.517",
+        "best_lap_sec": 119.517,
+        "best_t1": 24.743,
+        "best_t2": 27.42,
+        "best_t3": 36.957,
+        "best_t4": 30.397,
+        "top_speed_kmh": 325.3
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'59.517",
+          "time_sec": 119.517,
+          "t1": 24.743,
+          "t2": 27.42,
+          "t3": 36.957,
+          "t4": 30.397,
+          "top_speed_kmh": 325.3,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "number": "41",
+      "name": "Aleix Espargaro",
+      "nationality": "SPA",
+      "bike": "APRILIA",
+      "team": "APRILIA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'59.714",
+          "time_sec": 119.714,
+          "t1": 24.786,
+          "t2": 27.484,
+          "t3": 37.073,
+          "t4": 30.371,
+          "top_speed_kmh": 321.4,
+          "type": "Cancelled"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "number": "23",
+      "name": "Enea Bastianini",
+      "nationality": "ITA",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": "1'59.545",
+        "best_lap_sec": 119.545,
+        "best_t1": 24.833,
+        "best_t2": 27.488,
+        "best_t3": 37.013,
+        "best_t4": 30.211,
+        "top_speed_kmh": 33.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'00.427",
+          "time_sec": 120.427,
+          "t1": 25.078,
+          "t2": 27.726,
+          "t3": 37.319,
+          "t4": 30.304,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.545",
+          "time_sec": 119.545,
+          "t1": 24.833,
+          "t2": 27.488,
+          "t3": 37.013,
+          "t4": 30.211,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'01.837",
+          "time_sec": 121.837,
+          "t1": 24.754,
+          "t2": 27.56,
+          "t3": 39.078,
+          "t4": 30.445,
+          "top_speed_kmh": 33.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'59.553",
+          "time_sec": 119.553,
+          "t1": 24.786,
+          "t2": 27.501,
+          "t3": 36.984,
+          "t4": 30.282,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "number": "43",
+      "name": "Jack Miller",
+      "nationality": "",
+      "bike": "KTM",
+      "team": "KTM A",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.633",
+        "best_lap_sec": 119.633,
+        "best_t1": 24.736,
+        "best_t2": 27.46,
+        "best_t3": 37.039,
+        "best_t4": 30.398,
+        "top_speed_kmh": 33.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'23.935",
+          "time_sec": 143.935,
+          "t1": 25.353,
+          "t2": 29.658,
+          "t3": 47.571,
+          "t4": 31.362,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'59.775",
+          "time_sec": 119.775,
+          "t1": 24.959,
+          "t2": 27.495,
+          "t3": 37.01,
+          "t4": 30.311,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'01.905",
+          "time_sec": 121.905,
+          "t1": 26.959,
+          "t2": 27.674,
+          "t3": 37.037,
+          "t4": 30.235,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'59.295",
+          "time_sec": 119.295,
+          "t1": 24.639,
+          "t2": 27.426,
+          "t3": 36.882,
+          "t4": 30.348,
+          "top_speed_kmh": 33.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'59.633",
+          "time_sec": 119.633,
+          "t1": 24.736,
+          "t2": 27.46,
+          "t3": 37.039,
+          "t4": 30.398,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "number": "5",
+      "name": "Johann Zarco",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "HONDA F",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.676",
+        "best_lap_sec": 119.676,
+        "best_t1": 24.809,
+        "best_t2": 27.34,
+        "best_t3": 37.174,
+        "best_t4": 30.353,
+        "top_speed_kmh": 32.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'07.069",
+          "time_sec": 127.069,
+          "t1": 25.272,
+          "t2": 28.933,
+          "t3": 38.206,
+          "t4": 30.981,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'59.938",
+          "time_sec": 119.938,
+          "t1": 25.061,
+          "t2": 27.463,
+          "t3": 37.018,
+          "t4": 30.396,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.676",
+          "time_sec": 119.676,
+          "t1": 24.809,
+          "t2": 27.34,
+          "t3": 37.174,
+          "t4": 30.353,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'03.736",
+          "time_sec": 123.736,
+          "t1": 27.892,
+          "t2": 28.007,
+          "t3": 37.088,
+          "t4": 30.749,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'00.059",
+          "time_sec": 120.059,
+          "t1": 24.883,
+          "t2": 27.515,
+          "t3": 37.098,
+          "t4": 30.563,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "number": "37",
+      "name": "Augusto Fernandez",
+      "nationality": "",
+      "bike": "KTM",
+      "team": "KTM S",
+      "summary": {
+        "runs": 2,
+        "total_laps": 5,
+        "full_laps": 3,
+        "valid_laps": null,
+        "best_lap": "1'59.700",
+        "best_lap_sec": 119.7,
+        "best_t1": 24.791,
+        "best_t2": 27.545,
+        "best_t3": 37.042,
+        "best_t4": 30.322,
+        "top_speed_kmh": 32.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'35.488",
+          "time_sec": 155.488,
+          "t1": 25.449,
+          "t2": 29.063,
+          "t3": 38.643,
+          "t4": 41.93,
+          "top_speed_kmh": null,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 2,
+          "time": "2'29.749",
+          "time_sec": 149.749,
+          "t1": 24.176,
+          "t2": 28.427,
+          "t3": 37.799,
+          "t4": 30.519,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "2'00.075",
+          "time_sec": 120.075,
+          "t1": 24.858,
+          "t2": 27.706,
+          "t3": 37.185,
+          "t4": 30.326,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'59.955",
+          "time_sec": 119.955,
+          "t1": 24.759,
+          "t2": 27.604,
+          "t3": 37.274,
+          "t4": 30.318,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'59.700",
+          "time_sec": 119.7,
+          "t1": 24.791,
+          "t2": 27.545,
+          "t3": 37.042,
+          "t4": 30.322,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "number": "42",
+      "name": "Alex Rins",
+      "nationality": "",
+      "bike": "YAMAHA",
+      "team": "YAMAHA S",
+      "summary": {
+        "runs": 1,
+        "total_laps": 3,
+        "full_laps": 2,
+        "valid_laps": null,
+        "best_lap": "1'59.813",
+        "best_lap_sec": 119.813,
+        "best_t1": 24.849,
+        "best_t2": 27.537,
+        "best_t3": 37.066,
+        "best_t4": 30.361,
+        "top_speed_kmh": 32.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'08.632",
+          "time_sec": 128.632,
+          "t1": 24.951,
+          "t2": 28.85,
+          "t3": 38.129,
+          "t4": 30.899,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'00.238",
+          "time_sec": 120.238,
+          "t1": 25.071,
+          "t2": 27.599,
+          "t3": 37.232,
+          "t4": 30.336,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.813",
+          "time_sec": 119.813,
+          "t1": 24.849,
+          "t2": 27.537,
+          "t3": 37.066,
+          "t4": 30.361,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "number": "72",
+      "name": "Marco Bezzecchi",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "1'59.824",
+        "best_lap_sec": 119.824,
+        "best_t1": 24.973,
+        "best_t2": 27.532,
+        "best_t3": 37.039,
+        "best_t4": 30.28,
+        "top_speed_kmh": 33.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'07.678",
+          "time_sec": 127.678,
+          "t1": 24.927,
+          "t2": 29.158,
+          "t3": 38.239,
+          "t4": 30.728,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'00.816",
+          "time_sec": 120.816,
+          "t1": 25.099,
+          "t2": 27.77,
+          "t3": 37.478,
+          "t4": 30.469,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.824",
+          "time_sec": 119.824,
+          "t1": 24.973,
+          "t2": 27.532,
+          "t3": 37.039,
+          "t4": 30.28,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "number": "25",
+      "name": "Raul Fernandez",
+      "nationality": "SPA",
+      "bike": "APRILIA",
+      "team": "APRILIA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": "1'59.874",
+        "best_lap_sec": 119.874,
+        "best_t1": 24.909,
+        "best_t2": 27.481,
+        "best_t3": 37.021,
+        "best_t4": 30.463,
+        "top_speed_kmh": 326.2
+      },
+      "laps": []
+    },
+    {
+      "position": 16,
+      "number": "30",
+      "name": "Takaaki Nakagami",
+      "nationality": "JPN",
+      "bike": "HONDA",
+      "team": "HONDA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": "1'59.936",
+        "best_lap_sec": 119.936,
+        "best_t1": 24.877,
+        "best_t2": 27.522,
+        "best_t3": 37.157,
+        "best_t4": 30.38,
+        "top_speed_kmh": 320.4
+      },
+      "laps": []
+    },
+    {
+      "position": 17,
+      "number": "36",
+      "name": "Joan Mir",
+      "nationality": "SPA",
+      "bike": "HONDA",
+      "team": "HONDA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 4,
+        "best_lap": "2'00.261",
+        "best_lap_sec": 120.261,
+        "best_t1": 24.97,
+        "best_t2": 27.622,
+        "best_t3": 37.169,
+        "best_t4": 30.5,
+        "top_speed_kmh": 330.2
+      },
+      "laps": []
+    },
+    {
+      "position": 18,
+      "number": "12",
+      "name": "Maverick Viñales",
+      "nationality": "SPA",
+      "bike": "APRILIA",
+      "team": "APRILIA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": "2'00.134",
+        "best_lap_sec": 120.134,
+        "best_t1": 24.997,
+        "best_t2": 27.509,
+        "best_t3": 37.075,
+        "best_t4": 30.553,
+        "top_speed_kmh": 325.3
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'48.757",
+          "time_sec": 168.757,
+          "t1": 26.412,
+          "t2": 28.615,
+          "t3": 37.779,
+          "t4": 30.747,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'00.134",
+          "time_sec": 120.134,
+          "t1": 24.997,
+          "t2": 27.509,
+          "t3": 37.075,
+          "t4": 30.553,
+          "top_speed_kmh": 325.3,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 19,
+      "number": "33",
+      "name": "Brad Binder",
+      "nationality": "RSA",
+      "bike": "KTM",
+      "team": "KTM",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": 3,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'00.048",
+          "time_sec": 120.048,
+          "t1": 24.761,
+          "t2": 27.458,
+          "t3": 37.263,
+          "t4": 30.566,
+          "top_speed_kmh": 330.2,
+          "type": "Cancelled"
+        }
+      ]
+    },
+    {
+      "position": 20,
+      "number": "10",
+      "name": "Luca Marini",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "HONDA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "2'00.339",
+        "best_lap_sec": 120.339,
+        "best_t1": 24.923,
+        "best_t2": 27.717,
+        "best_t3": 37.105,
+        "best_t4": 30.594,
+        "top_speed_kmh": 32.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'05.218",
+          "time_sec": 125.218,
+          "t1": 26.194,
+          "t2": 28.887,
+          "t3": 38.157,
+          "t4": 30.827,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'00.791",
+          "time_sec": 120.791,
+          "t1": 25.002,
+          "t2": 27.662,
+          "t3": 37.366,
+          "t4": 30.761,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'00.422",
+          "time_sec": 120.422,
+          "t1": 25.035,
+          "t2": 27.71,
+          "t3": 37.216,
+          "t4": 30.461,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'00.513",
+          "time_sec": 120.513,
+          "t1": 25.034,
+          "t2": 27.674,
+          "t3": 37.172,
+          "t4": 30.633,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'00.339",
+          "time_sec": 120.339,
+          "t1": 24.923,
+          "t2": 27.717,
+          "t3": 37.105,
+          "t4": 30.594,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 21,
+      "number": "32",
+      "name": "Lorenzo Savadori",
+      "nationality": "",
+      "bike": "APRILIA",
+      "team": "APRILIA",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "2'01.569",
+        "best_lap_sec": 121.569,
+        "best_t1": 25.379,
+        "best_t2": 27.763,
+        "best_t3": 37.6,
+        "best_t4": 30.827,
+        "top_speed_kmh": 31.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'26.829",
+          "time_sec": 146.829,
+          "t1": 31.431,
+          "t2": 29.59,
+          "t3": 39.418,
+          "t4": 31.845,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'01.828",
+          "time_sec": 121.828,
+          "t1": 25.462,
+          "t2": 27.77,
+          "t3": 37.6,
+          "t4": 30.996,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'13.523",
+          "time_sec": 133.523,
+          "t1": 25.888,
+          "t2": 32.527,
+          "t3": 41.988,
+          "t4": 33.12,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'10.060",
+          "time_sec": 130.06,
+          "t1": 25.29,
+          "t2": 27.764,
+          "t3": 41.566,
+          "t4": 35.44,
+          "top_speed_kmh": 32.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'01.569",
+          "time_sec": 121.569,
+          "t1": 25.379,
+          "t2": 27.763,
+          "t3": 37.6,
+          "t4": 30.827,
+          "top_speed_kmh": 31.0,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "position": 22,
+      "number": "29",
+      "name": "Andrea Iannone",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": 1,
+        "total_laps": 5,
+        "full_laps": 4,
+        "valid_laps": null,
+        "best_lap": "2'01.764",
+        "best_lap_sec": 121.764,
+        "best_t1": 25.836,
+        "best_t2": 27.729,
+        "best_t3": 37.489,
+        "best_t4": 30.71,
+        "top_speed_kmh": 30.0
+      },
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'08.725",
+          "time_sec": 128.725,
+          "t1": 24.894,
+          "t2": 28.938,
+          "t3": 38.392,
+          "t4": 31.134,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'01.764",
+          "time_sec": 121.764,
+          "t1": 25.836,
+          "t2": 27.729,
+          "t3": 37.489,
+          "t4": 30.71,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'04.452",
+          "time_sec": 124.452,
+          "t1": 25.486,
+          "t2": 30.697,
+          "t3": 37.815,
+          "t4": 30.454,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'00.275",
+          "time_sec": 120.275,
+          "t1": 24.926,
+          "t2": 27.462,
+          "t3": 37.26,
+          "t4": 30.627,
+          "top_speed_kmh": 32.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'07.115",
+          "time_sec": 127.115,
+          "t1": 27.423,
+          "t2": 30.439,
+          "t3": 38.321,
+          "t4": 30.932,
+          "top_speed_kmh": 31.0,
+          "type": "Flying"
+        }
+      ]
+    }
+  ]
+}

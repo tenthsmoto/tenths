@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "year": 2018,
+    "gp": "Petronas_Sepang_International_Circuit",
+    "gp_name": "Petronas_Sepang_International_Circuit",
+    "circuit": "Chronological Analysis Of Performances 19",
+    "track_folder": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT",
+    "session": "Q1",
+    "session_long": "Grand Prix",
+    "date": "2018-11-03",
+    "class": "MotoGP",
+    "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2018/MAL_MGP_Q1.pdf",
+    "parsed_at": "2026-06-21T18:37:22Z"
+  },
+  "riders": [
+    {
+      "position": 1,
+      "number": "19",
+      "name": "Alvaro Bautista",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI S",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 2,
+      "number": "41",
+      "name": "Aleix Espargaro",
+      "nationality": "",
+      "bike": "APRILIA",
+      "team": "APRILIA S",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 3,
+      "number": "45",
+      "name": "Scott Redding",
+      "nationality": "",
+      "bike": "APRILIA",
+      "team": "APRILIA G",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 4,
+      "number": "51",
+      "name": "Michele Pirro",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 5,
+      "number": "10",
+      "name": "Xavier Simeon",
+      "nationality": "BEL",
+      "bike": "DUCATI",
+      "team": "DUCATI",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 6,
+      "number": "44",
+      "name": "Pol Espargaro",
+      "nationality": "SPA",
+      "bike": "KTM",
+      "team": "KTM",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 7,
+      "number": "38",
+      "name": "Bradley Smith",
+      "nationality": "GBR",
+      "bike": "KTM",
+      "team": "KTM",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 8,
+      "number": "12",
+      "name": "Thomas Luthi",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "HONDA S",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 9,
+      "number": "21",
+      "name": "Franco Morbidelli",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "HONDA",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 10,
+      "number": "6",
+      "name": "Stefan Bradl",
+      "nationality": "",
+      "bike": "HONDA",
+      "team": "HONDA G",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 11,
+      "number": "17",
+      "name": "Karel Abraham",
+      "nationality": "",
+      "bike": "DUCATI",
+      "team": "DUCATI C",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 12,
+      "number": "30",
+      "name": "Takaaki Nakagami",
+      "nationality": "JPN",
+      "bike": "HONDA",
+      "team": "HONDA",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    },
+    {
+      "position": 13,
+      "number": "55",
+      "name": "Hafizh Syahrin",
+      "nationality": "MAL",
+      "bike": "YAMAHA",
+      "team": "YAMAHA",
+      "summary": {
+        "runs": null,
+        "total_laps": null,
+        "full_laps": null,
+        "valid_laps": null,
+        "best_lap": null,
+        "best_lap_sec": null,
+        "best_t1": null,
+        "best_t2": null,
+        "best_t3": null,
+        "best_t4": null,
+        "top_speed_kmh": null
+      },
+      "laps": []
+    }
+  ]
+}

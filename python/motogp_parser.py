@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 # ── Paths ──────────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent.parent
 LOG_PATH = BASE_DIR / ".processed_files.json"
-JSON_DIR = BASE_DIR / "data"
+JSON_DIR = BASE_DIR / "docs" / "data"
 
 # ── Session type mapping ────────────────────────────────────────────────────────
 SESSION_MAP = {

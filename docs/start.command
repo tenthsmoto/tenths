@@ -3,7 +3,7 @@
 cd "$(dirname "$0")/.."
 
 PORT=8080
-URL="http://localhost:${PORT}/frontend/"
+URL="http://localhost:${PORT}/docs/"
 
 echo ""
 echo "  ◈ MotoGP Analytics"

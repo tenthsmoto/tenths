@@ -370,8 +370,11 @@ def parse_all_laps(text: str) -> list[dict]:
             break
 
     if not has_run_headers:
-        # Legacy mode: auto-assign run numbers
-        current_run = 1
+        # Legacy mode: auto-assign run numbers and start parsing immediately.
+        # The column crop already isolates this rider's section, so we don't
+        # need to wait for a Runs= line to know we're in the right block.
+        current_run  = 1
+        within_rider = True
 
     # Regex to detect a gap lap in legacy PDFs: lap# followed by a time > 4 min.
     # These have non-standard sector columns (cumulative times with apostrophes)
@@ -459,6 +462,14 @@ def parse_best_lap(text: str) -> dict:
     within_rider = False
     runs_seen    = 0
 
+    # Detect whether this block uses Run # headers (modern) or not (legacy/race 2016)
+    has_run_headers = any(
+        re.match(r'Run\s*#\s*\d+', l.strip()) for l in text.splitlines()
+    )
+    if not has_run_headers:
+        # Legacy mode: start scanning immediately; column crop isolates this rider
+        within_rider = True
+
     for line in text.splitlines():
         line = line.rstrip()
 
@@ -472,7 +483,7 @@ def parse_best_lap(text: str) -> dict:
             else:
                 break
 
-        # Race format: no Runs= line; trigger on first Run # header instead
+        # Modern race format: no Runs= line; trigger on first Run # header instead
         if re.match(r'Run\s*#\s*(\d+)', line):
             if not within_rider:
                 within_rider = True

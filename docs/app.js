@@ -1574,19 +1574,21 @@ function showView(name) {
   }
 
   document.querySelectorAll('.view:not(.view-detail)').forEach(v => v.classList.remove('active'));
-  document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
-  const view = document.getElementById(`view-${name}`);
-  const link = document.querySelector(`.nav-link[data-view="${name}"]`);
-  if (view) view.classList.add('active');
-  if (link) link.classList.add('active');
+  document.querySelectorAll('.nav-link, .tab-item').forEach(l => l.classList.remove('active'));
+  const view    = document.getElementById(`view-${name}`);
+  const link    = document.querySelector(`.nav-link[data-view="${name}"]`);
+  const tabItem = document.querySelector(`.tab-item[data-view="${name}"]`);
+  if (view)    view.classList.add('active');
+  if (link)    link.classList.add('active');
+  if (tabItem) tabItem.classList.add('active');
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
 //  INIT
 // ══════════════════════════════════════════════════════════════════════════════
 async function init() {
-  // Nav
-  document.querySelectorAll('.nav-link').forEach(link => {
+  // Nav (top links + mobile bottom tab bar)
+  document.querySelectorAll('.nav-link, .tab-item').forEach(link => {
     link.addEventListener('click', e => {
       e.preventDefault();
       showView(link.dataset.view);

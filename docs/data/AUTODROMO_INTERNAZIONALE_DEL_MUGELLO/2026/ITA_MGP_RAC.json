@@ -10,7 +10,7 @@
     "date": "2026-05-31",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2026/ITA_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T00:45:07Z"
+    "parsed_at": "2026-06-23T01:47:37Z"
   },
   "riders": [
     {
@@ -44,7 +44,7 @@
           "t3": 41.3,
           "t4": 18.159,
           "top_speed_kmh": 274.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -343,7 +343,7 @@
           "t3": 41.28,
           "t4": 18.132,
           "top_speed_kmh": 274.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -642,7 +642,7 @@
           "t3": 41.438,
           "t4": 18.125,
           "top_speed_kmh": 278.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -941,7 +941,7 @@
           "t3": 41.773,
           "t4": 18.297,
           "top_speed_kmh": 287.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1240,7 +1240,7 @@
           "t3": 42.24,
           "t4": 18.337,
           "top_speed_kmh": 271.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1539,7 +1539,7 @@
           "t3": 41.661,
           "t4": 18.154,
           "top_speed_kmh": 279.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1838,7 +1838,7 @@
           "t3": 41.466,
           "t4": 18.028,
           "top_speed_kmh": 275.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2137,7 +2137,7 @@
           "t3": 41.936,
           "t4": 18.301,
           "top_speed_kmh": 271.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2436,7 +2436,7 @@
           "t3": 41.593,
           "t4": 18.211,
           "top_speed_kmh": 273.4,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2735,7 +2735,7 @@
           "t3": 41.972,
           "t4": 18.218,
           "top_speed_kmh": 276.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3034,7 +3034,7 @@
           "t3": 42.202,
           "t4": 18.24,
           "top_speed_kmh": 278.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3333,7 +3333,7 @@
           "t3": 42.159,
           "t4": 18.417,
           "top_speed_kmh": 282.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3632,7 +3632,7 @@
           "t3": 42.241,
           "t4": 18.4,
           "top_speed_kmh": 283.4,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3931,7 +3931,7 @@
           "t3": 42.154,
           "t4": 18.416,
           "top_speed_kmh": 274.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4230,7 +4230,7 @@
           "t3": 42.236,
           "t4": 18.498,
           "top_speed_kmh": 281.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4529,7 +4529,7 @@
           "t3": 42.539,
           "t4": 18.575,
           "top_speed_kmh": 281.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4828,7 +4828,7 @@
           "t3": 42.6,
           "t4": 18.613,
           "top_speed_kmh": 279.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5127,7 +5127,7 @@
           "t3": 42.115,
           "t4": 18.619,
           "top_speed_kmh": 279.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5426,7 +5426,7 @@
           "t3": 42.621,
           "t4": 18.465,
           "top_speed_kmh": 281.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5725,7 +5725,7 @@
           "t3": 41.944,
           "t4": 18.309,
           "top_speed_kmh": 280.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5880,7 +5880,7 @@
           "t3": 42.54,
           "t4": 18.362,
           "top_speed_kmh": 279.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,

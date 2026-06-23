@@ -10,7 +10,7 @@
     "date": "2025-06-21",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2025/ITA_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T00:45:02Z"
+    "parsed_at": "2026-06-23T01:47:35Z"
   },
   "riders": [
     {
@@ -44,7 +44,7 @@
           "t3": 34.584,
           "t4": 23.657,
           "top_speed_kmh": 274.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -199,7 +199,7 @@
           "t3": 34.702,
           "t4": 23.793,
           "top_speed_kmh": 274.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -354,7 +354,7 @@
           "t3": 34.74,
           "t4": 23.991,
           "top_speed_kmh": 271.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -509,7 +509,7 @@
           "t3": 34.702,
           "t4": 23.897,
           "top_speed_kmh": 274.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -664,7 +664,7 @@
           "t3": 34.896,
           "t4": 23.838,
           "top_speed_kmh": 272.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -819,7 +819,7 @@
           "t3": 35.29,
           "t4": 23.771,
           "top_speed_kmh": 281.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -974,7 +974,7 @@
           "t3": 34.798,
           "t4": 23.936,
           "top_speed_kmh": 270.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1129,7 +1129,7 @@
           "t3": 35.104,
           "t4": 23.985,
           "top_speed_kmh": 279.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1284,7 +1284,7 @@
           "t3": 35.435,
           "t4": 24.029,
           "top_speed_kmh": 280.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1439,7 +1439,7 @@
           "t3": 34.607,
           "t4": 24.037,
           "top_speed_kmh": 275.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1594,7 +1594,7 @@
           "t3": 35.398,
           "t4": 24.026,
           "top_speed_kmh": 284.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1749,7 +1749,7 @@
           "t3": 35.109,
           "t4": 24.179,
           "top_speed_kmh": 284.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1904,7 +1904,7 @@
           "t3": 35.182,
           "t4": 24.133,
           "top_speed_kmh": 285.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2059,7 +2059,7 @@
           "t3": 35.596,
           "t4": 24.06,
           "top_speed_kmh": 282.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2214,7 +2214,7 @@
           "t3": 35.885,
           "t4": 24.35,
           "top_speed_kmh": 279.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2369,7 +2369,7 @@
           "t3": 35.266,
           "t4": 23.987,
           "top_speed_kmh": 276.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2524,7 +2524,7 @@
           "t3": 35.934,
           "t4": 24.29,
           "top_speed_kmh": 280.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2679,7 +2679,7 @@
           "t3": 35.227,
           "t4": 24.058,
           "top_speed_kmh": 276.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2834,7 +2834,7 @@
           "t3": 35.931,
           "t4": 24.524,
           "top_speed_kmh": 281.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,

@@ -10,7 +10,7 @@
     "date": "2024-07-07",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2024/GER_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T00:57:31Z"
+    "parsed_at": "2026-06-23T01:51:51Z"
   },
   "riders": [
     {
@@ -44,7 +44,7 @@
           "t3": 19.001,
           "t4": 20.881,
           "top_speed_kmh": 14.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -427,7 +427,7 @@
           "t3": 18.934,
           "t4": 20.938,
           "top_speed_kmh": 16.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -510,7 +510,7 @@
           "t3": 18.999,
           "t4": 20.812,
           "top_speed_kmh": 146.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -797,7 +797,7 @@
           "t3": 18.966,
           "t4": 20.95,
           "top_speed_kmh": 16.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1411,6 +1411,18 @@
       "laps": [
         {
           "run": 1,
+          "lap": 30,
+          "time": "1'21.984",
+          "time_sec": 81.984,
+          "t1": 18.077,
+          "t2": 23.714,
+          "t3": 19.14,
+          "t4": 21.053,
+          "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 13,
           "time": "1'21.168",
           "time_sec": 81.168,
@@ -1658,7 +1670,7 @@
           "t3": 19.151,
           "t4": 21.273,
           "top_speed_kmh": 16.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2033,6 +2045,18 @@
       "laps": [
         {
           "run": 1,
+          "lap": 30,
+          "time": "1'22.628",
+          "time_sec": 82.628,
+          "t1": 18.05,
+          "t2": 23.817,
+          "t3": 19.471,
+          "t4": 21.29,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 14,
           "time": "1'21.728",
           "time_sec": 81.728,
@@ -2258,6 +2282,18 @@
         "top_speed_kmh": 305.0
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 30,
+          "time": "1'22.667",
+          "time_sec": 82.667,
+          "t1": 18.048,
+          "t2": 23.748,
+          "t3": 19.486,
+          "t4": 21.385,
+          "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
         {
           "run": 1,
           "lap": 14,
@@ -2495,7 +2531,7 @@
           "t3": 19.03,
           "t4": 21.237,
           "top_speed_kmh": 13.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2878,7 +2914,7 @@
           "t3": 19.247,
           "t4": 20.979,
           "top_speed_kmh": 17.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3109,6 +3145,18 @@
       "laps": [
         {
           "run": 1,
+          "lap": 30,
+          "time": "1'22.072",
+          "time_sec": 82.072,
+          "t1": 17.981,
+          "t2": 23.682,
+          "t3": 19.219,
+          "t4": 21.19,
+          "top_speed_kmh": 299.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 15,
           "time": "1'21.556",
           "time_sec": 81.556,
@@ -3332,7 +3380,7 @@
           "t3": 19.365,
           "t4": 21.046,
           "top_speed_kmh": 17.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3715,7 +3763,7 @@
           "t3": 19.196,
           "t4": 21.173,
           "top_speed_kmh": 16.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3994,6 +4042,18 @@
       "laps": [
         {
           "run": 1,
+          "lap": 30,
+          "time": "1'22.944",
+          "time_sec": 82.944,
+          "t1": 18.1,
+          "t2": 24.089,
+          "t3": 19.345,
+          "t4": 21.41,
+          "top_speed_kmh": 297.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 15,
           "time": "1'21.778",
           "time_sec": 81.778,
@@ -4217,7 +4277,7 @@
           "t3": 19.374,
           "t4": 21.206,
           "top_speed_kmh": 17.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4600,7 +4660,7 @@
           "t3": 19.373,
           "t4": 21.4,
           "top_speed_kmh": 17.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4927,6 +4987,18 @@
       "laps": [
         {
           "run": 1,
+          "lap": 30,
+          "time": "1'22.859",
+          "time_sec": 82.859,
+          "t1": 18.264,
+          "t2": 23.837,
+          "t3": 19.249,
+          "t4": 21.509,
+          "top_speed_kmh": 294.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 15,
           "time": "1'22.092",
           "time_sec": 82.092,
@@ -5150,7 +5222,7 @@
           "t3": 19.475,
           "t4": 21.164,
           "top_speed_kmh": 17.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5533,7 +5605,7 @@
           "t3": 19.249,
           "t4": 21.221,
           "top_speed_kmh": 18.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5908,6 +5980,18 @@
       "laps": [
         {
           "run": 1,
+          "lap": 30,
+          "time": "1'24.049",
+          "time_sec": 84.049,
+          "t1": 18.346,
+          "t2": 24.258,
+          "t3": 19.686,
+          "t4": 21.759,
+          "top_speed_kmh": 295.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 15,
           "time": "1'21.114",
           "time_sec": 81.114,
@@ -6107,7 +6191,7 @@
           "t3": 18.984,
           "t4": 21.041,
           "top_speed_kmh": 15.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,

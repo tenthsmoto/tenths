@@ -10,7 +10,7 @@
     "date": "2025-10-04",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2025/INA_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T00:54:36Z"
+    "parsed_at": "2026-06-23T01:50:55Z"
   },
   "riders": [
     {
@@ -44,7 +44,7 @@
           "t3": 18.845,
           "t4": 28.251,
           "top_speed_kmh": 261.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -223,7 +223,7 @@
           "t3": 18.809,
           "t4": 28.482,
           "top_speed_kmh": 262.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -402,7 +402,7 @@
           "t3": 18.809,
           "t4": 28.173,
           "top_speed_kmh": 262.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -581,7 +581,7 @@
           "t3": 18.946,
           "t4": 28.177,
           "top_speed_kmh": 269.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -760,7 +760,7 @@
           "t3": 19.008,
           "t4": 28.254,
           "top_speed_kmh": 259.6,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -939,7 +939,7 @@
           "t3": 19.492,
           "t4": 28.151,
           "top_speed_kmh": 269.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1118,7 +1118,7 @@
           "t3": 19.066,
           "t4": 28.257,
           "top_speed_kmh": 272.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1297,7 +1297,7 @@
           "t3": 18.999,
           "t4": 28.175,
           "top_speed_kmh": 262.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1476,7 +1476,7 @@
           "t3": 19.149,
           "t4": 28.234,
           "top_speed_kmh": 263.4,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1655,7 +1655,7 @@
           "t3": 19.078,
           "t4": 28.27,
           "top_speed_kmh": 277.6,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1834,7 +1834,7 @@
           "t3": 19.499,
           "t4": 28.195,
           "top_speed_kmh": 267.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2013,7 +2013,7 @@
           "t3": 22.685,
           "t4": 28.446,
           "top_speed_kmh": 262.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2192,7 +2192,7 @@
           "t3": 19.055,
           "t4": 28.283,
           "top_speed_kmh": 267.3,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2371,7 +2371,7 @@
           "t3": 19.516,
           "t4": 28.526,
           "top_speed_kmh": 272.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2550,7 +2550,7 @@
           "t3": 19.536,
           "t4": 28.493,
           "top_speed_kmh": 260.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2717,7 +2717,7 @@
           "t3": 19.013,
           "t4": 28.262,
           "top_speed_kmh": 261.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2848,7 +2848,7 @@
           "t3": 18.947,
           "t4": 28.094,
           "top_speed_kmh": 264.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2943,7 +2943,7 @@
           "t3": 20.393,
           "t4": 28.564,
           "top_speed_kmh": 276.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,

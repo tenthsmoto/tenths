@@ -10,7 +10,7 @@
     "date": "2021-08-15",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2021/AUT_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T00:56:31Z"
+    "parsed_at": "2026-06-23T01:51:29Z"
   },
   "riders": [
     {
@@ -44,7 +44,7 @@
           "t3": 24.215,
           "t4": 16.791,
           "top_speed_kmh": 302.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -403,7 +403,7 @@
           "t3": 24.338,
           "t4": 16.681,
           "top_speed_kmh": 306.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -522,7 +522,7 @@
           "t3": 24.724,
           "t4": 16.732,
           "top_speed_kmh": 304.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -773,7 +773,7 @@
           "t3": 24.337,
           "t4": 16.977,
           "top_speed_kmh": 302.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1113,15 +1113,208 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'24.919",
+        "best_lap_sec": 84.919,
+        "best_t1": 17.439,
+        "best_t2": 26.895,
+        "best_t3": 23.968,
+        "best_t4": 16.617,
+        "top_speed_kmh": 312.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'37.032",
+          "time_sec": 97.032,
+          "t1": 19.513,
+          "t2": 30.28,
+          "t3": 27.875,
+          "t4": 19.364,
+          "top_speed_kmh": 287.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'25.443",
+          "time_sec": 85.443,
+          "t1": 17.511,
+          "t2": 27.271,
+          "t3": 24.086,
+          "t4": 16.575,
+          "top_speed_kmh": 314.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'24.919",
+          "time_sec": 84.919,
+          "t1": 17.439,
+          "t2": 26.895,
+          "t3": 23.968,
+          "t4": 16.617,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'25.200",
+          "time_sec": 85.2,
+          "t1": 17.53,
+          "t2": 26.995,
+          "t3": 24.011,
+          "t4": 16.664,
+          "top_speed_kmh": 311.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'24.975",
+          "time_sec": 84.975,
+          "t1": 17.452,
+          "t2": 26.863,
+          "t3": 24.013,
+          "t4": 16.647,
+          "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'25.314",
+          "time_sec": 85.314,
+          "t1": 17.581,
+          "t2": 26.976,
+          "t3": 23.997,
+          "t4": 16.76,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'25.497",
+          "time_sec": 85.497,
+          "t1": 17.548,
+          "t2": 27.009,
+          "t3": 24.135,
+          "t4": 16.805,
+          "top_speed_kmh": 314.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'25.410",
+          "time_sec": 85.41,
+          "t1": 17.547,
+          "t2": 27.083,
+          "t3": 24.078,
+          "t4": 16.702,
+          "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'25.399",
+          "time_sec": 85.399,
+          "t1": 17.505,
+          "t2": 27.052,
+          "t3": 24.128,
+          "t4": 16.714,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'27.693",
+          "time_sec": 87.693,
+          "t1": 17.441,
+          "t2": 27.602,
+          "t3": 24.688,
+          "t4": 17.962,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'26.740",
+          "time_sec": 86.74,
+          "t1": 17.649,
+          "t2": 27.649,
+          "t3": 24.542,
+          "t4": 16.9,
+          "top_speed_kmh": 304.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "1'26.785",
+          "time_sec": 86.785,
+          "t1": 17.532,
+          "t2": 27.478,
+          "t3": 24.492,
+          "t4": 17.283,
+          "top_speed_kmh": 313.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 25,
+          "time": "1'31.308",
+          "time_sec": 91.308,
+          "t1": 17.866,
+          "t2": 28.436,
+          "t3": 26.62,
+          "t4": 18.386,
+          "top_speed_kmh": 288.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'38.427",
+          "time_sec": 98.427,
+          "t1": 19.469,
+          "t2": 30.897,
+          "t3": 28.873,
+          "t4": 19.188,
+          "top_speed_kmh": 265.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 27,
+          "time": "1'41.626",
+          "time_sec": 101.626,
+          "t1": 19.816,
+          "t2": 31.473,
+          "t3": 29.99,
+          "t4": 20.347,
+          "top_speed_kmh": 264.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'51.521",
+          "time_sec": 111.521,
+          "t1": 21.667,
+          "t2": 34.668,
+          "t3": 32.858,
+          "t4": 22.328,
+          "top_speed_kmh": 236.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 6,
@@ -1135,15 +1328,196 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'25.214",
+        "best_lap_sec": 85.214,
+        "best_t1": 17.62,
+        "best_t2": 26.844,
+        "best_t3": 24.057,
+        "best_t4": 16.693,
+        "top_speed_kmh": 302.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'51.521",
+          "time_sec": 111.521,
+          "t1": 21.667,
+          "t2": 34.668,
+          "t3": 32.858,
+          "t4": 22.328,
+          "top_speed_kmh": 236.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'25.258",
+          "time_sec": 85.258,
+          "t1": 17.566,
+          "t2": 27.099,
+          "t3": 24.026,
+          "t4": 16.567,
+          "top_speed_kmh": 305.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'25.221",
+          "time_sec": 85.221,
+          "t1": 17.541,
+          "t2": 26.931,
+          "t3": 24.086,
+          "t4": 16.663,
+          "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'25.214",
+          "time_sec": 85.214,
+          "t1": 17.62,
+          "t2": 26.844,
+          "t3": 24.057,
+          "t4": 16.693,
+          "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'25.600",
+          "time_sec": 85.6,
+          "t1": 17.569,
+          "t2": 27.035,
+          "t3": 24.1,
+          "t4": 16.896,
+          "top_speed_kmh": 304.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'25.648",
+          "time_sec": 85.648,
+          "t1": 17.619,
+          "t2": 26.973,
+          "t3": 24.184,
+          "t4": 16.872,
+          "top_speed_kmh": 304.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'25.231",
+          "time_sec": 85.231,
+          "t1": 17.628,
+          "t2": 26.958,
+          "t3": 24.076,
+          "t4": 16.569,
+          "top_speed_kmh": 309.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'25.247",
+          "time_sec": 85.247,
+          "t1": 17.551,
+          "t2": 27.035,
+          "t3": 24.048,
+          "t4": 16.613,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'26.598",
+          "time_sec": 86.598,
+          "t1": 17.554,
+          "t2": 27.516,
+          "t3": 24.543,
+          "t4": 16.985,
+          "top_speed_kmh": 306.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'27.038",
+          "time_sec": 87.038,
+          "t1": 17.723,
+          "t2": 27.69,
+          "t3": 24.503,
+          "t4": 17.122,
+          "top_speed_kmh": 307.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "1'27.057",
+          "time_sec": 87.057,
+          "t1": 17.796,
+          "t2": 27.701,
+          "t3": 24.51,
+          "t4": 17.05,
+          "top_speed_kmh": 303.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 25,
+          "time": "1'32.129",
+          "time_sec": 92.129,
+          "t1": 18.16,
+          "t2": 28.792,
+          "t3": 26.806,
+          "t4": 18.371,
+          "top_speed_kmh": 290.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'38.154",
+          "time_sec": 98.154,
+          "t1": 20.16,
+          "t2": 30.731,
+          "t3": 28.528,
+          "t4": 18.735,
+          "top_speed_kmh": 259.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 27,
+          "time": "1'41.774",
+          "time_sec": 101.774,
+          "t1": 19.907,
+          "t2": 31.73,
+          "t3": 29.639,
+          "t4": 20.498,
+          "top_speed_kmh": 250.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'51.960",
+          "time_sec": 111.96,
+          "t1": 21.389,
+          "t2": 34.736,
+          "t3": 32.816,
+          "t4": 23.019,
+          "top_speed_kmh": 242.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,
@@ -1176,7 +1550,7 @@
           "t3": 24.898,
           "t4": 16.718,
           "top_speed_kmh": 300.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1535,7 +1909,7 @@
           "t3": 24.415,
           "t4": 17.057,
           "top_speed_kmh": 296.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1779,15 +2153,172 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'25.653",
+        "best_lap_sec": 85.653,
+        "best_t1": 17.525,
+        "best_t2": 27.056,
+        "best_t3": 24.132,
+        "best_t4": 16.94,
+        "top_speed_kmh": 312.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'53.404",
+          "time_sec": 113.404,
+          "t1": 21.512,
+          "t2": 34.886,
+          "t3": 33.922,
+          "t4": 23.084,
+          "top_speed_kmh": 237.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'25.752",
+          "time_sec": 85.752,
+          "t1": 17.56,
+          "t2": 27.14,
+          "t3": 24.209,
+          "t4": 16.843,
+          "top_speed_kmh": 313.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'25.653",
+          "time_sec": 85.653,
+          "t1": 17.525,
+          "t2": 27.056,
+          "t3": 24.132,
+          "t4": 16.94,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'25.813",
+          "time_sec": 85.813,
+          "t1": 17.581,
+          "t2": 27.236,
+          "t3": 24.177,
+          "t4": 16.819,
+          "top_speed_kmh": 313.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'25.730",
+          "time_sec": 85.73,
+          "t1": 17.511,
+          "t2": 27.148,
+          "t3": 24.246,
+          "t4": 16.825,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'25.969",
+          "time_sec": 85.969,
+          "t1": 17.593,
+          "t2": 27.222,
+          "t3": 24.243,
+          "t4": 16.911,
+          "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'27.163",
+          "time_sec": 87.163,
+          "t1": 17.651,
+          "t2": 27.871,
+          "t3": 24.581,
+          "t4": 17.06,
+          "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'27.290",
+          "time_sec": 87.29,
+          "t1": 17.692,
+          "t2": 28.048,
+          "t3": 24.509,
+          "t4": 17.041,
+          "top_speed_kmh": 308.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "1'26.803",
+          "time_sec": 86.803,
+          "t1": 17.623,
+          "t2": 27.482,
+          "t3": 24.598,
+          "t4": 17.1,
+          "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 25,
+          "time": "1'29.755",
+          "time_sec": 89.755,
+          "t1": 17.832,
+          "t2": 27.809,
+          "t3": 26.438,
+          "t4": 17.676,
+          "top_speed_kmh": 306.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'36.685",
+          "time_sec": 96.685,
+          "t1": 19.123,
+          "t2": 30.364,
+          "t3": 28.337,
+          "t4": 18.861,
+          "top_speed_kmh": 266.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 27,
+          "time": "1'41.718",
+          "time_sec": 101.718,
+          "t1": 19.804,
+          "t2": 31.839,
+          "t3": 30.044,
+          "t4": 20.031,
+          "top_speed_kmh": 266.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'53.080",
+          "time_sec": 113.08,
+          "t1": 21.429,
+          "t2": 34.938,
+          "t3": 32.948,
+          "t4": 23.765,
+          "top_speed_kmh": 243.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 10,
@@ -1820,7 +2351,7 @@
           "t3": 24.464,
           "t4": 16.992,
           "top_speed_kmh": 300.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2179,7 +2710,7 @@
           "t3": 24.366,
           "t4": 16.905,
           "top_speed_kmh": 302.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2519,15 +3050,196 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'25.332",
+        "best_lap_sec": 85.332,
+        "best_t1": 17.634,
+        "best_t2": 26.923,
+        "best_t3": 24.08,
+        "best_t4": 16.695,
+        "top_speed_kmh": 301.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'37.299",
+          "time_sec": 97.299,
+          "t1": 19.548,
+          "t2": 30.089,
+          "t3": 27.865,
+          "t4": 19.797,
+          "top_speed_kmh": 301.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'25.506",
+          "time_sec": 85.506,
+          "t1": 17.683,
+          "t2": 27.125,
+          "t3": 24.053,
+          "t4": 16.645,
+          "top_speed_kmh": 301.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'25.332",
+          "time_sec": 85.332,
+          "t1": 17.634,
+          "t2": 26.923,
+          "t3": 24.08,
+          "t4": 16.695,
+          "top_speed_kmh": 301.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'25.471",
+          "time_sec": 85.471,
+          "t1": 17.635,
+          "t2": 27.049,
+          "t3": 24.109,
+          "t4": 16.678,
+          "top_speed_kmh": 301.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'25.657",
+          "time_sec": 85.657,
+          "t1": 17.655,
+          "t2": 26.99,
+          "t3": 24.167,
+          "t4": 16.845,
+          "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'25.810",
+          "time_sec": 85.81,
+          "t1": 17.766,
+          "t2": 27.061,
+          "t3": 24.22,
+          "t4": 16.763,
+          "top_speed_kmh": 298.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'25.796",
+          "time_sec": 85.796,
+          "t1": 17.706,
+          "t2": 27.055,
+          "t3": 24.27,
+          "t4": 16.765,
+          "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'26.209",
+          "time_sec": 86.209,
+          "t1": 17.767,
+          "t2": 27.372,
+          "t3": 24.233,
+          "t4": 16.837,
+          "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'27.259",
+          "time_sec": 87.259,
+          "t1": 17.647,
+          "t2": 28.016,
+          "t3": 24.665,
+          "t4": 16.931,
+          "top_speed_kmh": 303.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'28.008",
+          "time_sec": 88.008,
+          "t1": 17.941,
+          "t2": 27.98,
+          "t3": 24.853,
+          "t4": 17.234,
+          "top_speed_kmh": 303.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "1'27.190",
+          "time_sec": 87.19,
+          "t1": 17.833,
+          "t2": 27.709,
+          "t3": 24.601,
+          "t4": 17.047,
+          "top_speed_kmh": 304.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 25,
+          "time": "1'31.945",
+          "time_sec": 91.945,
+          "t1": 18.022,
+          "t2": 28.377,
+          "t3": 26.979,
+          "t4": 18.567,
+          "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'37.111",
+          "time_sec": 97.111,
+          "t1": 19.381,
+          "t2": 30.31,
+          "t3": 28.336,
+          "t4": 19.084,
+          "top_speed_kmh": 285.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 27,
+          "time": "1'42.357",
+          "time_sec": 102.357,
+          "t1": 19.496,
+          "t2": 32.274,
+          "t3": 30.263,
+          "t4": 20.324,
+          "top_speed_kmh": 276.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'51.738",
+          "time_sec": 111.738,
+          "t1": 21.358,
+          "t2": 34.895,
+          "t3": 32.936,
+          "t4": 22.549,
+          "top_speed_kmh": 252.9,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 13,
@@ -2541,15 +3253,340 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'24.814",
+        "best_lap_sec": 84.814,
+        "best_t1": 17.449,
+        "best_t2": 26.86,
+        "best_t3": 23.971,
+        "best_t4": 16.534,
+        "top_speed_kmh": 309.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'51.738",
+          "time_sec": 111.738,
+          "t1": 21.358,
+          "t2": 34.895,
+          "t3": 32.936,
+          "t4": 22.549,
+          "top_speed_kmh": 252.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'25.339",
+          "time_sec": 85.339,
+          "t1": 17.705,
+          "t2": 27.052,
+          "t3": 23.954,
+          "t4": 16.628,
+          "top_speed_kmh": 308.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'24.993",
+          "time_sec": 84.993,
+          "t1": 17.564,
+          "t2": 26.941,
+          "t3": 23.953,
+          "t4": 16.535,
+          "top_speed_kmh": 306.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'24.972",
+          "time_sec": 84.972,
+          "t1": 17.457,
+          "t2": 26.86,
+          "t3": 24.064,
+          "t4": 16.591,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'25.463",
+          "time_sec": 85.463,
+          "t1": 17.657,
+          "t2": 27.354,
+          "t3": 23.952,
+          "t4": 16.5,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'25.539",
+          "time_sec": 85.539,
+          "t1": 17.504,
+          "t2": 27.273,
+          "t3": 24.156,
+          "t4": 16.606,
+          "top_speed_kmh": 312.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'25.105",
+          "time_sec": 85.105,
+          "t1": 17.59,
+          "t2": 26.944,
+          "t3": 23.979,
+          "t4": 16.592,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'25.223",
+          "time_sec": 85.223,
+          "t1": 17.751,
+          "t2": 26.906,
+          "t3": 24.032,
+          "t4": 16.534,
+          "top_speed_kmh": 308.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'24.912",
+          "time_sec": 84.912,
+          "t1": 17.549,
+          "t2": 26.902,
+          "t3": 23.945,
+          "t4": 16.516,
+          "top_speed_kmh": 311.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'25.154",
+          "time_sec": 85.154,
+          "t1": 17.555,
+          "t2": 26.952,
+          "t3": 24.042,
+          "t4": 16.605,
+          "top_speed_kmh": 312.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'25.174",
+          "time_sec": 85.174,
+          "t1": 17.517,
+          "t2": 27.016,
+          "t3": 24.041,
+          "t4": 16.6,
+          "top_speed_kmh": 312.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'25.368",
+          "time_sec": 85.368,
+          "t1": 17.615,
+          "t2": 27.032,
+          "t3": 23.989,
+          "t4": 16.732,
+          "top_speed_kmh": 311.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'25.591",
+          "time_sec": 85.591,
+          "t1": 17.555,
+          "t2": 27.493,
+          "t3": 24.003,
+          "t4": 16.54,
+          "top_speed_kmh": 307.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'24.814",
+          "time_sec": 84.814,
+          "t1": 17.449,
+          "t2": 26.86,
+          "t3": 23.971,
+          "t4": 16.534,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'24.914",
+          "time_sec": 84.914,
+          "t1": 17.476,
+          "t2": 26.812,
+          "t3": 23.988,
+          "t4": 16.638,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'25.154",
+          "time_sec": 85.154,
+          "t1": 17.558,
+          "t2": 27.012,
+          "t3": 23.943,
+          "t4": 16.641,
+          "top_speed_kmh": 308.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'25.573",
+          "time_sec": 85.573,
+          "t1": 17.62,
+          "t2": 27.014,
+          "t3": 23.979,
+          "t4": 16.96,
+          "top_speed_kmh": 310.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'25.418",
+          "time_sec": 85.418,
+          "t1": 17.541,
+          "t2": 27.066,
+          "t3": 24.086,
+          "t4": 16.725,
+          "top_speed_kmh": 313.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'25.111",
+          "time_sec": 85.111,
+          "t1": 17.575,
+          "t2": 26.772,
+          "t3": 24.105,
+          "t4": 16.659,
+          "top_speed_kmh": 305.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'25.106",
+          "time_sec": 85.106,
+          "t1": 17.526,
+          "t2": 26.86,
+          "t3": 24.118,
+          "t4": 16.602,
+          "top_speed_kmh": 306.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'26.797",
+          "time_sec": 86.797,
+          "t1": 17.482,
+          "t2": 27.708,
+          "t3": 24.75,
+          "t4": 16.857,
+          "top_speed_kmh": 308.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'27.400",
+          "time_sec": 87.4,
+          "t1": 17.641,
+          "t2": 27.595,
+          "t3": 24.785,
+          "t4": 17.379,
+          "top_speed_kmh": 306.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "1'27.120",
+          "time_sec": 87.12,
+          "t1": 17.646,
+          "t2": 27.777,
+          "t3": 24.682,
+          "t4": 17.015,
+          "top_speed_kmh": 313.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 25,
+          "time": "1'31.813",
+          "time_sec": 91.813,
+          "t1": 18.21,
+          "t2": 28.219,
+          "t3": 26.718,
+          "t4": 18.666,
+          "top_speed_kmh": 307.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'39.435",
+          "time_sec": 99.435,
+          "t1": 18.852,
+          "t2": 32.16,
+          "t3": 29.11,
+          "t4": 19.313,
+          "top_speed_kmh": 288.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 27,
+          "time": "1'43.193",
+          "time_sec": 103.193,
+          "t1": 19.962,
+          "t2": 32.251,
+          "t3": 30.492,
+          "t4": 20.488,
+          "top_speed_kmh": 258.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 28,
+          "time": "1'59.990",
+          "time_sec": 119.99,
+          "t1": 23.828,
+          "t2": 36.5,
+          "t3": 35.197,
+          "t4": 24.465,
+          "top_speed_kmh": 234.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 14,
@@ -2582,7 +3619,7 @@
           "t3": 24.348,
           "t4": 16.874,
           "top_speed_kmh": 311.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2881,7 +3918,7 @@
           "t3": 24.182,
           "t4": 16.843,
           "top_speed_kmh": 308.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3131,7 +4168,7 @@
           "t3": 24.5,
           "t4": 17.093,
           "top_speed_kmh": 295.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3454,7 +4491,7 @@
           "t3": 24.114,
           "t4": 16.777,
           "top_speed_kmh": 295.8,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3681,7 +4718,7 @@
           "t3": 24.208,
           "t4": 16.763,
           "top_speed_kmh": 302.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3908,7 +4945,7 @@
           "t3": 24.457,
           "t4": 16.683,
           "top_speed_kmh": 300.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,

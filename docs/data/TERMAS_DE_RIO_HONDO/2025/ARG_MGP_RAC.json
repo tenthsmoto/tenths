@@ -10,7 +10,7 @@
     "date": "2025-03-16",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2025/ARG_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T00:58:36Z"
+    "parsed_at": "2026-06-23T01:52:16Z"
   },
   "riders": [
     {
@@ -44,7 +44,7 @@
           "t3": 25.345,
           "t4": 23.635,
           "top_speed_kmh": 337.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -367,7 +367,7 @@
           "t3": 25.348,
           "t4": 23.664,
           "top_speed_kmh": 336.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -690,7 +690,7 @@
           "t3": 25.348,
           "t4": 23.839,
           "top_speed_kmh": 330.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1013,7 +1013,7 @@
           "t3": 25.521,
           "t4": 23.721,
           "top_speed_kmh": 346.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1336,7 +1336,7 @@
           "t3": 25.405,
           "t4": 23.78,
           "top_speed_kmh": 326.6,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1659,7 +1659,7 @@
           "t3": 25.528,
           "t4": 23.759,
           "top_speed_kmh": 343.6,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -1982,7 +1982,7 @@
           "t3": 25.373,
           "t4": 23.699,
           "top_speed_kmh": 319.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2305,7 +2305,7 @@
           "t3": 25.334,
           "t4": 23.74,
           "top_speed_kmh": 320.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2628,7 +2628,7 @@
           "t3": 25.311,
           "t4": 23.746,
           "top_speed_kmh": 323.2,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -2951,7 +2951,7 @@
           "t3": 25.33,
           "t4": 23.839,
           "top_speed_kmh": 332.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3274,7 +3274,7 @@
           "t3": 25.835,
           "t4": 23.825,
           "top_speed_kmh": 311.1,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3597,7 +3597,7 @@
           "t3": 25.623,
           "t4": 23.877,
           "top_speed_kmh": 330.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -3920,7 +3920,7 @@
           "t3": 25.92,
           "t4": 24.03,
           "top_speed_kmh": 308.8,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4243,7 +4243,7 @@
           "t3": 25.909,
           "t4": 23.856,
           "top_speed_kmh": 334.4,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4566,7 +4566,7 @@
           "t3": 25.537,
           "t4": 24.021,
           "top_speed_kmh": 339.0,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -4889,7 +4889,7 @@
           "t3": 25.49,
           "t4": 23.959,
           "top_speed_kmh": 320.7,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5212,7 +5212,7 @@
           "t3": 25.515,
           "t4": 23.811,
           "top_speed_kmh": 319.9,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5535,7 +5535,7 @@
           "t3": 25.605,
           "t4": 23.886,
           "top_speed_kmh": 317.5,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,
@@ -5858,7 +5858,7 @@
           "t3": 25.942,
           "t4": 24.014,
           "top_speed_kmh": 308.8,
-          "type": "Flying"
+          "type": "Start"
         },
         {
           "run": 1,

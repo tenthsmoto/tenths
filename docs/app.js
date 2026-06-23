@@ -674,7 +674,9 @@ function renderCompareChart() {
   cmpChart = destroyChart(cmpChart);
 
   const datasets = cmpRiders.map(({ rider, color }) => {
-    const laps = (rider.laps || []).filter(l => l.type === 'Flying' && l.time_sec != null);
+    const all = (rider.laps || []).filter(l => l.time_sec != null && l.type !== 'Cancelled');
+    const flying = all.filter(l => l.type === 'Flying');
+    const laps = flying.length > 0 ? flying : all;
     return {
       label: fmtName(rider.name),
       data: laps.map(l => ({ x: l.lap, y: l.time_sec })),

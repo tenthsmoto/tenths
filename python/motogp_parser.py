@@ -17,6 +17,7 @@ import sys
 import json
 from pathlib import Path
 from datetime import datetime, timezone
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent.parent
@@ -545,13 +546,14 @@ def _extract_header_window(
 def parse_pdf(
     pdf_path: Path,
     session_info: dict | None = None,
-) -> tuple[list[dict], list[dict]]:
+) -> tuple[list[dict], list[dict], dict]:
     """
     Parse a MotoGP timing PDF.
 
-    Returns (session_rows, lap_rows):
+    Returns (session_rows, lap_rows, session_info):
         session_rows — one dict per rider (matches SESSION_COLS)
         lap_rows     — one dict per individual lap (matches LAP_COLS)
+        session_info — metadata extracted from page 1
 
     Layout note: Each page uses a 2-column (LEFT/RIGHT) × 2-sub-column layout.
     The LAST rider on each half may have continuation laps ("overflow") elsewhere:
@@ -743,7 +745,7 @@ def parse_pdf(
                     "Source File":    src,
                 })
 
-    return session_rows, lap_rows
+    return session_rows, lap_rows, session_info
 
 
 # ── JSON output ────────────────────────────────────────────────────────────────
@@ -916,10 +918,37 @@ def save_log(log: dict):
         json.dump(log, f, indent=2)
 
 
+# ── Parallel worker ────────────────────────────────────────────────────────────
+
+def _process_one_pdf(pdf_path_str: str) -> dict:
+    """
+    Top-level worker function — must be picklable (no closures/lambdas).
+    Parses one PDF and writes its JSON. Returns a result dict.
+    """
+    pdf_path = Path(pdf_path_str)
+    key      = str(pdf_path.relative_to(BASE_DIR))
+    try:
+        s_rows, l_rows, session_info = parse_pdf(pdf_path)
+        if not s_rows:
+            return {"status": "no_riders", "key": key}
+        json_path = write_session_json(s_rows, l_rows, pdf_path, session_info)
+        return {
+            "status":  "ok",
+            "key":     key,
+            "riders":  len(s_rows),
+            "laps":    len(l_rows),
+            "json":    json_path.name,
+        }
+    except Exception as e:
+        import traceback
+        return {"status": "error", "key": key, "error": str(e),
+                "tb": traceback.format_exc()}
+
+
 # ── Main scan ──────────────────────────────────────────────────────────────────
 
-def scan_and_update(force: bool = False):
-    """Scan BASE_DIR for PDFs and process any new ones."""
+def scan_and_update(force: bool = False, workers: int | None = None):
+    """Scan BASE_DIR for PDFs and process any new/changed ones in parallel."""
     log  = load_log()
     pdfs = sorted(BASE_DIR.rglob("*.pdf"))
 
@@ -927,64 +956,95 @@ def scan_and_update(force: bool = False):
         print("No PDFs found.")
         return
 
-    new_count = 0
+    # Split into skip / to-process
+    to_process: list[tuple[Path, float]] = []
+    skipped = 0
     for pdf_path in pdfs:
         key   = str(pdf_path.relative_to(BASE_DIR))
         mtime = os.path.getmtime(pdf_path)
-
         if not force and key in log and log[key].get("mtime") == mtime:
-            print(f"  — skipping {key} (already processed)")
-            continue
+            skipped += 1
+        else:
+            to_process.append((pdf_path, mtime))
 
-        print(f"  → processing {key} …")
-        try:
-            s_rows, l_rows = parse_pdf(pdf_path)
-            if s_rows:
-                with pdfplumber.open(pdf_path) as pdf:
-                    session_info = extract_session_info(
-                        pdf.pages[0].extract_text() or "", pdf_path
-                    )
-                json_path = write_session_json(s_rows, l_rows, pdf_path, session_info)
-                print(f"     {len(s_rows)} riders, {len(l_rows)} laps → {json_path.name}")
+    print(f"  PDFs to process : {len(to_process)}")
+    print(f"  Skipped (cached): {skipped}")
 
+    if not to_process:
+        print("Nothing new to process.")
+        return
+
+    n_workers = workers or min(os.cpu_count() or 4, len(to_process))
+    print(f"  Workers         : {n_workers}\n")
+
+    mtime_map = {str(p): m for p, m in to_process}
+    paths     = [str(p) for p, _ in to_process]
+
+    new_count = 0
+    err_count = 0
+    done      = 0
+
+    with ProcessPoolExecutor(max_workers=n_workers) as pool:
+        futures = {pool.submit(_process_one_pdf, p): p for p in paths}
+        for fut in as_completed(futures):
+            done += 1
+            pdf_path_str = futures[fut]
+            try:
+                res = fut.result()
+            except Exception as e:
+                res = {"status": "error", "key": pdf_path_str, "error": str(e)}
+
+            key   = res.get("key", pdf_path_str)
+            mtime = mtime_map.get(pdf_path_str, 0.0)
+
+            if res["status"] == "ok":
+                new_count += 1
+                print(f"  [{done:>4}/{len(paths)}] ✓  {key}  "
+                      f"({res['riders']} riders, {res['laps']} laps)")
                 log[key] = {
                     "mtime":     mtime,
-                    "riders":    len(s_rows),
-                    "laps":      len(l_rows),
+                    "riders":    res["riders"],
+                    "laps":      res["laps"],
                     "processed": datetime.now(timezone.utc).isoformat(),
                 }
-                save_log(log)
-                new_count += 1
+            elif res["status"] == "no_riders":
+                print(f"  [{done:>4}/{len(paths)}] !  {key}  — no riders extracted")
             else:
-                print("     WARNING: no riders extracted")
-        except Exception as e:
-            print(f"     ERROR: {e}")
-            import traceback; traceback.print_exc()
+                err_count += 1
+                print(f"  [{done:>4}/{len(paths)}] ✗  {key}  — {res.get('error','?')}")
+                if "tb" in res:
+                    print(res["tb"])
+
+    save_log(log)
 
     if new_count == 0:
-        print("Nothing new to process.")
+        print("\nNo sessions updated.")
     else:
         rebuild_index_json()
-        print(f"\nDone — {new_count} session(s) processed.")
+        print(f"\nDone — {new_count} processed, {err_count} errors.")
 
 
 # ── Entry point ────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    force = "--force" in sys.argv
-    args  = [a for a in sys.argv[1:] if not a.startswith("--")]
+    import argparse
+    ap = argparse.ArgumentParser(description="MotoGP PDF Parser")
+    ap.add_argument("pdf", nargs="?", help="Process a single PDF file")
+    ap.add_argument("--force",   action="store_true", help="Reprocess all PDFs")
+    ap.add_argument("--workers", type=int, default=None,
+                    help="Parallel worker count (default: cpu_count)")
+    cli = ap.parse_args()
+    force   = cli.force
+    workers = cli.workers
+    args    = [cli.pdf] if cli.pdf else []
 
     if args:
         target = Path(args[0])
         if not target.is_absolute():
             target = BASE_DIR / target
         print(f"Processing {target} …")
-        s_rows, l_rows = parse_pdf(target)
+        s_rows, l_rows, session_info = parse_pdf(target)
         if s_rows:
-            with pdfplumber.open(target) as pdf:
-                session_info = extract_session_info(
-                    pdf.pages[0].extract_text() or "", target
-                )
             json_path = write_session_json(s_rows, l_rows, target, session_info)
             rebuild_index_json()
             print(f"Done — {len(s_rows)} riders, {len(l_rows)} laps")
@@ -992,4 +1052,4 @@ if __name__ == "__main__":
         else:
             print("No riders extracted.")
     else:
-        scan_and_update(force=force)
+        scan_and_update(force=force, workers=workers)

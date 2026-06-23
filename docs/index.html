@@ -67,32 +67,12 @@
 
     <!-- ── Sessions View ─────────────────────────────────────────────────── -->
     <div id="view-sessions" class="view view-sessions">
-      <aside class="view-sidebar">
-        <div class="filter-section">
-          <div class="filter-label">YEAR</div>
-          <div id="year-filters" class="filter-chips"></div>
-        </div>
-        <div class="filter-section">
-          <div class="filter-label">SESSION TYPE</div>
-          <div id="session-type-filters" class="filter-chips"></div>
-        </div>
-        <div class="filter-section">
-          <div class="filter-label">CIRCUIT</div>
-          <input type="text" id="circuit-filter-input" class="search-input" placeholder="Search circuits…" autocomplete="off">
-        </div>
-        <div class="filter-section">
-          <div class="filter-label">BIKE</div>
-          <div id="bike-filters" class="filter-chips"></div>
-        </div>
-        <button id="clear-filters-btn" class="clear-btn" style="display:none">Clear all filters</button>
-      </aside>
-
       <div class="view-main">
-        <div class="view-header">
-          <h1 id="sessions-title">All Sessions</h1>
-          <span id="sessions-count" class="count-badge">—</span>
+        <div class="sessions-toolbar">
+          <div id="year-chips" class="year-chips"></div>
+          <input type="text" id="circuit-search" class="search-input" placeholder="Search circuit…" autocomplete="off">
         </div>
-        <div id="sessions-grid" class="sessions-grid">
+        <div id="weekends-list" class="weekends-list">
           <div class="initial-loading">
             <div class="spinner"></div>
             <p>Loading sessions…</p>

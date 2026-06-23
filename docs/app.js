@@ -94,11 +94,9 @@ const SESSION_ORDER = ['FP1','FP2','FP3','FP','PR','Q1','Q2','QP','SPR','WUP','R
 let INDEX = null;
 const FILE_CACHE = new Map();
 
-// Sessions filters
-let filterYears   = new Set();
-let filterTypes   = new Set();
-let filterBikes   = new Set();
-let filterCircuit = '';
+// Sessions state
+let selectedYear  = '';   // active year chip; '' = all
+let filterCircuit = '';   // circuit search string
 
 // Session detail
 let detailData          = null;
@@ -224,138 +222,133 @@ function mergeDeep(target, ...sources) {
   return target;
 }
 
-// ══════════════════════════════════════════════════════════════════════════════
-//  SESSIONS VIEW
-// ══════════════════════════════════════════════════════════════════════════════
-function initSessionsView() {
-  renderSessionFilters();
-  renderSessionCards();
+// ── GP country code → flag emoji ────────────────────────────────────────────
+const GP_FLAG = {
+  ARG:'🇦🇷', AUS:'🇦🇺', AUT:'🇦🇹', CAT:'🇪🇸', CZE:'🇨🇿',
+  FIN:'🇫🇮', FRA:'🇫🇷', GBR:'🇬🇧', GER:'🇩🇪', INA:'🇮🇩',
+  IND:'🇮🇳', ITA:'🇮🇹', JPN:'🇯🇵', MAL:'🇲🇾', NED:'🇳🇱',
+  POR:'🇵🇹', QAT:'🇶🇦', RSM:'🇸🇲', SPA:'🇪🇸', THA:'🇹🇭',
+  USA:'🇺🇸', AME:'🇺🇸', VLC:'🇪🇸', EMI:'🇮🇹', KAZ:'🇰🇿',
+  ALG:'🇩🇿', IDN:'🇮🇩',
+};
 
-  document.getElementById('year-filters').addEventListener('click', e => {
+// ══════════════════════════════════════════════════════════════════════════════
+//  SESSIONS VIEW — Race Weekend Layout
+// ══════════════════════════════════════════════════════════════════════════════
+
+/** Group sessions into race weekends keyed by (year, track_folder) */
+function buildWeekends(sessions) {
+  const map = new Map();
+  sessions.forEach(s => {
+    const key = `${s.year}__${s.track_folder}`;
+    if (!map.has(key)) {
+      map.set(key, {
+        year:         s.year,
+        track_folder: s.track_folder,
+        gp_code:      s.gp_code || '',
+        date:         s.date || '',
+        sessions:     [],
+      });
+    }
+    const w = map.get(key);
+    w.sessions.push(s);
+    // Keep the earliest date as the weekend anchor
+    if (s.date && (!w.date || s.date < w.date)) w.date = s.date;
+  });
+
+  // Sort sessions within each weekend by canonical order
+  map.forEach(w => {
+    w.sessions.sort((a, b) =>
+      SESSION_ORDER.indexOf(a.session) - SESSION_ORDER.indexOf(b.session));
+  });
+
+  // Sort weekends newest → oldest
+  return [...map.values()].sort((a, b) => {
+    if (b.year !== a.year) return b.year - a.year;
+    return (b.date || '').localeCompare(a.date || '');
+  });
+}
+
+function initSessionsView() {
+  // Default to latest year
+  const years = sortedUnique(INDEX.sessions.map(s => String(s.year))).reverse();
+  selectedYear = years[0] || '';
+
+  renderYearChips(years);
+  renderWeekends();
+
+  document.getElementById('year-chips').addEventListener('click', e => {
     const y = e.target.dataset.year;
     if (!y) return;
-    filterYears.has(y) ? filterYears.delete(y) : filterYears.add(y);
-    updateSessionFilters();
-    renderSessionCards();
+    selectedYear = selectedYear === y ? '' : y;
+    renderYearChips(years);
+    renderWeekends();
   });
 
-  document.getElementById('session-type-filters').addEventListener('click', e => {
-    const t = e.target.dataset.type;
-    if (!t) return;
-    filterTypes.has(t) ? filterTypes.delete(t) : filterTypes.add(t);
-    updateSessionFilters();
-    renderSessionCards();
-  });
-
-  document.getElementById('bike-filters').addEventListener('click', e => {
-    const b = e.target.dataset.bike;
-    if (!b) return;
-    filterBikes.has(b) ? filterBikes.delete(b) : filterBikes.add(b);
-    updateSessionFilters();
-    renderSessionCards();
-  });
-
-  document.getElementById('circuit-filter-input').addEventListener('input', e => {
+  document.getElementById('circuit-search').addEventListener('input', e => {
     filterCircuit = e.target.value.trim();
-    renderSessionCards();
+    renderWeekends();
   });
 
-  document.getElementById('clear-filters-btn').addEventListener('click', () => {
-    filterYears.clear(); filterTypes.clear(); filterBikes.clear();
-    filterCircuit = '';
-    document.getElementById('circuit-filter-input').value = '';
-    updateSessionFilters();
-    renderSessionCards();
-  });
-
-  document.getElementById('sessions-grid').addEventListener('click', e => {
-    const card = e.target.closest('.session-card');
-    if (card) openSessionDetail(card.dataset.file);
+  document.getElementById('weekends-list').addEventListener('click', e => {
+    const pill = e.target.closest('.session-pill');
+    if (pill) openSessionDetail(pill.dataset.file);
   });
 }
 
-function getFilteredSessions() {
-  if (!INDEX) return [];
-  return INDEX.sessions.filter(s => {
-    if (filterYears.size   > 0 && !filterYears.has(String(s.year)))    return false;
-    if (filterTypes.size   > 0 && !filterTypes.has(s.session))         return false;
-    if (filterCircuit) {
-      const q = filterCircuit.toLowerCase();
-      const haystack = `${s.circuit || ''} ${s.gp_name || ''} ${s.track_folder || ''}`.toLowerCase();
-      if (!haystack.includes(q)) return false;
-    }
-    return true;
-  });
+function renderYearChips(years) {
+  document.getElementById('year-chips').innerHTML = years.map(y =>
+    `<button class="chip ${selectedYear === y ? 'active' : ''}" data-year="${y}">${y}</button>`
+  ).join('');
 }
 
-function renderSessionFilters() {
-  const years = sortedUnique(INDEX.sessions.map(s => String(s.year))).reverse();
-  const types = [...new Set(INDEX.sessions.map(s => s.session).filter(Boolean))]
-    .sort((a, b) => (SESSION_ORDER.indexOf(a) + 99) % 99 - (SESSION_ORDER.indexOf(b) + 99) % 99);
+function renderWeekends() {
+  const list = document.getElementById('weekends-list');
 
-  document.getElementById('year-filters').innerHTML = years.map(y =>
-    `<button class="chip ${filterYears.has(y) ? 'active' : ''}" data-year="${y}">${y}</button>`
-  ).join('');
+  let sessions = INDEX.sessions;
 
-  document.getElementById('session-type-filters').innerHTML = types.map(t =>
-    `<button class="chip ${filterTypes.has(t) ? 'active' : ''}"
-      style="--chip-color:${sessionColor(t)}" data-type="${t}">${t}</button>`
-  ).join('');
-
-  // Bike filter — derive from INDEX if available
-  const bikes = sortedUnique(
-    (INDEX.bikes || []).length ? INDEX.bikes : []
-  );
-  const bikeEl = document.getElementById('bike-filters');
-  if (bikes.length) {
-    bikeEl.innerHTML = bikes.map(b =>
-      `<button class="chip ${filterBikes.has(b) ? 'active' : ''}"
-        style="--chip-color:${mfrColor(b)}" data-bike="${b}">${b}</button>`
-    ).join('');
-  } else {
-    bikeEl.parentElement.style.display = 'none';
+  // Filter by year
+  if (selectedYear) {
+    sessions = sessions.filter(s => String(s.year) === selectedYear);
   }
-}
 
-function updateSessionFilters() {
-  const hasFilters = filterYears.size || filterTypes.size || filterBikes.size || filterCircuit;
-  document.getElementById('clear-filters-btn').style.display = hasFilters ? '' : 'none';
+  // Filter by circuit search
+  if (filterCircuit) {
+    const q = filterCircuit.toLowerCase();
+    sessions = sessions.filter(s => {
+      const hay = `${fmtTrack(s.track_folder)} ${s.gp_code || ''} ${s.circuit || ''}`.toLowerCase();
+      return hay.includes(q);
+    });
+  }
 
-  // Re-render chip active states without rebuilding everything
-  document.querySelectorAll('#year-filters .chip').forEach(c =>
-    c.classList.toggle('active', filterYears.has(c.dataset.year)));
-  document.querySelectorAll('#session-type-filters .chip').forEach(c =>
-    c.classList.toggle('active', filterTypes.has(c.dataset.type)));
-  document.querySelectorAll('#bike-filters .chip').forEach(c =>
-    c.classList.toggle('active', filterBikes.has(c.dataset.bike)));
-}
+  const weekends = buildWeekends(sessions);
 
-function renderSessionCards() {
-  const sessions = getFilteredSessions();
-  const grid  = document.getElementById('sessions-grid');
-  const count = document.getElementById('sessions-count');
-
-  count.textContent = `${sessions.length} session${sessions.length !== 1 ? 's' : ''}`;
-
-  if (!sessions.length) {
-    grid.innerHTML = `<div class="empty-state">No sessions match your filters</div>`;
+  if (!weekends.length) {
+    list.innerHTML = `<div class="empty-state">No sessions found</div>`;
     return;
   }
 
-  grid.innerHTML = sessions.map(s => {
-    const accent = sessionColor(s.session);
-    const dateStr = s.date ? s.date.slice(0, 10) : '';
-    return `<div class="session-card" data-file="${s.file}" style="--card-accent:${accent}">
-      <div class="card-header">
-        <span class="session-badge" style="background:${accent}">${s.session || '?'}</span>
-        <span class="card-year">${s.year}</span>
+  list.innerHTML = weekends.map(w => {
+    const flag    = GP_FLAG[w.gp_code] || '🏁';
+    const circuit = fmtTrack(w.track_folder);
+    const dateStr = w.date ? new Date(w.date).toLocaleDateString('en-GB',
+      { day: 'numeric', month: 'short', year: 'numeric' }) : '';
+
+    const pills = w.sessions.map(s => {
+      const col = sessionColor(s.session);
+      return `<button class="session-pill" data-file="${s.file}"
+        style="--pill-color:${col}">${s.session}</button>`;
+    }).join('');
+
+    return `<div class="weekend-row">
+      <div class="weekend-left">
+        <span class="weekend-flag">${flag}</span>
+        <div class="weekend-info">
+          <div class="weekend-circuit">${circuit}</div>
+          <div class="weekend-meta-sub">${w.gp_code} · ${dateStr}</div>
+        </div>
       </div>
-      <div class="card-gp">${fmtTrack(s.track_folder)}</div>
-      <div class="card-circuit">${s.circuit && s.circuit.length < 60 ? s.circuit : fmtTrack(s.track_folder)}</div>
-      <div class="card-footer">
-        <span class="card-date">${dateStr}</span>
-        <span class="card-riders">${s.rider_count || '?'} riders</span>
-      </div>
+      <div class="weekend-pills">${pills}</div>
     </div>`;
   }).join('');
 }

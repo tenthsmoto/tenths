@@ -10,7 +10,7 @@
     "date": "2024-10-26",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2024/THA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:40:30Z"
+    "parsed_at": "2026-06-23T22:14:17Z"
   },
   "riders": [
     {
@@ -450,6 +450,18 @@
           "t4": 23.309,
           "top_speed_kmh": 328.2,
           "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'29.480",
+          "time_sec": 89.48,
+          "t1": 18.342,
+          "t2": 25.466,
+          "t3": 22.646,
+          "t4": 23.026,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
         },
         {
           "run": 2,
@@ -1071,6 +1083,18 @@
         },
         {
           "run": 1,
+          "lap": 4,
+          "time": "1'45.694",
+          "time_sec": 105.694,
+          "t1": 19.243,
+          "t2": 27.493,
+          "t3": 23.496,
+          "t4": 35.462,
+          "top_speed_kmh": 328.2,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
           "lap": 5,
           "time": "5'00.982",
           "time_sec": 300.982,
@@ -1142,6 +1166,30 @@
       "laps": [
         {
           "run": 1,
+          "lap": 3,
+          "time": "1'29.736",
+          "time_sec": 89.736,
+          "t1": 18.413,
+          "t2": 25.64,
+          "t3": 22.719,
+          "t4": 22.964,
+          "top_speed_kmh": 335.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'45.490",
+          "time_sec": 105.49,
+          "t1": 18.513,
+          "t2": 26.108,
+          "t3": 23.639,
+          "t4": 37.23,
+          "top_speed_kmh": 325.3,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
           "lap": 5,
           "time": "2'43.894",
           "time_sec": 163.894,
@@ -1151,18 +1199,6 @@
           "t4": 23.408,
           "top_speed_kmh": 323.3,
           "type": "Out"
-        },
-        {
-          "run": 1,
-          "lap": 8,
-          "time": "1'29.628",
-          "time_sec": 89.628,
-          "t1": 18.411,
-          "t2": 25.684,
-          "t3": 22.601,
-          "t4": 22.932,
-          "top_speed_kmh": 330.2,
-          "type": "Flying"
         }
       ]
     },

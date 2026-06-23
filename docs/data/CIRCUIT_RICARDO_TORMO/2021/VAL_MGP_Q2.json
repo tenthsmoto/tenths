@@ -10,7 +10,7 @@
     "date": "2021-11-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2021/VAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:40:57Z"
+    "parsed_at": "2026-06-23T22:14:46Z"
   },
   "riders": [
     {
@@ -334,6 +334,18 @@
         },
         {
           "run": 2,
+          "lap": 6,
+          "time": "1'33.988",
+          "time_sec": 93.988,
+          "t1": 22.324,
+          "t2": 24.87,
+          "t3": 21.936,
+          "t4": 24.858,
+          "top_speed_kmh": 327.4,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
           "lap": 7,
           "time": "1'32.654",
           "time_sec": 92.654,
@@ -441,6 +453,18 @@
         },
         {
           "run": 2,
+          "lap": 7,
+          "time": "1'30.395",
+          "time_sec": 90.395,
+          "t1": 20.244,
+          "t2": 24.32,
+          "t3": 21.522,
+          "t4": 24.309,
+          "top_speed_kmh": 325.8,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
           "lap": 8,
           "time": "1'40.691",
           "time_sec": 100.691,
@@ -533,6 +557,18 @@
           "t4": 24.328,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "1'30.705",
+          "time_sec": 90.705,
+          "t1": 20.364,
+          "t2": 24.36,
+          "t3": 21.739,
+          "t4": 24.242,
+          "top_speed_kmh": 328.9,
+          "type": "Flying"
         },
         {
           "run": 2,
@@ -1045,6 +1081,18 @@
         "top_speed_kmh": 322.8
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'34.719",
+          "time_sec": 154.719,
+          "t1": 21.605,
+          "t2": 26.027,
+          "t3": 22.329,
+          "t4": 24.72,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
         {
           "run": 1,
           "lap": 2,

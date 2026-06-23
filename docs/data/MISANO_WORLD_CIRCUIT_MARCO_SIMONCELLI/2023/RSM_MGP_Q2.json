@@ -10,7 +10,7 @@
     "date": "2023-09-09",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2023/RSM_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:41:19Z"
+    "parsed_at": "2026-06-23T22:15:09Z"
   },
   "riders": [
     {
@@ -346,6 +346,18 @@
         },
         {
           "run": 2,
+          "lap": 6,
+          "time": "1'31.755",
+          "time_sec": 91.755,
+          "t1": 25.814,
+          "t2": 20.354,
+          "t3": 24.944,
+          "t4": 20.643,
+          "top_speed_kmh": 300.8,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
           "lap": 7,
           "time": "1'30.993",
           "time_sec": 90.993,
@@ -449,6 +461,18 @@
           "t3": 24.627,
           "t4": 20.492,
           "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "1'30.916",
+          "time_sec": 90.916,
+          "t1": 25.47,
+          "t2": 20.328,
+          "t3": 24.683,
+          "t4": 20.435,
+          "top_speed_kmh": 299.1,
           "type": "Flying"
         }
       ]
@@ -557,6 +581,18 @@
           "t4": 22.272,
           "top_speed_kmh": 288.7,
           "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'34.374",
+          "time_sec": 94.374,
+          "t1": 25.85,
+          "t2": 21.675,
+          "t3": 25.647,
+          "t4": 21.202,
+          "top_speed_kmh": 299.1,
+          "type": "Flying"
         }
       ]
     },
@@ -1083,6 +1119,18 @@
       "laps": [
         {
           "run": null,
+          "lap": 1,
+          "time": "2'12.363",
+          "time_sec": 132.363,
+          "t1": 35.045,
+          "t2": 21.653,
+          "t3": 25.832,
+          "t4": 21.231,
+          "top_speed_kmh": 297.5,
+          "type": "Flying"
+        },
+        {
+          "run": null,
           "lap": 2,
           "time": "1'32.493",
           "time_sec": 92.493,
@@ -1188,6 +1236,18 @@
         "top_speed_kmh": 296.7
       },
       "laps": [
+        {
+          "run": null,
+          "lap": 1,
+          "time": "2'01.914",
+          "time_sec": 121.914,
+          "t1": 33.347,
+          "t2": 21.49,
+          "t3": 25.878,
+          "t4": 21.394,
+          "top_speed_kmh": 295.8,
+          "type": "Flying"
+        },
         {
           "run": null,
           "lap": 2,

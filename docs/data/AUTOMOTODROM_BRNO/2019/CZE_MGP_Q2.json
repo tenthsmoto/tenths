@@ -10,7 +10,7 @@
     "date": "2019-08-03",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2019/CZE_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:40:24Z"
+    "parsed_at": "2026-06-23T22:14:11Z"
   },
   "riders": [
     {
@@ -342,6 +342,30 @@
           "t4": 21.371,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "2'05.590",
+          "time_sec": 125.59,
+          "t1": 31.897,
+          "t2": 37.838,
+          "t3": 34.823,
+          "t4": 21.032,
+          "top_speed_kmh": 299.1,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "2'15.752",
+          "time_sec": 135.752,
+          "t1": 31.974,
+          "t2": 38.382,
+          "t3": 36.848,
+          "t4": 28.548,
+          "top_speed_kmh": 299.1,
+          "type": "Pit In"
         }
       ]
     },
@@ -380,6 +404,18 @@
         },
         {
           "run": 1,
+          "lap": 3,
+          "time": "2'16.029",
+          "time_sec": 136.029,
+          "t1": 32.093,
+          "t2": 42.003,
+          "t3": 37.141,
+          "t4": 24.792,
+          "top_speed_kmh": 300.8,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
           "lap": 5,
           "time": "2'05.710",
           "time_sec": 125.71,
@@ -388,6 +424,18 @@
           "t3": 34.855,
           "t4": 20.851,
           "top_speed_kmh": 300.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'12.696",
+          "time_sec": 132.696,
+          "t1": 33.107,
+          "t2": 41.153,
+          "t3": 36.348,
+          "t4": 22.088,
+          "top_speed_kmh": 298.3,
           "type": "Flying"
         }
       ]
@@ -424,6 +472,18 @@
           "t4": 25.938,
           "top_speed_kmh": 296.7,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "3'58.993",
+          "time_sec": 238.993,
+          "t1": 39.302,
+          "t2": 40.806,
+          "t3": 37.78,
+          "t4": 23.56,
+          "top_speed_kmh": null,
+          "type": "Out"
         }
       ]
     },

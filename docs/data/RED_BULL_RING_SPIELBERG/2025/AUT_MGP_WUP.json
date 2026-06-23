@@ -10,7 +10,7 @@
     "date": "2025-08-17",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2025/AUT_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T21:41:52Z"
+    "parsed_at": "2026-06-23T22:15:43Z"
   },
   "riders": [
     {
@@ -1970,20 +1970,7 @@
         "best_t4": 16.644,
         "top_speed_kmh": 310.3
       },
-      "laps": [
-        {
-          "run": 1,
-          "lap": 6,
-          "time": "1'31.145",
-          "time_sec": 91.145,
-          "t1": 24.954,
-          "t2": 25.36,
-          "t3": 24.187,
-          "t4": 16.644,
-          "top_speed_kmh": 310.3,
-          "type": "Flying"
-        }
-      ]
+      "laps": []
     }
   ]
 }

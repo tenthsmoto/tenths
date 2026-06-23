@@ -10,7 +10,7 @@
     "date": "2023-11-11",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2023/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:41:37Z"
+    "parsed_at": "2026-06-23T22:15:26Z"
   },
   "riders": [
     {
@@ -321,6 +321,18 @@
         },
         {
           "run": 1,
+          "lap": 2,
+          "time": "1'57.924",
+          "time_sec": 117.924,
+          "t1": 24.62,
+          "t2": 27.065,
+          "t3": 36.447,
+          "t4": 29.792,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 3,
           "time": "1'57.829",
           "time_sec": 117.829,
@@ -342,6 +354,30 @@
           "t4": 30.402,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'59.261",
+          "time_sec": 119.261,
+          "t1": 24.382,
+          "t2": 26.885,
+          "t3": 37.986,
+          "t4": 30.008,
+          "top_speed_kmh": 335.4,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'57.661",
+          "time_sec": 117.661,
+          "t1": 24.398,
+          "t2": 27.021,
+          "t3": 36.452,
+          "t4": 29.79,
+          "top_speed_kmh": 332.3,
+          "type": "Flying"
         }
       ]
     },
@@ -377,6 +413,18 @@
           "t4": 54.78,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'57.787",
+          "time_sec": 117.787,
+          "t1": 24.622,
+          "t2": 27.019,
+          "t3": 36.498,
+          "t4": 29.648,
+          "top_speed_kmh": 331.2,
+          "type": "Flying"
         },
         {
           "run": 1,
@@ -448,6 +496,18 @@
           "t4": 29.834,
           "top_speed_kmh": 336.4,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'09.512",
+          "time_sec": 129.512,
+          "t1": 25.097,
+          "t2": 27.744,
+          "t3": 38.067,
+          "t4": 38.604,
+          "top_speed_kmh": 333.3,
+          "type": "Pit In"
         },
         {
           "run": 2,
@@ -887,6 +947,18 @@
           "t4": 31.336,
           "top_speed_kmh": null,
           "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "4'08.989",
+          "time_sec": 248.989,
+          "t1": 25.853,
+          "t2": 28.187,
+          "t3": 37.432,
+          "t4": 30.236,
+          "top_speed_kmh": null,
+          "type": "Out"
         }
       ]
     },
@@ -910,7 +982,68 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'51.710",
+          "time_sec": 171.71,
+          "t1": 24.963,
+          "t2": 28.391,
+          "t3": 37.667,
+          "t4": 49.989,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "2'01.848",
+          "time_sec": 121.848,
+          "t1": 24.762,
+          "t2": 27.379,
+          "t3": 39.495,
+          "t4": 30.212,
+          "top_speed_kmh": 328.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'24.694",
+          "time_sec": 144.694,
+          "t1": 24.602,
+          "t2": 27.221,
+          "t3": 37.371,
+          "t4": 55.5,
+          "top_speed_kmh": 334.3,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'59.996",
+          "time_sec": 119.996,
+          "t1": 24.5,
+          "t2": 27.2,
+          "t3": 37.982,
+          "t4": 30.314,
+          "top_speed_kmh": 331.2,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "1'59.476",
+          "time_sec": 119.476,
+          "t1": 24.519,
+          "t2": 27.39,
+          "t3": 37.383,
+          "t4": 30.184,
+          "top_speed_kmh": 331.2,
+          "type": "Cancelled"
+        }
+      ]
     }
   ]
 }

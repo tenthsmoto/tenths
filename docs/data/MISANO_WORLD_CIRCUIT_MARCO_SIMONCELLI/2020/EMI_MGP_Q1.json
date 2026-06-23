@@ -10,7 +10,7 @@
     "date": "2020-09-19",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2020/EMI_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T21:41:15Z"
+    "parsed_at": "2026-06-23T22:15:05Z"
   },
   "riders": [
     {
@@ -346,6 +346,18 @@
         },
         {
           "run": 2,
+          "lap": 6,
+          "time": "1'44.146",
+          "time_sec": 104.146,
+          "t1": 33.257,
+          "t2": 21.625,
+          "t3": 25.904,
+          "t4": 23.36,
+          "top_speed_kmh": 290.3,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
           "lap": 7,
           "time": "1'35.115",
           "time_sec": 95.115,
@@ -545,6 +557,18 @@
           "t4": 22.804,
           "top_speed_kmh": 288.7,
           "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'42.103",
+          "time_sec": 102.103,
+          "t1": 34.135,
+          "t2": 21.293,
+          "t3": 25.657,
+          "t4": 21.018,
+          "top_speed_kmh": 291.8,
+          "type": "Flying"
         },
         {
           "run": 2,

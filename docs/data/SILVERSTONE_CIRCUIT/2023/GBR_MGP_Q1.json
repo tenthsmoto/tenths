@@ -10,7 +10,7 @@
     "date": "2023-08-05",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2023/GBR_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T21:42:01Z"
+    "parsed_at": "2026-06-23T22:15:52Z"
   },
   "riders": [
     {
@@ -381,6 +381,18 @@
         },
         {
           "run": 1,
+          "lap": 5,
+          "time": "2'18.115",
+          "time_sec": 138.115,
+          "t1": 31.885,
+          "t2": 34.426,
+          "t3": 27.072,
+          "t4": 44.732,
+          "top_speed_kmh": 274.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 6,
           "time": "2'22.643",
           "time_sec": 142.643,
@@ -449,6 +461,18 @@
           "t4": 45.796,
           "top_speed_kmh": 267.9,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'19.572",
+          "time_sec": 139.572,
+          "t1": 32.44,
+          "t2": 34.956,
+          "t3": 27.746,
+          "t4": 44.43,
+          "top_speed_kmh": 287.2,
+          "type": "Flying"
         },
         {
           "run": 1,
@@ -535,6 +559,18 @@
         },
         {
           "run": 1,
+          "lap": 4,
+          "time": "2'19.412",
+          "time_sec": 139.412,
+          "t1": 32.361,
+          "t2": 34.953,
+          "t3": 27.69,
+          "t4": 44.408,
+          "top_speed_kmh": 291.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 5,
           "time": "2'18.264",
           "time_sec": 138.264,
@@ -603,6 +639,18 @@
           "t4": 45.404,
           "top_speed_kmh": 284.9,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'20.667",
+          "time_sec": 140.667,
+          "t1": 32.413,
+          "t2": 35.395,
+          "t3": 27.988,
+          "t4": 44.871,
+          "top_speed_kmh": 294.2,
+          "type": "Flying"
         },
         {
           "run": 1,

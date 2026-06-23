@@ -10,7 +10,7 @@
     "date": "2021-08-14",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2021/AUT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T21:41:49Z"
+    "parsed_at": "2026-06-23T22:15:39Z"
   },
   "riders": [
     {
@@ -343,6 +343,18 @@
           "t4": 22.323,
           "top_speed_kmh": 283.0,
           "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "3'36.967",
+          "time_sec": 216.967,
+          "t1": 10.048,
+          "t2": 27.297,
+          "t3": 24.126,
+          "t4": 16.506,
+          "top_speed_kmh": 297.5,
+          "type": "Out"
         },
         {
           "run": 2,
@@ -1045,6 +1057,42 @@
         "top_speed_kmh": 300.0
       },
       "laps": [
+        {
+          "run": null,
+          "lap": 1,
+          "time": "2'11.376",
+          "time_sec": 131.376,
+          "t1": 19.134,
+          "t2": 41.975,
+          "t3": 27.324,
+          "t4": 17.096,
+          "top_speed_kmh": 126.3,
+          "type": "Flying"
+        },
+        {
+          "run": null,
+          "lap": 2,
+          "time": "1'25.476",
+          "time_sec": 85.476,
+          "t1": 17.613,
+          "t2": 26.868,
+          "t3": 24.214,
+          "t4": 16.781,
+          "top_speed_kmh": 300.8,
+          "type": "Flying"
+        },
+        {
+          "run": null,
+          "lap": 3,
+          "time": "1'24.826",
+          "time_sec": 84.826,
+          "t1": 17.577,
+          "t2": 26.691,
+          "t3": 23.859,
+          "t4": 16.699,
+          "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
         {
           "run": null,
           "lap": 4,

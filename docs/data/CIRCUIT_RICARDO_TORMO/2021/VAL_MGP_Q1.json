@@ -10,7 +10,7 @@
     "date": "2021-11-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2021/VAL_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T21:40:57Z"
+    "parsed_at": "2026-06-23T22:14:46Z"
   },
   "riders": [
     {
@@ -346,6 +346,18 @@
         },
         {
           "run": 2,
+          "lap": 8,
+          "time": "1'36.079",
+          "time_sec": 96.079,
+          "t1": 23.897,
+          "t2": 25.836,
+          "t3": 21.709,
+          "t4": 24.637,
+          "top_speed_kmh": 315.4,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
           "lap": 9,
           "time": "1'31.675",
           "time_sec": 91.675,
@@ -441,6 +453,18 @@
         },
         {
           "run": 2,
+          "lap": 6,
+          "time": "1'31.010",
+          "time_sec": 91.01,
+          "t1": 20.485,
+          "t2": 24.491,
+          "t3": 21.738,
+          "t4": 24.296,
+          "top_speed_kmh": 319.8,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
           "lap": 7,
           "time": "1'30.991",
           "time_sec": 90.991,
@@ -533,6 +557,18 @@
           "t4": 26.822,
           "top_speed_kmh": 316.8,
           "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "3'00.879",
+          "time_sec": 180.879,
+          "t1": 20.567,
+          "t2": 24.744,
+          "t3": 21.812,
+          "t4": 24.521,
+          "top_speed_kmh": null,
+          "type": "Out"
         },
         {
           "run": 2,
@@ -1057,6 +1093,30 @@
         "top_speed_kmh": 321.3
       },
       "laps": [
+        {
+          "run": null,
+          "lap": 1,
+          "time": "2'04.010",
+          "time_sec": 124.01,
+          "t1": 22.147,
+          "t2": 25.67,
+          "t3": 22.642,
+          "t4": 24.926,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": null,
+          "lap": 2,
+          "time": "1'31.482",
+          "time_sec": 91.482,
+          "t1": 20.41,
+          "t2": 24.646,
+          "t3": 21.88,
+          "t4": 24.546,
+          "top_speed_kmh": 321.3,
+          "type": "Flying"
+        },
         {
           "run": null,
           "lap": 3,

@@ -10,7 +10,7 @@
     "date": "2018-05-05",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2018/SPA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:40:34Z"
+    "parsed_at": "2026-06-23T22:14:21Z"
   },
   "riders": [
     {
@@ -322,6 +322,18 @@
         },
         {
           "run": 2,
+          "lap": 5,
+          "time": "1'48.557",
+          "time_sec": 108.557,
+          "t1": 31.127,
+          "t2": 14.758,
+          "t3": 32.248,
+          "t4": 30.424,
+          "top_speed_kmh": 282.5,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
           "lap": 6,
           "time": "1'38.298",
           "time_sec": 98.298,
@@ -521,6 +533,18 @@
           "t4": 27.153,
           "top_speed_kmh": 281.8,
           "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "2'00.804",
+          "time_sec": 120.804,
+          "t1": 33.278,
+          "t2": 14.816,
+          "t3": 42.123,
+          "t4": 30.587,
+          "top_speed_kmh": 280.9,
+          "type": "Flying"
         },
         {
           "run": 2,
@@ -1104,6 +1128,42 @@
         "top_speed_kmh": 286.6
       },
       "laps": [
+        {
+          "run": null,
+          "lap": 1,
+          "time": "2'42.503",
+          "time_sec": 162.503,
+          "t1": 31.58,
+          "t2": 15.036,
+          "t3": 30.405,
+          "t4": 30.606,
+          "top_speed_kmh": 281.9,
+          "type": "Out"
+        },
+        {
+          "run": null,
+          "lap": 2,
+          "time": "1'38.772",
+          "time_sec": 98.772,
+          "t1": 24.636,
+          "t2": 14.347,
+          "t3": 29.615,
+          "t4": 30.174,
+          "top_speed_kmh": 287.0,
+          "type": "Flying"
+        },
+        {
+          "run": null,
+          "lap": 3,
+          "time": "1'38.403",
+          "time_sec": 98.403,
+          "t1": 24.518,
+          "t2": 14.395,
+          "t3": 29.379,
+          "t4": 30.111,
+          "top_speed_kmh": 286.0,
+          "type": "Flying"
+        },
         {
           "run": null,
           "lap": 4,

@@ -10,7 +10,7 @@
     "date": "2025-04-28",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2025/ES2_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T21:40:40Z"
+    "parsed_at": "2026-06-23T22:14:27Z"
   },
   "riders": [
     {
@@ -3722,18 +3722,6 @@
       },
       "laps": [
         {
-          "run": 1,
-          "lap": 25,
-          "time": "1'37.659",
-          "time_sec": 97.659,
-          "t1": 24.382,
-          "t2": 14.239,
-          "t3": 29.122,
-          "t4": 29.916,
-          "top_speed_kmh": 291.1,
-          "type": "Flying"
-        },
-        {
           "run": 2,
           "lap": 2,
           "time": "1'37.333",
@@ -5706,18 +5694,6 @@
           "t3": 29.013,
           "t4": 29.772,
           "top_speed_kmh": 291.8,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
-          "lap": 26,
-          "time": "1'37.226",
-          "time_sec": 97.226,
-          "t1": 24.304,
-          "t2": 14.26,
-          "t3": 29.066,
-          "t4": 29.596,
-          "top_speed_kmh": 294.2,
           "type": "Flying"
         },
         {

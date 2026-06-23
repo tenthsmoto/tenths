@@ -10,7 +10,7 @@
     "date": "2017-08-26",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2017/GBR_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:41:58Z"
+    "parsed_at": "2026-06-23T22:15:49Z"
   },
   "riders": [
     {
@@ -354,6 +354,18 @@
           "t4": 30.406,
           "top_speed_kmh": 324.0,
           "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "2'06.766",
+          "time_sec": 126.766,
+          "t1": 23.803,
+          "t2": 40.826,
+          "t3": 30.756,
+          "t4": 31.381,
+          "top_speed_kmh": 243.8,
+          "type": "Flying"
         }
       ]
     },
@@ -412,6 +424,18 @@
           "t3": 27.82,
           "t4": 30.353,
           "top_speed_kmh": 319.2,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "2'01.564",
+          "time_sec": 121.564,
+          "t1": 23.907,
+          "t2": 39.06,
+          "t3": 27.983,
+          "t4": 30.614,
+          "top_speed_kmh": 317.8,
           "type": "Flying"
         }
       ]
@@ -566,6 +590,18 @@
           "t3": 27.571,
           "t4": 30.476,
           "top_speed_kmh": 322.1,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "2'07.477",
+          "time_sec": 127.477,
+          "t1": 23.897,
+          "t2": 40.577,
+          "t3": 30.61,
+          "t4": 32.393,
+          "top_speed_kmh": 321.0,
           "type": "Flying"
         }
       ]

@@ -10,7 +10,7 @@
     "date": "2019-05-04",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2019/SPA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T21:40:34Z"
+    "parsed_at": "2026-06-23T22:14:21Z"
   },
   "riders": [
     {
@@ -429,6 +429,18 @@
         },
         {
           "run": 2,
+          "lap": 5,
+          "time": "1'43.565",
+          "time_sec": 103.565,
+          "t1": 28.519,
+          "t2": 14.827,
+          "t3": 29.965,
+          "t4": 30.254,
+          "top_speed_kmh": 279.8,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
           "lap": 6,
           "time": "1'37.018",
           "time_sec": 97.018,
@@ -520,6 +532,18 @@
           "t3": 30.279,
           "t4": 29.919,
           "top_speed_kmh": 229.7,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "1'37.181",
+          "time_sec": 97.181,
+          "t1": 24.249,
+          "t2": 14.332,
+          "t3": 29.046,
+          "t4": 29.554,
+          "top_speed_kmh": 281.1,
           "type": "Flying"
         },
         {
@@ -1080,6 +1104,18 @@
           "t4": 35.907,
           "top_speed_kmh": 281.6,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'37.629",
+          "time_sec": 97.629,
+          "t1": 24.357,
+          "t2": 14.38,
+          "t3": 29.105,
+          "t4": 29.787,
+          "top_speed_kmh": 282.6,
+          "type": "Flying"
         }
       ]
     },
@@ -1139,6 +1175,18 @@
           "t4": 29.834,
           "top_speed_kmh": 286.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'40.292",
+          "time_sec": 100.292,
+          "t1": 27.087,
+          "t2": 14.912,
+          "t3": 30.922,
+          "t4": 27.371,
+          "top_speed_kmh": 281.6,
+          "type": "Pit In"
         },
         {
           "run": 2,
@@ -1222,6 +1270,18 @@
           "t4": 26.487,
           "top_speed_kmh": 278.0,
           "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'49.008",
+          "time_sec": 109.008,
+          "t1": 33.88,
+          "t2": 14.692,
+          "t3": 29.82,
+          "t4": 30.616,
+          "top_speed_kmh": 279.4,
+          "type": "Flying"
         },
         {
           "run": 2,

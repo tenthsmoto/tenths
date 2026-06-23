@@ -10,7 +10,7 @@
     "date": "2017-10-28",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2017/MAL_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T21:41:35Z"
+    "parsed_at": "2026-06-23T22:15:24Z"
   },
   "riders": [
     {
@@ -354,6 +354,18 @@
           "t4": 30.94,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "2'01.910",
+          "time_sec": 121.91,
+          "t1": 25.12,
+          "t2": 27.587,
+          "t3": 37.675,
+          "t4": 31.528,
+          "top_speed_kmh": 321.2,
+          "type": "Flying"
         }
       ]
     },
@@ -416,6 +428,18 @@
         },
         {
           "run": 3,
+          "lap": 5,
+          "time": "3'28.421",
+          "time_sec": 208.421,
+          "t1": 23.648,
+          "t2": 27.995,
+          "t3": 37.726,
+          "t4": 30.4,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 3,
           "lap": 7,
           "time": "2'00.469",
           "time_sec": 120.469,
@@ -472,6 +496,18 @@
           "t4": 30.538,
           "top_speed_kmh": 312.0,
           "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "3'41.860",
+          "time_sec": 221.86,
+          "t1": 25.192,
+          "t2": 28.845,
+          "t3": 38.364,
+          "t4": 30.836,
+          "top_speed_kmh": null,
+          "type": "Out"
         },
         {
           "run": 2,

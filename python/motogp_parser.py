@@ -60,7 +60,8 @@ TRACK_CANONICAL: dict[str, str] = {
 #   "10 2'08.492 P 36.903 23.165 28.450 39.974 316.7"     pit-in (P on time)
 #   "1 2'12.559 37.693 23.101 28.184 30.445"              no speed (first lap)
 LAP_LINE_RE = re.compile(
-    r"^\s*(\d+)\s+"            # group 1: lap number
+    r"^\s*(?:[A-Z]{2,4}\s+|[\d]+\.[\d]+\s+)?"  # optional prefix: NAT code or gap time
+    r"(\d+)\s+"                # group 1: lap number
     r"(\d+'\d+\.\d+)\s*"       # group 2: lap time like 1'53.503
     r"([P\*])?\s*"             # group 3: optional flag  P=pit-in  *=cancelled
     r"([\d\.]+)\s*\*?\s+"      # group 4: T1 (optional trailing *)
@@ -372,12 +373,14 @@ def parse_all_laps(text: str, session: str = "") -> list[dict]:
             has_run_headers = True
             break
 
+    ordinal_pat = re.compile(r'\d+(?:st|nd|rd|th)\s+\d+')
+
     if not has_run_headers:
-        # Legacy mode: auto-assign run numbers and start parsing immediately.
-        # The column crop already isolates this rider's section, so we don't
-        # need to wait for a Runs= line to know we're in the right block.
-        current_run  = 1
-        within_rider = True
+        # Legacy mode: auto-assign run numbers. Don't accept laps until we've
+        # seen the rider's own ordinal marker (e.g. "2nd 93") — the y_start
+        # crop window can include a stray overflow lap from the previous rider
+        # that appears just above this rider's header in the PDF.
+        current_run = 1
 
     # Regex to detect a gap lap in legacy PDFs: lap# followed by a time > 4 min.
     # These have non-standard sector columns (cumulative times with apostrophes)
@@ -397,6 +400,13 @@ def parse_all_laps(text: str, session: str = "") -> list[dict]:
                 within_rider = True
             else:
                 break   # entered next rider's block
+            continue
+
+        # Legacy mode: ordinal marker (e.g. "2nd 93" or "7.9 8th 99") signals
+        # we're past the header and into this rider's own data. Use search
+        # because gap-time prefixes can precede the ordinal on the same line.
+        if not has_run_headers and not within_rider and ordinal_pat.search(line):
+            within_rider = True
             continue
 
         # Run # header (modern PDFs and race format).

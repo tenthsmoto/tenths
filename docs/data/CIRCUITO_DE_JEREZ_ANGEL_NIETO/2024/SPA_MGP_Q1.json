@@ -10,7 +10,7 @@
     "date": "2024-04-27",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2024/SPA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T21:40:39Z"
+    "parsed_at": "2026-06-23T22:14:26Z"
   },
   "riders": [
     {
@@ -330,6 +330,18 @@
           "t3": 32.443,
           "t4": 33.046,
           "top_speed_kmh": 28.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'53.990",
+          "time_sec": 113.99,
+          "t1": 27.119,
+          "t2": 15.519,
+          "t3": 32.803,
+          "t4": 38.549,
+          "top_speed_kmh": 282.7,
           "type": "Flying"
         }
       ]
@@ -1340,6 +1352,18 @@
           "t3": 37.229,
           "t4": 34.158,
           "top_speed_kmh": 276.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'50.100",
+          "time_sec": 110.1,
+          "t1": 27.539,
+          "t2": 15.907,
+          "t3": 32.977,
+          "t4": 33.677,
+          "top_speed_kmh": 278.3,
           "type": "Flying"
         },
         {

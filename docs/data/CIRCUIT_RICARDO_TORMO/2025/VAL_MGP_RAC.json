@@ -10,7 +10,7 @@
     "date": "2025-11-16",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2025/VAL_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T21:41:00Z"
+    "parsed_at": "2026-06-23T22:14:49Z"
   },
   "riders": [
     {
@@ -7186,20 +7186,7 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": [
-        {
-          "run": 1,
-          "lap": 1,
-          "time": "2'32.932",
-          "time_sec": 152.932,
-          "t1": 57.483,
-          "t2": 30.45,
-          "t3": 26.014,
-          "t4": 38.985,
-          "top_speed_kmh": null,
-          "type": "Start"
-        }
-      ]
+      "laps": []
     }
   ]
 }

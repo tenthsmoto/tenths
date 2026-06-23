@@ -10,7 +10,7 @@
     "date": "2025-06-22",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2025/ITA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T21:40:22Z"
+    "parsed_at": "2026-06-23T22:14:09Z"
   },
   "riders": [
     {
@@ -2004,20 +2004,7 @@
         "best_t4": 24.523,
         "top_speed_kmh": 354.0
       },
-      "laps": [
-        {
-          "run": 1,
-          "lap": 6,
-          "time": "1'48.824",
-          "time_sec": 108.824,
-          "t1": 25.3,
-          "t2": 22.888,
-          "t3": 36.113,
-          "t4": 24.523,
-          "top_speed_kmh": 354.0,
-          "type": "Flying"
-        }
-      ]
+      "laps": []
     }
   ]
 }

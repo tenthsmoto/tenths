@@ -456,6 +456,17 @@ def parse_all_laps(text: str, session: str = "") -> list[dict]:
             "lap_type":      lap_type,
         })
 
+    # In legacy race mode the section crop starts 25px above the rider's position
+    # marker to capture the name line. That window can include the last lap of the
+    # previous column rider's overflow section, which gets prepended here.
+    # Remove any leading laps whose number is higher than the following lap's number
+    # (i.e. they belong to the previous rider, not this one).
+    if not has_run_headers and session.upper() in RACE_SESSIONS:
+        while len(laps) >= 2 and laps[0]["lap_num"] > laps[1]["lap_num"]:
+            laps.pop(0)
+        if len(laps) == 1 and laps[0]["lap_num"] != 1 and laps[0]["lap_type"] != "Start":
+            laps.clear()
+
     return laps
 
 

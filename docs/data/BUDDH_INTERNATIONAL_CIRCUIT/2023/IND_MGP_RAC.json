@@ -3302,20 +3302,7 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": [
-        {
-          "run": 1,
-          "lap": 11,
-          "time": "2'34.496",
-          "time_sec": 154.496,
-          "t1": 33.569,
-          "t2": 50.066,
-          "t3": 36.768,
-          "t4": 34.093,
-          "top_speed_kmh": 346.1,
-          "type": "Pit In"
-        }
-      ]
+      "laps": []
     }
   ]
 }

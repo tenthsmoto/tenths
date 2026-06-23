@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>tenths</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏁</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -162,11 +163,43 @@
         </div>
 
         <div id="cmp-chart-area" class="cmp-chart-area" style="display:none">
-          <div class="cmp-chart-wrap">
-            <canvas id="cmp-chart"></canvas>
+          <div class="cmp-mode-tabs">
+            <button class="cmp-mode-tab active" data-mode="laptimes">Lap Times</button>
+            <button class="cmp-mode-tab" data-mode="sectors">Sectors</button>
           </div>
-          <div id="cmp-legend" class="chart-legend"></div>
-          <div id="cmp-sectors" class="sector-grid"></div>
+
+          <!-- Lap times mode -->
+          <div id="cmp-laptimes-panel">
+            <div class="cmp-chart-wrap">
+              <canvas id="cmp-chart"></canvas>
+            </div>
+            <div id="cmp-legend" class="chart-legend"></div>
+            <div id="cmp-sectors" class="sector-grid"></div>
+          </div>
+
+          <!-- Sectors mode -->
+          <div id="cmp-sectors-panel" style="display:none">
+            <div id="cmp-sector-legend" class="chart-legend"></div>
+            <div class="cmp-sector-grid">
+              <div class="cmp-sector-block">
+                <div class="cmp-sector-title">SECTOR 1</div>
+                <div class="cmp-sector-chart-wrap"><canvas id="cmp-s1-chart"></canvas></div>
+              </div>
+              <div class="cmp-sector-block">
+                <div class="cmp-sector-title">SECTOR 2</div>
+                <div class="cmp-sector-chart-wrap"><canvas id="cmp-s2-chart"></canvas></div>
+              </div>
+              <div class="cmp-sector-block">
+                <div class="cmp-sector-title">SECTOR 3</div>
+                <div class="cmp-sector-chart-wrap"><canvas id="cmp-s3-chart"></canvas></div>
+              </div>
+              <div class="cmp-sector-block">
+                <div class="cmp-sector-title">SECTOR 4</div>
+                <div class="cmp-sector-chart-wrap"><canvas id="cmp-s4-chart"></canvas></div>
+              </div>
+            </div>
+            <div id="cmp-sector-best" class="cmp-sector-best-wrap"></div>
+          </div>
         </div>
       </div>
     </div>

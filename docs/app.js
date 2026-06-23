@@ -106,9 +106,11 @@ let detailShowFlying    = true;
 let detailChart         = null;
 
 // Compare
-let cmpData    = null;
-let cmpRiders  = [];   // [{rider, color}]
-let cmpChart   = null;
+let cmpData         = null;
+let cmpRiders       = [];   // [{rider, color}]
+let cmpChart        = null;
+let cmpMode         = 'laptimes';   // 'laptimes' | 'sectors'
+let cmpSectorCharts = [];           // [Chart, Chart, Chart, Chart]
 
 // Trends
 let trendsRiderName  = '';
@@ -607,6 +609,8 @@ function initCompareView() {
     cmpData   = null;
     cmpRiders = [];
     cmpChart  = destroyChart(cmpChart);
+    cmpSectorCharts.forEach(c => destroyChart(c));
+    cmpSectorCharts = [];
 
     document.getElementById('cmp-chart-area').style.display = 'none';
     document.getElementById('cmp-step2').style.opacity = '0.3';
@@ -625,6 +629,20 @@ function initCompareView() {
     } catch (err) {
       setStatus('Error', 'error');
     }
+  });
+
+  document.querySelectorAll('.cmp-mode-tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.cmp-mode-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      cmpMode = btn.dataset.mode;
+      document.getElementById('cmp-laptimes-panel').style.display = cmpMode === 'laptimes' ? '' : 'none';
+      document.getElementById('cmp-sectors-panel').style.display  = cmpMode === 'sectors'  ? '' : 'none';
+      if (cmpRiders.length >= 2) {
+        if (cmpMode === 'laptimes') renderCompareChart();
+        else renderSectorCharts();
+      }
+    });
   });
 }
 
@@ -658,9 +676,13 @@ function renderCompareRiderList() {
       chip.querySelector('.chip-color-dot').style.background = color;
     }
 
-    if (cmpRiders.length >= 2) renderCompareChart();
-    else {
+    if (cmpRiders.length >= 2) {
+      if (cmpMode === 'sectors') renderSectorCharts();
+      else renderCompareChart();
+    } else {
       cmpChart = destroyChart(cmpChart);
+      cmpSectorCharts.forEach(c => destroyChart(c));
+      cmpSectorCharts = [];
       document.getElementById('cmp-chart-area').style.display = 'none';
     }
   });
@@ -669,6 +691,8 @@ function renderCompareRiderList() {
 function renderCompareChart() {
   const area = document.getElementById('cmp-chart-area');
   area.style.display = '';
+  document.getElementById('cmp-laptimes-panel').style.display = '';
+  document.getElementById('cmp-sectors-panel').style.display  = 'none';
 
   const canvas = document.getElementById('cmp-chart');
   cmpChart = destroyChart(cmpChart);
@@ -764,6 +788,109 @@ function renderSectorComparison() {
   }).join('');
 
   container.innerHTML = html;
+}
+
+function renderSectorCharts() {
+  const area = document.getElementById('cmp-chart-area');
+  area.style.display = '';
+  document.getElementById('cmp-laptimes-panel').style.display = 'none';
+  document.getElementById('cmp-sectors-panel').style.display  = '';
+
+  // Destroy old sector charts
+  cmpSectorCharts.forEach(c => destroyChart(c));
+  cmpSectorCharts = [];
+
+  // Shared legend
+  document.getElementById('cmp-sector-legend').innerHTML = cmpRiders.map(({ rider, color }) =>
+    `<div class="legend-item">
+      <span class="legend-dot" style="background:${color}"></span>
+      <span class="legend-name">${fmtName(rider.name)}</span>
+      <span class="legend-bike" style="color:${mfrColor(rider.bike)}">${rider.bike || ''}</span>
+    </div>`
+  ).join('');
+
+  const sectorKeys = ['t1', 't2', 't3', 't4'];
+  const canvasIds  = ['cmp-s1-chart', 'cmp-s2-chart', 'cmp-s3-chart', 'cmp-s4-chart'];
+
+  sectorKeys.forEach((key, i) => {
+    const datasets = cmpRiders.map(({ rider, color }) => {
+      const laps = (rider.laps || []).filter(l =>
+        l.type === 'Flying' && l[key] != null && l[key] > 0
+      );
+      return {
+        label:              fmtName(rider.name),
+        data:               laps.map(l => ({ x: l.lap, y: l[key] })),
+        borderColor:        color,
+        backgroundColor:    color + '18',
+        pointBackgroundColor: color,
+        pointRadius:        3,
+        pointHoverRadius:   6,
+        tension:            0.3,
+        fill:               false,
+      };
+    });
+
+    const allVals = datasets.flatMap(d => d.data.map(p => p.y));
+    if (!allVals.length) return;
+    const minV = Math.min(...allVals);
+    const maxV = Math.max(...allVals);
+    const pad  = Math.max((maxV - minV) * 0.15, 0.05);
+
+    const ctx = document.getElementById(canvasIds[i]).getContext('2d');
+    cmpSectorCharts.push(new Chart(ctx, {
+      type: 'line',
+      data: { datasets },
+      options: mergeDeep({}, CHART_DEFAULTS, {
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              title: items => `Lap ${items[0].parsed.x}`,
+              label: item  => ` ${item.dataset.label}: ${fmtSec(item.parsed.y)}`,
+            },
+          },
+        },
+        scales: {
+          x: { type: 'linear', title: { display: false }, ticks: { stepSize: 1, maxTicksLimit: 10 } },
+          y: {
+            min: minV - pad,
+            max: maxV + pad,
+            title: { display: false },
+            ticks: { callback: v => fmtSec(v) },
+          },
+        },
+      }),
+    }));
+  });
+
+  // Best sector summary table
+  const bestPerSector = sectorKeys.map(key => {
+    const vals = cmpRiders.map(({ rider }) => {
+      const flying = (rider.laps || []).filter(l => l.type === 'Flying' && l[key] > 0);
+      return flying.length ? Math.min(...flying.map(l => l[key])) : null;
+    });
+    const min = Math.min(...vals.filter(v => v != null));
+    return { vals, min };
+  });
+
+  const headerCells = sectorKeys.map((_, i) => `<th>Best T${i + 1}</th>`).join('');
+  const rows = cmpRiders.map(({ rider, color }, ri) => {
+    const cells = sectorKeys.map((key, si) => {
+      const val = bestPerSector[si].vals[ri];
+      const isBest = val != null && val === bestPerSector[si].min;
+      return `<td class="${isBest ? 'best-sector' : ''}">${val != null ? fmtSec(val) : '—'}</td>`;
+    }).join('');
+    return `<tr>
+      <td class="rider-name-cell">
+        <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${color};margin-right:6px"></span>
+        ${fmtName(rider.name)}
+      </td>
+      ${cells}
+    </tr>`;
+  }).join('');
+
+  document.getElementById('cmp-sector-best').innerHTML =
+    `<table><thead><tr><th>Rider</th>${headerCells}</tr></thead><tbody>${rows}</tbody></table>`;
 }
 
 // ══════════════════════════════════════════════════════════════════════════════

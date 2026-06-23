@@ -3,14 +3,14 @@
     "year": 2023,
     "gp": "Silverstone_Circuit",
     "gp_name": "Silverstone_Circuit",
-    "circuit": "Chronological Analysis Of Performances 34",
+    "circuit": "Silverstone Circuit",
     "track_folder": "SILVERSTONE_CIRCUIT",
     "session": "SPR",
     "session_long": "Grand Prix",
     "date": "2023-08-05",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2023/GBR_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T22:15:52Z"
+    "parsed_at": "2026-06-23T22:35:58Z"
   },
   "riders": [
     {

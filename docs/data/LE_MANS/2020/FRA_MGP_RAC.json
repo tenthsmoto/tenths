@@ -3,14 +3,14 @@
     "year": 2020,
     "gp": "Le_Mans",
     "gp_name": "Le_Mans",
-    "circuit": "Chronological Analysis Of Performances 34",
+    "circuit": "Le Mans",
     "track_folder": "LE_MANS",
     "session": "RAC",
     "session_long": "Grand Prix",
     "date": "2020-10-11",
     "class": "MotoGP",
     "source_file": "LE_MANS/2020/FRA_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T22:14:53Z"
+    "parsed_at": "2026-06-23T22:34:53Z"
   },
   "riders": [
     {

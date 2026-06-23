@@ -3,14 +3,14 @@
     "year": 2019,
     "gp": "Automotodrom_Brno",
     "gp_name": "Automotodrom_Brno",
-    "circuit": "Chronological Analysis Of Performances 19",
+    "circuit": "Automotodrom Brno",
     "track_folder": "AUTOMOTODROM_BRNO",
     "session": "Q1",
     "session_long": "Grand Prix",
     "date": "2019-08-03",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2019/CZE_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T22:14:11Z"
+    "parsed_at": "2026-06-23T22:34:07Z"
   },
   "riders": [
     {

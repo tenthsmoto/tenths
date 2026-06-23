@@ -129,7 +129,11 @@ def extract_session_info(page1_text: str, pdf_path: Path) -> dict:
 
     # Circuit name — look for known length pattern (e.g. "5048 m.") immediately
     # after the circuit name; keep only short single-line matches.
-    circuit_m = re.search(r'^([^\n]{4,60}?)\s+\d[\d,.]+\s*m\.', page1_text, re.MULTILINE)
+    # Circuit name appears on the first line, before "Results and timing service"
+    circuit_m = re.search(r'^(.+?)\s+Results and timing service', page1_text, re.IGNORECASE)
+    if not circuit_m:
+        # Fallback: look for a line with a track length measurement on it
+        circuit_m = re.search(r'^([^\n]{4,60}?)[ \t]+\d[\d,.]+\s*m\.', page1_text, re.MULTILINE)
     info["circuit"] = circuit_m.group(1).strip().title() if circuit_m else ""
 
     session_long = ""

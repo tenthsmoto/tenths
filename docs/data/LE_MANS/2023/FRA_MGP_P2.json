@@ -3,14 +3,14 @@
     "year": 2023,
     "gp": "Le_Mans",
     "gp_name": "Le_Mans",
-    "circuit": "Chronological Analysis Of Performances 9",
+    "circuit": "Le Mans",
     "track_folder": "LE_MANS",
     "session": "P2",
     "session_long": "Practice",
     "date": "2023-05-12",
     "class": "MotoGP",
     "source_file": "LE_MANS/2023/FRA_MGP_P2.pdf",
-    "parsed_at": "2026-06-23T22:14:54Z"
+    "parsed_at": "2026-06-23T22:34:55Z"
   },
   "riders": [
     {

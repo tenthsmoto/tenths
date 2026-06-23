@@ -3,14 +3,14 @@
     "year": 2019,
     "gp": "Sachsenring",
     "gp_name": "Sachsenring",
-    "circuit": "Chronological Analysis Of Performances 22",
+    "circuit": "Sachsenring",
     "track_folder": "SACHSENRING",
     "session": "Q2",
     "session_long": "Grand Prix",
     "date": "2019-07-06",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2019/GER_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T22:15:45Z"
+    "parsed_at": "2026-06-23T22:35:50Z"
   },
   "riders": [
     {

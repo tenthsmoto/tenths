@@ -3,14 +3,14 @@
     "year": 2023,
     "gp": "Sachsenring",
     "gp_name": "Sachsenring",
-    "circuit": "Chronological Analysis Of Performances 5",
+    "circuit": "Sachsenring",
     "track_folder": "SACHSENRING",
     "session": "P1",
     "session_long": "Practice",
     "date": "2023-06-16",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2023/GER_MGP_P1.pdf",
-    "parsed_at": "2026-06-23T22:15:47Z"
+    "parsed_at": "2026-06-23T22:35:53Z"
   },
   "riders": [
     {

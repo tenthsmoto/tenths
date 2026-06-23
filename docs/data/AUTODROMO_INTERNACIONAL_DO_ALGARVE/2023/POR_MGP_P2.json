@@ -3,14 +3,14 @@
     "year": 2023,
     "gp": "Autodromo_Internacional_Do_Algarve",
     "gp_name": "Autodromo_Internacional_Do_Algarve",
-    "circuit": "Chronological Analysis Of Performances 9",
+    "circuit": "",
     "track_folder": "AUTODROMO_INTERNACIONAL_DO_ALGARVE",
     "session": "P2",
     "session_long": "Practice",
     "date": "2023-03-24",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2023/POR_MGP_P2.pdf",
-    "parsed_at": "2026-06-23T22:14:03Z"
+    "parsed_at": "2026-06-23T22:34:00Z"
   },
   "riders": [
     {

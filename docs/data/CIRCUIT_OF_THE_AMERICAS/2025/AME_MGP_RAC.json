@@ -3,14 +3,14 @@
     "year": 2025,
     "gp": "The Americas",
     "gp_name": "The Americas",
-    "circuit": "Red Bull Grand Prix Of The Americas Fl",
+    "circuit": "",
     "track_folder": "CIRCUIT_OF_THE_AMERICAS",
     "session": "RAC",
     "session_long": "Grand Prix",
     "date": "2025-03-30",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2025/AME_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T22:14:42Z"
+    "parsed_at": "2026-06-23T22:34:40Z"
   },
   "riders": [
     {

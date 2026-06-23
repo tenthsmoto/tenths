@@ -3,14 +3,14 @@
     "year": 2025,
     "gp": "Termas_De_Rio_Hondo",
     "gp_name": "Termas_De_Rio_Hondo",
-    "circuit": "Gran Premio Ypf Energía De Argentina Fl",
+    "circuit": "",
     "track_folder": "TERMAS_DE_RIO_HONDO",
     "session": "RAC",
     "session_long": "",
     "date": "2025-03-16",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2025/ARG_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T22:15:58Z"
+    "parsed_at": "2026-06-23T22:36:04Z"
   },
   "riders": [
     {

@@ -3,14 +3,14 @@
     "year": 2025,
     "gp": "The Netherlands",
     "gp_name": "The Netherlands",
-    "circuit": "Motul Grand Prix Of The Netherlands I2",
+    "circuit": "",
     "track_folder": "TT_CIRCUIT_ASSEN",
     "session": "Q1",
     "session_long": "Grand Prix",
     "date": "2025-06-28",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2025/NED_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T22:16:02Z"
+    "parsed_at": "2026-06-23T22:36:09Z"
   },
   "riders": [
     {

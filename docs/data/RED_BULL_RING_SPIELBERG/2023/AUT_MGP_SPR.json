@@ -3,14 +3,14 @@
     "year": 2023,
     "gp": "Red_Bull_Ring_Spielberg",
     "gp_name": "Red_Bull_Ring_Spielberg",
-    "circuit": "Chronological Analysis Of Performances 34",
+    "circuit": "",
     "track_folder": "RED_BULL_RING_SPIELBERG",
     "session": "SPR",
     "session_long": "Grand Prix",
     "date": "2023-08-19",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2023/AUT_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T22:15:42Z"
+    "parsed_at": "2026-06-23T22:35:47Z"
   },
   "riders": [
     {

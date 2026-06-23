@@ -342,7 +342,10 @@ def _lap_type(flag: str, lap_sec: float | None) -> str:
     return "Flying"
 
 
-def parse_all_laps(text: str) -> list[dict]:
+RACE_SESSIONS = {"RAC", "RACE", "SPR"}
+
+
+def parse_all_laps(text: str, session: str = "") -> list[dict]:
     """
     Extract all individual laps from combined section text (primary + overflow).
 
@@ -436,6 +439,13 @@ def parse_all_laps(text: str) -> list[dict]:
         lap_sec = lap_time_to_seconds(lap_str)
         speed   = m.group(8)
 
+        # Race/sprint lap 1 is a standing start — inherently slower than a
+        # flying lap but not slow enough to exceed the Out threshold (150s).
+        if session.upper() in RACE_SESSIONS and lap_num == 1 and current_run == 1:
+            lap_type = "Start"
+        else:
+            lap_type = _lap_type(flag, lap_sec)
+
         laps.append({
             "run_num":       current_run,
             "lap_num":       lap_num,
@@ -443,7 +453,7 @@ def parse_all_laps(text: str) -> list[dict]:
             "lap_time_sec":  round(lap_sec, 3) if lap_sec is not None else None,
             "t1": t1, "t2": t2, "t3": t3, "t4": t4,
             "top_speed":     float(speed) if speed else None,
-            "lap_type":      _lap_type(flag, lap_sec),
+            "lap_type":      lap_type,
         })
 
     return laps
@@ -689,7 +699,7 @@ def parse_pdf(
                             rider_info[k] = v
 
             lap_info   = parse_best_lap(combined_text)
-            laps       = parse_all_laps(combined_text)
+            laps       = parse_all_laps(combined_text, session=session_info.get("session", ""))
 
             src = str(pdf_path.relative_to(BASE_DIR))
 

@@ -10,7 +10,7 @@
     "date": "2016-09-10",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2016/RSM_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:34:28Z"
+    "parsed_at": "2026-06-23T00:51:46Z"
   },
   "riders": [
     {
@@ -628,7 +628,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 1,

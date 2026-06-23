@@ -10,7 +10,7 @@
     "date": "2016-06-04",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2016/CAT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:30:27Z"
+    "parsed_at": "2026-06-23T00:47:39Z"
   },
   "riders": [
     {
@@ -291,7 +291,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 2,
@@ -670,7 +670,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 2,
@@ -824,7 +824,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 2,

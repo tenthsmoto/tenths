@@ -10,7 +10,7 @@
     "date": "2021-05-01",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2021/SPA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:29:47Z"
+    "parsed_at": "2026-06-23T00:46:59Z"
   },
   "riders": [
     {
@@ -2004,7 +2004,56 @@
         "best_t4": 29.69,
         "top_speed_kmh": 295.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 18,
+          "time": "1'51.404",
+          "time_sec": 111.404,
+          "t1": 32.646,
+          "t2": 15.093,
+          "t3": 31.504,
+          "t4": 32.161,
+          "top_speed_kmh": 284.9,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 19,
+          "time": "1'41.026",
+          "time_sec": 101.026,
+          "t1": 24.226,
+          "t2": 14.265,
+          "t3": 28.949,
+          "t4": 33.586,
+          "top_speed_kmh": 295.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 3,
+          "lap": 20,
+          "time": "1'37.188",
+          "time_sec": 97.188,
+          "t1": 24.303,
+          "t2": 14.256,
+          "t3": 28.939,
+          "t4": 29.69,
+          "top_speed_kmh": 295.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 21,
+          "time": "1'37.435",
+          "time_sec": 97.435,
+          "t1": 24.187,
+          "t2": 14.299,
+          "t3": 29.138,
+          "t4": 29.811,
+          "top_speed_kmh": 293.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

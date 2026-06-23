@@ -10,7 +10,7 @@
     "date": "2019-06-02",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2019/ITA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:27:35Z"
+    "parsed_at": "2026-06-23T00:44:40Z"
   },
   "riders": [
     {
@@ -1502,7 +1502,20 @@
         "best_t4": 24.454,
         "top_speed_kmh": 318.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'49.078",
+          "time_sec": 109.078,
+          "t1": 26.331,
+          "t2": 22.813,
+          "t3": 35.48,
+          "t4": 24.454,
+          "top_speed_kmh": 318.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,

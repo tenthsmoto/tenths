@@ -10,7 +10,7 @@
     "date": "",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2022/MI1_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:35:11Z"
+    "parsed_at": "2026-06-23T00:52:31Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 6,

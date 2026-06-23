@@ -10,7 +10,7 @@
     "date": "2022-06-04",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2022/CAT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:30:55Z"
+    "parsed_at": "2026-06-23T00:48:07Z"
   },
   "riders": [
     {
@@ -354,7 +354,20 @@
         "best_t4": 30.697,
         "top_speed_kmh": 347.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'39.333",
+          "time_sec": 99.333,
+          "t1": 16.794,
+          "t2": 31.52,
+          "t3": 20.322,
+          "t4": 30.697,
+          "top_speed_kmh": 347.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

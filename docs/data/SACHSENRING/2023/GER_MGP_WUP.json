@@ -10,7 +10,7 @@
     "date": "2023-06-18",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2023/GER_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:39:59Z"
+    "parsed_at": "2026-06-23T00:57:27Z"
   },
   "riders": [
     {
@@ -1066,7 +1066,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'36.801",
+          "time_sec": 96.801,
+          "t1": 18.079,
+          "t2": 24.692,
+          "t3": 19.317,
+          "t4": 34.713,
+          "top_speed_kmh": 300.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 13,

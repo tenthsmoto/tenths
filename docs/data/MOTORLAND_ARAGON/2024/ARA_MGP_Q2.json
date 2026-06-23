@@ -10,7 +10,7 @@
     "date": "2024-08-31",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2024/ARA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:36:44Z"
+    "parsed_at": "2026-06-23T00:54:07Z"
   },
   "riders": [
     {
@@ -354,7 +354,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'47.440",
+          "time_sec": 107.44,
+          "t1": 28.413,
+          "t2": 31.942,
+          "t3": 21.648,
+          "t4": 25.437,
+          "top_speed_kmh": 341.8,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 5,

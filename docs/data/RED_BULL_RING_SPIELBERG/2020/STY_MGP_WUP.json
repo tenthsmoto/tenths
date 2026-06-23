@@ -10,7 +10,7 @@
     "date": "2020-08-23",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2020/STY_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:39:00Z"
+    "parsed_at": "2026-06-23T00:56:27Z"
   },
   "riders": [
     {
@@ -437,7 +437,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'59.485",
+          "time_sec": 119.485,
+          "t1": 11.729,
+          "t2": 33.124,
+          "t3": 28.634,
+          "t4": 25.217,
+          "top_speed_kmh": 216.4,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 5,

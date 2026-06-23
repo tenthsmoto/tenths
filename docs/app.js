@@ -447,28 +447,7 @@ function renderDetailTable() {
     </tbody>
   </table>`;
 
-  const wrap = document.getElementById('detail-rider-table');
-  wrap.innerHTML = html;
-
-  wrap.addEventListener('click', e => {
-    const row = e.target.closest('.rider-row');
-    if (!row) return;
-    const pos = parseInt(row.dataset.pos);
-    const rider = detailData.riders.find(r => r.position === pos);
-    if (!rider) return;
-
-    const idx = detailSelectedRiders.findIndex(x => x.rider.number === rider.number);
-    if (idx >= 0) {
-      detailSelectedRiders.splice(idx, 1);
-    } else if (detailSelectedRiders.length < PALETTE.length) {
-      // Pick a colour not in use
-      const usedColors = new Set(detailSelectedRiders.map(x => x.color));
-      const color = PALETTE.find(c => !usedColors.has(c)) || PALETTE[0];
-      detailSelectedRiders.push({ rider, color });
-    }
-    updateDetailRowHighlights();
-    renderDetailChart();
-  });
+  document.getElementById('detail-rider-table').innerHTML = html;
 }
 
 function updateDetailRowHighlights() {
@@ -1491,6 +1470,27 @@ async function init() {
     detailPaneWasOpen = false;
   });
 
+  // Rider table — single delegated listener, always reads live detailData
+  document.getElementById('detail-rider-table').addEventListener('click', e => {
+    if (!detailData) return;
+    const row = e.target.closest('.rider-row');
+    if (!row) return;
+    const pos = parseInt(row.dataset.pos);
+    const rider = detailData.riders.find(r => r.position === pos);
+    if (!rider) return;
+
+    const idx = detailSelectedRiders.findIndex(x => x.rider.position === rider.position);
+    if (idx >= 0) {
+      detailSelectedRiders.splice(idx, 1);
+    } else if (detailSelectedRiders.length < PALETTE.length) {
+      const usedColors = new Set(detailSelectedRiders.map(x => x.color));
+      const color = PALETTE.find(c => !usedColors.has(c)) || PALETTE[0];
+      detailSelectedRiders.push({ rider, color });
+    }
+    updateDetailRowHighlights();
+    renderDetailChart();
+  });
+
   // Flying / all laps toggle
   document.querySelectorAll('.chart-toggle').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -1515,7 +1515,7 @@ async function init() {
     initManufacturersView();
   } catch (err) {
     setStatus('Cannot load data', 'error');
-    document.getElementById('sessions-grid').innerHTML =
+    document.getElementById('weekends-list').innerHTML =
       `<div class="empty-state">
         <strong>Could not load data/index.json</strong><br><br>
         Make sure you're running a local server:<br>

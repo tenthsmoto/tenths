@@ -10,7 +10,7 @@
     "date": "2022-09-17",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2022/ARA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:36:40Z"
+    "parsed_at": "2026-06-23T00:54:03Z"
   },
   "riders": [
     {
@@ -364,7 +364,32 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'53.353",
+          "time_sec": 113.353,
+          "t1": 32.001,
+          "t2": 31.556,
+          "t3": 21.73,
+          "t4": 28.066,
+          "top_speed_kmh": 340.7,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'58.152",
+          "time_sec": 118.152,
+          "t1": 32.369,
+          "t2": 35.872,
+          "t3": 22.527,
+          "t4": 27.384,
+          "top_speed_kmh": 273.6,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 6,

@@ -10,7 +10,7 @@
     "date": "2017-10-28",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2017/MAL_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:37:17Z"
+    "parsed_at": "2026-06-23T00:54:41Z"
   },
   "riders": [
     {
@@ -973,7 +973,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 4,
@@ -1879,7 +1879,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 3,
@@ -2082,7 +2082,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "CZE",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 3,
@@ -2464,7 +2464,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing F",
       "summary": {
         "runs": 3,
@@ -2846,7 +2846,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 3,
@@ -3168,7 +3168,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 4,
@@ -3323,7 +3323,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 3,
@@ -3717,7 +3717,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 2,

@@ -10,7 +10,7 @@
     "date": "2018-03-18",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2018/QAT_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:33:55Z"
+    "parsed_at": "2026-06-23T00:51:11Z"
   },
   "riders": [
     {
@@ -304,7 +304,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing",
       "summary": {
         "runs": 1,
@@ -1112,7 +1112,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing",
       "summary": {
         "runs": 1,
@@ -1231,7 +1231,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 1,
@@ -1302,7 +1302,7 @@
       "number": "12",
       "name": "Thomas Luthi",
       "nationality": "SWI",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,
@@ -1516,7 +1516,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Angel Nieto Team C",
       "summary": {
         "runs": 1,
@@ -2076,7 +2076,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Angel Nieto Team",
       "summary": {
         "runs": 1,
@@ -2266,7 +2266,7 @@
       "number": "21",
       "name": "Franco Morbidel",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,
@@ -2516,7 +2516,7 @@
       "number": "10",
       "name": "Xavier Simeon",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing B",
       "summary": {
         "runs": 1,

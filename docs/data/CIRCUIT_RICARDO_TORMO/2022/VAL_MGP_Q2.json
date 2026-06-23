@@ -10,7 +10,7 @@
     "date": "2022-11-05",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2022/VAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:32:36Z"
+    "parsed_at": "2026-06-23T00:49:49Z"
   },
   "riders": [
     {
@@ -1198,7 +1198,80 @@
         "best_t4": 24.148,
         "top_speed_kmh": 322.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'30.241",
+          "time_sec": 90.241,
+          "t1": 20.358,
+          "t2": 24.277,
+          "t3": 21.458,
+          "t4": 24.148,
+          "top_speed_kmh": 322.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'36.691",
+          "time_sec": 96.691,
+          "t1": 21.111,
+          "t2": 25.64,
+          "t3": 22.437,
+          "t4": 27.503,
+          "top_speed_kmh": 324.3,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "3'18.220",
+          "time_sec": 198.22,
+          "t1": 21.559,
+          "t2": 25.052,
+          "t3": 21.735,
+          "t4": 24.254,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "1'30.263",
+          "time_sec": 90.263,
+          "t1": 20.245,
+          "t2": 24.354,
+          "t3": 21.51,
+          "t4": 24.154,
+          "top_speed_kmh": 324.3,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'30.250",
+          "time_sec": 90.25,
+          "t1": 20.332,
+          "t2": 24.281,
+          "t3": 21.484,
+          "t4": 24.153,
+          "top_speed_kmh": 322.8,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "1'30.421",
+          "time_sec": 90.421,
+          "t1": 20.318,
+          "t2": 24.271,
+          "t3": 21.514,
+          "t4": 24.318,
+          "top_speed_kmh": 325.8,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

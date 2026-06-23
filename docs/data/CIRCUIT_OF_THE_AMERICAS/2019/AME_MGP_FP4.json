@@ -10,7 +10,7 @@
     "date": "2019-04-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2019/AME_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:31:37Z"
+    "parsed_at": "2026-06-23T00:48:48Z"
   },
   "riders": [
     {
@@ -1829,7 +1829,32 @@
         "best_t4": 34.383,
         "top_speed_kmh": 283.9
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'56.071",
+          "time_sec": 176.071,
+          "t1": 41.563,
+          "t2": 38.241,
+          "t3": 36.482,
+          "t4": 34.383,
+          "top_speed_kmh": 283.9,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "15'57.589",
+          "time_sec": 957.589,
+          "t1": 39.447,
+          "t2": 34.015,
+          "t3": 33.637,
+          "t4": 31.038,
+          "top_speed_kmh": 290.9,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 17,
@@ -2313,7 +2338,20 @@
         "best_t4": 31.948,
         "top_speed_kmh": 317.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'20.210",
+          "time_sec": 140.21,
+          "t1": 39.998,
+          "t2": 34.203,
+          "t3": 34.061,
+          "t4": 31.948,
+          "top_speed_kmh": 317.2,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,7 @@
     "date": "2016-05-07",
     "class": "MotoGP",
     "source_file": "LE_MANS/2016/FRA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:33:01Z"
+    "parsed_at": "2026-06-23T00:50:15Z"
   },
   "riders": [
     {
@@ -681,7 +681,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 2,

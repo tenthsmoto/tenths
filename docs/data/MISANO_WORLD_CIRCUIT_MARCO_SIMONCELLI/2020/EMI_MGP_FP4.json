@@ -10,7 +10,7 @@
     "date": "2020-09-19",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2020/EMI_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:34:49Z"
+    "parsed_at": "2026-06-23T00:52:08Z"
   },
   "riders": [
     {
@@ -415,7 +415,104 @@
         "best_t4": 20.676,
         "top_speed_kmh": 288.7
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'32.239",
+          "time_sec": 92.239,
+          "t1": 25.76,
+          "t2": 20.733,
+          "t3": 25.07,
+          "t4": 20.676,
+          "top_speed_kmh": 288.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'32.125",
+          "time_sec": 92.125,
+          "t1": 25.722,
+          "t2": 20.668,
+          "t3": 25.048,
+          "t4": 20.687,
+          "top_speed_kmh": 288.7,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'35.890",
+          "time_sec": 95.89,
+          "t1": 25.78,
+          "t2": 22.616,
+          "t3": 26.511,
+          "t4": 20.983,
+          "top_speed_kmh": 281.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'32.392",
+          "time_sec": 92.392,
+          "t1": 25.862,
+          "t2": 20.659,
+          "t3": 25.201,
+          "t4": 20.67,
+          "top_speed_kmh": 288.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'32.441",
+          "time_sec": 92.441,
+          "t1": 25.85,
+          "t2": 20.734,
+          "t3": 25.145,
+          "t4": 20.712,
+          "top_speed_kmh": 286.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'34.876",
+          "time_sec": 94.876,
+          "t1": 27.694,
+          "t2": 21.029,
+          "t3": 25.315,
+          "t4": 20.838,
+          "top_speed_kmh": 287.2,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'32.548",
+          "time_sec": 92.548,
+          "t1": 25.892,
+          "t2": 20.656,
+          "t3": 25.259,
+          "t4": 20.741,
+          "top_speed_kmh": 289.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'32.797",
+          "time_sec": 92.797,
+          "t1": 25.956,
+          "t2": 20.796,
+          "t3": 25.336,
+          "t4": 20.709,
+          "top_speed_kmh": 288.7,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 4,

@@ -10,7 +10,7 @@
     "date": "2019-08-24",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2019/GBR_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:40:20Z"
+    "parsed_at": "2026-06-23T00:57:47Z"
   },
   "riders": [
     {
@@ -998,7 +998,44 @@
         "best_t4": 31.058,
         "top_speed_kmh": 281.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'43.537",
+          "time_sec": 163.537,
+          "t1": 26.632,
+          "t2": 40.94,
+          "t3": 28.883,
+          "t4": 31.058,
+          "top_speed_kmh": 281.2,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "5'27.446",
+          "time_sec": 327.446,
+          "t1": 26.401,
+          "t2": 39.376,
+          "t3": 27.892,
+          "t4": 30.645,
+          "top_speed_kmh": 317.6,
+          "type": "Out"
+        },
+        {
+          "run": 3,
+          "lap": 15,
+          "time": "2'07.816",
+          "time_sec": 127.816,
+          "t1": 24.137,
+          "t2": 38.873,
+          "t3": 27.601,
+          "t4": 37.205,
+          "top_speed_kmh": 320.4,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 8,

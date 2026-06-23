@@ -10,7 +10,7 @@
     "date": "2016-06-25",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2016/NED_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:41:13Z"
+    "parsed_at": "2026-06-23T00:58:39Z"
   },
   "riders": [
     {
@@ -184,7 +184,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 2,
@@ -397,7 +397,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "COL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": 1,
@@ -657,7 +657,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 1,

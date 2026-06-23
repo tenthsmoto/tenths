@@ -10,7 +10,7 @@
     "date": "2022-06-24",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2022/NED_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:41:31Z"
+    "parsed_at": "2026-06-23T00:58:57Z"
   },
   "riders": [
     {
@@ -1943,7 +1943,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "15'26.778",
+          "time_sec": 926.778,
+          "t1": 34.684,
+          "t2": 16.67,
+          "t3": 32.398,
+          "t4": 26.502,
+          "top_speed_kmh": 276.9,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 12,

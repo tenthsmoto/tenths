@@ -10,7 +10,7 @@
     "date": "2020-11-22",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2020/POR_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:26:57Z"
+    "parsed_at": "2026-06-23T00:43:59Z"
   },
   "riders": [
     {
@@ -1742,7 +1742,20 @@
         "best_t4": 32.685,
         "top_speed_kmh": 332.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'42.020",
+          "time_sec": 102.02,
+          "t1": 21.484,
+          "t2": 32.33,
+          "t3": 15.521,
+          "t4": 32.685,
+          "top_speed_kmh": 332.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 18,

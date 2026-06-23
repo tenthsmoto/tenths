@@ -10,7 +10,7 @@
     "date": "",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2021/MI1_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:35:03Z"
+    "parsed_at": "2026-06-23T00:52:23Z"
   },
   "riders": [
     {
@@ -867,7 +867,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 5,
@@ -2350,7 +2350,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "SKY VR46 Avintia",
       "summary": {
         "runs": 3,
@@ -3677,7 +3677,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 3,

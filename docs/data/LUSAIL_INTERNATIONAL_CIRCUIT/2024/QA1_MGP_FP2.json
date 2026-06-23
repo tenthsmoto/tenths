@@ -10,7 +10,7 @@
     "date": "2024-02-20",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2024/QA1_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:34:18Z"
+    "parsed_at": "2026-06-23T00:51:35Z"
   },
   "riders": [
     {
@@ -1371,7 +1371,7 @@
       "number": "93",
       "name": "Marc Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 13,
@@ -2616,7 +2616,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing S",
       "summary": {
         "runs": 9,
@@ -4854,7 +4854,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 10,
@@ -5249,7 +5249,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 11,
@@ -5740,7 +5740,7 @@
       "number": "31",
       "name": "Pedro Acosta",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te S",
       "summary": {
         "runs": 13,
@@ -5835,7 +5835,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama S",
       "summary": {
         "runs": 15,
@@ -7052,7 +7052,7 @@
       "number": "37",
       "name": "Augusto Fernand",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te",
       "summary": {
         "runs": 14,
@@ -7866,7 +7866,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 9,

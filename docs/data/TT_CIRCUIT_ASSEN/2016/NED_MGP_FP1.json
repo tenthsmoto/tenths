@@ -10,7 +10,7 @@
     "date": "2016-06-24",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2016/NED_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:41:11Z"
+    "parsed_at": "2026-06-23T00:58:37Z"
   },
   "riders": [
     {
@@ -471,7 +471,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 3,
@@ -506,7 +506,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 3,
@@ -1161,7 +1161,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 4,
@@ -2080,7 +2080,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 3,
@@ -2259,7 +2259,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP C",
       "summary": {
         "runs": 2,
@@ -2498,7 +2498,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": 3,
@@ -2713,7 +2713,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M A",
       "summary": {
         "runs": 4,
@@ -2902,7 +2902,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M S",
       "summary": {
         "runs": 3,

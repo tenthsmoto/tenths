@@ -10,7 +10,7 @@
     "date": "2023-11-18",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2023/QAT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:34:14Z"
+    "parsed_at": "2026-06-23T00:51:31Z"
   },
   "riders": [
     {
@@ -519,7 +519,80 @@
         "best_t4": 27.589,
         "top_speed_kmh": 339.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'45.764",
+          "time_sec": 165.764,
+          "t1": 28.047,
+          "t2": 31.484,
+          "t3": 27.538,
+          "t4": 28.127,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'58.106",
+          "time_sec": 118.106,
+          "t1": 29.348,
+          "t2": 31.685,
+          "t3": 28.991,
+          "t4": 28.082,
+          "top_speed_kmh": 340.6,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "4'10.463",
+          "time_sec": 250.463,
+          "t1": 27.886,
+          "t2": 31.035,
+          "t3": 27.37,
+          "t4": 27.812,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'52.103",
+          "time_sec": 112.103,
+          "t1": 27.624,
+          "t2": 30.007,
+          "t3": 26.883,
+          "t4": 27.589,
+          "top_speed_kmh": 339.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "2'13.906",
+          "time_sec": 133.906,
+          "t1": 33.973,
+          "t2": 32.287,
+          "t3": 29.032,
+          "t4": 38.614,
+          "top_speed_kmh": 339.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "2'25.271",
+          "time_sec": 145.271,
+          "t1": 49.856,
+          "t2": 34.194,
+          "t3": 29.633,
+          "t4": 31.588,
+          "top_speed_kmh": 154.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 8,

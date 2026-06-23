@@ -10,7 +10,7 @@
     "date": "2018-06-01",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2018/ITA_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:27:27Z"
+    "parsed_at": "2026-06-23T00:44:32Z"
   },
   "riders": [
     {
@@ -3343,7 +3343,20 @@
         "best_t4": 25.429,
         "top_speed_kmh": 197.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 13,
+          "time": "1'58.750",
+          "time_sec": 118.75,
+          "t1": 32.872,
+          "t2": 23.915,
+          "t3": 36.534,
+          "t4": 25.429,
+          "top_speed_kmh": 197.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 24,

@@ -10,7 +10,7 @@
     "date": "2023-03-24",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2023/POR_MGP_P1.pdf",
-    "parsed_at": "2026-06-21T18:27:10Z"
+    "parsed_at": "2026-06-23T00:44:13Z"
   },
   "riders": [
     {
@@ -1155,7 +1155,32 @@
         "best_t4": 32.06,
         "top_speed_kmh": 340.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'40.659",
+          "time_sec": 100.659,
+          "t1": 20.948,
+          "t2": 32.361,
+          "t3": 15.29,
+          "t4": 32.06,
+          "top_speed_kmh": 340.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'48.025",
+          "time_sec": 108.025,
+          "t1": 23.417,
+          "t2": 35.04,
+          "t3": 15.764,
+          "t4": 33.804,
+          "top_speed_kmh": 332.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 8,

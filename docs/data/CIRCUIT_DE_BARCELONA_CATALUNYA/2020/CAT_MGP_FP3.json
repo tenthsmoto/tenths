@@ -10,7 +10,7 @@
     "date": "2020-09-26",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2020/CAT_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:30:44Z"
+    "parsed_at": "2026-06-23T00:47:55Z"
   },
   "riders": [
     {
@@ -1096,7 +1096,56 @@
         "best_t4": 30.745,
         "top_speed_kmh": 345.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 18,
+          "time": "5'10.917",
+          "time_sec": 310.917,
+          "t1": 19.316,
+          "t2": 35.531,
+          "t3": 21.941,
+          "t4": 33.898,
+          "top_speed_kmh": 224.0,
+          "type": "Out"
+        },
+        {
+          "run": 3,
+          "lap": 19,
+          "time": "1'45.922",
+          "time_sec": 105.922,
+          "t1": 17.193,
+          "t2": 32.467,
+          "t3": 20.938,
+          "t4": 35.324,
+          "top_speed_kmh": 342.8,
+          "type": "Cancelled"
+        },
+        {
+          "run": 3,
+          "lap": 20,
+          "time": "1'43.962",
+          "time_sec": 103.962,
+          "t1": 17.045,
+          "t2": 31.747,
+          "t3": 23.16,
+          "t4": 32.01,
+          "top_speed_kmh": 348.3,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 21,
+          "time": "1'39.955",
+          "time_sec": 99.955,
+          "t1": 17.019,
+          "t2": 31.6,
+          "t3": 20.553,
+          "t4": 30.783,
+          "top_speed_kmh": 348.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,
@@ -2908,7 +2957,56 @@
         "best_t4": 32.919,
         "top_speed_kmh": 212.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'10.420",
+          "time_sec": 130.42,
+          "t1": 19.663,
+          "t2": 34.521,
+          "t3": 22.003,
+          "t4": 32.919,
+          "top_speed_kmh": 212.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "8'18.020",
+          "time_sec": 498.02,
+          "t1": 18.885,
+          "t2": 32.725,
+          "t3": 21.366,
+          "t4": 31.204,
+          "top_speed_kmh": 200.0,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'44.556",
+          "time_sec": 104.556,
+          "t1": 18.234,
+          "t2": 33.692,
+          "t3": 20.919,
+          "t4": 31.711,
+          "top_speed_kmh": 324.3,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'58.541",
+          "time_sec": 118.541,
+          "t1": 17.813,
+          "t2": 34.605,
+          "t3": 22.937,
+          "t4": 43.186,
+          "top_speed_kmh": 323.3,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 18,

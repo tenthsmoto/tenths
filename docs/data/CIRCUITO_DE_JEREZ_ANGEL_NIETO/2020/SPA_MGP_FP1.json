@@ -10,7 +10,7 @@
     "date": "2020-07-17",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2020/SPA_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:29:40Z"
+    "parsed_at": "2026-06-23T00:46:52Z"
   },
   "riders": [
     {
@@ -1582,7 +1582,68 @@
         "best_t4": 29.895,
         "top_speed_kmh": 287.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 17,
+          "time": "1'46.571",
+          "time_sec": 106.571,
+          "t1": 28.159,
+          "t2": 14.701,
+          "t3": 30.137,
+          "t4": 33.574,
+          "top_speed_kmh": 283.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 18,
+          "time": "1'38.103",
+          "time_sec": 98.103,
+          "t1": 24.648,
+          "t2": 14.349,
+          "t3": 29.297,
+          "t4": 29.809,
+          "top_speed_kmh": 289.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 19,
+          "time": "1'53.073",
+          "time_sec": 113.073,
+          "t1": 24.342,
+          "t2": 14.217,
+          "t3": 44.062,
+          "t4": 30.452,
+          "top_speed_kmh": 291.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 20,
+          "time": "1'37.940",
+          "time_sec": 97.94,
+          "t1": 24.345,
+          "t2": 14.35,
+          "t3": 29.35,
+          "t4": 29.895,
+          "top_speed_kmh": 287.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 21,
+          "time": "1'50.737",
+          "time_sec": 110.737,
+          "t1": 31.398,
+          "t2": 16.182,
+          "t3": 31.424,
+          "t4": 31.733,
+          "top_speed_kmh": 255.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

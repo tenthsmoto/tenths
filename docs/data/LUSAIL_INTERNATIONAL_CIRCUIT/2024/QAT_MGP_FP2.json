@@ -10,7 +10,7 @@
     "date": "2024-03-08",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2024/QAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:34:19Z"
+    "parsed_at": "2026-06-23T00:51:37Z"
   },
   "riders": [
     {
@@ -2534,7 +2534,68 @@
         "best_t4": 31.999,
         "top_speed_kmh": 326.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 9,
+          "time": "7'31.690",
+          "time_sec": 451.69,
+          "t1": 32.501,
+          "t2": 36.847,
+          "t3": 33.173,
+          "t4": 32.821,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 3,
+          "lap": 10,
+          "time": "2'17.640",
+          "time_sec": 137.64,
+          "t1": 32.715,
+          "t2": 35.762,
+          "t3": 32.566,
+          "t4": 36.597,
+          "top_speed_kmh": 326.2,
+          "type": "Pit In"
+        },
+        {
+          "run": 4,
+          "lap": 11,
+          "time": "4'54.230",
+          "time_sec": 294.23,
+          "t1": 31.284,
+          "t2": 35.493,
+          "t3": 31.665,
+          "t4": 32.026,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 4,
+          "lap": 12,
+          "time": "2'12.412",
+          "time_sec": 132.412,
+          "t1": 31.989,
+          "t2": 35.683,
+          "t3": 31.926,
+          "t4": 32.814,
+          "top_speed_kmh": 328.2,
+          "type": "Cancelled"
+        },
+        {
+          "run": 4,
+          "lap": 13,
+          "time": "2'14.433",
+          "time_sec": 134.433,
+          "t1": 32.086,
+          "t2": 35.836,
+          "t3": 32.716,
+          "t4": 33.795,
+          "top_speed_kmh": 299.1,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 20,

@@ -10,7 +10,7 @@
     "date": "2023-11-18",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2023/QAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:34:12Z"
+    "parsed_at": "2026-06-23T00:51:30Z"
   },
   "riders": [
     {
@@ -1080,7 +1080,44 @@
         "best_t4": 28.041,
         "top_speed_kmh": 342.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "6'06.379",
+          "time_sec": 366.379,
+          "t1": 29.994,
+          "t2": 31.994,
+          "t3": 28.099,
+          "t4": 28.435,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "8'41.657",
+          "time_sec": 521.657,
+          "t1": 30.641,
+          "t2": 31.457,
+          "t3": 27.741,
+          "t4": 28.405,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'54.069",
+          "time_sec": 114.069,
+          "t1": 27.984,
+          "t2": 30.623,
+          "t3": 27.421,
+          "t4": 28.041,
+          "top_speed_kmh": 342.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,
@@ -2087,7 +2124,32 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'06.799",
+          "time_sec": 126.799,
+          "t1": 28.074,
+          "t2": 30.884,
+          "t3": 37.518,
+          "t4": 30.323,
+          "top_speed_kmh": 342.8,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "2'02.910",
+          "time_sec": 122.91,
+          "t1": 32.584,
+          "t2": 32.712,
+          "t3": 28.875,
+          "t4": 28.739,
+          "top_speed_kmh": 336.4,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 21,

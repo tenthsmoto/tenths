@@ -10,7 +10,7 @@
     "date": "2018-08-11",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2018/AUT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:38:44Z"
+    "parsed_at": "2026-06-23T00:56:11Z"
   },
   "riders": [
     {
@@ -972,7 +972,32 @@
         "best_t4": 16.45,
         "top_speed_kmh": 305.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'43.506",
+          "time_sec": 103.506,
+          "t1": 10.29,
+          "t2": 28.801,
+          "t3": 24.797,
+          "t4": 16.619,
+          "top_speed_kmh": 275.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'24.234",
+          "time_sec": 84.234,
+          "t1": 17.427,
+          "t2": 26.664,
+          "t3": 23.693,
+          "t4": 16.45,
+          "top_speed_kmh": 305.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

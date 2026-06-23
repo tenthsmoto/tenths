@@ -10,7 +10,7 @@
     "date": "2021-06-25",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2021/NED_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:41:28Z"
+    "parsed_at": "2026-06-23T00:58:54Z"
   },
   "riders": [
     {
@@ -2350,7 +2350,44 @@
         "best_t4": 25.073,
         "top_speed_kmh": 288.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'52.085",
+          "time_sec": 112.085,
+          "t1": 36.161,
+          "t2": 17.239,
+          "t3": 32.104,
+          "t4": 26.581,
+          "top_speed_kmh": 270.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'48.212",
+          "time_sec": 108.212,
+          "t1": 34.765,
+          "t2": 16.447,
+          "t3": 31.239,
+          "t4": 25.761,
+          "top_speed_kmh": 276.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'46.784",
+          "time_sec": 106.784,
+          "t1": 34.516,
+          "t2": 16.228,
+          "t3": 30.967,
+          "t4": 25.073,
+          "top_speed_kmh": 288.0,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

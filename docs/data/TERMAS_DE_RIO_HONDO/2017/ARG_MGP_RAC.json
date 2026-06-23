@@ -10,7 +10,7 @@
     "date": "2017-04-09",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2017/ARG_MGP_RAC.pdf",
-    "parsed_at": "2026-06-21T18:40:49Z"
+    "parsed_at": "2026-06-23T00:58:16Z"
   },
   "riders": [
     {
@@ -84,7 +84,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": null,
@@ -150,7 +150,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": null,
@@ -172,7 +172,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": null,
@@ -194,7 +194,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": null,
@@ -216,7 +216,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea C",
       "summary": {
         "runs": null,
@@ -238,7 +238,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": null,
@@ -260,7 +260,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": null,
@@ -282,7 +282,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": null,

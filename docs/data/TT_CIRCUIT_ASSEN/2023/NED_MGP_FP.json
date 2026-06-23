@@ -10,7 +10,7 @@
     "date": "2023-06-24",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2023/NED_MGP_FP.pdf",
-    "parsed_at": "2026-06-21T18:41:36Z"
+    "parsed_at": "2026-06-23T00:59:02Z"
   },
   "riders": [
     {
@@ -439,7 +439,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "7'48.672",
+          "time_sec": 468.672,
+          "t1": 31.175,
+          "t2": 14.477,
+          "t3": 27.67,
+          "t4": 22.98,
+          "top_speed_kmh": 299.2,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 4,
@@ -3466,7 +3479,56 @@
         "best_t4": 21.877,
         "top_speed_kmh": 297.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "7'52.666",
+          "time_sec": 472.666,
+          "t1": 32.799,
+          "t2": 14.644,
+          "t3": 32.29,
+          "t4": 24.463,
+          "top_speed_kmh": 295.6,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "1'35.021",
+          "time_sec": 95.021,
+          "t1": 31.334,
+          "t2": 14.226,
+          "t3": 27.584,
+          "t4": 21.877,
+          "top_speed_kmh": 297.8,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 10,
+          "time": "1'41.286",
+          "time_sec": 101.286,
+          "t1": 31.203,
+          "t2": 17.001,
+          "t3": 30.804,
+          "t4": 22.278,
+          "top_speed_kmh": 300.7,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "1'46.379",
+          "time_sec": 106.379,
+          "t1": 39.086,
+          "t2": 14.443,
+          "t3": 30.715,
+          "t4": 22.135,
+          "top_speed_kmh": 298.5,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,7 @@
     "date": "2023-11-28",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2024/VC1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:32:44Z"
+    "parsed_at": "2026-06-23T00:49:58Z"
   },
   "riders": [
     {
@@ -964,7 +964,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 13,
@@ -986,7 +986,7 @@
       "number": "93",
       "name": "Marc Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 8,
@@ -1728,7 +1728,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 12,
@@ -2183,7 +2183,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "GIANNANT Mooney VR46 Racing",
       "summary": {
         "runs": 12,
@@ -4888,7 +4888,7 @@
       "number": "37",
       "name": "Augusto Fernand",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "KTM",
       "team": "GASGAS Factory Rac",
       "summary": {
         "runs": 12,
@@ -5403,7 +5403,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing S",
       "summary": {
         "runs": 13,
@@ -5570,7 +5570,7 @@
       "number": "21",
       "name": "Franco Morbidel",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 10,
@@ -5819,7 +5819,7 @@
       "number": "31",
       "name": "Pedro Acosta",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "GASGAS Factory Rac S",
       "summary": {
         "runs": 10,

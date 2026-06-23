@@ -10,7 +10,7 @@
     "date": "2019-08-30",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2019/RSMT1_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:34:42Z"
+    "parsed_at": "2026-06-23T00:52:01Z"
   },
   "riders": [
     {
@@ -759,7 +759,7 @@
       "number": "46",
       "name": "Valentino Rossi",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 8,
@@ -1226,7 +1226,7 @@
       "number": "12",
       "name": "Maverick Viñales",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 10,
@@ -1345,7 +1345,7 @@
       "number": "63",
       "name": "Francesco Bagnai",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 3,

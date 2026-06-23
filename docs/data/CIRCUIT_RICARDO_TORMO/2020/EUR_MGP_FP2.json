@@ -10,7 +10,7 @@
     "date": "2020-11-06",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2020/EUR_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:32:21Z"
+    "parsed_at": "2026-06-23T00:49:34Z"
   },
   "riders": [
     {
@@ -4346,7 +4346,32 @@
         "best_t4": 26.386,
         "top_speed_kmh": 305.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 14,
+          "time": "1'37.708",
+          "time_sec": 97.708,
+          "t1": 22.279,
+          "t2": 26.026,
+          "t3": 23.305,
+          "t4": 26.098,
+          "top_speed_kmh": 306.9,
+          "type": "Cancelled"
+        },
+        {
+          "run": 3,
+          "lap": 16,
+          "time": "1'50.847",
+          "time_sec": 110.847,
+          "t1": 22.272,
+          "t2": 25.549,
+          "t3": 36.64,
+          "t4": 26.386,
+          "top_speed_kmh": 305.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 21,

@@ -10,7 +10,7 @@
     "date": "2018-05-20",
     "class": "MotoGP",
     "source_file": "LE_MANS/2018/FRA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:33:10Z"
+    "parsed_at": "2026-06-23T00:50:25Z"
   },
   "riders": [
     {
@@ -1177,7 +1177,20 @@
         "best_t4": 26.01,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'08.234",
+          "time_sec": 128.234,
+          "t1": 17.253,
+          "t2": 23.904,
+          "t3": 27.664,
+          "t4": 26.01,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 10,
@@ -1199,7 +1212,20 @@
         "best_t4": 26.261,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'37.558",
+          "time_sec": 157.558,
+          "t1": 17.121,
+          "t2": 24.418,
+          "t3": 28.58,
+          "t4": 26.261,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 11,
@@ -1781,7 +1807,20 @@
         "best_t4": 25.888,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'22.550",
+          "time_sec": 142.55,
+          "t1": 15.724,
+          "t2": 23.128,
+          "t3": 27.188,
+          "t4": 25.888,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,
@@ -1803,7 +1842,20 @@
         "best_t4": 26.328,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'40.031",
+          "time_sec": 160.031,
+          "t1": 17.957,
+          "t2": 24.003,
+          "t3": 27.939,
+          "t4": 26.328,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 17,

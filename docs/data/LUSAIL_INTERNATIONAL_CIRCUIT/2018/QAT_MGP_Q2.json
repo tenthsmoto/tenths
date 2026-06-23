@@ -10,7 +10,7 @@
     "date": "2018-03-17",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2018/QAT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:33:54Z"
+    "parsed_at": "2026-06-23T00:51:10Z"
   },
   "riders": [
     {
@@ -232,7 +232,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing",
       "summary": {
         "runs": 2,
@@ -837,7 +837,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing A",
       "summary": {
         "runs": 2,

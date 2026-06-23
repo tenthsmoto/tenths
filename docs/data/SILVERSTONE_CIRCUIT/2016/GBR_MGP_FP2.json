@@ -10,7 +10,7 @@
     "date": "2016-09-02",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2016/GBR_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:40:09Z"
+    "parsed_at": "2026-06-23T00:57:36Z"
   },
   "riders": [
     {
@@ -1425,7 +1425,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 3,
@@ -1783,7 +1783,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 3,
@@ -1926,7 +1926,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 3,
@@ -2129,7 +2129,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar Tea",
       "summary": {
         "runs": 4,
@@ -2308,7 +2308,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 3,
@@ -2475,7 +2475,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaCOL",
       "summary": {
         "runs": 3,
@@ -2666,7 +2666,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 3,
@@ -3346,7 +3346,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M S",
       "summary": {
         "runs": 3,

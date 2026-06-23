@@ -10,7 +10,7 @@
     "date": "2024-09-21",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2024/EMI_MGP_SPR.pdf",
-    "parsed_at": "2026-06-21T18:35:24Z"
+    "parsed_at": "2026-06-23T00:52:45Z"
   },
   "riders": [
     {
@@ -1221,7 +1221,32 @@
         "best_t4": 20.469,
         "top_speed_kmh": 29.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'32.044",
+          "time_sec": 92.044,
+          "t1": 25.972,
+          "t2": 20.444,
+          "t3": 25.093,
+          "t4": 20.535,
+          "top_speed_kmh": 29.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'31.536",
+          "time_sec": 91.536,
+          "t1": 25.838,
+          "t2": 20.267,
+          "t3": 24.962,
+          "t4": 20.469,
+          "top_speed_kmh": 29.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

@@ -10,7 +10,7 @@
     "date": "2024-11-19",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2025/BCN_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:31:13Z"
+    "parsed_at": "2026-06-23T00:48:25Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 13,
@@ -485,7 +485,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 17,
@@ -2506,7 +2506,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama S",
       "summary": {
         "runs": 13,
@@ -4727,7 +4727,7 @@
       "number": "88",
       "name": "Miguel Oliveira",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Prima Pramac Yamah P",
       "summary": {
         "runs": 14,
@@ -6440,7 +6440,7 @@
       "number": "54",
       "name": "Fermin Aldeguer",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 13,
@@ -6990,7 +6990,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Prima Pramac Yamah A",
       "summary": {
         "runs": 14,

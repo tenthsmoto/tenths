@@ -10,7 +10,7 @@
     "date": "2019-09-22",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2019/ARA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:36:25Z"
+    "parsed_at": "2026-06-23T00:53:47Z"
   },
   "riders": [
     {
@@ -943,7 +943,20 @@
         "best_t4": 29.58,
         "top_speed_kmh": 300.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'33.927",
+          "time_sec": 153.927,
+          "t1": 36.148,
+          "t2": 38.586,
+          "t3": 25.589,
+          "t4": 29.58,
+          "top_speed_kmh": 300.1,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 13,
@@ -1592,7 +1605,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 2,
+          "time": "19'11.969",
+          "time_sec": 1151.969,
+          "t1": 59.61,
+          "t2": 46.932,
+          "t3": 23.073,
+          "t4": 27.152,
+          "top_speed_kmh": 326.3,
+          "type": "Out"
+        }
+      ]
     }
   ]
 }

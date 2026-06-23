@@ -10,7 +10,7 @@
     "date": "2017-06-11",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2017/CAT_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:30:32Z"
+    "parsed_at": "2026-06-23T00:47:43Z"
   },
   "riders": [
     {
@@ -161,7 +161,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 1,
@@ -447,7 +447,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 1,
@@ -670,7 +670,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 1,
@@ -1182,7 +1182,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 1,
@@ -1270,7 +1270,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 1,
@@ -1794,7 +1794,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "CZE",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 4,
@@ -1816,7 +1816,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 1,
@@ -1851,7 +1851,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 1,

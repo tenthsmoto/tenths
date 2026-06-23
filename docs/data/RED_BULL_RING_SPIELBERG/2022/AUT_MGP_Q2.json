@@ -10,7 +10,7 @@
     "date": "2022-08-20",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2022/AUT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:39:13Z"
+    "parsed_at": "2026-06-23T00:56:40Z"
   },
   "riders": [
     {
@@ -366,7 +366,32 @@
         "best_t4": 16.565,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'20.470",
+          "time_sec": 140.47,
+          "t1": 15.057,
+          "t2": 26.282,
+          "t3": 24.513,
+          "t4": 16.565,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "4'52.900",
+          "time_sec": 292.9,
+          "t1": 17.567,
+          "t2": 25.738,
+          "t3": 24.478,
+          "t4": 18.18,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 5,
@@ -388,7 +413,32 @@
         "best_t4": 16.635,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'54.949",
+          "time_sec": 174.949,
+          "t1": 17.697,
+          "t2": 26.338,
+          "t3": 24.619,
+          "t4": 16.635,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'38.029",
+          "time_sec": 98.029,
+          "t1": 24.375,
+          "t2": 26.496,
+          "t3": 24.939,
+          "t4": 22.219,
+          "top_speed_kmh": 309.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 6,
@@ -410,7 +460,44 @@
         "best_t4": 16.29,
         "top_speed_kmh": 31.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "3'02.283",
+          "time_sec": 182.283,
+          "t1": 18.908,
+          "t2": 26.643,
+          "t3": 24.519,
+          "t4": 16.515,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'41.950",
+          "time_sec": 101.95,
+          "t1": 27.428,
+          "t2": 26.538,
+          "t3": 25.8,
+          "t4": 22.184,
+          "top_speed_kmh": 311.6,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'29.231",
+          "time_sec": 89.231,
+          "t1": 24.359,
+          "t2": 24.872,
+          "t3": 23.71,
+          "t4": 16.29,
+          "top_speed_kmh": 31.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

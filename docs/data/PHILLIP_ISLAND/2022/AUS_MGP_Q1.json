@@ -10,7 +10,7 @@
     "date": "2022-10-15",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2022/AUS_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:38:20Z"
+    "parsed_at": "2026-06-23T00:55:46Z"
   },
   "riders": [
     {
@@ -330,7 +330,32 @@
         "best_t4": 24.656,
         "top_speed_kmh": 346.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'53.286",
+          "time_sec": 113.286,
+          "t1": 32.698,
+          "t2": 26.653,
+          "t3": 17.643,
+          "t4": 24.737,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'28.492",
+          "time_sec": 88.492,
+          "t1": 21.02,
+          "t2": 25.722,
+          "t3": 17.094,
+          "t4": 24.656,
+          "top_speed_kmh": 346.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,
@@ -352,7 +377,44 @@
         "best_t4": 30.259,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'33.403",
+          "time_sec": 153.403,
+          "t1": 33.2,
+          "t2": 26.977,
+          "t3": 22.46,
+          "t4": 30.259,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'27.296",
+          "time_sec": 87.296,
+          "t1": 22.27,
+          "t2": 26.715,
+          "t3": 17.578,
+          "t4": 20.733,
+          "top_speed_kmh": 349.5,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'28.385",
+          "time_sec": 88.385,
+          "t1": 21.004,
+          "t2": 25.674,
+          "t3": 17.092,
+          "t4": 24.615,
+          "top_speed_kmh": 347.3,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 6,

@@ -10,7 +10,7 @@
     "date": "2016-10-29",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2016/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:37:15Z"
+    "parsed_at": "2026-06-23T00:54:39Z"
   },
   "riders": [
     {
@@ -789,7 +789,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 1,
@@ -943,7 +943,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 2,

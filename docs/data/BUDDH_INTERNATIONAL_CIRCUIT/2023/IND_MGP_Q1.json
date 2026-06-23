@@ -10,7 +10,7 @@
     "date": "2023-09-23",
     "class": "MotoGP",
     "source_file": "BUDDH_INTERNATIONAL_CIRCUIT/2023/IND_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:28:39Z"
+    "parsed_at": "2026-06-23T00:45:48Z"
   },
   "riders": [
     {
@@ -376,7 +376,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'52.129",
+          "time_sec": 112.129,
+          "t1": 33.413,
+          "t2": 36.365,
+          "t3": 23.308,
+          "t4": 19.043,
+          "top_speed_kmh": 334.8,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 6,

@@ -10,7 +10,7 @@
     "date": "2021-05-03",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2021/ES1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:29:45Z"
+    "parsed_at": "2026-06-23T00:46:57Z"
   },
   "riders": [
     {
@@ -1874,7 +1874,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 13,
@@ -2565,7 +2565,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "SKY VR46 Avintia",
       "summary": {
         "runs": 12,
@@ -4408,7 +4408,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Esponsorama",
       "summary": {
         "runs": 10,
@@ -6402,7 +6402,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing S",
       "summary": {
         "runs": 6,

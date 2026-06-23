@@ -10,7 +10,7 @@
     "date": "2017-10-13",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2017/JPN_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:35:42Z"
+    "parsed_at": "2026-06-23T00:53:03Z"
   },
   "riders": [
     {
@@ -793,7 +793,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -2357,7 +2357,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 3,
@@ -2536,7 +2536,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea C",
       "summary": {
         "runs": 3,
@@ -2751,7 +2751,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea S",
       "summary": {
         "runs": 2,
@@ -3515,7 +3515,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing F",
       "summary": {
         "runs": 2,
@@ -3742,7 +3742,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 3,
@@ -3885,7 +3885,7 @@
       "number": "7",
       "name": "Hiroshi Aoyama",
       "nationality": "JPN",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 3,
@@ -3980,7 +3980,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,

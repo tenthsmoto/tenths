@@ -10,7 +10,7 @@
     "date": "2022-10-22",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2022/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:37:30Z"
+    "parsed_at": "2026-06-23T00:54:55Z"
   },
   "riders": [
     {
@@ -401,7 +401,56 @@
         "best_t4": 29.844,
         "top_speed_kmh": 331.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'55.831",
+          "time_sec": 175.831,
+          "t1": 26.032,
+          "t2": 29.137,
+          "t3": 47.404,
+          "t4": 30.717,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.021",
+          "time_sec": 119.021,
+          "t1": 24.689,
+          "t2": 27.382,
+          "t3": 36.957,
+          "t4": 29.993,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'55.810",
+          "time_sec": 175.81,
+          "t1": 24.815,
+          "t2": 28.947,
+          "t3": 38.417,
+          "t4": 30.382,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'58.575",
+          "time_sec": 118.575,
+          "t1": 24.502,
+          "t2": 27.379,
+          "t3": 36.85,
+          "t4": 29.844,
+          "top_speed_kmh": 331.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 6,
@@ -423,7 +472,44 @@
         "best_t4": 30.054,
         "top_speed_kmh": 329.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'23.173",
+          "time_sec": 143.173,
+          "t1": 23.96,
+          "t2": 28.095,
+          "t3": 37.713,
+          "t4": 30.279,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'58.579",
+          "time_sec": 118.579,
+          "t1": 24.44,
+          "t2": 27.111,
+          "t3": 36.974,
+          "t4": 30.054,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'02.666",
+          "time_sec": 122.666,
+          "t1": 24.675,
+          "t2": 27.988,
+          "t3": 39.694,
+          "t4": 30.309,
+          "top_speed_kmh": 325.3,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 7,
@@ -813,7 +899,32 @@
         "best_t4": 30.137,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'24.113",
+          "time_sec": 144.113,
+          "t1": 24.558,
+          "t2": 27.966,
+          "t3": 37.778,
+          "t4": 30.137,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'00.784",
+          "time_sec": 120.784,
+          "t1": 24.712,
+          "t2": 28.227,
+          "t3": 37.576,
+          "t4": 30.269,
+          "top_speed_kmh": 327.2,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 12,
@@ -835,7 +946,32 @@
         "best_t4": 30.936,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "3'10.014",
+          "time_sec": 190.014,
+          "t1": 24.568,
+          "t2": 28.594,
+          "t3": 38.45,
+          "t4": 30.936,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "3'49.715",
+          "time_sec": 229.715,
+          "t1": 24.093,
+          "t2": 27.733,
+          "t3": 38.003,
+          "t4": 30.313,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     }
   ]
 }

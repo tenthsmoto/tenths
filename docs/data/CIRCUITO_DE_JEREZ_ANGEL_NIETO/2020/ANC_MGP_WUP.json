@@ -10,7 +10,7 @@
     "date": "2020-07-26",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2020/ANC_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:29:39Z"
+    "parsed_at": "2026-06-23T00:46:51Z"
   },
   "riders": [
     {
@@ -2281,7 +2281,20 @@
         "best_t4": 30.443,
         "top_speed_kmh": 282.7
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'40.142",
+          "time_sec": 100.142,
+          "t1": 25.22,
+          "t2": 14.606,
+          "t3": 29.873,
+          "t4": 30.443,
+          "top_speed_kmh": 282.7,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 21,

@@ -10,7 +10,7 @@
     "date": "2016-06-25",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2016/NED_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:41:12Z"
+    "parsed_at": "2026-06-23T00:58:39Z"
   },
   "riders": [
     {
@@ -125,7 +125,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP C",
       "summary": {
         "runs": 1,
@@ -232,7 +232,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 2,
@@ -504,7 +504,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": 2,
@@ -561,7 +561,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 1,
@@ -583,7 +583,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M S",
       "summary": {
         "runs": 1,
@@ -714,7 +714,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 1,

@@ -10,7 +10,7 @@
     "date": "2022-10-14",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2022/AUS_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:38:17Z"
+    "parsed_at": "2026-06-23T00:55:43Z"
   },
   "riders": [
     {
@@ -2052,7 +2052,68 @@
         "best_t4": 25.231,
         "top_speed_kmh": 337.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'49.076",
+          "time_sec": 109.076,
+          "t1": 37.093,
+          "t2": 28.333,
+          "t3": 18.091,
+          "t4": 25.559,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'31.623",
+          "time_sec": 91.623,
+          "t1": 21.619,
+          "t2": 27.025,
+          "t3": 17.657,
+          "t4": 25.322,
+          "top_speed_kmh": 346.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'31.166",
+          "time_sec": 91.166,
+          "t1": 21.575,
+          "t2": 26.745,
+          "t3": 17.615,
+          "t4": 25.231,
+          "top_speed_kmh": 337.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'31.627",
+          "time_sec": 91.627,
+          "t1": 21.624,
+          "t2": 26.947,
+          "t3": 17.683,
+          "t4": 25.373,
+          "top_speed_kmh": 344.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'31.175",
+          "time_sec": 91.175,
+          "t1": 21.523,
+          "t2": 26.754,
+          "t3": 17.629,
+          "t4": 25.269,
+          "top_speed_kmh": 342.9,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

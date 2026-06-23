@@ -10,7 +10,7 @@
     "date": "2021-05-15",
     "class": "MotoGP",
     "source_file": "LE_MANS/2021/FRA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:33:21Z"
+    "parsed_at": "2026-06-23T00:50:36Z"
   },
   "riders": [
     {
@@ -378,7 +378,44 @@
         "best_t4": 28.173,
         "top_speed_kmh": 304.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'11.626",
+          "time_sec": 131.626,
+          "t1": 35.437,
+          "t2": 25.427,
+          "t3": 30.341,
+          "t4": 29.067,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'53.631",
+          "time_sec": 113.631,
+          "t1": 23.725,
+          "t2": 23.718,
+          "t3": 38.059,
+          "t4": 28.129,
+          "top_speed_kmh": 302.1,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'43.422",
+          "time_sec": 103.422,
+          "t1": 22.968,
+          "t2": 23.68,
+          "t3": 28.601,
+          "t4": 28.173,
+          "top_speed_kmh": 304.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,
@@ -934,7 +971,20 @@
         "best_t4": 31.191,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'21.960",
+          "time_sec": 141.96,
+          "t1": 35.883,
+          "t2": 26.566,
+          "t3": 31.575,
+          "t4": 31.191,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

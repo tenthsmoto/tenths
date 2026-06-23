@@ -10,7 +10,7 @@
     "date": "2023-05-13",
     "class": "MotoGP",
     "source_file": "LE_MANS/2023/FRA_MGP_SPR.pdf",
-    "parsed_at": "2026-06-21T18:33:31Z"
+    "parsed_at": "2026-06-23T00:50:46Z"
   },
   "riders": [
     {
@@ -1213,7 +1213,20 @@
         "best_t4": 25.809,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'38.786",
+          "time_sec": 98.786,
+          "t1": 25.329,
+          "t2": 21.708,
+          "t3": 25.94,
+          "t4": 25.809,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 10,
@@ -1235,7 +1248,20 @@
         "best_t4": 25.375,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'39.427",
+          "time_sec": 99.427,
+          "t1": 25.745,
+          "t2": 21.839,
+          "t3": 26.468,
+          "t4": 25.375,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,
@@ -1257,7 +1283,44 @@
         "best_t4": 24.696,
         "top_speed_kmh": 30.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'39.799",
+          "time_sec": 99.799,
+          "t1": 25.926,
+          "t2": 21.807,
+          "t3": 26.653,
+          "t4": 25.413,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'32.892",
+          "time_sec": 92.892,
+          "t1": 21.155,
+          "t2": 21.288,
+          "t3": 25.707,
+          "t4": 24.742,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'32.743",
+          "time_sec": 92.743,
+          "t1": 21.127,
+          "t2": 21.361,
+          "t3": 25.559,
+          "t4": 24.696,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,
@@ -1792,7 +1855,20 @@
         "best_t4": 24.952,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'37.811",
+          "time_sec": 97.811,
+          "t1": 25.258,
+          "t2": 21.734,
+          "t3": 25.867,
+          "t4": 24.952,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,
@@ -1814,7 +1890,20 @@
         "best_t4": 25.349,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'40.374",
+          "time_sec": 100.374,
+          "t1": 26.263,
+          "t2": 22.005,
+          "t3": 26.757,
+          "t4": 25.349,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,
@@ -1836,7 +1925,44 @@
         "best_t4": 24.894,
         "top_speed_kmh": 30.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'40.560",
+          "time_sec": 100.56,
+          "t1": 26.535,
+          "t2": 22.137,
+          "t3": 26.473,
+          "t4": 25.415,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'33.732",
+          "time_sec": 93.732,
+          "t1": 21.333,
+          "t2": 21.772,
+          "t3": 25.733,
+          "t4": 24.894,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'33.854",
+          "time_sec": 93.854,
+          "t1": 21.364,
+          "t2": 21.503,
+          "t3": 25.87,
+          "t4": 25.117,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 18,

@@ -10,7 +10,7 @@
     "date": "2016-09-24",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2016/ARA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:36:10Z"
+    "parsed_at": "2026-06-23T00:53:33Z"
   },
   "riders": [
     {
@@ -697,7 +697,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 3,
@@ -1220,7 +1220,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 3,
@@ -1242,7 +1242,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaCOL",
       "summary": {
         "runs": 4,
@@ -1779,7 +1779,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 4,
@@ -1898,7 +1898,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar Tea",
       "summary": {
         "runs": 3,
@@ -2196,7 +2196,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M S",
       "summary": {
         "runs": 3,
@@ -2542,7 +2542,7 @@
       "number": "69",
       "name": "Nicky Hayden",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M U",
       "summary": {
         "runs": 3,
@@ -2721,7 +2721,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 3,

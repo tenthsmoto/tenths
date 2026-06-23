@@ -10,7 +10,7 @@
     "date": "2016-04-09",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2016/AME_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:31:27Z"
+    "parsed_at": "2026-06-23T00:48:38Z"
   },
   "riders": [
     {
@@ -717,7 +717,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 2,
@@ -895,7 +895,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": 2,

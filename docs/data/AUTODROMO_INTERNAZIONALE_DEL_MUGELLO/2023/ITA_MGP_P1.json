@@ -10,7 +10,7 @@
     "date": "2023-06-09",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2023/ITA_MGP_P1.pdf",
-    "parsed_at": "2026-06-21T18:27:45Z"
+    "parsed_at": "2026-06-23T00:44:51Z"
   },
   "riders": [
     {
@@ -2508,7 +2508,128 @@
         "best_t4": 24.411,
         "top_speed_kmh": 34.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "1'57.014",
+          "time_sec": 117.014,
+          "t1": 31.716,
+          "t2": 24.12,
+          "t3": 36.304,
+          "t4": 24.874,
+          "top_speed_kmh": 17.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'49.560",
+          "time_sec": 109.56,
+          "t1": 25.712,
+          "t2": 23.302,
+          "t3": 35.755,
+          "t4": 24.791,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "1'49.048",
+          "time_sec": 109.048,
+          "t1": 25.432,
+          "t2": 23.363,
+          "t3": 35.626,
+          "t4": 24.627,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 10,
+          "time": "1'48.377",
+          "time_sec": 108.377,
+          "t1": 25.335,
+          "t2": 23.029,
+          "t3": 35.396,
+          "t4": 24.617,
+          "top_speed_kmh": 34.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "1'48.413",
+          "time_sec": 108.413,
+          "t1": 25.264,
+          "t2": 22.917,
+          "t3": 35.659,
+          "t4": 24.573,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 12,
+          "time": "1'55.452",
+          "time_sec": 115.452,
+          "t1": 25.356,
+          "t2": 22.979,
+          "t3": 38.829,
+          "t4": 28.288,
+          "top_speed_kmh": 34.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 3,
+          "lap": 13,
+          "time": "1'55.549",
+          "time_sec": 115.549,
+          "t1": 30.946,
+          "t2": 23.84,
+          "t3": 36.134,
+          "t4": 24.629,
+          "top_speed_kmh": 19.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 14,
+          "time": "1'47.760",
+          "time_sec": 107.76,
+          "t1": 25.335,
+          "t2": 22.835,
+          "t3": 35.205,
+          "t4": 24.385,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 15,
+          "time": "1'47.614",
+          "time_sec": 107.614,
+          "t1": 25.194,
+          "t2": 22.777,
+          "t3": 35.232,
+          "t4": 24.411,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 16,
+          "time": "2'18.748",
+          "time_sec": 138.748,
+          "t1": 46.324,
+          "t2": 26.861,
+          "t3": 39.442,
+          "t4": 26.121,
+          "top_speed_kmh": 34.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 21,

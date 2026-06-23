@@ -10,7 +10,7 @@
     "date": "2017-08-05",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2017/CZE_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:28:06Z"
+    "parsed_at": "2026-06-23T00:45:13Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -77,7 +77,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea S",
       "summary": {
         "runs": 2,
@@ -314,7 +314,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 2,
@@ -397,7 +397,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 1,
@@ -419,7 +419,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "CZE",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 2,
@@ -571,7 +571,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,
@@ -665,7 +665,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 2,

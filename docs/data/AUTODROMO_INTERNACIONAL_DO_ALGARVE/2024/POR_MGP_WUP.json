@@ -10,7 +10,7 @@
     "date": "2024-03-24",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2024/POR_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:27:16Z"
+    "parsed_at": "2026-06-23T00:44:20Z"
   },
   "riders": [
     {
@@ -1196,7 +1196,32 @@
         "best_t4": 31.729,
         "top_speed_kmh": 341.7
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'56.707",
+          "time_sec": 116.707,
+          "t1": 26.778,
+          "t2": 37.755,
+          "t3": 19.598,
+          "t4": 32.576,
+          "top_speed_kmh": 334.3,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'39.742",
+          "time_sec": 99.742,
+          "t1": 21.023,
+          "t2": 31.82,
+          "t3": 15.17,
+          "t4": 31.729,
+          "top_speed_kmh": 341.7,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 15,
@@ -1218,7 +1243,32 @@
         "best_t4": 31.892,
         "top_speed_kmh": 336.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'39.921",
+          "time_sec": 99.921,
+          "t1": 20.859,
+          "t2": 31.88,
+          "t3": 15.186,
+          "t4": 31.996,
+          "top_speed_kmh": 336.4,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'39.785",
+          "time_sec": 99.785,
+          "t1": 20.957,
+          "t2": 31.794,
+          "t3": 15.142,
+          "t4": 31.892,
+          "top_speed_kmh": 336.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,
@@ -1240,7 +1290,32 @@
         "best_t4": 31.824,
         "top_speed_kmh": 339.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'40.172",
+          "time_sec": 100.172,
+          "t1": 21.12,
+          "t2": 31.962,
+          "t3": 15.243,
+          "t4": 31.847,
+          "top_speed_kmh": 338.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'39.793",
+          "time_sec": 99.793,
+          "t1": 20.865,
+          "t2": 31.956,
+          "t3": 15.148,
+          "t4": 31.824,
+          "top_speed_kmh": 339.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,
@@ -1262,7 +1337,32 @@
         "best_t4": 31.862,
         "top_speed_kmh": 340.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'40.935",
+          "time_sec": 100.935,
+          "t1": 21.135,
+          "t2": 31.999,
+          "t3": 15.426,
+          "t4": 32.375,
+          "top_speed_kmh": 339.6,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'39.818",
+          "time_sec": 99.818,
+          "t1": 20.808,
+          "t2": 31.988,
+          "t3": 15.16,
+          "t4": 31.862,
+          "top_speed_kmh": 340.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 18,

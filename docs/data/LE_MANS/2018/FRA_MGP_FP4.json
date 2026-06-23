@@ -10,7 +10,7 @@
     "date": "2018-05-19",
     "class": "MotoGP",
     "source_file": "LE_MANS/2018/FRA_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:33:08Z"
+    "parsed_at": "2026-06-23T00:50:23Z"
   },
   "riders": [
     {
@@ -449,7 +449,80 @@
         "best_t4": 24.545,
         "top_speed_kmh": 295.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'15.310",
+          "time_sec": 135.31,
+          "t1": 17.077,
+          "t2": 23.528,
+          "t3": 27.18,
+          "t4": 25.474,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "5'56.511",
+          "time_sec": 356.511,
+          "t1": 15.926,
+          "t2": 22.378,
+          "t3": 26.733,
+          "t4": 25.227,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 14,
+          "time": "1'33.124",
+          "time_sec": 93.124,
+          "t1": 21.257,
+          "t2": 21.064,
+          "t3": 25.595,
+          "t4": 25.208,
+          "top_speed_kmh": 296.9,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 15,
+          "time": "1'32.869",
+          "time_sec": 92.869,
+          "t1": 21.409,
+          "t2": 21.112,
+          "t3": 25.636,
+          "t4": 24.712,
+          "top_speed_kmh": 296.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 16,
+          "time": "1'32.448",
+          "time_sec": 92.448,
+          "t1": 21.332,
+          "t2": 21.02,
+          "t3": 25.551,
+          "t4": 24.545,
+          "top_speed_kmh": 295.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 17,
+          "time": "1'33.526",
+          "time_sec": 93.526,
+          "t1": 21.301,
+          "t2": 21.232,
+          "t3": 25.976,
+          "t4": 25.017,
+          "top_speed_kmh": 296.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

@@ -10,7 +10,7 @@
     "date": "2017-04-22",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2017/AME_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:31:30Z"
+    "parsed_at": "2026-06-23T00:48:41Z"
   },
   "riders": [
     {
@@ -729,7 +729,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -883,7 +883,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 2,

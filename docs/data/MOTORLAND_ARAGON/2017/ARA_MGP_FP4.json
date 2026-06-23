@@ -10,7 +10,7 @@
     "date": "2017-09-23",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2017/ARA_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:36:15Z"
+    "parsed_at": "2026-06-23T00:53:37Z"
   },
   "riders": [
     {
@@ -1163,7 +1163,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea C",
       "summary": {
         "runs": 2,
@@ -1807,7 +1807,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 2,
@@ -2177,7 +2177,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea S",
       "summary": {
         "runs": 3,
@@ -2654,7 +2654,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -2964,7 +2964,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 2,
@@ -3155,7 +3155,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -3337,14 +3337,39 @@
         "best_t4": 26.101,
         "top_speed_kmh": 326.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 14,
+          "time": "1'51.631",
+          "time_sec": 111.631,
+          "t1": 31.803,
+          "t2": 31.529,
+          "t3": 22.198,
+          "t4": 26.101,
+          "top_speed_kmh": 326.1,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 15,
+          "time": "1'59.437",
+          "time_sec": 119.437,
+          "t1": 34.672,
+          "t2": 33.64,
+          "t3": 23.274,
+          "t4": 27.851,
+          "top_speed_kmh": 323.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 22,
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 2,
@@ -3391,7 +3416,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,

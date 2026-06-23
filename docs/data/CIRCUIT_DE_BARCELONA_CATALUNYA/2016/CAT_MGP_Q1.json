@@ -10,7 +10,7 @@
     "date": "2016-06-04",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2016/CAT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:30:27Z"
+    "parsed_at": "2026-06-23T00:47:38Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 2,
@@ -326,7 +326,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 2,
@@ -397,7 +397,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "COL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": 2,
@@ -468,7 +468,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": 2,
@@ -598,7 +598,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 2,
@@ -669,7 +669,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 2,

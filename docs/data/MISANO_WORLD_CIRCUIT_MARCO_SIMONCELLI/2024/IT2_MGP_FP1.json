@@ -10,7 +10,7 @@
     "date": "2024-09-09",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2024/IT2_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:35:25Z"
+    "parsed_at": "2026-06-23T00:52:46Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing S",
       "summary": {
         "runs": 4,
@@ -413,7 +413,7 @@
       "number": "31",
       "name": "Pedro Acosta",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te S",
       "summary": {
         "runs": 5,
@@ -699,7 +699,7 @@
       "number": "93",
       "name": "Marc Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 5,
@@ -1294,7 +1294,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 3,
@@ -1724,7 +1724,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 6,
@@ -2466,7 +2466,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama S",
       "summary": {
         "runs": 6,
@@ -3638,7 +3638,7 @@
       "number": "37",
       "name": "Augusto Fernand",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te S",
       "summary": {
         "runs": 5,
@@ -5131,7 +5131,7 @@
       "number": "6",
       "name": "Stefan Bradl",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "HRC Test Team G",
       "summary": {
         "runs": 5,

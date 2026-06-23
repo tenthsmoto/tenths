@@ -10,7 +10,7 @@
     "date": "2017-10-21",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2017/AUS_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:38:06Z"
+    "parsed_at": "2026-06-23T00:55:32Z"
   },
   "riders": [
     {
@@ -446,7 +446,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,

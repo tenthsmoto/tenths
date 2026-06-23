@@ -10,7 +10,7 @@
     "date": "2022-02-12",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2022/IN1_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:36:54Z"
+    "parsed_at": "2026-06-23T00:54:18Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 11,
@@ -1359,7 +1359,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 12,
@@ -2197,7 +2197,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing F",
       "summary": {
         "runs": 12,
@@ -2724,7 +2724,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 9,
@@ -3322,7 +3322,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing S",
       "summary": {
         "runs": 11,
@@ -4615,7 +4615,7 @@
       "number": "21",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing ITA 1'31.289 25.591 18.539 18.976 28.183",
       "summary": {
         "runs": 12,
@@ -6001,7 +6001,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 10,
@@ -8324,7 +8324,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 10,

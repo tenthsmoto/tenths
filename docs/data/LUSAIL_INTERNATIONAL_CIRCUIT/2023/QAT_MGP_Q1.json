@@ -10,7 +10,7 @@
     "date": "2023-11-18",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2023/QAT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:34:14Z"
+    "parsed_at": "2026-06-23T00:51:31Z"
   },
   "riders": [
     {
@@ -342,7 +342,44 @@
         "best_t4": 27.746,
         "top_speed_kmh": 338.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'02.362",
+          "time_sec": 122.362,
+          "t1": 30.515,
+          "t2": 31.743,
+          "t3": 28.431,
+          "t4": 28.819,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "4'10.448",
+          "time_sec": 250.448,
+          "t1": 27.59,
+          "t2": 30.794,
+          "t3": 27.554,
+          "t4": 27.894,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "1'52.656",
+          "time_sec": 112.656,
+          "t1": 27.741,
+          "t2": 30.1,
+          "t3": 27.069,
+          "t4": 27.746,
+          "top_speed_kmh": 338.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

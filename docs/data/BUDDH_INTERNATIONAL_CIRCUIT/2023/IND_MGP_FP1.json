@@ -10,7 +10,7 @@
     "date": "2023-09-22",
     "class": "MotoGP",
     "source_file": "BUDDH_INTERNATIONAL_CIRCUIT/2023/IND_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:28:37Z"
+    "parsed_at": "2026-06-23T00:45:46Z"
   },
   "riders": [
     {
@@ -4108,7 +4108,56 @@
         "best_t4": 18.628,
         "top_speed_kmh": 341.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 17,
+          "time": "11'38.699",
+          "time_sec": 698.699,
+          "t1": 35.256,
+          "t2": 38.755,
+          "t3": 22.398,
+          "t4": 22.444,
+          "top_speed_kmh": 331.7,
+          "type": "Out"
+        },
+        {
+          "run": 4,
+          "lap": 18,
+          "time": "1'55.069",
+          "time_sec": 115.069,
+          "t1": 34.876,
+          "t2": 36.929,
+          "t3": 22.851,
+          "t4": 20.413,
+          "top_speed_kmh": 334.8,
+          "type": "Flying"
+        },
+        {
+          "run": 4,
+          "lap": 19,
+          "time": "1'51.811",
+          "time_sec": 111.811,
+          "t1": 35.615,
+          "t2": 34.608,
+          "t3": 22.479,
+          "t4": 19.109,
+          "top_speed_kmh": 339.6,
+          "type": "Flying"
+        },
+        {
+          "run": 4,
+          "lap": 20,
+          "time": "1'47.890",
+          "time_sec": 107.89,
+          "t1": 33.654,
+          "t2": 33.838,
+          "t3": 21.77,
+          "t4": 18.628,
+          "top_speed_kmh": 341.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 19,

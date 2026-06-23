@@ -10,7 +10,7 @@
     "date": "2021-09-11",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2021/ARA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:36:36Z"
+    "parsed_at": "2026-06-23T00:53:59Z"
   },
   "riders": [
     {
@@ -354,7 +354,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'01.508",
+          "time_sec": 121.508,
+          "t1": 33.597,
+          "t2": 33.612,
+          "t3": 22.412,
+          "t4": 31.887,
+          "top_speed_kmh": 332.3,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 5,

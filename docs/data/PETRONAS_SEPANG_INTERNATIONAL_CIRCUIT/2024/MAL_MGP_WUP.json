@@ -10,7 +10,7 @@
     "date": "2024-11-03",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2024/MAL_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:37:45Z"
+    "parsed_at": "2026-06-23T00:55:10Z"
   },
   "riders": [
     {
@@ -943,7 +943,20 @@
         "best_t4": 30.463,
         "top_speed_kmh": 326.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.874",
+          "time_sec": 119.874,
+          "t1": 24.909,
+          "t2": 27.481,
+          "t3": 37.021,
+          "t4": 30.463,
+          "top_speed_kmh": 326.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,
@@ -965,7 +978,20 @@
         "best_t4": 30.38,
         "top_speed_kmh": 320.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.936",
+          "time_sec": 119.936,
+          "t1": 24.877,
+          "t2": 27.522,
+          "t3": 37.157,
+          "t4": 30.38,
+          "top_speed_kmh": 320.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,
@@ -987,7 +1013,20 @@
         "best_t4": 30.5,
         "top_speed_kmh": 330.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'00.261",
+          "time_sec": 120.261,
+          "t1": 24.97,
+          "t2": 27.622,
+          "t3": 37.169,
+          "t4": 30.5,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 18,

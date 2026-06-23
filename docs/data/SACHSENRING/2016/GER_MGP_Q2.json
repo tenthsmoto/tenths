@@ -10,7 +10,7 @@
     "date": "2016-07-16",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2016/GER_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:39:30Z"
+    "parsed_at": "2026-06-23T00:56:58Z"
   },
   "riders": [
     {
@@ -125,7 +125,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 2,
@@ -339,7 +339,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 2,
@@ -795,7 +795,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaC",
       "summary": {
         "runs": 2,

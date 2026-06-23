@@ -10,7 +10,7 @@
     "date": "2016-10-22",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2016/AUS_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:38:02Z"
+    "parsed_at": "2026-06-23T00:55:28Z"
   },
   "riders": [
     {
@@ -446,7 +446,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 3,
@@ -468,7 +468,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 3,
@@ -736,7 +736,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 2,

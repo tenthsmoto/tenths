@@ -10,7 +10,7 @@
     "date": "2024-10-04",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2024/JPN_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:36:01Z"
+    "parsed_at": "2026-06-23T00:53:23Z"
   },
   "riders": [
     {
@@ -1600,7 +1600,32 @@
         "best_t4": 31.036,
         "top_speed_kmh": 30.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "2'00.328",
+          "time_sec": 120.328,
+          "t1": 35.643,
+          "t2": 23.698,
+          "t3": 33.953,
+          "t4": 27.034,
+          "top_speed_kmh": 27.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 3,
+          "lap": 10,
+          "time": "1'58.291",
+          "time_sec": 118.291,
+          "t1": 33.837,
+          "t2": 22.088,
+          "t3": 31.33,
+          "t4": 31.036,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 19,

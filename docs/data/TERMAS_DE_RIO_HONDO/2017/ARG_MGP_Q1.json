@@ -10,7 +10,7 @@
     "date": "2017-04-08",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2017/ARG_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:40:48Z"
+    "parsed_at": "2026-06-23T00:58:15Z"
   },
   "riders": [
     {
@@ -386,7 +386,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 2,
@@ -504,7 +504,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 1,
@@ -717,7 +717,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 1,
@@ -824,7 +824,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 2,

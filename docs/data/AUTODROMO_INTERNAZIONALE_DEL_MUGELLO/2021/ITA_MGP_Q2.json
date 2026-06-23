@@ -10,7 +10,7 @@
     "date": "2021-05-29",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2021/ITA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:27:38Z"
+    "parsed_at": "2026-06-23T00:44:43Z"
   },
   "riders": [
     {
@@ -362,7 +362,20 @@
         "best_t4": 24.124,
         "top_speed_kmh": 350.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'46.154",
+          "time_sec": 106.154,
+          "t1": 24.899,
+          "t2": 22.423,
+          "t3": 34.708,
+          "t4": 24.124,
+          "top_speed_kmh": 350.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

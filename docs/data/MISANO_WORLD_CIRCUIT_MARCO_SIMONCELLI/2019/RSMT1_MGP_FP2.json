@@ -10,7 +10,7 @@
     "date": "2019-08-29",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2019/RSMT1_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:34:40Z"
+    "parsed_at": "2026-06-23T00:51:59Z"
   },
   "riders": [
     {
@@ -1623,7 +1623,7 @@
       "number": "12",
       "name": "Maverick Viñales",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 10,
@@ -2162,7 +2162,7 @@
       "number": "46",
       "name": "Valentino Rossi",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 7,
@@ -3549,7 +3549,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 7,
@@ -4541,7 +4541,7 @@
       "number": "63",
       "name": "Francesco Bagnai",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 7,
@@ -5067,7 +5067,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 9,
@@ -6009,7 +6009,7 @@
       "number": "6",
       "name": "Stefan Bradl",
       "nationality": "GER",
-      "bike": "",
+      "bike": "HONDA",
       "team": "HRC Team",
       "summary": {
         "runs": 4,

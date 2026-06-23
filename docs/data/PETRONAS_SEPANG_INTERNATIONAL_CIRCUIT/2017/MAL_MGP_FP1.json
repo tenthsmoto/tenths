@@ -10,7 +10,7 @@
     "date": "2017-10-27",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2017/MAL_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:37:16Z"
+    "parsed_at": "2026-06-23T00:54:40Z"
   },
   "riders": [
     {
@@ -149,7 +149,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea S",
       "summary": {
         "runs": 3,
@@ -707,7 +707,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea C",
       "summary": {
         "runs": 2,
@@ -850,7 +850,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 3,
@@ -1135,7 +1135,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -1480,7 +1480,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 4,
@@ -1650,14 +1650,27 @@
         "best_t4": 30.592,
         "top_speed_kmh": 317.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 13,
+          "time": "2'01.831",
+          "time_sec": 121.831,
+          "t1": 25.26,
+          "t2": 28.043,
+          "t3": 37.936,
+          "t4": 30.592,
+          "top_speed_kmh": 317.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 3,
@@ -1672,7 +1685,20 @@
         "best_t4": 31.656,
         "top_speed_kmh": 309.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'07.179",
+          "time_sec": 127.179,
+          "t1": 27.607,
+          "t2": 28.971,
+          "t3": 38.945,
+          "t4": 31.656,
+          "top_speed_kmh": 309.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,
@@ -1798,7 +1824,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 3,
@@ -2084,7 +2110,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 2,

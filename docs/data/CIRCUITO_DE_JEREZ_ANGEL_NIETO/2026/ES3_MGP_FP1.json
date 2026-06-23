@@ -10,7 +10,7 @@
     "date": "2026-04-27",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2026/ES3_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:30:17Z"
+    "parsed_at": "2026-06-23T00:47:30Z"
   },
   "riders": [
     {
@@ -603,7 +603,7 @@
       "number": "20",
       "name": "Fabio Quartararo",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 3,
@@ -889,7 +889,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "BK8 Gresini Racing Mot",
       "summary": {
         "runs": 2,
@@ -1973,7 +1973,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 4,

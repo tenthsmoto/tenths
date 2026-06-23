@@ -10,7 +10,7 @@
     "date": "2021-06-07",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2021/CT1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:30:52Z"
+    "parsed_at": "2026-06-23T00:48:03Z"
   },
   "riders": [
     {
@@ -1740,7 +1740,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing F",
       "summary": {
         "runs": 8,
@@ -4085,7 +4085,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "SKY VR46 Avintia",
       "summary": {
         "runs": 10,
@@ -4814,7 +4814,7 @@
       "number": "82",
       "name": "Maverick Viñales",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama SPA 1'39.400 16.786 31.429 20.393 30.792",
       "summary": {
         "runs": 5,
@@ -5065,7 +5065,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Esponsorama",
       "summary": {
         "runs": 6,

@@ -10,7 +10,7 @@
     "date": "2021-09-21",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2021/MI1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:35:00Z"
+    "parsed_at": "2026-06-23T00:52:19Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing F",
       "summary": {
         "runs": 1,
@@ -973,7 +973,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 3,

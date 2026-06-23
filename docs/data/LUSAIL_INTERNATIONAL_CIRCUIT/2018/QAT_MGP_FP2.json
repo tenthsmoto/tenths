@@ -10,7 +10,7 @@
     "date": "2018-03-16",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2018/QAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:33:52Z"
+    "parsed_at": "2026-06-23T00:51:08Z"
   },
   "riders": [
     {
@@ -245,7 +245,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing",
       "summary": {
         "runs": 3,
@@ -475,7 +475,68 @@
         "best_t4": 31.468,
         "top_speed_kmh": 340.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'03.812",
+          "time_sec": 123.812,
+          "t1": 27.959,
+          "t2": 31.828,
+          "t3": 31.33,
+          "t4": 32.695,
+          "top_speed_kmh": 339.8,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'06.060",
+          "time_sec": 126.06,
+          "t1": 32.403,
+          "t2": 31.767,
+          "t3": 29.543,
+          "t4": 32.347,
+          "top_speed_kmh": 146.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "2'02.174",
+          "time_sec": 122.174,
+          "t1": 30.415,
+          "t2": 30.873,
+          "t3": 29.044,
+          "t4": 31.842,
+          "top_speed_kmh": 165.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'54.877",
+          "time_sec": 114.877,
+          "t1": 25.075,
+          "t2": 29.865,
+          "t3": 28.297,
+          "t4": 31.64,
+          "top_speed_kmh": 339.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'54.458",
+          "time_sec": 114.458,
+          "t1": 24.901,
+          "t2": 29.813,
+          "t3": 28.276,
+          "t4": 31.468,
+          "top_speed_kmh": 340.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 4,
@@ -1901,7 +1962,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 3,
@@ -2056,7 +2117,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing A",
       "summary": {
         "runs": 3,
@@ -2808,7 +2869,7 @@
       "number": "21",
       "name": "Franco Morbidel",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 3,
@@ -2951,7 +3012,7 @@
       "number": "12",
       "name": "Thomas Luthi",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 3,
@@ -3381,7 +3442,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Angel Nieto Team C",
       "summary": {
         "runs": 5,
@@ -3679,7 +3740,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Angel Nieto Team",
       "summary": {
         "runs": 3,
@@ -3846,7 +3907,7 @@
       "number": "10",
       "name": "Xavier Simeon",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing B",
       "summary": {
         "runs": 3,

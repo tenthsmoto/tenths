@@ -10,7 +10,7 @@
     "date": "2025-02-13",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2025/TH1_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:29:06Z"
+    "parsed_at": "2026-06-23T00:46:16Z"
   },
   "riders": [
     {
@@ -1562,7 +1562,7 @@
       "number": "20",
       "name": "Fabio Quartararo",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 6,
@@ -4626,7 +4626,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 4,
@@ -4817,7 +4817,7 @@
       "number": "54",
       "name": "Fermin Aldeguer",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoGP",
       "summary": {
         "runs": 3,
@@ -5559,7 +5559,7 @@
       "number": "21",
       "name": "Franco Morbidelli",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pertamina Enduro VR46",
       "summary": {
         "runs": 3,
@@ -5906,7 +5906,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoGP",
       "summary": {
         "runs": 1,

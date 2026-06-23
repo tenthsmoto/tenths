@@ -10,7 +10,7 @@
     "date": "2021-10-02",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2021/AME_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:31:40Z"
+    "parsed_at": "2026-06-23T00:48:52Z"
   },
   "riders": [
     {
@@ -1131,7 +1131,20 @@
         "best_t4": 29.278,
         "top_speed_kmh": 342.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'32.151",
+          "time_sec": 152.151,
+          "t1": 37.61,
+          "t2": 32.829,
+          "t3": 33.271,
+          "t4": 29.278,
+          "top_speed_kmh": 342.8,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 8,
@@ -2238,7 +2251,44 @@
         "best_t4": 28.34,
         "top_speed_kmh": 335.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "2'06.485",
+          "time_sec": 126.485,
+          "t1": 35.814,
+          "t2": 31.008,
+          "t3": 31.012,
+          "t4": 28.651,
+          "top_speed_kmh": 336.4,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "5'45.372",
+          "time_sec": 345.372,
+          "t1": 37.258,
+          "t2": 31.691,
+          "t3": 31.335,
+          "t4": 28.731,
+          "top_speed_kmh": 337.5,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 17,
+          "time": "2'04.860",
+          "time_sec": 124.86,
+          "t1": 35.356,
+          "t2": 30.495,
+          "t3": 30.669,
+          "t4": 28.34,
+          "top_speed_kmh": 335.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,

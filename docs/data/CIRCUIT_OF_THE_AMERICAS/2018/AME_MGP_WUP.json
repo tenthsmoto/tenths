@@ -10,7 +10,7 @@
     "date": "2018-04-22",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2018/AME_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:31:35Z"
+    "parsed_at": "2026-06-23T00:48:46Z"
   },
   "riders": [
     {
@@ -2031,7 +2031,44 @@
         "best_t4": 29.279,
         "top_speed_kmh": 329.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "5'33.024",
+          "time_sec": 333.024,
+          "t1": 35.301,
+          "t2": 32.758,
+          "t3": 32.391,
+          "t4": 29.574,
+          "top_speed_kmh": 326.2,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "2'14.234",
+          "time_sec": 134.234,
+          "t1": 36.069,
+          "t2": 31.024,
+          "t3": 37.798,
+          "t4": 29.343,
+          "top_speed_kmh": 331.4,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "2'07.730",
+          "time_sec": 127.73,
+          "t1": 35.797,
+          "t2": 31.044,
+          "t3": 31.61,
+          "t4": 29.279,
+          "top_speed_kmh": 329.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 19,

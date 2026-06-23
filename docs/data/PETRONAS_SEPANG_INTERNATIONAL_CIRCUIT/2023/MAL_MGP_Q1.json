@@ -10,7 +10,7 @@
     "date": "2023-11-11",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2023/MAL_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:37:36Z"
+    "parsed_at": "2026-06-23T00:55:01Z"
   },
   "riders": [
     {
@@ -397,7 +397,68 @@
         "best_t4": 29.839,
         "top_speed_kmh": 329.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'24.226",
+          "time_sec": 144.226,
+          "t1": 25.721,
+          "t2": 28.828,
+          "t3": 37.77,
+          "t4": 30.672,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'58.555",
+          "time_sec": 118.555,
+          "t1": 24.751,
+          "t2": 27.194,
+          "t3": 36.771,
+          "t4": 29.839,
+          "top_speed_kmh": 329.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "5'08.610",
+          "time_sec": 308.61,
+          "t1": 29.124,
+          "t2": 32.176,
+          "t3": 41.847,
+          "t4": 31.845,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "2'03.653",
+          "time_sec": 123.653,
+          "t1": 24.873,
+          "t2": 29.557,
+          "t3": 38.328,
+          "t4": 30.895,
+          "top_speed_kmh": 333.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "2'07.015",
+          "time_sec": 127.015,
+          "t1": 24.593,
+          "t2": 27.277,
+          "t3": 43.17,
+          "t4": 31.975,
+          "top_speed_kmh": 335.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 8,

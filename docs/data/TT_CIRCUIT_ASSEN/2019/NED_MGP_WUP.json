@@ -10,7 +10,7 @@
     "date": "2019-06-30",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2019/NED_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:41:26Z"
+    "parsed_at": "2026-06-23T00:58:52Z"
   },
   "riders": [
     {
@@ -1149,7 +1149,44 @@
         "best_t4": 21.833,
         "top_speed_kmh": 309.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 10,
+          "time": "1'58.601",
+          "time_sec": 118.601,
+          "t1": 31.508,
+          "t2": 14.858,
+          "t3": 29.839,
+          "t4": 22.118,
+          "top_speed_kmh": 304.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "1'37.826",
+          "time_sec": 97.826,
+          "t1": 33.632,
+          "t2": 14.458,
+          "t3": 27.658,
+          "t4": 22.078,
+          "top_speed_kmh": 306.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 12,
+          "time": "1'34.475",
+          "time_sec": 94.475,
+          "t1": 31.061,
+          "t2": 14.177,
+          "t3": 27.404,
+          "t4": 21.833,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

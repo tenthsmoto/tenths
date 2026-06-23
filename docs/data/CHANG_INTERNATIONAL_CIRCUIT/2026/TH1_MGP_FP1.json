@@ -10,7 +10,7 @@
     "date": "2026-02-21",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2026/TH1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:29:11Z"
+    "parsed_at": "2026-06-23T00:46:21Z"
   },
   "riders": [
     {
@@ -1095,7 +1095,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "BK8 Gresini Racing Mot",
       "summary": {
         "runs": 6,
@@ -2196,7 +2196,7 @@
       "number": "21",
       "name": "Franco Morbidelli",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pertamina Enduro VR46",
       "summary": {
         "runs": 7,
@@ -3788,7 +3788,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "GIANNANTONPertamina Enduro VR46",
       "summary": {
         "runs": 8,
@@ -5703,7 +5703,7 @@
       "number": "20",
       "name": "Fabio Quartararo",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 6,
@@ -7103,7 +7103,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 7,

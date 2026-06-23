@@ -10,7 +10,7 @@
     "date": "2024-06-03",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2024/IT1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:27:48Z"
+    "parsed_at": "2026-06-23T00:44:54Z"
   },
   "riders": [
     {
@@ -209,7 +209,7 @@
       "number": "31",
       "name": "Pedro Acosta",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te S",
       "summary": {
         "runs": 3,
@@ -1055,7 +1055,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 6,
@@ -1864,7 +1864,7 @@
       "number": "37",
       "name": "Augusto Fernand",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te",
       "summary": {
         "runs": 4,
@@ -2007,7 +2007,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 6,
@@ -2257,7 +2257,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 1,
@@ -2370,7 +2370,7 @@
       "number": "93",
       "name": "Marc Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 1,

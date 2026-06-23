@@ -10,7 +10,7 @@
     "date": "2016-04-02",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2016/ARG_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:40:45Z"
+    "parsed_at": "2026-06-23T00:58:12Z"
   },
   "riders": [
     {
@@ -489,7 +489,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 2,

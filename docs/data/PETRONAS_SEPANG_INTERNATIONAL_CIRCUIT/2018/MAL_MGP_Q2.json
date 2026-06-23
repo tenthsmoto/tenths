@@ -10,7 +10,7 @@
     "date": "2018-11-03",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2018/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:37:22Z"
+    "parsed_at": "2026-06-23T00:54:46Z"
   },
   "riders": [
     {
@@ -340,7 +340,20 @@
         "best_t4": 33.818,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'45.272",
+          "time_sec": 165.272,
+          "t1": 28.65,
+          "t2": 33.724,
+          "t3": 44.734,
+          "t4": 33.818,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 6,
@@ -362,7 +375,44 @@
         "best_t4": 33.185,
         "top_speed_kmh": 295.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'27.457",
+          "time_sec": 147.457,
+          "t1": 27.222,
+          "t2": 31.942,
+          "t3": 43.724,
+          "t4": 33.844,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "2'13.446",
+          "time_sec": 133.446,
+          "t1": 27.414,
+          "t2": 30.887,
+          "t3": 41.96,
+          "t4": 33.185,
+          "top_speed_kmh": 295.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'16.032",
+          "time_sec": 136.032,
+          "t1": 27.304,
+          "t2": 30.83,
+          "t3": 42.209,
+          "t4": 35.689,
+          "top_speed_kmh": 300.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,
@@ -810,7 +860,20 @@
         "best_t4": 34.191,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'28.434",
+          "time_sec": 148.434,
+          "t1": 27.305,
+          "t2": 31.966,
+          "t3": 43.379,
+          "t4": 34.191,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

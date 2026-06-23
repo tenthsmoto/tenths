@@ -10,7 +10,7 @@
     "date": "2017-08-05",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2017/CZE_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:28:06Z"
+    "parsed_at": "2026-06-23T00:45:13Z"
   },
   "riders": [
     {
@@ -563,7 +563,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -622,7 +622,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 2,
@@ -871,7 +871,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing F",
       "summary": {
         "runs": 2,

@@ -10,7 +10,7 @@
     "date": "2022-06-06",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2022/CT1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:30:58Z"
+    "parsed_at": "2026-06-23T00:48:10Z"
   },
   "riders": [
     {
@@ -676,7 +676,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 15,
@@ -2651,7 +2651,7 @@
       "number": "21",
       "name": "Franco Morbidel",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 16,
@@ -2770,7 +2770,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 10,
@@ -3201,7 +3201,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 12,
@@ -4302,7 +4302,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 11,
@@ -6345,7 +6345,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 6,

@@ -10,7 +10,7 @@
     "date": "2017-11-11",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2017/VAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:32:09Z"
+    "parsed_at": "2026-06-23T00:49:22Z"
   },
   "riders": [
     {
@@ -1243,7 +1243,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS",
       "summary": {
         "runs": 2,
@@ -1258,7 +1258,32 @@
         "best_t4": 24.928,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'04.334",
+          "time_sec": 124.334,
+          "t1": 23.999,
+          "t2": 26.615,
+          "t3": 23.13,
+          "t4": 24.928,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 6,
+          "time": "3'12.812",
+          "time_sec": 192.812,
+          "t1": 20.561,
+          "t2": 25.759,
+          "t3": 22.148,
+          "t4": 24.738,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     }
   ]
 }

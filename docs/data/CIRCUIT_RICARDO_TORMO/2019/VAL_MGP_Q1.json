@@ -10,7 +10,7 @@
     "date": "2019-11-16",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2019/VAL_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:32:18Z"
+    "parsed_at": "2026-06-23T00:49:31Z"
   },
   "riders": [
     {
@@ -366,7 +366,32 @@
         "best_t4": 24.331,
         "top_speed_kmh": 325.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'56.725",
+          "time_sec": 116.725,
+          "t1": 23.523,
+          "t2": 26.51,
+          "t3": 24.827,
+          "t4": 26.461,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'30.949",
+          "time_sec": 90.949,
+          "t1": 20.635,
+          "t2": 24.322,
+          "t3": 21.661,
+          "t4": 24.331,
+          "top_speed_kmh": 325.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,
@@ -435,7 +460,44 @@
         "best_t4": 24.405,
         "top_speed_kmh": 319.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'22.114",
+          "time_sec": 142.114,
+          "t1": 21.751,
+          "t2": 25.755,
+          "t3": 22.257,
+          "t4": 24.669,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'31.295",
+          "time_sec": 91.295,
+          "t1": 20.514,
+          "t2": 24.609,
+          "t3": 21.767,
+          "t4": 24.405,
+          "top_speed_kmh": 319.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'42.491",
+          "time_sec": 102.491,
+          "t1": 25.815,
+          "t2": 28.944,
+          "t3": 22.88,
+          "t4": 24.852,
+          "top_speed_kmh": 318.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

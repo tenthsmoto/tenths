@@ -10,7 +10,7 @@
     "date": "2023-08-19",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2023/AUT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:39:17Z"
+    "parsed_at": "2026-06-23T00:56:44Z"
   },
   "riders": [
     {
@@ -1341,7 +1341,20 @@
         "best_t4": 16.508,
         "top_speed_kmh": 293.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'31.028",
+          "time_sec": 91.028,
+          "t1": 25.298,
+          "t2": 25.355,
+          "t3": 23.867,
+          "t4": 16.508,
+          "top_speed_kmh": 293.8,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

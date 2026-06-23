@@ -10,7 +10,7 @@
     "date": "2019-11-02",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2019/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:37:26Z"
+    "parsed_at": "2026-06-23T00:54:50Z"
   },
   "riders": [
     {
@@ -342,7 +342,32 @@
         "best_t4": 44.791,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'30.636",
+          "time_sec": 150.636,
+          "t1": 25.544,
+          "t2": 28.955,
+          "t3": 38.776,
+          "t4": 44.791,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "3'45.717",
+          "time_sec": 225.717,
+          "t1": 23.817,
+          "t2": 28.768,
+          "t3": 44.322,
+          "t4": 32.515,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 5,
@@ -364,7 +389,32 @@
         "best_t4": 30.169,
         "top_speed_kmh": 326.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "3'44.030",
+          "time_sec": 224.03,
+          "t1": 26.963,
+          "t2": 30.497,
+          "t3": 43.5,
+          "t4": 32.432,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "1'58.951",
+          "time_sec": 118.951,
+          "t1": 24.606,
+          "t2": 27.275,
+          "t3": 36.901,
+          "t4": 30.169,
+          "top_speed_kmh": 326.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 6,

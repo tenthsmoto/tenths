@@ -10,7 +10,7 @@
     "date": "2018-08-04",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2018/CZE_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:28:10Z"
+    "parsed_at": "2026-06-23T00:45:18Z"
   },
   "riders": [
     {
@@ -354,7 +354,32 @@
         "best_t4": 19.609,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'37.054",
+          "time_sec": 157.054,
+          "t1": 38.008,
+          "t2": 46.375,
+          "t3": 34.823,
+          "t4": 19.609,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'02.529",
+          "time_sec": 122.529,
+          "t1": 30.773,
+          "t2": 36.453,
+          "t3": 32.994,
+          "t4": 22.309,
+          "top_speed_kmh": 308.4,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 5,
@@ -376,7 +401,20 @@
         "best_t4": 19.811,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "3'49.685",
+          "time_sec": 229.685,
+          "t1": 35.816,
+          "t2": 36.876,
+          "t3": 32.906,
+          "t4": 19.522,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 6,
@@ -398,7 +436,32 @@
         "best_t4": 19.569,
         "top_speed_kmh": 305.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'42.094",
+          "time_sec": 162.094,
+          "t1": 34.92,
+          "t2": 37.485,
+          "t3": 36.239,
+          "t4": 20.458,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'56.285",
+          "time_sec": 116.285,
+          "t1": 29.672,
+          "t2": 35.032,
+          "t3": 32.012,
+          "t4": 19.569,
+          "top_speed_kmh": 305.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

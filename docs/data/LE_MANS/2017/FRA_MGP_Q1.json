@@ -10,7 +10,7 @@
     "date": "2017-05-20",
     "class": "MotoGP",
     "source_file": "LE_MANS/2017/FRA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:33:04Z"
+    "parsed_at": "2026-06-23T00:50:18Z"
   },
   "riders": [
     {
@@ -363,7 +363,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea S",
       "summary": {
         "runs": 2,
@@ -826,7 +826,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -909,7 +909,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 3,
@@ -1099,7 +1099,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 2,

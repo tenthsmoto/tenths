@@ -10,7 +10,7 @@
     "date": "2023-02-11",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2023/MY2_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:37:40Z"
+    "parsed_at": "2026-06-23T00:55:05Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing S",
       "summary": {
         "runs": 4,
@@ -209,7 +209,7 @@
       "number": "88",
       "name": "Miguel Oliveira",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "RNF MotoGP Team P",
       "summary": {
         "runs": 12,
@@ -508,7 +508,7 @@
       "number": "44",
       "name": "Pol Espargaro",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "KTM",
       "team": "GASGAS Factory Rac",
       "summary": {
         "runs": 7,
@@ -687,7 +687,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 7,
@@ -1273,7 +1273,7 @@
       "number": "25",
       "name": "Raul Fernandez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "RNF MotoGP Team",
       "summary": {
         "runs": 7,
@@ -1524,7 +1524,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 11,
@@ -2707,7 +2707,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 6,
@@ -3281,7 +3281,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 9,
@@ -3364,7 +3364,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 9,
@@ -3962,7 +3962,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 6,
@@ -5804,7 +5804,7 @@
       "number": "37",
       "name": "Augusto Fernand",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "KTM",
       "team": "GASGAS Factory Rac",
       "summary": {
         "runs": 5,

@@ -10,7 +10,7 @@
     "date": "2016-04-23",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2016/SPA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:29:20Z"
+    "parsed_at": "2026-06-23T00:46:31Z"
   },
   "riders": [
     {
@@ -1797,7 +1797,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": 3,
@@ -2215,7 +2215,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP C",
       "summary": {
         "runs": 4,
@@ -2536,7 +2536,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": 5,
@@ -2715,7 +2715,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 3,
@@ -2942,7 +2942,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": 3,
@@ -3109,7 +3109,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 4,
@@ -3227,7 +3227,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 3,
@@ -3454,7 +3454,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M A",
       "summary": {
         "runs": 4,

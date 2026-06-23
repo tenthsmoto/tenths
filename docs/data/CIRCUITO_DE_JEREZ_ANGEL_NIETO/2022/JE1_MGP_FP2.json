@@ -10,7 +10,7 @@
     "date": "2021-11-19",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/JE1_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:29:52Z"
+    "parsed_at": "2026-06-23T00:47:05Z"
   },
   "riders": [
     {
@@ -2470,7 +2470,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Team Gresini Racing",
       "summary": {
         "runs": 5,
@@ -3894,7 +3894,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "VR46 Racing Team",
       "summary": {
         "runs": 12,
@@ -5127,7 +5127,7 @@
       "number": "21",
       "name": "Franco Morbidel",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 6,
@@ -5569,7 +5569,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing F",
       "summary": {
         "runs": 10,
@@ -6012,7 +6012,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 6,
@@ -6263,7 +6263,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Team Gresini Racing",
       "summary": {
         "runs": 7,
@@ -8621,7 +8621,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "VR46 Racing Team",
       "summary": {
         "runs": 9,

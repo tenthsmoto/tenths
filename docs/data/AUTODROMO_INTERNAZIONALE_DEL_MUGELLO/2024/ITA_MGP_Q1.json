@@ -10,7 +10,7 @@
     "date": "2024-06-01",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2024/ITA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:27:50Z"
+    "parsed_at": "2026-06-23T00:44:56Z"
   },
   "riders": [
     {
@@ -306,7 +306,20 @@
         "best_t4": 23.904,
         "top_speed_kmh": 348.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'45.118",
+          "time_sec": 105.118,
+          "t1": 24.617,
+          "t2": 22.25,
+          "t3": 34.347,
+          "t4": 23.904,
+          "top_speed_kmh": 348.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

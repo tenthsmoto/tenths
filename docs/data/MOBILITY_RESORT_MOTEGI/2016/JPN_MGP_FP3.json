@@ -10,7 +10,7 @@
     "date": "2016-10-15",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2016/JPN_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:35:39Z"
+    "parsed_at": "2026-06-23T00:53:00Z"
   },
   "riders": [
     {
@@ -1209,7 +1209,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 3,
@@ -1268,7 +1268,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 3,
@@ -1662,7 +1662,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaC",
       "summary": {
         "runs": 4,
@@ -1935,7 +1935,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 3,
@@ -2508,7 +2508,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 3,
@@ -2530,7 +2530,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 3,
@@ -2552,7 +2552,7 @@
       "number": "7",
       "name": "Mike Jones",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 2,

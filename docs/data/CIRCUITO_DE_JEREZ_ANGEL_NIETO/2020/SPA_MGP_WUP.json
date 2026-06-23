@@ -10,7 +10,7 @@
     "date": "2020-07-19",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2020/SPA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:29:44Z"
+    "parsed_at": "2026-06-23T00:46:56Z"
   },
   "riders": [
     {
@@ -1077,7 +1077,116 @@
         "best_t4": 30.14,
         "top_speed_kmh": 285.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'38.981",
+          "time_sec": 98.981,
+          "t1": 24.794,
+          "t2": 14.411,
+          "t3": 29.599,
+          "t4": 30.177,
+          "top_speed_kmh": 283.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'38.786",
+          "time_sec": 98.786,
+          "t1": 24.677,
+          "t2": 14.408,
+          "t3": 29.59,
+          "t4": 30.111,
+          "top_speed_kmh": 282.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'38.527",
+          "time_sec": 98.527,
+          "t1": 24.644,
+          "t2": 14.386,
+          "t3": 29.331,
+          "t4": 30.166,
+          "top_speed_kmh": 285.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'38.384",
+          "time_sec": 98.384,
+          "t1": 24.558,
+          "t2": 14.352,
+          "t3": 29.334,
+          "t4": 30.14,
+          "top_speed_kmh": 285.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'38.702",
+          "time_sec": 98.702,
+          "t1": 24.645,
+          "t2": 14.368,
+          "t3": 29.395,
+          "t4": 30.294,
+          "top_speed_kmh": 285.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'40.770",
+          "time_sec": 100.77,
+          "t1": 24.616,
+          "t2": 14.362,
+          "t3": 29.453,
+          "t4": 32.339,
+          "top_speed_kmh": 284.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'44.493",
+          "time_sec": 104.493,
+          "t1": 27.873,
+          "t2": 14.973,
+          "t3": 30.854,
+          "t4": 30.793,
+          "top_speed_kmh": 281.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'38.410",
+          "time_sec": 98.41,
+          "t1": 24.651,
+          "t2": 14.362,
+          "t3": 29.351,
+          "t4": 30.046,
+          "top_speed_kmh": 286.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'43.041",
+          "time_sec": 103.041,
+          "t1": 25.98,
+          "t2": 14.93,
+          "t3": 31.026,
+          "t4": 31.105,
+          "top_speed_kmh": 277.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

@@ -226,14 +226,32 @@ def parse_rider_section(text: str) -> dict:
     )
 
     # ── Bike inference from team name ──────────────────────────────────────────
+    # Order matters: more specific patterns first.
+    # Truncated names (e.g. "Yama", "Hond") arise from column-crop PDF extraction.
     TEAM_BIKE_MAP = [
-        (re.compile(r'\bHONDA\b',    re.I), "HONDA"),
-        (re.compile(r'\bDUCATI\b',   re.I), "DUCATI"),
-        (re.compile(r'\bYAMAHA\b',   re.I), "YAMAHA"),
-        (re.compile(r'\bSUZUKI\b',   re.I), "SUZUKI"),
-        (re.compile(r'\bAPRILIA\b',  re.I), "APRILIA"),
-        (re.compile(r'\bKTM\b',      re.I), "KTM"),
-        (re.compile(r'\bBMW\b',      re.I), "BMW"),
+        # Manufacturer names — full and common truncations
+        (re.compile(r'\bHONDA\b|\bHond\b',              re.I), "HONDA"),
+        (re.compile(r'\bDUCATI\b|\bDucat\b',            re.I), "DUCATI"),
+        (re.compile(r'\bYAMAHA\b|\bYamah\b|\bYama\b',   re.I), "YAMAHA"),
+        (re.compile(r'\bSUZUKI\b|\bSuzuk\b',            re.I), "SUZUKI"),
+        (re.compile(r'\bAPRILIA\b|\bAprili\b',          re.I), "APRILIA"),
+        (re.compile(r'\bKTM\b',                          re.I), "KTM"),
+        (re.compile(r'\bBMW\b',                          re.I), "BMW"),
+        # GASGAS is a KTM satellite brand
+        (re.compile(r'\bGASGAS\b|\bGAS GAS\b',          re.I), "KTM"),
+        # Ducati satellite teams (no "Ducati" in name)
+        (re.compile(r'\bAspar\b|\bAngel Nieto\b',        re.I), "DUCATI"),
+        (re.compile(r'\bAvintia\b|\bEsponsorama\b',      re.I), "DUCATI"),
+        (re.compile(r'\bPramac\b',                       re.I), "DUCATI"),
+        (re.compile(r'\bVR46\b|\bMonney\b|\bMooney\b',  re.I), "DUCATI"),
+        (re.compile(r'\bAruba\b',                        re.I), "DUCATI"),
+        # Honda satellite teams
+        (re.compile(r'\bMarc VDS\b|\bEstrella\b|\bEG 0',re.I), "HONDA"),
+        (re.compile(r'\bHRC\b',                          re.I), "HONDA"),
+        (re.compile(r'\bLCR\b',                          re.I), "HONDA"),
+        # Aprilia satellite / works teams (Gresini post-2021)
+        (re.compile(r'\bGresini\b',                      re.I), "APRILIA"),
+        (re.compile(r'\bRNF\b|\bWithU\b|\bCryptodata\b',re.I), "APRILIA"),
     ]
 
     def bike_from_team(team: str) -> str:
@@ -374,13 +392,17 @@ def parse_all_laps(text: str) -> list[dict]:
                 break   # entered next rider's block
             continue
 
-        if not within_rider:
-            continue
-
-        # Run # header (modern PDFs)
+        # Run # header (modern PDFs and race format).
+        # In race PDFs there is no Runs= stats line, so the first "Run # N"
+        # is what signals we've entered the rider's lap block.
         rm = re.match(r'Run\s*#\s*(\d+)', line)
         if rm:
             current_run = int(rm.group(1))
+            if not within_rider:
+                within_rider = True   # race format: no Runs= line
+            continue
+
+        if not within_rider:
             continue
 
         # Legacy mode: detect gap laps (inter-run periods) before trying LAP_LINE_RE.
@@ -448,6 +470,12 @@ def parse_best_lap(text: str) -> dict:
                 continue
             else:
                 break
+
+        # Race format: no Runs= line; trigger on first Run # header instead
+        if re.match(r'Run\s*#\s*(\d+)', line):
+            if not within_rider:
+                within_rider = True
+            continue
 
         if not within_rider:
             continue

@@ -10,7 +10,7 @@
     "date": "2018-06-03",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2018/ITA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:27:31Z"
+    "parsed_at": "2026-06-23T00:44:36Z"
   },
   "riders": [
     {
@@ -1564,7 +1564,32 @@
         "best_t4": 25.387,
         "top_speed_kmh": 332.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'52.073",
+          "time_sec": 112.073,
+          "t1": 26.613,
+          "t2": 23.853,
+          "t3": 36.22,
+          "t4": 25.387,
+          "top_speed_kmh": 332.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "2'00.938",
+          "time_sec": 120.938,
+          "t1": 31.599,
+          "t2": 25.321,
+          "t3": 37.864,
+          "t4": 26.154,
+          "top_speed_kmh": 216.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,
@@ -1586,7 +1611,20 @@
         "best_t4": 25.705,
         "top_speed_kmh": 160.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'37.347",
+          "time_sec": 157.347,
+          "t1": 35.334,
+          "t2": 25.366,
+          "t3": 44.891,
+          "t4": 25.705,
+          "top_speed_kmh": 160.2,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 17,

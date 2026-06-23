@@ -10,7 +10,7 @@
     "date": "2017-10-28",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2017/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:37:18Z"
+    "parsed_at": "2026-06-23T00:54:42Z"
   },
   "riders": [
     {
@@ -848,7 +848,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 2,

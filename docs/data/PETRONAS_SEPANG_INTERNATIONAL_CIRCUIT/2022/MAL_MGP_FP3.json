@@ -10,7 +10,7 @@
     "date": "2022-10-22",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2022/MAL_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:37:29Z"
+    "parsed_at": "2026-06-23T00:54:53Z"
   },
   "riders": [
     {
@@ -1119,7 +1119,80 @@
         "best_t4": 30.1,
         "top_speed_kmh": 330.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'45.048",
+          "time_sec": 165.048,
+          "t1": 25.467,
+          "t2": 29.66,
+          "t3": 39.03,
+          "t4": 30.846,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'59.462",
+          "time_sec": 119.462,
+          "t1": 24.538,
+          "t2": 27.391,
+          "t3": 37.197,
+          "t4": 30.336,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "3'22.444",
+          "time_sec": 202.444,
+          "t1": 24.589,
+          "t2": 28.517,
+          "t3": 38.213,
+          "t4": 33.628,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "8'03.925",
+          "time_sec": 483.925,
+          "t1": 29.117,
+          "t2": 28.501,
+          "t3": 38.272,
+          "t4": 30.511,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'59.462",
+          "time_sec": 119.462,
+          "t1": 24.605,
+          "t2": 27.541,
+          "t3": 37.106,
+          "t4": 30.21,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'59.067",
+          "time_sec": 119.067,
+          "t1": 24.547,
+          "t2": 27.295,
+          "t3": 37.125,
+          "t4": 30.1,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 8,

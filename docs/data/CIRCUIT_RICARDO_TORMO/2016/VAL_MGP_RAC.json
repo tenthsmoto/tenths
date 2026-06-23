@@ -10,7 +10,7 @@
     "date": "2016-11-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2016/VAL_MGP_RAC.pdf",
-    "parsed_at": "2026-06-21T18:32:06Z"
+    "parsed_at": "2026-06-23T00:49:18Z"
   },
   "riders": [
     {
@@ -238,7 +238,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing S",
       "summary": {
         "runs": null,
@@ -260,7 +260,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": null,
@@ -304,7 +304,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": null,
@@ -326,7 +326,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M A",
       "summary": {
         "runs": null,
@@ -348,7 +348,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar Tea",
       "summary": {
         "runs": null,
@@ -370,7 +370,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": null,
@@ -392,7 +392,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": null,
@@ -480,7 +480,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaCOL",
       "summary": {
         "runs": null,

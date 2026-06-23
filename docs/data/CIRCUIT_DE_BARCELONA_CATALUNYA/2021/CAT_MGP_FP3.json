@@ -10,7 +10,7 @@
     "date": "2021-06-05",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2021/CAT_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:30:48Z"
+    "parsed_at": "2026-06-23T00:48:00Z"
   },
   "riders": [
     {
@@ -2809,7 +2809,56 @@
         "best_t4": 30.893,
         "top_speed_kmh": 342.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 4,
+          "lap": 18,
+          "time": "4'00.782",
+          "time_sec": 240.782,
+          "t1": 19.486,
+          "t2": 33.558,
+          "t3": 21.594,
+          "t4": 32.388,
+          "top_speed_kmh": 222.0,
+          "type": "Out"
+        },
+        {
+          "run": 4,
+          "lap": 19,
+          "time": "1'40.302",
+          "time_sec": 100.302,
+          "t1": 17.184,
+          "t2": 31.647,
+          "t3": 20.578,
+          "t4": 30.893,
+          "top_speed_kmh": 345.0,
+          "type": "Flying"
+        },
+        {
+          "run": 4,
+          "lap": 20,
+          "time": "1'42.948",
+          "time_sec": 102.948,
+          "t1": 16.968,
+          "t2": 32.836,
+          "t3": 21.567,
+          "t4": 31.577,
+          "top_speed_kmh": 341.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 4,
+          "lap": 21,
+          "time": "1'39.928",
+          "time_sec": 99.928,
+          "t1": 17.004,
+          "t2": 31.539,
+          "t3": 20.492,
+          "t4": 30.893,
+          "top_speed_kmh": 342.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 19,

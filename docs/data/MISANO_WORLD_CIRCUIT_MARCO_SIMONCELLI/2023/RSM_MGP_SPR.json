@@ -10,7 +10,7 @@
     "date": "2023-09-09",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2023/RSM_MGP_SPR.pdf",
-    "parsed_at": "2026-06-21T18:35:20Z"
+    "parsed_at": "2026-06-23T00:52:41Z"
   },
   "riders": [
     {
@@ -1221,7 +1221,32 @@
         "best_t4": 20.708,
         "top_speed_kmh": 294.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'32.519",
+          "time_sec": 92.519,
+          "t1": 26.03,
+          "t2": 20.486,
+          "t3": 25.295,
+          "t4": 20.708,
+          "top_speed_kmh": 294.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'32.745",
+          "time_sec": 92.745,
+          "t1": 26.091,
+          "t2": 20.548,
+          "t3": 25.376,
+          "t4": 20.73,
+          "top_speed_kmh": 294.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,
@@ -1800,7 +1825,32 @@
         "best_t4": 20.654,
         "top_speed_kmh": 297.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'32.536",
+          "time_sec": 92.536,
+          "t1": 26.111,
+          "t2": 20.596,
+          "t3": 25.175,
+          "t4": 20.654,
+          "top_speed_kmh": 297.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'32.899",
+          "time_sec": 92.899,
+          "t1": 26.098,
+          "t2": 20.764,
+          "t3": 25.327,
+          "t4": 20.71,
+          "top_speed_kmh": 295.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 18,

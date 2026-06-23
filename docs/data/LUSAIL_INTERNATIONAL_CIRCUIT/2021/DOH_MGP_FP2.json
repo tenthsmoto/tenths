@@ -10,7 +10,7 @@
     "date": "2021-04-02",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2021/DOH_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:34:00Z"
+    "parsed_at": "2026-06-23T00:51:17Z"
   },
   "riders": [
     {
@@ -1691,7 +1691,20 @@
         "best_t4": 32.155,
         "top_speed_kmh": 347.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 4,
+          "lap": 17,
+          "time": "2'03.900",
+          "time_sec": 123.9,
+          "t1": 30.354,
+          "t2": 32.115,
+          "t3": 29.276,
+          "t4": 32.155,
+          "top_speed_kmh": 347.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,
@@ -2309,7 +2322,104 @@
         "best_t4": 31.235,
         "top_speed_kmh": 34.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'10.982",
+          "time_sec": 130.982,
+          "t1": 31.463,
+          "t2": 32.598,
+          "t3": 29.901,
+          "t4": 32.47,
+          "top_speed_kmh": 175.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "2'08.750",
+          "time_sec": 128.75,
+          "t1": 32.507,
+          "t2": 33.856,
+          "t3": 31.347,
+          "t4": 31.04,
+          "top_speed_kmh": 34.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 3,
+          "lap": 11,
+          "time": "2'02.310",
+          "time_sec": 122.31,
+          "t1": 30.315,
+          "t2": 30.979,
+          "t3": 29.165,
+          "t4": 31.851,
+          "top_speed_kmh": 17.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 12,
+          "time": "1'54.354",
+          "time_sec": 114.354,
+          "t1": 25.02,
+          "t2": 29.788,
+          "t3": 28.195,
+          "t4": 31.351,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 13,
+          "time": "1'54.148",
+          "time_sec": 114.148,
+          "t1": 24.924,
+          "t2": 29.837,
+          "t3": 28.152,
+          "t4": 31.235,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 14,
+          "time": "1'55.627",
+          "time_sec": 115.627,
+          "t1": 26.468,
+          "t2": 30.615,
+          "t3": 28.572,
+          "t4": 29.972,
+          "top_speed_kmh": 34.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 4,
+          "lap": 15,
+          "time": "2'06.101",
+          "time_sec": 126.101,
+          "t1": 32.11,
+          "t2": 31.034,
+          "t3": 31.129,
+          "t4": 31.828,
+          "top_speed_kmh": 18.0,
+          "type": "Flying"
+        },
+        {
+          "run": 4,
+          "lap": 16,
+          "time": "1'56.709",
+          "time_sec": 116.709,
+          "t1": 24.873,
+          "t2": 30.871,
+          "t3": 29.32,
+          "t4": 31.645,
+          "top_speed_kmh": 34.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 17,

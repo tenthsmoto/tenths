@@ -10,7 +10,7 @@
     "date": "2021-04-18",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2021/POR_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:27:05Z"
+    "parsed_at": "2026-06-23T00:44:08Z"
   },
   "riders": [
     {
@@ -1151,7 +1151,32 @@
         "best_t4": 32.311,
         "top_speed_kmh": 338.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'14.876",
+          "time_sec": 134.876,
+          "t1": 31.618,
+          "t2": 35.142,
+          "t3": 16.345,
+          "t4": 33.538,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'41.117",
+          "time_sec": 101.117,
+          "t1": 21.374,
+          "t2": 32.083,
+          "t3": 15.349,
+          "t4": 32.311,
+          "top_speed_kmh": 338.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

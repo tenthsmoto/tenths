@@ -10,7 +10,7 @@
     "date": "",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2022/MI1_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:35:10Z"
+    "parsed_at": "2026-06-23T00:52:31Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 6,
@@ -1010,7 +1010,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 6,
@@ -1536,7 +1536,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing S",
       "summary": {
         "runs": 6,
@@ -2026,7 +2026,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 6,
@@ -2719,7 +2719,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 6,
@@ -3687,7 +3687,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aruba.it Racing",
       "summary": {
         "runs": 4,

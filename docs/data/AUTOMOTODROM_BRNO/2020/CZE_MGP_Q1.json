@@ -10,7 +10,7 @@
     "date": "2020-08-08",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2020/CZE_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:28:18Z"
+    "parsed_at": "2026-06-23T00:45:26Z"
   },
   "riders": [
     {
@@ -354,7 +354,32 @@
         "best_t4": 19.648,
         "top_speed_kmh": 312.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'36.027",
+          "time_sec": 156.027,
+          "t1": 32.591,
+          "t2": 36.331,
+          "t3": 38.322,
+          "t4": 21.182,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'00.713",
+          "time_sec": 120.713,
+          "t1": 29.823,
+          "t2": 37.366,
+          "t3": 33.876,
+          "t4": 19.648,
+          "top_speed_kmh": 312.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

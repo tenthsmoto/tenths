@@ -10,7 +10,7 @@
     "date": "2024-08-03",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2024/GBR_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:40:36Z"
+    "parsed_at": "2026-06-23T00:58:03Z"
   },
   "riders": [
     {
@@ -1045,7 +1045,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "2'04.161",
+          "time_sec": 124.161,
+          "t1": 27.365,
+          "t2": 30.24,
+          "t3": 25.312,
+          "t4": 41.244,
+          "top_speed_kmh": 264.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 10,
@@ -1126,7 +1139,68 @@
         "best_t4": 38.545,
         "top_speed_kmh": 33.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "10'04.475",
+          "time_sec": 604.475,
+          "t1": 31.105,
+          "t2": 34.761,
+          "t3": 24.534,
+          "t4": 38.815,
+          "top_speed_kmh": 32.0,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "2'05.382",
+          "time_sec": 125.382,
+          "t1": 27.682,
+          "t2": 30.35,
+          "t3": 27.498,
+          "t4": 39.852,
+          "top_speed_kmh": 32.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "2'01.081",
+          "time_sec": 121.081,
+          "t1": 27.589,
+          "t2": 30.082,
+          "t3": 23.677,
+          "t4": 39.733,
+          "top_speed_kmh": 32.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 10,
+          "time": "2'04.895",
+          "time_sec": 124.895,
+          "t1": 29.219,
+          "t2": 30.702,
+          "t3": 24.11,
+          "t4": 40.864,
+          "top_speed_kmh": 21.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "2'05.148",
+          "time_sec": 125.148,
+          "t1": 27.512,
+          "t2": 30.199,
+          "t3": 26.788,
+          "t4": 40.649,
+          "top_speed_kmh": 31.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 12,
@@ -2051,7 +2125,32 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'02.787",
+          "time_sec": 122.787,
+          "t1": 28.074,
+          "t2": 30.714,
+          "t3": 24.35,
+          "t4": 39.649,
+          "top_speed_kmh": 323.3,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'02.174",
+          "time_sec": 122.174,
+          "t1": 27.771,
+          "t2": 30.54,
+          "t3": 23.917,
+          "t4": 39.946,
+          "top_speed_kmh": 325.3,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 21,

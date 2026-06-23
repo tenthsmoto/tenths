@@ -10,7 +10,7 @@
     "date": "2020-09-12",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2020/RSM_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:34:54Z"
+    "parsed_at": "2026-06-23T00:52:13Z"
   },
   "riders": [
     {
@@ -1187,7 +1187,44 @@
         "best_t4": 20.793,
         "top_speed_kmh": 293.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "1'57.321",
+          "time_sec": 117.321,
+          "t1": 42.842,
+          "t2": 26.026,
+          "t3": 26.397,
+          "t4": 22.056,
+          "top_speed_kmh": 293.4,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'40.527",
+          "time_sec": 100.527,
+          "t1": 28.606,
+          "t2": 25.177,
+          "t3": 25.688,
+          "t4": 21.056,
+          "top_speed_kmh": 295.8,
+          "type": "Cancelled"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'32.266",
+          "time_sec": 92.266,
+          "t1": 25.856,
+          "t2": 20.552,
+          "t3": 25.065,
+          "t4": 20.793,
+          "top_speed_kmh": 293.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

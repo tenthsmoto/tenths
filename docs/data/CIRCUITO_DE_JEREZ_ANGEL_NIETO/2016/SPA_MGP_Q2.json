@@ -10,7 +10,7 @@
     "date": "2016-04-23",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2016/SPA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:29:21Z"
+    "parsed_at": "2026-06-23T00:46:32Z"
   },
   "riders": [
     {
@@ -536,7 +536,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 2,
@@ -809,7 +809,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": 2,

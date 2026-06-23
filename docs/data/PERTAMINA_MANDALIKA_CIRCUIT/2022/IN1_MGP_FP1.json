@@ -10,7 +10,7 @@
     "date": "2022-02-11",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2022/IN1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:36:53Z"
+    "parsed_at": "2026-06-23T00:54:16Z"
   },
   "riders": [
     {
@@ -1898,7 +1898,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 10,
@@ -4064,7 +4064,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing",
       "summary": {
         "runs": 9,
@@ -5309,7 +5309,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pramac Racing F",
       "summary": {
         "runs": 10,
@@ -5331,7 +5331,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 8,
@@ -6611,7 +6611,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 7,
@@ -7281,7 +7281,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 8,
@@ -7616,7 +7616,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 10,

@@ -10,7 +10,7 @@
     "date": "2016-10-15",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2016/JPN_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:35:39Z"
+    "parsed_at": "2026-06-23T00:53:01Z"
   },
   "riders": [
     {
@@ -125,7 +125,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": 2,
@@ -315,7 +315,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M A",
       "summary": {
         "runs": 2,
@@ -491,7 +491,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaCOL",
       "summary": {
         "runs": 2,
@@ -562,7 +562,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": 2,
@@ -633,7 +633,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar Tea",
       "summary": {
         "runs": 2,
@@ -716,7 +716,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": 2,
@@ -799,7 +799,7 @@
       "number": "7",
       "name": "Mike Jones",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing A",
       "summary": {
         "runs": 2,

@@ -10,7 +10,7 @@
     "date": "2019-10-27",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2019/AUS_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:38:16Z"
+    "parsed_at": "2026-06-23T00:55:42Z"
   },
   "riders": [
     {
@@ -1092,7 +1092,32 @@
         "best_t4": 25.138,
         "top_speed_kmh": 336.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'31.312",
+          "time_sec": 91.312,
+          "t1": 21.839,
+          "t2": 26.681,
+          "t3": 17.667,
+          "t4": 25.125,
+          "top_speed_kmh": 337.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'30.848",
+          "time_sec": 90.848,
+          "t1": 21.502,
+          "t2": 26.518,
+          "t3": 17.69,
+          "t4": 25.138,
+          "top_speed_kmh": 336.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

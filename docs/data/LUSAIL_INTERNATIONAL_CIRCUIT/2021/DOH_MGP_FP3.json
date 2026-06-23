@@ -10,7 +10,7 @@
     "date": "2021-04-03",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2021/DOH_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:34:01Z"
+    "parsed_at": "2026-06-23T00:51:17Z"
   },
   "riders": [
     {
@@ -391,7 +391,56 @@
         "best_t4": 32.273,
         "top_speed_kmh": 323.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'57.608",
+          "time_sec": 117.608,
+          "t1": 25.448,
+          "t2": 30.617,
+          "t3": 29.007,
+          "t4": 32.536,
+          "top_speed_kmh": 324.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "2'03.764",
+          "time_sec": 123.764,
+          "t1": 31.033,
+          "t2": 31.228,
+          "t3": 29.092,
+          "t4": 32.411,
+          "top_speed_kmh": 155.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'57.081",
+          "time_sec": 117.081,
+          "t1": 25.556,
+          "t2": 30.52,
+          "t3": 28.754,
+          "t4": 32.251,
+          "top_speed_kmh": 322.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'56.644",
+          "time_sec": 116.644,
+          "t1": 25.31,
+          "t2": 30.367,
+          "t3": 28.694,
+          "t4": 32.273,
+          "top_speed_kmh": 323.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 4,

@@ -10,7 +10,7 @@
     "date": "2025-02-06",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2025/MY2_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:37:55Z"
+    "parsed_at": "2026-06-23T00:55:21Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "21",
       "name": "Franco Morbidelli",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pertamina Enduro VR46",
       "summary": {
         "runs": 12,
@@ -581,7 +581,7 @@
       "number": "20",
       "name": "Fabio Quartararo",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 11,
@@ -1048,7 +1048,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoGP",
       "summary": {
         "runs": 11,
@@ -1551,7 +1551,7 @@
       "number": "54",
       "name": "Fermin Aldeguer",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoGP",
       "summary": {
         "runs": 5,
@@ -5502,7 +5502,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 14,

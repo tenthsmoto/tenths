@@ -10,7 +10,7 @@
     "date": "2016-10-22",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2016/AUS_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:38:02Z"
+    "parsed_at": "2026-06-23T00:55:27Z"
   },
   "riders": [
     {
@@ -409,7 +409,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar Tea",
       "summary": {
         "runs": 2,
@@ -456,7 +456,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar TeaCOL",
       "summary": {
         "runs": 2,
@@ -574,7 +574,7 @@
       "number": "7",
       "name": "Mike Jones",
       "nationality": "AUS",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": 2,
@@ -596,7 +596,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": 2,
@@ -679,7 +679,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M S",
       "summary": {
         "runs": 1,

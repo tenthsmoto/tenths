@@ -10,7 +10,7 @@
     "date": "2024-10-19",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2024/AUS_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:38:27Z"
+    "parsed_at": "2026-06-23T00:55:53Z"
   },
   "riders": [
     {
@@ -414,7 +414,20 @@
         "best_t4": 26.152,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 4,
+          "time": "1'48.593",
+          "time_sec": 108.593,
+          "t1": 33.09,
+          "t2": 30.176,
+          "t3": 19.175,
+          "t4": 26.152,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

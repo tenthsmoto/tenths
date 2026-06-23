@@ -10,7 +10,7 @@
     "date": "2018-03-16",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2018/QAT_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:33:52Z"
+    "parsed_at": "2026-06-23T00:51:08Z"
   },
   "riders": [
     {
@@ -1221,7 +1221,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing",
       "summary": {
         "runs": 3,
@@ -1340,7 +1340,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing S",
       "summary": {
         "runs": 5,
@@ -2020,7 +2020,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Angel Nieto Team",
       "summary": {
         "runs": 3,
@@ -2390,7 +2390,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Alma Pramac Racing A",
       "summary": {
         "runs": 3,
@@ -2974,7 +2974,7 @@
       "number": "12",
       "name": "Thomas Luthi",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 3,
@@ -3153,7 +3153,7 @@
       "number": "21",
       "name": "Franco Morbidel",
       "nationality": "VDS",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc",
       "summary": {
         "runs": 3,
@@ -3439,7 +3439,7 @@
       "number": "10",
       "name": "Xavier Simeon",
       "nationality": "BEL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 4,
@@ -3498,7 +3498,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Angel Nieto Team C",
       "summary": {
         "runs": 3,

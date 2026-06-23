@@ -10,7 +10,7 @@
     "date": "2023-10-22",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2023/AUS_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:38:25Z"
+    "parsed_at": "2026-06-23T00:55:51Z"
   },
   "riders": [
     {
@@ -1181,7 +1181,20 @@
         "best_t4": 28.161,
         "top_speed_kmh": 296.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'42.792",
+          "time_sec": 102.792,
+          "t1": 24.333,
+          "t2": 30.379,
+          "t3": 19.919,
+          "t4": 28.161,
+          "top_speed_kmh": 296.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,
@@ -1203,7 +1216,32 @@
         "best_t4": 27.916,
         "top_speed_kmh": 304.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'43.701",
+          "time_sec": 103.701,
+          "t1": 25.103,
+          "t2": 30.352,
+          "t3": 20.247,
+          "t4": 27.999,
+          "top_speed_kmh": 284.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'42.818",
+          "time_sec": 102.818,
+          "t1": 24.702,
+          "t2": 30.236,
+          "t3": 19.964,
+          "t4": 27.916,
+          "top_speed_kmh": 304.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 18,

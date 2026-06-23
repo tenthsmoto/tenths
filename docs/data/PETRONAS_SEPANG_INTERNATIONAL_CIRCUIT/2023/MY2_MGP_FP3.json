@@ -10,7 +10,7 @@
     "date": "2023-02-12",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2023/MY2_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:37:41Z"
+    "parsed_at": "2026-06-23T00:55:06Z"
   },
   "riders": [
     {
@@ -18,7 +18,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 14,
@@ -1490,7 +1490,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing S",
       "summary": {
         "runs": 10,
@@ -2208,7 +2208,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 12,
@@ -2555,7 +2555,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 13,
@@ -2794,7 +2794,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 13,
@@ -3452,7 +3452,7 @@
       "number": "25",
       "name": "Raul Fernandez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "RNF MotoGP Team S",
       "summary": {
         "runs": 14,
@@ -3966,7 +3966,7 @@
       "number": "44",
       "name": "Pol Espargaro",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "GASGAS Factory Rac S",
       "summary": {
         "runs": 12,
@@ -4504,7 +4504,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing F",
       "summary": {
         "runs": 11,
@@ -5138,7 +5138,7 @@
       "number": "88",
       "name": "Miguel Oliveira",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "RNF MotoGP Team P",
       "summary": {
         "runs": 14,
@@ -5591,7 +5591,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 13,
@@ -6752,7 +6752,7 @@
       "number": "37",
       "name": "Augusto Fernand",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "KTM",
       "team": "GASGAS Factory Rac",
       "summary": {
         "runs": 9,

@@ -10,7 +10,7 @@
     "date": "2021-08-13",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2021/AUT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:39:01Z"
+    "parsed_at": "2026-06-23T00:56:28Z"
   },
   "riders": [
     {
@@ -1238,7 +1238,80 @@
         "best_t4": 18.333,
         "top_speed_kmh": 306.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'40.819",
+          "time_sec": 100.819,
+          "t1": 19.957,
+          "t2": 31.797,
+          "t3": 29.233,
+          "t4": 19.832,
+          "top_speed_kmh": 271.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'32.851",
+          "time_sec": 92.851,
+          "t1": 18.478,
+          "t2": 29.079,
+          "t3": 26.934,
+          "t4": 18.36,
+          "top_speed_kmh": 304.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'32.983",
+          "time_sec": 92.983,
+          "t1": 18.573,
+          "t2": 28.933,
+          "t3": 27.058,
+          "t4": 18.419,
+          "top_speed_kmh": 304.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'45.701",
+          "time_sec": 105.701,
+          "t1": 23.683,
+          "t2": 34.144,
+          "t3": 28.918,
+          "t4": 18.956,
+          "top_speed_kmh": 214.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'32.404",
+          "time_sec": 92.404,
+          "t1": 18.347,
+          "t2": 29.051,
+          "t3": 26.673,
+          "t4": 18.333,
+          "top_speed_kmh": 306.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'47.320",
+          "time_sec": 107.32,
+          "t1": 20.503,
+          "t2": 32.997,
+          "t3": 29.467,
+          "t4": 24.353,
+          "top_speed_kmh": 267.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 9,
@@ -1738,7 +1811,20 @@
         "best_t4": 20.576,
         "top_speed_kmh": 202.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 19,
+          "time": "3'55.307",
+          "time_sec": 235.307,
+          "t1": 13.042,
+          "t2": 35.178,
+          "t3": 29.369,
+          "t4": 20.576,
+          "top_speed_kmh": 202.2,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 12,

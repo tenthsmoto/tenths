@@ -10,7 +10,7 @@
     "date": "2024-03-23",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2024/POR_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:27:13Z"
+    "parsed_at": "2026-06-23T00:44:17Z"
   },
   "riders": [
     {
@@ -1308,7 +1308,104 @@
         "best_t4": 31.853,
         "top_speed_kmh": 34.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'01.019",
+          "time_sec": 121.019,
+          "t1": 20.965,
+          "t2": 32.048,
+          "t3": 15.596,
+          "t4": 52.41,
+          "top_speed_kmh": 342.8,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 7,
+          "time": "9'41.198",
+          "time_sec": 581.198,
+          "t1": 23.645,
+          "t2": 33.859,
+          "t3": 16.042,
+          "t4": 32.52,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'39.940",
+          "time_sec": 99.94,
+          "t1": 20.856,
+          "t2": 31.922,
+          "t3": 15.209,
+          "t4": 31.953,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "1'39.523",
+          "time_sec": 99.523,
+          "t1": 20.696,
+          "t2": 31.895,
+          "t3": 15.079,
+          "t4": 31.853,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 10,
+          "time": "1'50.526",
+          "time_sec": 110.526,
+          "t1": 25.657,
+          "t2": 32.573,
+          "t3": 15.642,
+          "t4": 36.654,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 11,
+          "time": "1'39.938",
+          "time_sec": 99.938,
+          "t1": 20.751,
+          "t2": 31.988,
+          "t3": 15.182,
+          "t4": 32.017,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 12,
+          "time": "1'40.232",
+          "time_sec": 100.232,
+          "t1": 20.789,
+          "t2": 32.315,
+          "t3": 15.162,
+          "t4": 31.966,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 13,
+          "time": "1'39.820",
+          "time_sec": 99.82,
+          "t1": 20.829,
+          "t2": 32.017,
+          "t3": 15.188,
+          "t4": 31.786,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

@@ -10,7 +10,7 @@
     "date": "2016-04-10",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2016/AME_MGP_RAC.pdf",
-    "parsed_at": "2026-06-21T18:31:27Z"
+    "parsed_at": "2026-06-23T00:48:39Z"
   },
   "riders": [
     {
@@ -128,7 +128,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn G",
       "summary": {
         "runs": null,
@@ -172,7 +172,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": null,
@@ -194,7 +194,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing",
       "summary": {
         "runs": null,
@@ -260,7 +260,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": null,
@@ -282,7 +282,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M",
       "summary": {
         "runs": null,
@@ -304,7 +304,7 @@
       "number": "68",
       "name": "Yonny Hernande",
       "nationality": "COL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aspar Team MotoGP",
       "summary": {
         "runs": null,
@@ -326,7 +326,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Avintia Racing F",
       "summary": {
         "runs": null,

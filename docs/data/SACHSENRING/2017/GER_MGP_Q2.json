@@ -10,7 +10,7 @@
     "date": "2017-07-01",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2017/GER_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:39:34Z"
+    "parsed_at": "2026-06-23T00:57:02Z"
   },
   "riders": [
     {
@@ -161,7 +161,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 1,
@@ -1351,7 +1351,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea S",
       "summary": {
         "runs": 1,

@@ -10,7 +10,7 @@
     "date": "2021-10-01",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2021/AME_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:31:39Z"
+    "parsed_at": "2026-06-23T00:48:51Z"
   },
   "riders": [
     {
@@ -1131,7 +1131,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "8'32.244",
+          "time_sec": 512.244,
+          "t1": 38.034,
+          "t2": 33.807,
+          "t3": 31.062,
+          "t4": 28.524,
+          "top_speed_kmh": 340.6,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 8,

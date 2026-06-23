@@ -10,7 +10,7 @@
     "date": "2021-05-02",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2021/SPA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-21T18:29:49Z"
+    "parsed_at": "2026-06-23T00:47:02Z"
   },
   "riders": [
     {
@@ -1089,7 +1089,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'38.529",
+          "time_sec": 98.529,
+          "t1": 24.603,
+          "t2": 14.316,
+          "t3": 29.547,
+          "t4": 30.063,
+          "top_speed_kmh": 289.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 12,

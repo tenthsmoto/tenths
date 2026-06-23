@@ -10,7 +10,7 @@
     "date": "2017-08-12",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2017/AUT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:38:40Z"
+    "parsed_at": "2026-06-23T00:56:06Z"
   },
   "riders": [
     {
@@ -458,7 +458,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 2,
@@ -1172,7 +1172,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea C",
       "summary": {
         "runs": 2,
@@ -1291,7 +1291,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing F",
       "summary": {
         "runs": 2,

@@ -10,7 +10,7 @@
     "date": "2024-08-17",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2024/AUT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:39:20Z"
+    "parsed_at": "2026-06-23T00:56:48Z"
   },
   "riders": [
     {
@@ -391,7 +391,56 @@
         "best_t4": 16.413,
         "top_speed_kmh": 305.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'44.610",
+          "time_sec": 104.61,
+          "t1": 31.45,
+          "t2": 27.895,
+          "t3": 25.319,
+          "t4": 17.205,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'29.344",
+          "time_sec": 89.344,
+          "t1": 24.262,
+          "t2": 25.012,
+          "t3": 23.657,
+          "t4": 16.413,
+          "top_speed_kmh": 305.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 12,
+          "time": "1'30.153",
+          "time_sec": 90.153,
+          "t1": 24.589,
+          "t2": 25.12,
+          "t3": 23.714,
+          "t4": 16.73,
+          "top_speed_kmh": 306.3,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 14,
+          "time": "1'29.765",
+          "time_sec": 89.765,
+          "t1": 24.378,
+          "t2": 25.159,
+          "t3": 23.685,
+          "t4": 16.543,
+          "top_speed_kmh": 306.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 4,

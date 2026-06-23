@@ -10,7 +10,7 @@
     "date": "2026-02-05",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2026/MY2_MGP_FP6.pdf",
-    "parsed_at": "2026-06-21T18:38:00Z"
+    "parsed_at": "2026-06-23T00:55:26Z"
   },
   "riders": [
     {
@@ -365,7 +365,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "GIANNANTONPertamina Enduro VR46",
       "summary": {
         "runs": 5,
@@ -604,7 +604,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "BK8 Gresini Racing Mot",
       "summary": {
         "runs": 2,
@@ -3007,7 +3007,7 @@
       "number": "21",
       "name": "Franco Morbidelli",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pertamina Enduro VR46",
       "summary": {
         "runs": 4,
@@ -4836,7 +4836,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yamah",
       "summary": {
         "runs": 3,

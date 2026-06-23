@@ -10,7 +10,7 @@
     "date": "2017-11-10",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2017/VAL_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:32:08Z"
+    "parsed_at": "2026-06-23T00:49:20Z"
   },
   "riders": [
     {
@@ -1165,7 +1165,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS A",
       "summary": {
         "runs": 3,
@@ -2201,7 +2201,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin G",
       "summary": {
         "runs": 3,
@@ -2440,7 +2440,7 @@
       "number": "17",
       "name": "Karel Abraham",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea C",
       "summary": {
         "runs": 3,
@@ -2810,7 +2810,7 @@
       "number": "8",
       "name": "Hector Barbera",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing",
       "summary": {
         "runs": 3,
@@ -2832,7 +2832,7 @@
       "number": "53",
       "name": "Tito Rabat",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "EG 0,0 Marc VDS S",
       "summary": {
         "runs": 2,
@@ -3573,7 +3573,7 @@
       "number": "19",
       "name": "Alvaro Bautista",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull&Bear Aspar Tea",
       "summary": {
         "runs": 3,
@@ -3752,7 +3752,7 @@
       "number": "76",
       "name": "Loris Baz",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Reale Avintia Racing F",
       "summary": {
         "runs": 4,
@@ -4015,7 +4015,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Racin",
       "summary": {
         "runs": 3,
@@ -4293,7 +4293,80 @@
         "best_t4": 24.867,
         "top_speed_kmh": 311.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'00.972",
+          "time_sec": 120.972,
+          "t1": 24.411,
+          "t2": 27.595,
+          "t3": 23.33,
+          "t4": 25.642,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "7'41.145",
+          "time_sec": 461.145,
+          "t1": 22.459,
+          "t2": 25.802,
+          "t3": 22.591,
+          "t4": 25.276,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 12,
+          "time": "1'32.762",
+          "time_sec": 92.762,
+          "t1": 21.078,
+          "t2": 24.821,
+          "t3": 21.949,
+          "t4": 24.914,
+          "top_speed_kmh": 309.7,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 13,
+          "time": "1'41.999",
+          "time_sec": 101.999,
+          "t1": 24.5,
+          "t2": 26.214,
+          "t3": 23.036,
+          "t4": 28.249,
+          "top_speed_kmh": 311.6,
+          "type": "Pit In"
+        },
+        {
+          "run": 2,
+          "lap": 15,
+          "time": "1'32.719",
+          "time_sec": 92.719,
+          "t1": 21.009,
+          "t2": 24.837,
+          "t3": 22.006,
+          "t4": 24.867,
+          "top_speed_kmh": 311.3,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 16,
+          "time": "1'32.772",
+          "time_sec": 92.772,
+          "t1": 20.898,
+          "t2": 24.867,
+          "t3": 22.029,
+          "t4": 24.978,
+          "top_speed_kmh": 309.9,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 24,
@@ -4315,7 +4388,44 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'22.194",
+          "time_sec": 142.194,
+          "t1": 23.853,
+          "t2": 27.552,
+          "t3": 23.796,
+          "t4": 32.1,
+          "top_speed_kmh": null,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'46.507",
+          "time_sec": 106.507,
+          "t1": 22.878,
+          "t2": 26.567,
+          "t3": 26.153,
+          "t4": 30.909,
+          "top_speed_kmh": 310.4,
+          "type": "Pit In"
+        },
+        {
+          "run": 3,
+          "lap": 14,
+          "time": "1'41.839",
+          "time_sec": 101.839,
+          "t1": 20.984,
+          "t2": 26.486,
+          "t3": 23.802,
+          "t4": 30.567,
+          "top_speed_kmh": 309.7,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 25,

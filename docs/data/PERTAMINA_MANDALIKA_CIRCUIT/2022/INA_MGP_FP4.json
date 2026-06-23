@@ -10,7 +10,7 @@
     "date": "2022-03-19",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2022/INA_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:36:59Z"
+    "parsed_at": "2026-06-23T00:54:22Z"
   },
   "riders": [
     {
@@ -2766,7 +2766,80 @@
         "best_t4": 28.598,
         "top_speed_kmh": 307.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'14.397",
+          "time_sec": 134.397,
+          "t1": 29.23,
+          "t2": 21.716,
+          "t3": 22.175,
+          "t4": 30.316,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'34.985",
+          "time_sec": 94.985,
+          "t1": 26.357,
+          "t2": 19.377,
+          "t3": 19.629,
+          "t4": 29.622,
+          "top_speed_kmh": 307.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "20'03.104",
+          "time_sec": 1203.104,
+          "t1": 28.646,
+          "t2": 21.09,
+          "t3": 20.881,
+          "t4": 29.887,
+          "top_speed_kmh": null,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'34.096",
+          "time_sec": 94.096,
+          "t1": 26.272,
+          "t2": 19.234,
+          "t3": 19.543,
+          "t4": 29.047,
+          "top_speed_kmh": 306.8,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'33.000",
+          "time_sec": 93.0,
+          "t1": 26.107,
+          "t2": 19.142,
+          "t3": 19.153,
+          "t4": 28.598,
+          "top_speed_kmh": 307.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'39.319",
+          "time_sec": 99.319,
+          "t1": 25.996,
+          "t2": 23.664,
+          "t3": 20.505,
+          "t4": 29.154,
+          "top_speed_kmh": 305.9,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 17,

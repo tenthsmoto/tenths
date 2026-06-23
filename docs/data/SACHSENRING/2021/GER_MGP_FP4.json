@@ -10,7 +10,7 @@
     "date": "2021-06-19",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2021/GER_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:39:48Z"
+    "parsed_at": "2026-06-23T00:57:16Z"
   },
   "riders": [
     {
@@ -1262,7 +1262,44 @@
         "best_t4": 21.079,
         "top_speed_kmh": 295.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'22.175",
+          "time_sec": 82.175,
+          "t1": 18.241,
+          "t2": 23.74,
+          "t3": 19.115,
+          "t4": 21.079,
+          "top_speed_kmh": 295.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "6'34.581",
+          "time_sec": 394.581,
+          "t1": 30.633,
+          "t2": 26.264,
+          "t3": 19.354,
+          "t4": 21.131,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'37.410",
+          "time_sec": 97.41,
+          "t1": 21.605,
+          "t2": 27.197,
+          "t3": 22.898,
+          "t4": 25.71,
+          "top_speed_kmh": 288.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 9,

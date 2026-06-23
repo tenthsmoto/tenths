@@ -10,7 +10,7 @@
     "date": "2024-09-09",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2024/IT2_MGP_FP2.pdf",
-    "parsed_at": "2026-06-21T18:35:26Z"
+    "parsed_at": "2026-06-23T00:52:47Z"
   },
   "riders": [
     {
@@ -759,7 +759,7 @@
       "number": "31",
       "name": "Pedro Acosta",
       "nationality": "",
-      "bike": "",
+      "bike": "KTM",
       "team": "Red Bull GASGAS Te S",
       "summary": {
         "runs": 7,
@@ -1214,7 +1214,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama",
       "summary": {
         "runs": 5,
@@ -1261,7 +1261,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 8,
@@ -1692,7 +1692,7 @@
       "number": "93",
       "name": "Marc Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 7,
@@ -2911,7 +2911,7 @@
       "number": "73",
       "name": "Alex Marquez",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG S",
       "summary": {
         "runs": 5,
@@ -3963,7 +3963,7 @@
       "number": "42",
       "name": "Alex Rins",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama S",
       "summary": {
         "runs": 7,

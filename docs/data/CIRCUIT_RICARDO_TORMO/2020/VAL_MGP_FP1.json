@@ -10,7 +10,7 @@
     "date": "2020-11-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2020/VAL_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:32:25Z"
+    "parsed_at": "2026-06-23T00:49:38Z"
   },
   "riders": [
     {
@@ -2552,7 +2552,80 @@
         "best_t4": 24.469,
         "top_speed_kmh": 322.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 3,
+          "lap": 15,
+          "time": "8'22.386",
+          "time_sec": 502.386,
+          "t1": 23.675,
+          "t2": 28.459,
+          "t3": 24.215,
+          "t4": 27.444,
+          "top_speed_kmh": null,
+          "type": "Cancelled"
+        },
+        {
+          "run": 3,
+          "lap": 16,
+          "time": "1'37.774",
+          "time_sec": 97.774,
+          "t1": 23.351,
+          "t2": 25.443,
+          "t3": 24.091,
+          "t4": 24.889,
+          "top_speed_kmh": 321.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 17,
+          "time": "1'32.190",
+          "time_sec": 92.19,
+          "t1": 20.94,
+          "t2": 24.773,
+          "t3": 21.834,
+          "t4": 24.643,
+          "top_speed_kmh": 324.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 3,
+          "lap": 18,
+          "time": "1'31.572",
+          "time_sec": 91.572,
+          "t1": 20.688,
+          "t2": 24.613,
+          "t3": 21.802,
+          "t4": 24.469,
+          "top_speed_kmh": 322.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 19,
+          "time": "1'37.972",
+          "time_sec": 97.972,
+          "t1": 23.547,
+          "t2": 27.259,
+          "t3": 22.162,
+          "t4": 25.004,
+          "top_speed_kmh": 313.0,
+          "type": "Flying"
+        },
+        {
+          "run": 3,
+          "lap": 20,
+          "time": "1'31.630",
+          "time_sec": 91.63,
+          "t1": 20.655,
+          "t2": 24.549,
+          "t3": 21.885,
+          "t4": 24.541,
+          "top_speed_kmh": 321.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 15,

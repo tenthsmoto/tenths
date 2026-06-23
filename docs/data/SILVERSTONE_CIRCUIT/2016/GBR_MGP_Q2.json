@@ -10,7 +10,7 @@
     "date": "2016-09-03",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2016/GBR_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:40:10Z"
+    "parsed_at": "2026-06-23T00:57:38Z"
   },
   "riders": [
     {
@@ -505,7 +505,7 @@
       "number": "50",
       "name": "Eugene Laverty",
       "nationality": "IRL",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Pull & Bear Aspar Tea",
       "summary": {
         "runs": 2,
@@ -527,7 +527,7 @@
       "number": "45",
       "name": "Scott Redding",
       "nationality": "GBR",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 1,
@@ -710,7 +710,7 @@
       "number": "43",
       "name": "Jack Miller",
       "nationality": "",
-      "bike": "",
+      "bike": "HONDA",
       "team": "Estrella Galicia 0,0 M A",
       "summary": {
         "runs": 1,

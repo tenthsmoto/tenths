@@ -10,7 +10,7 @@
     "date": "2018-04-21",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2018/AME_MGP_FP3.pdf",
-    "parsed_at": "2026-06-21T18:31:32Z"
+    "parsed_at": "2026-06-23T00:48:44Z"
   },
   "riders": [
     {
@@ -389,7 +389,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "2'13.115",
+          "time_sec": 133.115,
+          "t1": 35.752,
+          "t2": 30.582,
+          "t3": 33.432,
+          "t4": 33.349,
+          "top_speed_kmh": 339.0,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 5,

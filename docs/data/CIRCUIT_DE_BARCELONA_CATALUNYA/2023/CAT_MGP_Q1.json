@@ -10,7 +10,7 @@
     "date": "2023-09-02",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2023/CAT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-21T18:31:01Z"
+    "parsed_at": "2026-06-23T00:48:12Z"
   },
   "riders": [
     {
@@ -366,7 +366,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "2'12.006",
+          "time_sec": 132.006,
+          "t1": 25.068,
+          "t2": 42.407,
+          "t3": 25.287,
+          "t4": 39.244,
+          "top_speed_kmh": 268.6,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 5,

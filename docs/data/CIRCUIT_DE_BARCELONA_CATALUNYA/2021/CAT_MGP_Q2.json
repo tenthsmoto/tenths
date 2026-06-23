@@ -10,7 +10,7 @@
     "date": "2021-06-05",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2021/CAT_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:30:49Z"
+    "parsed_at": "2026-06-23T00:48:01Z"
   },
   "riders": [
     {
@@ -342,7 +342,20 @@
         "best_t4": 30.607,
         "top_speed_kmh": 339.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'39.099",
+          "time_sec": 99.099,
+          "t1": 16.724,
+          "t2": 31.289,
+          "t3": 20.479,
+          "t4": 30.607,
+          "top_speed_kmh": 339.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

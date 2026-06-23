@@ -10,7 +10,7 @@
     "date": "2023-04-14",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2023/AME_MGP_P2.pdf",
-    "parsed_at": "2026-06-21T18:31:48Z"
+    "parsed_at": "2026-06-23T00:49:00Z"
   },
   "riders": [
     {
@@ -3126,7 +3126,20 @@
         "best_t4": 38.271,
         "top_speed_kmh": 190.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 4,
+          "lap": 18,
+          "time": "2'39.862",
+          "time_sec": 159.862,
+          "t1": 41.464,
+          "t2": 39.812,
+          "t3": 40.315,
+          "t4": 38.271,
+          "top_speed_kmh": 190.8,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 17,

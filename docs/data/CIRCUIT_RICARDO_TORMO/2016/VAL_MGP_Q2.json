@@ -10,7 +10,7 @@
     "date": "2016-11-12",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2016/VAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-21T18:32:05Z"
+    "parsed_at": "2026-06-23T00:49:17Z"
   },
   "riders": [
     {
@@ -833,7 +833,7 @@
       "number": "9",
       "name": "Danilo Petrucci",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "OCTO Pramac Yakhn",
       "summary": {
         "runs": 1,

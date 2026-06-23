@@ -10,7 +10,7 @@
     "date": "2020-10-24",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2020/TER_MGP_FP4.pdf",
-    "parsed_at": "2026-06-21T18:36:32Z"
+    "parsed_at": "2026-06-23T00:53:54Z"
   },
   "riders": [
     {
@@ -415,7 +415,20 @@
         "best_t4": 25.396,
         "top_speed_kmh": 336.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'48.595",
+          "time_sec": 108.595,
+          "t1": 31.255,
+          "t2": 30.709,
+          "t3": 21.235,
+          "t4": 25.396,
+          "top_speed_kmh": 336.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 4,
@@ -437,7 +450,32 @@
         "best_t4": 25.441,
         "top_speed_kmh": 334.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'17.971",
+          "time_sec": 137.971,
+          "t1": 28.99,
+          "t2": 32.508,
+          "t3": 22.354,
+          "t4": 25.652,
+          "top_speed_kmh": 337.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'48.570",
+          "time_sec": 108.57,
+          "t1": 31.134,
+          "t2": 30.801,
+          "t3": 21.194,
+          "t4": 25.441,
+          "top_speed_kmh": 334.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

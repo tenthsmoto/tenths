@@ -10,7 +10,7 @@
     "date": "2022-09-06",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2022/MI1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-21T18:35:09Z"
+    "parsed_at": "2026-06-23T00:52:29Z"
   },
   "riders": [
     {
@@ -1180,7 +1180,7 @@
       "number": "20",
       "name": "Fabio Quartarar",
       "nationality": "",
-      "bike": "",
+      "bike": "YAMAHA",
       "team": "Monster Energy Yama F",
       "summary": {
         "runs": 6,
@@ -1730,7 +1730,7 @@
       "number": "23",
       "name": "Enea Bastianini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "Gresini Racing MotoG",
       "summary": {
         "runs": 5,
@@ -2388,7 +2388,7 @@
       "number": "89",
       "name": "Jorge Martin",
       "nationality": "SPA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 8,
@@ -3022,7 +3022,7 @@
       "number": "49",
       "name": "Fabio Di",
       "nationality": "",
-      "bike": "",
+      "bike": "APRILIA",
       "team": "GIANNANT Gresini Racing MotoG",
       "summary": {
         "runs": 5,
@@ -3057,7 +3057,7 @@
       "number": "10",
       "name": "Luca Marini",
       "nationality": "ITA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 6,
@@ -3356,7 +3356,7 @@
       "number": "72",
       "name": "Marco Bezzecchi",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Mooney VR46 Racing",
       "summary": {
         "runs": 6,
@@ -4552,7 +4552,7 @@
       "number": "5",
       "name": "Johann Zarco",
       "nationality": "FRA",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Prima Pramac Racing",
       "summary": {
         "runs": 6,
@@ -6214,7 +6214,7 @@
       "number": "51",
       "name": "Michele Pirro",
       "nationality": "",
-      "bike": "",
+      "bike": "DUCATI",
       "team": "Aruba.it Racing",
       "summary": {
         "runs": 5,

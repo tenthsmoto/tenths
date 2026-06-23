@@ -236,11 +236,11 @@ const GP_FLAG = {
 //  SESSIONS VIEW — Race Weekend Layout
 // ══════════════════════════════════════════════════════════════════════════════
 
-/** Group sessions into race weekends keyed by (year, track_folder) */
+/** Group sessions into race weekends keyed by (year, track_folder, gp) */
 function buildWeekends(sessions) {
   const map = new Map();
   sessions.forEach(s => {
-    const key = `${s.year}__${s.track_folder}`;
+    const key = `${s.year}__${s.track_folder}__${s.gp || ''}`;
     if (!map.has(key)) {
       map.set(key, {
         year:         s.year,

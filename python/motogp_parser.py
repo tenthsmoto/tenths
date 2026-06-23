@@ -842,7 +842,7 @@ def write_session_json(
                     "top_speed_kmh": _to_float(lap["Top Speed"]),
                     "type":          lap["Lap Type"],
                 }
-                for lap in rider_laps
+                for lap in sorted(rider_laps, key=lambda l: (l["Run #"] or 0, l["Lap #"] or 0))
             ],
         })
 

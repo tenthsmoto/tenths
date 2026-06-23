@@ -10,7 +10,7 @@
     "date": "2024-11-16",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2024/SLD_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T01:48:44Z"
+    "parsed_at": "2026-06-23T21:40:47Z"
   },
   "riders": [
     {
@@ -1192,18 +1192,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 12,
-          "time": "1'41.009",
-          "time_sec": 101.009,
-          "t1": 16.834,
-          "t2": 31.958,
-          "t3": 20.737,
-          "t4": 31.48,
-          "top_speed_kmh": 34.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 2,
           "time": "1'39.977",
           "time_sec": 99.977,
@@ -1212,6 +1200,18 @@
           "t3": 20.506,
           "t4": 31.032,
           "top_speed_kmh": 333.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'41.009",
+          "time_sec": 101.009,
+          "t1": 16.834,
+          "t2": 31.958,
+          "t3": 20.737,
+          "t4": 31.48,
+          "top_speed_kmh": 34.0,
           "type": "Flying"
         }
       ]

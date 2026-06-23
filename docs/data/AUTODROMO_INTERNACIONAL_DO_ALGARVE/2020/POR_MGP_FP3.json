@@ -10,7 +10,7 @@
     "date": "2020-11-21",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2020/POR_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:43:57Z"
+    "parsed_at": "2026-06-23T21:40:13Z"
   },
   "riders": [
     {
@@ -1744,13 +1744,13 @@
         "total_laps": 18,
         "full_laps": 9,
         "valid_laps": null,
-        "best_lap": "1'39.693",
-        "best_lap_sec": 99.693,
-        "best_t1": 20.867,
-        "best_t2": 31.613,
-        "best_t3": 15.309,
-        "best_t4": 31.904,
-        "top_speed_kmh": 334.3
+        "best_lap": "1'39.619",
+        "best_lap_sec": 99.619,
+        "best_t1": 20.913,
+        "best_t2": 31.739,
+        "best_t3": 15.203,
+        "best_t4": 31.764,
+        "top_speed_kmh": 327.2
       },
       "laps": [
         {
@@ -1800,6 +1800,18 @@
           "t4": 32.255,
           "top_speed_kmh": 327.2,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'39.619",
+          "time_sec": 99.619,
+          "t1": 20.913,
+          "t2": 31.739,
+          "t3": 15.203,
+          "t4": 31.764,
+          "top_speed_kmh": 327.2,
+          "type": "Flying"
         },
         {
           "run": 2,
@@ -3995,6 +4007,18 @@
           "t3": 16.075,
           "t4": 33.466,
           "top_speed_kmh": 331.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'45.602",
+          "time_sec": 105.602,
+          "t1": 21.357,
+          "t2": 32.204,
+          "t3": 15.67,
+          "t4": 36.371,
+          "top_speed_kmh": 333.3,
           "type": "Flying"
         }
       ]

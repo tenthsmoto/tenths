@@ -10,7 +10,7 @@
     "date": "2017-10-20",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2017/AUS_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:55:30Z"
+    "parsed_at": "2026-06-23T21:41:42Z"
   },
   "riders": [
     {
@@ -1311,7 +1311,44 @@
         "best_t4": 25.449,
         "top_speed_kmh": 328.9
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'32.436",
+          "time_sec": 92.436,
+          "t1": 22.235,
+          "t2": 26.752,
+          "t3": 17.769,
+          "t4": 25.68,
+          "top_speed_kmh": 329.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'31.182",
+          "time_sec": 91.182,
+          "t1": 21.827,
+          "t2": 26.389,
+          "t3": 17.517,
+          "t4": 25.449,
+          "top_speed_kmh": 328.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'49.172",
+          "time_sec": 109.172,
+          "t1": 31.955,
+          "t2": 29.723,
+          "t3": 21.216,
+          "t4": 26.278,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 8,
@@ -3962,15 +3999,28 @@
         "total_laps": 20,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'32.426",
+        "best_lap_sec": 92.426,
+        "best_t1": 22.118,
+        "best_t2": 26.725,
+        "best_t3": 17.744,
+        "best_t4": 25.839,
+        "top_speed_kmh": 318.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'32.426",
+          "time_sec": 92.426,
+          "t1": 22.118,
+          "t2": 26.725,
+          "t3": 17.744,
+          "t4": 25.839,
+          "top_speed_kmh": 318.0,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

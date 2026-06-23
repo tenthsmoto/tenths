@@ -10,7 +10,7 @@
     "date": "2018-09-07",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2018/RSM_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:51:54Z"
+    "parsed_at": "2026-06-23T21:41:14Z"
   },
   "riders": [
     {
@@ -2436,6 +2436,18 @@
         },
         {
           "run": 1,
+          "lap": 17,
+          "time": "1'47.954",
+          "time_sec": 107.954,
+          "t1": 29.63,
+          "t2": 27.789,
+          "t3": 28.66,
+          "t4": 21.875,
+          "top_speed_kmh": 244.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 20,
           "time": "1'33.183",
           "time_sec": 93.183,
@@ -4341,6 +4353,18 @@
           "t3": 25.676,
           "t4": 21.144,
           "top_speed_kmh": 287.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'43.323",
+          "time_sec": 103.323,
+          "t1": 28.58,
+          "t2": 22.949,
+          "t3": 28.227,
+          "t4": 23.567,
+          "top_speed_kmh": 269.7,
           "type": "Flying"
         }
       ]

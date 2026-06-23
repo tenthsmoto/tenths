@@ -10,7 +10,7 @@
     "date": "2024-10-26",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2024/THA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:46:11Z"
+    "parsed_at": "2026-06-23T21:40:30Z"
   },
   "riders": [
     {
@@ -1131,13 +1131,13 @@
         "total_laps": 5,
         "full_laps": 2,
         "valid_laps": 2,
-        "best_lap": "2'43.894",
-        "best_lap_sec": 163.894,
-        "best_t1": 15.911,
-        "best_t2": 26.184,
-        "best_t3": 23.466,
-        "best_t4": 23.408,
-        "top_speed_kmh": 323.3
+        "best_lap": "1'29.628",
+        "best_lap_sec": 89.628,
+        "best_t1": 18.411,
+        "best_t2": 25.684,
+        "best_t3": 22.601,
+        "best_t4": 22.932,
+        "top_speed_kmh": 330.2
       },
       "laps": [
         {
@@ -1151,6 +1151,18 @@
           "t4": 23.408,
           "top_speed_kmh": 323.3,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'29.628",
+          "time_sec": 89.628,
+          "t1": 18.411,
+          "t2": 25.684,
+          "t3": 22.601,
+          "t4": 22.932,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
         }
       ]
     },

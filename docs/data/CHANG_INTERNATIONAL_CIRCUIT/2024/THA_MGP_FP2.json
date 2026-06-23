@@ -10,7 +10,7 @@
     "date": "2024-10-26",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2024/THA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:46:09Z"
+    "parsed_at": "2026-06-23T21:40:30Z"
   },
   "riders": [
     {
@@ -462,7 +462,44 @@
         "best_t4": 23.19,
         "top_speed_kmh": 33.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'30.609",
+          "time_sec": 90.609,
+          "t1": 18.493,
+          "t2": 25.887,
+          "t3": 22.973,
+          "t4": 23.256,
+          "top_speed_kmh": 333.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'31.411",
+          "time_sec": 91.411,
+          "t1": 18.592,
+          "t2": 25.872,
+          "t3": 23.62,
+          "t4": 23.327,
+          "top_speed_kmh": 331.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'30.477",
+          "time_sec": 90.477,
+          "t1": 18.593,
+          "t2": 25.791,
+          "t3": 22.903,
+          "t4": 23.19,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,
@@ -1046,6 +1083,18 @@
         "top_speed_kmh": 326.2
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'37.578",
+          "time_sec": 97.578,
+          "t1": 18.61,
+          "t2": 27.821,
+          "t3": 25.199,
+          "t4": 25.948,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
         {
           "run": 2,
           "lap": 9,

@@ -10,7 +10,7 @@
     "date": "2018-06-02",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2018/ITA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:44:33Z"
+    "parsed_at": "2026-06-23T21:40:18Z"
   },
   "riders": [
     {
@@ -920,13 +920,13 @@
         "total_laps": 18,
         "full_laps": 13,
         "valid_laps": null,
-        "best_lap": "1'51.907",
-        "best_lap_sec": 111.907,
-        "best_t1": 27.434,
-        "best_t2": 24.385,
-        "best_t3": 35.6,
-        "best_t4": 24.488,
-        "top_speed_kmh": 348.1
+        "best_lap": "1'46.863",
+        "best_lap_sec": 106.863,
+        "best_t1": 25.146,
+        "best_t2": 22.579,
+        "best_t3": 34.932,
+        "best_t4": 24.206,
+        "top_speed_kmh": 334.1
       },
       "laps": [
         {
@@ -951,6 +951,18 @@
           "t3": 35.6,
           "t4": 24.488,
           "top_speed_kmh": 348.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'46.863",
+          "time_sec": 106.863,
+          "t1": 25.146,
+          "t2": 22.579,
+          "t3": 34.932,
+          "t4": 24.206,
+          "top_speed_kmh": 334.1,
           "type": "Flying"
         },
         {
@@ -1444,15 +1456,40 @@
         "total_laps": 16,
         "full_laps": 11,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'47.056",
+        "best_lap_sec": 107.056,
+        "best_t1": 25.248,
+        "best_t2": 22.525,
+        "best_t3": 34.968,
+        "best_t4": 24.315,
+        "top_speed_kmh": 340.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'51.019",
+          "time_sec": 111.019,
+          "t1": 25.207,
+          "t2": 23.675,
+          "t3": 36.256,
+          "t4": 25.881,
+          "top_speed_kmh": 345.9,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'47.056",
+          "time_sec": 107.056,
+          "t1": 25.248,
+          "t2": 22.525,
+          "t3": 34.968,
+          "t4": 24.315,
+          "top_speed_kmh": 340.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,
@@ -2479,13 +2516,13 @@
         "total_laps": 18,
         "full_laps": 13,
         "valid_laps": null,
-        "best_lap": "1'48.019",
-        "best_lap_sec": 108.019,
-        "best_t1": 25.365,
-        "best_t2": 22.812,
-        "best_t3": 35.268,
-        "best_t4": 24.574,
-        "top_speed_kmh": 340.6
+        "best_lap": "1'47.460",
+        "best_lap_sec": 107.46,
+        "best_t1": 25.119,
+        "best_t2": 22.71,
+        "best_t3": 35.155,
+        "best_t4": 24.476,
+        "top_speed_kmh": 341.4
       },
       "laps": [
         {
@@ -2570,6 +2607,18 @@
           "t3": 35.268,
           "t4": 24.574,
           "top_speed_kmh": 340.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'47.460",
+          "time_sec": 107.46,
+          "t1": 25.119,
+          "t2": 22.71,
+          "t3": 35.155,
+          "t4": 24.476,
+          "top_speed_kmh": 341.4,
           "type": "Flying"
         }
       ]

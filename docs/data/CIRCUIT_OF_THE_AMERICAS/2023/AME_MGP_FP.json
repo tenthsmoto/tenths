@@ -10,7 +10,7 @@
     "date": "2023-04-15",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2023/AME_MGP_FP.pdf",
-    "parsed_at": "2026-06-23T00:48:59Z"
+    "parsed_at": "2026-06-23T21:40:52Z"
   },
   "riders": [
     {
@@ -1049,13 +1049,13 @@
         "total_laps": 11,
         "full_laps": 7,
         "valid_laps": 6,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "2'03.730",
+        "best_lap_sec": 123.73,
+        "best_t1": 34.836,
+        "best_t2": 30.079,
+        "best_t3": 30.398,
+        "best_t4": 28.417,
+        "top_speed_kmh": 336.4
       },
       "laps": [
         {
@@ -1081,6 +1081,18 @@
           "t4": 37.535,
           "top_speed_kmh": 334.3,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'03.730",
+          "time_sec": 123.73,
+          "t1": 34.836,
+          "t2": 30.079,
+          "t3": 30.398,
+          "t4": 28.417,
+          "top_speed_kmh": 336.4,
+          "type": "Flying"
         }
       ]
     },
@@ -2211,13 +2223,13 @@
         "total_laps": 14,
         "full_laps": 11,
         "valid_laps": 9,
-        "best_lap": "2'05.761",
-        "best_lap_sec": 125.761,
-        "best_t1": 35.564,
-        "best_t2": 30.532,
-        "best_t3": 30.899,
-        "best_t4": 28.766,
-        "top_speed_kmh": 336.4
+        "best_lap": "2'05.012",
+        "best_lap_sec": 125.012,
+        "best_t1": 35.057,
+        "best_t2": 30.466,
+        "best_t3": 30.814,
+        "best_t4": 28.675,
+        "top_speed_kmh": 333.3
       },
       "laps": [
         {
@@ -2254,6 +2266,18 @@
           "t3": 32.175,
           "t4": 29.297,
           "top_speed_kmh": 337.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'05.012",
+          "time_sec": 125.012,
+          "t1": 35.057,
+          "t2": 30.466,
+          "t3": 30.814,
+          "t4": 28.675,
+          "top_speed_kmh": 333.3,
           "type": "Flying"
         },
         {

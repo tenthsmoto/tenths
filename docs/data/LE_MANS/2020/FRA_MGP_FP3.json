@@ -10,7 +10,7 @@
     "date": "2020-10-10",
     "class": "MotoGP",
     "source_file": "LE_MANS/2020/FRA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:50:31Z"
+    "parsed_at": "2026-06-23T21:41:04Z"
   },
   "riders": [
     {
@@ -1970,6 +1970,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 19,
+          "time": "1'38.362",
+          "time_sec": 98.362,
+          "t1": 22.043,
+          "t2": 21.682,
+          "t3": 26.276,
+          "t4": 28.361,
+          "top_speed_kmh": 316.5,
+          "type": "Cancelled"
+        },
+        {
           "run": 2,
           "lap": 17,
           "time": "1'34.229",
@@ -2613,6 +2625,18 @@
           "t4": 25.001,
           "top_speed_kmh": 308.7,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'33.191",
+          "time_sec": 93.191,
+          "t1": 21.505,
+          "t2": 21.302,
+          "t3": 25.757,
+          "t4": 24.627,
+          "top_speed_kmh": 310.6,
+          "type": "Cancelled"
         }
       ]
     },

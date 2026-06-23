@@ -10,7 +10,7 @@
     "date": "2016-09-03",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2016/GBR_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:57:37Z"
+    "parsed_at": "2026-06-23T21:41:58Z"
   },
   "riders": [
     {
@@ -188,6 +188,18 @@
           "t4": 45.195,
           "top_speed_kmh": 251.0,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'18.838",
+          "time_sec": 138.838,
+          "t1": 27.482,
+          "t2": 44.532,
+          "t3": 31.592,
+          "t4": 35.232,
+          "top_speed_kmh": 300.0,
+          "type": "Flying"
         }
       ]
     },
@@ -259,6 +271,18 @@
           "t4": 34.942,
           "top_speed_kmh": 286.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'50.541",
+          "time_sec": 170.541,
+          "t1": 33.533,
+          "t2": 54.325,
+          "t3": 37.488,
+          "t4": 45.195,
+          "top_speed_kmh": 251.0,
+          "type": "Pit In"
         },
         {
           "run": 1,
@@ -461,6 +485,18 @@
           "t4": 36.811,
           "top_speed_kmh": 296.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'42.020",
+          "time_sec": 162.02,
+          "t1": 28.873,
+          "t2": 50.609,
+          "t3": 35.676,
+          "t4": 46.862,
+          "top_speed_kmh": 234.0,
+          "type": "Pit In"
         }
       ]
     },
@@ -760,13 +796,13 @@
         "total_laps": 7,
         "full_laps": 5,
         "valid_laps": null,
-        "best_lap": "2'21.255",
-        "best_lap_sec": 141.255,
-        "best_t1": 28.195,
-        "best_t2": 45.116,
-        "best_t3": 32.301,
-        "best_t4": 35.643,
-        "top_speed_kmh": 281.9
+        "best_lap": "2'20.299",
+        "best_lap_sec": 140.299,
+        "best_t1": 27.663,
+        "best_t2": 45.168,
+        "best_t3": 32.063,
+        "best_t4": 35.405,
+        "top_speed_kmh": 283.7
       },
       "laps": [
         {
@@ -815,6 +851,18 @@
           "t3": 32.113,
           "t4": 36.059,
           "top_speed_kmh": 280.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'20.299",
+          "time_sec": 140.299,
+          "t1": 27.663,
+          "t2": 45.168,
+          "t3": 32.063,
+          "t4": 35.405,
+          "top_speed_kmh": 283.7,
           "type": "Flying"
         },
         {

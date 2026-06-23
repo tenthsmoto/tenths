@@ -10,7 +10,7 @@
     "date": "2022-08-06",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2022/GBR_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:57:55Z"
+    "parsed_at": "2026-06-23T21:42:01Z"
   },
   "riders": [
     {
@@ -3086,7 +3086,32 @@
         "best_t4": 30.361,
         "top_speed_kmh": 325.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'59.665",
+          "time_sec": 119.665,
+          "t1": 23.23,
+          "t2": 38.645,
+          "t3": 27.429,
+          "t4": 30.361,
+          "top_speed_kmh": 325.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "2'06.146",
+          "time_sec": 126.146,
+          "t1": 23.453,
+          "t2": 44.364,
+          "t3": 27.895,
+          "t4": 30.434,
+          "top_speed_kmh": 327.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 20,

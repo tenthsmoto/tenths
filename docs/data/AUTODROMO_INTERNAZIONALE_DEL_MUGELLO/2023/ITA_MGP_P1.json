@@ -10,7 +10,7 @@
     "date": "2023-06-09",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2023/ITA_MGP_P1.pdf",
-    "parsed_at": "2026-06-23T00:44:51Z"
+    "parsed_at": "2026-06-23T21:40:21Z"
   },
   "riders": [
     {
@@ -1015,15 +1015,28 @@
         "total_laps": 16,
         "full_laps": 11,
         "valid_laps": 11,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'47.935",
+        "best_lap_sec": 107.935,
+        "best_t1": 25.233,
+        "best_t2": 23.138,
+        "best_t3": 35.398,
+        "best_t4": 24.166,
+        "top_speed_kmh": 352.9
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'47.935",
+          "time_sec": 107.935,
+          "t1": 25.233,
+          "t2": 23.138,
+          "t3": 35.398,
+          "t4": 24.166,
+          "top_speed_kmh": 352.9,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 8,

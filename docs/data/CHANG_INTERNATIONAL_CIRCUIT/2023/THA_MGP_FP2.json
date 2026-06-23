@@ -10,7 +10,7 @@
     "date": "2023-10-28",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2023/THA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:46:05Z"
+    "parsed_at": "2026-06-23T21:40:30Z"
   },
   "riders": [
     {
@@ -449,7 +449,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'51.957",
+          "time_sec": 111.957,
+          "t1": 18.53,
+          "t2": 26.18,
+          "t3": 27.494,
+          "t4": 39.753,
+          "top_speed_kmh": 330.2,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 5,

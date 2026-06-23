@@ -10,7 +10,7 @@
     "date": "2024-04-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2024/AME_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:49:05Z"
+    "parsed_at": "2026-06-23T21:40:52Z"
   },
   "riders": [
     {
@@ -353,6 +353,18 @@
           "t3": 29.899,
           "t4": 27.827,
           "top_speed_kmh": 343.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'04.580",
+          "time_sec": 124.58,
+          "t1": 34.455,
+          "t2": 29.47,
+          "t3": 30.006,
+          "t4": 30.649,
+          "top_speed_kmh": 34.0,
           "type": "Flying"
         }
       ]
@@ -898,7 +910,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'23.482",
+          "time_sec": 143.482,
+          "t1": 44.575,
+          "t2": 32.336,
+          "t3": 32.876,
+          "t4": 33.695,
+          "top_speed_kmh": 326.2,
+          "type": "Pit In"
+        }
+      ]
     }
   ]
 }

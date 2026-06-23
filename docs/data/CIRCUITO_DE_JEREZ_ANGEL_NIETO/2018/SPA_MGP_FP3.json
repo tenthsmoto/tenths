@@ -10,7 +10,7 @@
     "date": "2018-05-05",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2018/SPA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:46:39Z"
+    "parsed_at": "2026-06-23T21:40:34Z"
   },
   "riders": [
     {
@@ -1107,6 +1107,18 @@
           "t3": 29.405,
           "t4": 29.943,
           "top_speed_kmh": 285.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'41.354",
+          "time_sec": 101.354,
+          "t1": 25.42,
+          "t2": 16.05,
+          "t3": 29.709,
+          "t4": 30.175,
+          "top_speed_kmh": 288.0,
           "type": "Flying"
         },
         {
@@ -2409,6 +2421,18 @@
           "t4": 30.192,
           "top_speed_kmh": 280.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'40.651",
+          "time_sec": 100.651,
+          "t1": 25.369,
+          "t2": 14.625,
+          "t3": 29.922,
+          "t4": 30.735,
+          "top_speed_kmh": 284.1,
+          "type": "Flying"
         }
       ]
     },
@@ -3088,6 +3112,18 @@
           "t3": 31.153,
           "t4": 34.042,
           "top_speed_kmh": 272.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'57.365",
+          "time_sec": 117.365,
+          "t1": 32.295,
+          "t2": 16.999,
+          "t3": 34.025,
+          "t4": 34.046,
+          "top_speed_kmh": 243.6,
           "type": "Flying"
         }
       ]
@@ -4681,13 +4717,13 @@
         "total_laps": 17,
         "full_laps": 12,
         "valid_laps": null,
-        "best_lap": "1'40.877",
-        "best_lap_sec": 100.877,
-        "best_t1": 25.097,
-        "best_t2": 14.69,
-        "best_t3": 30.245,
-        "best_t4": 30.845,
-        "top_speed_kmh": 279.7
+        "best_lap": "1'39.686",
+        "best_lap_sec": 99.686,
+        "best_t1": 24.928,
+        "best_t2": 14.626,
+        "best_t3": 29.822,
+        "best_t4": 30.31,
+        "top_speed_kmh": 278.5
       },
       "laps": [
         {
@@ -4700,6 +4736,18 @@
           "t3": 30.245,
           "t4": 30.845,
           "top_speed_kmh": 279.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'39.686",
+          "time_sec": 99.686,
+          "t1": 24.928,
+          "t2": 14.626,
+          "t3": 29.822,
+          "t4": 30.31,
+          "top_speed_kmh": 278.5,
           "type": "Flying"
         }
       ]

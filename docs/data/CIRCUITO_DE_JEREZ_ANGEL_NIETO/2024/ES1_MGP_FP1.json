@@ -10,7 +10,7 @@
     "date": "2024-04-29",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2024/ES1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:47:18Z"
+    "parsed_at": "2026-06-23T21:40:41Z"
   },
   "riders": [
     {
@@ -9636,6 +9636,18 @@
           "t4": 28.778,
           "top_speed_kmh": 27.0,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 88,
+          "time": "1'38.100",
+          "time_sec": 98.1,
+          "t1": 24.496,
+          "t2": 14.391,
+          "t3": 29.222,
+          "t4": 29.991,
+          "top_speed_kmh": 286.4,
+          "type": "Flying"
         }
       ]
     },

@@ -10,7 +10,7 @@
     "date": "2022-04-02",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2022/ARG_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:58:26Z"
+    "parsed_at": "2026-06-23T21:42:05Z"
   },
   "riders": [
     {
@@ -2483,6 +2483,18 @@
         "top_speed_kmh": 334.4
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'39.666",
+          "time_sec": 99.666,
+          "t1": 26.837,
+          "t2": 23.508,
+          "t3": 25.478,
+          "t4": 23.843,
+          "top_speed_kmh": 333.6,
+          "type": "Flying"
+        },
         {
           "run": 3,
           "lap": 19,

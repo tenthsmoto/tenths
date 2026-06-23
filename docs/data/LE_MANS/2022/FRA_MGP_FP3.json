@@ -10,7 +10,7 @@
     "date": "2022-05-14",
     "class": "MotoGP",
     "source_file": "LE_MANS/2022/FRA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:50:40Z"
+    "parsed_at": "2026-06-23T21:41:05Z"
   },
   "riders": [
     {
@@ -1136,13 +1136,13 @@
         "total_laps": 20,
         "full_laps": 14,
         "valid_laps": null,
-        "best_lap": "1'30.986",
-        "best_lap_sec": 90.986,
-        "best_t1": 20.782,
-        "best_t2": 20.785,
-        "best_t3": 25.114,
-        "best_t4": 24.305,
-        "top_speed_kmh": 317.5
+        "best_lap": "1'30.837",
+        "best_lap_sec": 90.837,
+        "best_t1": 20.869,
+        "best_t2": 20.812,
+        "best_t3": 24.997,
+        "best_t4": 24.159,
+        "top_speed_kmh": 318.5
       },
       "laps": [
         {
@@ -1191,6 +1191,18 @@
           "t3": 25.105,
           "t4": 24.42,
           "top_speed_kmh": 313.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'30.837",
+          "time_sec": 90.837,
+          "t1": 20.869,
+          "t2": 20.812,
+          "t3": 24.997,
+          "t4": 24.159,
+          "top_speed_kmh": 318.5,
           "type": "Flying"
         },
         {
@@ -3317,6 +3329,18 @@
           "t4": 24.871,
           "top_speed_kmh": 313.5,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'37.090",
+          "time_sec": 97.09,
+          "t1": 20.906,
+          "t2": 21.027,
+          "t3": 28.147,
+          "t4": 27.01,
+          "top_speed_kmh": 317.5,
+          "type": "Pit In"
         },
         {
           "run": 2,

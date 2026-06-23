@@ -10,7 +10,7 @@
     "date": "",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/JE1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:47:03Z"
+    "parsed_at": "2026-06-23T21:40:39Z"
   },
   "riders": [
     {
@@ -6310,13 +6310,13 @@
         "total_laps": 76,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": "1'38.480",
-        "best_lap_sec": 98.48,
-        "best_t1": 24.676,
-        "best_t2": 14.269,
-        "best_t3": 29.369,
-        "best_t4": 30.166,
-        "top_speed_kmh": 293.0
+        "best_lap": "1'38.472",
+        "best_lap_sec": 98.472,
+        "best_t1": 24.715,
+        "best_t2": 14.281,
+        "best_t3": 29.411,
+        "best_t4": 30.065,
+        "top_speed_kmh": 292.0
       },
       "laps": [
         {
@@ -6773,6 +6773,18 @@
           "t3": 31.055,
           "t4": 31.342,
           "top_speed_kmh": 286.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 45,
+          "time": "1'38.472",
+          "time_sec": 98.472,
+          "t1": 24.715,
+          "t2": 14.281,
+          "t3": 29.411,
+          "t4": 30.065,
+          "top_speed_kmh": 292.0,
           "type": "Flying"
         },
         {

@@ -10,7 +10,7 @@
     "date": "2022-06-25",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2022/NED_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:58:59Z"
+    "parsed_at": "2026-06-23T21:42:09Z"
   },
   "riders": [
     {
@@ -2849,7 +2849,44 @@
         "best_t4": 21.638,
         "top_speed_kmh": 307.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'33.594",
+          "time_sec": 93.594,
+          "t1": 30.726,
+          "t2": 13.949,
+          "t3": 27.281,
+          "t4": 21.638,
+          "top_speed_kmh": 307.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'47.840",
+          "time_sec": 107.84,
+          "t1": 33.809,
+          "t2": 15.175,
+          "t3": 28.444,
+          "t4": 30.412,
+          "top_speed_kmh": 289.3,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'40.077",
+          "time_sec": 100.077,
+          "t1": 30.618,
+          "t2": 14.3,
+          "t3": 28.773,
+          "t4": 26.386,
+          "top_speed_kmh": 306.7,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 18,

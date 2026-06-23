@@ -10,7 +10,7 @@
     "date": "2019-10-19",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2019/JPN_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:53:14Z"
+    "parsed_at": "2026-06-23T21:41:24Z"
   },
   "riders": [
     {
@@ -1131,13 +1131,13 @@
         "total_laps": 8,
         "full_laps": 7,
         "valid_laps": null,
-        "best_lap": "1'49.186",
-        "best_lap_sec": 109.186,
-        "best_t1": 27.956,
-        "best_t2": 21.174,
-        "best_t3": 30.274,
-        "best_t4": 29.782,
-        "top_speed_kmh": 299.1
+        "best_lap": "1'48.522",
+        "best_lap_sec": 108.522,
+        "best_t1": 27.96,
+        "best_t2": 20.959,
+        "best_t3": 29.936,
+        "best_t4": 29.667,
+        "top_speed_kmh": 297.5
       },
       "laps": [
         {
@@ -1186,6 +1186,18 @@
           "t3": 30.203,
           "t4": 29.803,
           "top_speed_kmh": 301.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'48.522",
+          "time_sec": 108.522,
+          "t1": 27.96,
+          "t2": 20.959,
+          "t3": 29.936,
+          "t4": 29.667,
+          "top_speed_kmh": 297.5,
           "type": "Flying"
         },
         {

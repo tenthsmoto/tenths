@@ -10,7 +10,7 @@
     "date": "2017-09-09",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2017/RSM_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:51:50Z"
+    "parsed_at": "2026-06-23T21:41:13Z"
   },
   "riders": [
     {
@@ -2060,7 +2060,44 @@
         "best_t4": 21.179,
         "top_speed_kmh": 289.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'34.100",
+          "time_sec": 94.1,
+          "t1": 29.699,
+          "t2": 22.62,
+          "t3": 25.883,
+          "t4": 15.898,
+          "top_speed_kmh": 288.2,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'34.756",
+          "time_sec": 94.756,
+          "t1": 26.35,
+          "t2": 21.338,
+          "t3": 25.799,
+          "t4": 21.269,
+          "top_speed_kmh": 290.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'34.587",
+          "time_sec": 94.587,
+          "t1": 26.412,
+          "t2": 21.283,
+          "t3": 25.713,
+          "t4": 21.179,
+          "top_speed_kmh": 289.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 15,

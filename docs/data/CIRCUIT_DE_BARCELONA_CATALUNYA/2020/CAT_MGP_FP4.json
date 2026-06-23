@@ -10,7 +10,7 @@
     "date": "2020-09-26",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2020/CAT_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:47:56Z"
+    "parsed_at": "2026-06-23T21:40:44Z"
   },
   "riders": [
     {
@@ -1361,6 +1361,18 @@
         },
         {
           "run": 1,
+          "lap": 10,
+          "time": "1'53.397",
+          "time_sec": 113.397,
+          "t1": 17.068,
+          "t2": 32.042,
+          "t3": 21.859,
+          "t4": 42.428,
+          "top_speed_kmh": 349.5,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
           "lap": 12,
           "time": "1'40.889",
           "time_sec": 100.889,
@@ -1561,6 +1573,18 @@
           "t4": 31.152,
           "top_speed_kmh": 342.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'59.153",
+          "time_sec": 119.153,
+          "t1": 17.201,
+          "t2": 36.362,
+          "t3": 22.632,
+          "t4": 42.958,
+          "top_speed_kmh": 336.4,
+          "type": "Pit In"
         }
       ]
     },

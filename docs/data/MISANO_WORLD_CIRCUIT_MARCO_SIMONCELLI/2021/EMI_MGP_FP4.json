@@ -10,7 +10,7 @@
     "date": "2021-10-23",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2021/EMI_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:52:17Z"
+    "parsed_at": "2026-06-23T21:41:17Z"
   },
   "riders": [
     {
@@ -1435,7 +1435,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'46.613",
+          "time_sec": 106.613,
+          "t1": 29.593,
+          "t2": 22.887,
+          "t3": 28.218,
+          "t4": 25.915,
+          "top_speed_kmh": 284.9,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 15,
@@ -1457,7 +1470,56 @@
         "best_t4": 24.504,
         "top_speed_kmh": 291.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'45.787",
+          "time_sec": 105.787,
+          "t1": 29.736,
+          "t2": 23.236,
+          "t3": 28.97,
+          "t4": 23.845,
+          "top_speed_kmh": 284.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'44.108",
+          "time_sec": 104.108,
+          "t1": 28.628,
+          "t2": 22.748,
+          "t3": 27.772,
+          "t4": 24.96,
+          "top_speed_kmh": 290.3,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'42.562",
+          "time_sec": 102.562,
+          "t1": 27.771,
+          "t2": 22.479,
+          "t3": 27.808,
+          "t4": 24.504,
+          "top_speed_kmh": 291.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'49.277",
+          "time_sec": 109.277,
+          "t1": 30.635,
+          "t2": 26.625,
+          "t3": 27.63,
+          "t4": 24.387,
+          "top_speed_kmh": 291.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,

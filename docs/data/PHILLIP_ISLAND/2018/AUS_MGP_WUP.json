@@ -10,7 +10,7 @@
     "date": "2018-10-28",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2018/AUS_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:55:38Z"
+    "parsed_at": "2026-06-23T21:41:42Z"
   },
   "riders": [
     {
@@ -1116,6 +1116,18 @@
           "t3": 17.506,
           "t4": 25.251,
           "top_speed_kmh": 331.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'30.812",
+          "time_sec": 90.812,
+          "t1": 21.552,
+          "t2": 26.453,
+          "t3": 17.535,
+          "t4": 25.272,
+          "top_speed_kmh": 334.9,
           "type": "Flying"
         },
         {

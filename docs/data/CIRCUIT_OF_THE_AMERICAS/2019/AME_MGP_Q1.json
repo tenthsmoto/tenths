@@ -10,7 +10,7 @@
     "date": "2019-04-13",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2019/AME_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:48:49Z"
+    "parsed_at": "2026-06-23T21:40:50Z"
   },
   "riders": [
     {
@@ -855,13 +855,13 @@
         "total_laps": 7,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": "2'07.308",
-        "best_lap_sec": 127.308,
-        "best_t1": 35.761,
-        "best_t2": 30.983,
-        "best_t3": 31.544,
-        "best_t4": 29.02,
-        "top_speed_kmh": 320.7
+        "best_lap": "2'07.129",
+        "best_lap_sec": 127.129,
+        "best_t1": 35.651,
+        "best_t2": 30.88,
+        "best_t3": 31.442,
+        "best_t4": 29.156,
+        "top_speed_kmh": 326.0
       },
       "laps": [
         {
@@ -903,6 +903,18 @@
         {
           "run": 1,
           "lap": 7,
+          "time": "2'07.129",
+          "time_sec": 127.129,
+          "t1": 35.651,
+          "t2": 30.88,
+          "t3": 31.442,
+          "t4": 29.156,
+          "top_speed_kmh": 326.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
           "time": "2'07.308",
           "time_sec": 127.308,
           "t1": 35.761,
@@ -926,13 +938,13 @@
         "total_laps": 7,
         "full_laps": 4,
         "valid_laps": null,
-        "best_lap": "2'07.417",
-        "best_lap_sec": 127.417,
-        "best_t1": 36.047,
-        "best_t2": 30.875,
-        "best_t3": 31.146,
-        "best_t4": 29.349,
-        "top_speed_kmh": 328.4
+        "best_lap": "2'07.308",
+        "best_lap_sec": 127.308,
+        "best_t1": 35.761,
+        "best_t2": 30.983,
+        "best_t3": 31.544,
+        "best_t4": 29.02,
+        "top_speed_kmh": 320.7
       },
       "laps": [
         {
@@ -969,6 +981,18 @@
           "t3": 31.202,
           "t4": 29.161,
           "top_speed_kmh": 330.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'07.308",
+          "time_sec": 127.308,
+          "t1": 35.761,
+          "t2": 30.983,
+          "t3": 31.544,
+          "t4": 29.02,
+          "top_speed_kmh": 320.7,
           "type": "Flying"
         },
         {

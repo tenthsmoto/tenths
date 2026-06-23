@@ -10,7 +10,7 @@
     "date": "2023-09-23",
     "class": "MotoGP",
     "source_file": "BUDDH_INTERNATIONAL_CIRCUIT/2023/IND_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:45:47Z"
+    "parsed_at": "2026-06-23T21:40:27Z"
   },
   "riders": [
     {
@@ -407,6 +407,18 @@
         {
           "run": 1,
           "lap": 13,
+          "time": "1'47.103",
+          "time_sec": 107.103,
+          "t1": 33.487,
+          "t2": 33.223,
+          "t3": 20.912,
+          "t4": 19.481,
+          "top_speed_kmh": 34.0,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 13,
           "time": "1'45.604",
           "time_sec": 105.604,
           "t1": 33.379,
@@ -430,13 +442,13 @@
         "total_laps": 11,
         "full_laps": 8,
         "valid_laps": 6,
-        "best_lap": "1'49.039",
-        "best_lap_sec": 109.039,
-        "best_t1": 33.446,
-        "best_t2": 33.898,
-        "best_t3": 20.793,
-        "best_t4": 20.902,
-        "top_speed_kmh": 346.1
+        "best_lap": "1'45.604",
+        "best_lap_sec": 105.604,
+        "best_t1": 33.379,
+        "best_t2": 33.219,
+        "best_t3": 20.883,
+        "best_t4": 18.123,
+        "top_speed_kmh": 338.0
       },
       "laps": [
         {
@@ -449,6 +461,18 @@
           "t3": 20.793,
           "t4": 20.902,
           "top_speed_kmh": 346.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'45.604",
+          "time_sec": 105.604,
+          "t1": 33.379,
+          "t2": 33.219,
+          "t3": 20.883,
+          "t4": 18.123,
+          "top_speed_kmh": 338.0,
           "type": "Flying"
         }
       ]
@@ -1653,6 +1677,18 @@
           "t4": 18.761,
           "top_speed_kmh": 334.8,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'54.248",
+          "time_sec": 114.248,
+          "t1": 36.522,
+          "t2": 35.31,
+          "t3": 21.182,
+          "t4": 21.234,
+          "top_speed_kmh": 33.0,
+          "type": "Pit In"
         }
       ]
     },
@@ -1795,6 +1831,18 @@
           "t4": 20.14,
           "top_speed_kmh": 33.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "2'00.182",
+          "time_sec": 120.182,
+          "t1": 33.237,
+          "t2": 40.416,
+          "t3": 24.517,
+          "t4": 22.012,
+          "top_speed_kmh": 339.6,
+          "type": "Pit In"
         }
       ]
     },

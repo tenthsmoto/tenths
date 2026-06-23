@@ -10,7 +10,7 @@
     "date": "2022-09-24",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2022/JPN_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:53:17Z"
+    "parsed_at": "2026-06-23T21:41:25Z"
   },
   "riders": [
     {
@@ -3359,7 +3359,32 @@
         "best_t4": 31.81,
         "top_speed_kmh": 293.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'58.426",
+          "time_sec": 118.426,
+          "t1": 30.727,
+          "t2": 23.138,
+          "t3": 32.751,
+          "t4": 31.81,
+          "top_speed_kmh": 293.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'58.965",
+          "time_sec": 118.965,
+          "t1": 30.172,
+          "t2": 23.047,
+          "t3": 32.768,
+          "t4": 32.978,
+          "top_speed_kmh": 260.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 24,

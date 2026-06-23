@@ -10,7 +10,7 @@
     "date": "2019-03-30",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2019/ARG_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:58:23Z"
+    "parsed_at": "2026-06-23T21:42:04Z"
   },
   "riders": [
     {
@@ -2197,6 +2197,18 @@
         {
           "run": 1,
           "lap": 11,
+          "time": "1'51.896",
+          "time_sec": 111.896,
+          "t1": 28.81,
+          "t2": 23.833,
+          "t3": 28.779,
+          "t4": 30.474,
+          "top_speed_kmh": 314.7,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 11,
           "time": "1'40.247",
           "time_sec": 100.247,
           "t1": 28.518,
@@ -2263,6 +2275,18 @@
           "t3": 25.422,
           "t4": 22.748,
           "top_speed_kmh": 320.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'40.729",
+          "time_sec": 100.729,
+          "t1": 28.516,
+          "t2": 23.899,
+          "t3": 25.557,
+          "t4": 22.757,
+          "top_speed_kmh": 312.8,
           "type": "Flying"
         },
         {

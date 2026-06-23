@@ -10,7 +10,7 @@
     "date": "2019-05-04",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2019/SPA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:46:45Z"
+    "parsed_at": "2026-06-23T21:40:34Z"
   },
   "riders": [
     {
@@ -902,13 +902,13 @@
         "total_laps": 7,
         "full_laps": 4,
         "valid_laps": null,
-        "best_lap": "1'38.836",
-        "best_lap_sec": 98.836,
-        "best_t1": 24.566,
-        "best_t2": 14.444,
-        "best_t3": 29.563,
-        "best_t4": 30.263,
-        "top_speed_kmh": 280.0
+        "best_lap": "1'38.403",
+        "best_lap_sec": 98.403,
+        "best_t1": 24.567,
+        "best_t2": 14.457,
+        "best_t3": 29.372,
+        "best_t4": 30.007,
+        "top_speed_kmh": 280.8
       },
       "laps": [
         {
@@ -946,6 +946,18 @@
           "t4": 30.263,
           "top_speed_kmh": 280.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'38.403",
+          "time_sec": 98.403,
+          "t1": 24.567,
+          "t2": 14.457,
+          "t3": 29.372,
+          "t4": 30.007,
+          "top_speed_kmh": 280.8,
+          "type": "Flying"
         }
       ]
     },
@@ -961,13 +973,13 @@
         "total_laps": 8,
         "full_laps": 5,
         "valid_laps": null,
-        "best_lap": "1'39.203",
-        "best_lap_sec": 99.203,
-        "best_t1": 24.83,
-        "best_t2": 14.521,
-        "best_t3": 29.608,
-        "best_t4": 30.244,
-        "top_speed_kmh": 280.7
+        "best_lap": "1'38.836",
+        "best_lap_sec": 98.836,
+        "best_t1": 24.566,
+        "best_t2": 14.444,
+        "best_t3": 29.563,
+        "best_t4": 30.263,
+        "top_speed_kmh": 280.0
       },
       "laps": [
         {
@@ -1004,6 +1016,18 @@
           "t3": 29.608,
           "t4": 30.244,
           "top_speed_kmh": 280.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'38.836",
+          "time_sec": 98.836,
+          "t1": 24.566,
+          "t2": 14.444,
+          "t3": 29.563,
+          "t4": 30.263,
+          "top_speed_kmh": 280.0,
           "type": "Flying"
         },
         {

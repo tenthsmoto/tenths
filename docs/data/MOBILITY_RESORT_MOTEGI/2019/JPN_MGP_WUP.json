@@ -10,7 +10,7 @@
     "date": "2019-10-20",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2019/JPN_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:53:15Z"
+    "parsed_at": "2026-06-23T21:41:24Z"
   },
   "riders": [
     {
@@ -1553,7 +1553,20 @@
         "best_t4": 29.197,
         "top_speed_kmh": 299.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'47.659",
+          "time_sec": 107.659,
+          "t1": 27.715,
+          "t2": 20.932,
+          "t3": 29.815,
+          "t4": 29.197,
+          "top_speed_kmh": 299.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 16,

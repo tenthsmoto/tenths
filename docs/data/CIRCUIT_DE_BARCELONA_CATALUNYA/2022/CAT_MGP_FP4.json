@@ -10,7 +10,7 @@
     "date": "2022-06-04",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2022/CAT_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:48:06Z"
+    "parsed_at": "2026-06-23T21:40:45Z"
   },
   "riders": [
     {
@@ -2718,15 +2718,64 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'41.018",
+        "best_lap_sec": 101.018,
+        "best_t1": 16.983,
+        "best_t2": 32.059,
+        "best_t3": 20.728,
+        "best_t4": 31.248,
+        "top_speed_kmh": 343.9
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'41.640",
+          "time_sec": 101.64,
+          "t1": 17.249,
+          "t2": 32.198,
+          "t3": 20.784,
+          "t4": 31.409,
+          "top_speed_kmh": 346.1,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 8,
+          "time": "1'41.241",
+          "time_sec": 101.241,
+          "t1": 17.117,
+          "t2": 32.017,
+          "t3": 20.819,
+          "t4": 31.288,
+          "top_speed_kmh": 345.0,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 9,
+          "time": "1'41.018",
+          "time_sec": 101.018,
+          "t1": 16.983,
+          "t2": 32.059,
+          "t3": 20.728,
+          "t4": 31.248,
+          "top_speed_kmh": 343.9,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 10,
+          "time": "1'41.091",
+          "time_sec": 101.091,
+          "t1": 17.0,
+          "t2": 32.023,
+          "t3": 20.839,
+          "t4": 31.229,
+          "top_speed_kmh": 346.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 20,

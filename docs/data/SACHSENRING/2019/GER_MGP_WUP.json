@@ -10,7 +10,7 @@
     "date": "2019-07-07",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2019/GER_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:57:13Z"
+    "parsed_at": "2026-06-23T21:41:55Z"
   },
   "riders": [
     {
@@ -1554,7 +1554,20 @@
         "best_t4": 22.65,
         "top_speed_kmh": 271.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'29.687",
+          "time_sec": 89.687,
+          "t1": 20.774,
+          "t2": 25.689,
+          "t3": 20.574,
+          "t4": 22.65,
+          "top_speed_kmh": 271.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,

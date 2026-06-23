@@ -10,7 +10,7 @@
     "date": "2024-07-07",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2024/GER_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:57:31Z"
+    "parsed_at": "2026-06-23T21:41:57Z"
   },
   "riders": [
     {
@@ -1645,6 +1645,18 @@
           "t3": 19.215,
           "t4": 21.138,
           "top_speed_kmh": 299.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'22.251",
+          "time_sec": 82.251,
+          "t1": 18.144,
+          "t2": 23.618,
+          "t3": 19.244,
+          "t4": 21.245,
+          "top_speed_kmh": 29.0,
           "type": "Flying"
         }
       ]

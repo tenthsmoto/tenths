@@ -10,7 +10,7 @@
     "date": "2021-04-30",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2021/SPA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:46:58Z"
+    "parsed_at": "2026-06-23T21:40:37Z"
   },
   "riders": [
     {
@@ -1226,6 +1226,18 @@
           "t3": 30.321,
           "t4": 30.294,
           "top_speed_kmh": 279.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'41.118",
+          "time_sec": 101.118,
+          "t1": 25.914,
+          "t2": 14.682,
+          "t3": 30.258,
+          "t4": 30.264,
+          "top_speed_kmh": 284.9,
           "type": "Flying"
         },
         {
@@ -2887,6 +2899,18 @@
         {
           "run": 1,
           "lap": 19,
+          "time": "1'47.596",
+          "time_sec": 107.596,
+          "t1": 25.11,
+          "t2": 16.749,
+          "t3": 32.9,
+          "t4": 32.837,
+          "top_speed_kmh": 218.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
           "time": "1'38.654",
           "time_sec": 98.654,
           "t1": 24.572,
@@ -3491,6 +3515,18 @@
           "t4": 30.128,
           "top_speed_kmh": 284.2,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'38.578",
+          "time_sec": 98.578,
+          "t1": 24.585,
+          "t2": 14.447,
+          "t3": 29.423,
+          "t4": 30.123,
+          "top_speed_kmh": 283.4,
+          "type": "Cancelled"
         }
       ]
     },

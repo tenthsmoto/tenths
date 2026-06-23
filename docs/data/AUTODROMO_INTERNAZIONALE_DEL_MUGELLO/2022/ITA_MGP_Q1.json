@@ -10,7 +10,7 @@
     "date": "2022-05-28",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2022/ITA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:44:48Z"
+    "parsed_at": "2026-06-23T21:40:20Z"
   },
   "riders": [
     {
@@ -1201,13 +1201,13 @@
         "total_laps": 8,
         "full_laps": 4,
         "valid_laps": null,
-        "best_lap": "1'55.369",
-        "best_lap_sec": 115.369,
-        "best_t1": 26.882,
-        "best_t2": 24.481,
-        "best_t3": 37.82,
-        "best_t4": 26.186,
-        "top_speed_kmh": 325.3
+        "best_lap": "1'50.270",
+        "best_lap_sec": 110.27,
+        "best_t1": 25.979,
+        "best_t2": 23.432,
+        "best_t3": 36.11,
+        "best_t4": 24.749,
+        "top_speed_kmh": 337.5
       },
       "laps": [
         {
@@ -1232,6 +1232,18 @@
           "t3": 40.029,
           "t4": 26.602,
           "top_speed_kmh": 172.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'50.270",
+          "time_sec": 110.27,
+          "t1": 25.979,
+          "t2": 23.432,
+          "t3": 36.11,
+          "t4": 24.749,
+          "top_speed_kmh": 337.5,
           "type": "Flying"
         },
         {

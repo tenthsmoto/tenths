@@ -10,7 +10,7 @@
     "date": "2018-05-04",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2018/SPA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:46:38Z"
+    "parsed_at": "2026-06-23T21:40:34Z"
   },
   "riders": [
     {
@@ -2611,6 +2611,18 @@
           "t3": 29.994,
           "t4": 30.752,
           "top_speed_kmh": 282.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'39.716",
+          "time_sec": 99.716,
+          "t1": 24.911,
+          "t2": 14.533,
+          "t3": 29.668,
+          "t4": 30.604,
+          "top_speed_kmh": 280.0,
           "type": "Flying"
         }
       ]

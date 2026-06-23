@@ -10,7 +10,7 @@
     "date": "2019-08-02",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2019/CZE_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:45:21Z"
+    "parsed_at": "2026-06-23T21:40:24Z"
   },
   "riders": [
     {
@@ -1171,13 +1171,13 @@
         "total_laps": 16,
         "full_laps": 9,
         "valid_laps": null,
-        "best_lap": "1'56.419",
-        "best_lap_sec": 116.419,
-        "best_t1": 29.569,
-        "best_t2": 35.065,
-        "best_t3": 32.179,
-        "best_t4": 19.606,
-        "top_speed_kmh": 303.7
+        "best_lap": "1'56.225",
+        "best_lap_sec": 116.225,
+        "best_t1": 29.383,
+        "best_t2": 35.152,
+        "best_t3": 32.159,
+        "best_t4": 19.531,
+        "top_speed_kmh": 309.5
       },
       "laps": [
         {
@@ -1214,6 +1214,18 @@
           "t3": 32.756,
           "t4": 19.87,
           "top_speed_kmh": 299.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'56.225",
+          "time_sec": 116.225,
+          "t1": 29.383,
+          "t2": 35.152,
+          "t3": 32.159,
+          "t4": 19.531,
+          "top_speed_kmh": 309.5,
           "type": "Flying"
         },
         {
@@ -2346,6 +2358,18 @@
           "t3": 32.292,
           "t4": 19.613,
           "top_speed_kmh": 306.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'57.919",
+          "time_sec": 117.919,
+          "t1": 29.797,
+          "t2": 35.65,
+          "t3": 32.646,
+          "t4": 19.826,
+          "top_speed_kmh": 307.6,
           "type": "Flying"
         }
       ]

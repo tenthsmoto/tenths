@@ -10,7 +10,7 @@
     "date": "2021-10-22",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2021/EMI_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:52:15Z"
+    "parsed_at": "2026-06-23T21:41:17Z"
   },
   "riders": [
     {
@@ -2494,13 +2494,13 @@
         "total_laps": 20,
         "full_laps": 13,
         "valid_laps": null,
-        "best_lap": "1'45.243",
-        "best_lap_sec": 105.243,
-        "best_t1": 29.231,
-        "best_t2": 24.141,
-        "best_t3": 28.155,
-        "best_t4": 23.716,
-        "top_speed_kmh": 287.2
+        "best_lap": "1'45.204",
+        "best_lap_sec": 105.204,
+        "best_t1": 29.543,
+        "best_t2": 23.685,
+        "best_t3": 28.348,
+        "best_t4": 23.628,
+        "top_speed_kmh": 288.0
       },
       "laps": [
         {
@@ -2537,6 +2537,18 @@
           "t3": 29.442,
           "t4": 25.072,
           "top_speed_kmh": 278.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'45.204",
+          "time_sec": 105.204,
+          "t1": 29.543,
+          "t2": 23.685,
+          "t3": 28.348,
+          "t4": 23.628,
+          "top_speed_kmh": 288.0,
           "type": "Flying"
         },
         {

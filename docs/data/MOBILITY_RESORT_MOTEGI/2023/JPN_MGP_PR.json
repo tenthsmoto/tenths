@@ -10,7 +10,7 @@
     "date": "2023-09-29",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2023/JPN_MGP_PR.pdf",
-    "parsed_at": "2026-06-23T00:53:21Z"
+    "parsed_at": "2026-06-23T21:41:25Z"
   },
   "riders": [
     {
@@ -4573,7 +4573,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'58.152",
+          "time_sec": 118.152,
+          "t1": 31.756,
+          "t2": 28.03,
+          "t3": 32.503,
+          "t4": 25.863,
+          "top_speed_kmh": 254.7,
+          "type": "Pit In"
+        }
+      ]
     }
   ]
 }

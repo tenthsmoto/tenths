@@ -10,7 +10,7 @@
     "date": "2023-08-20",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2023/AUT_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:56:46Z"
+    "parsed_at": "2026-06-23T21:41:51Z"
   },
   "riders": [
     {
@@ -1793,6 +1793,18 @@
         {
           "run": 1,
           "lap": 7,
+          "time": "1'31.606",
+          "time_sec": 91.606,
+          "t1": 25.213,
+          "t2": 25.742,
+          "t3": 23.978,
+          "t4": 16.673,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
           "time": "1'30.782",
           "time_sec": 90.782,
           "t1": 24.899,
@@ -1816,13 +1828,13 @@
         "total_laps": 7,
         "full_laps": 6,
         "valid_laps": 5,
-        "best_lap": "1'31.322",
-        "best_lap_sec": 91.322,
-        "best_t1": 24.912,
-        "best_t2": 25.655,
-        "best_t3": 24.024,
-        "best_t4": 16.731,
-        "top_speed_kmh": 307.6
+        "best_lap": "1'30.782",
+        "best_lap_sec": 90.782,
+        "best_t1": 24.899,
+        "best_t2": 25.313,
+        "best_t3": 23.973,
+        "best_t4": 16.597,
+        "top_speed_kmh": 306.3
       },
       "laps": [
         {
@@ -1895,6 +1907,18 @@
           "t3": 24.111,
           "t4": 16.724,
           "top_speed_kmh": 305.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'30.782",
+          "time_sec": 90.782,
+          "t1": 24.899,
+          "t2": 25.313,
+          "t3": 23.973,
+          "t4": 16.597,
+          "top_speed_kmh": 306.3,
           "type": "Flying"
         },
         {

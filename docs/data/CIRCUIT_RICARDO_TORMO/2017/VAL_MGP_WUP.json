@@ -10,7 +10,7 @@
     "date": "2017-11-12",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2017/VAL_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:49:23Z"
+    "parsed_at": "2026-06-23T21:40:55Z"
   },
   "riders": [
     {
@@ -1582,6 +1582,18 @@
           "t3": 22.082,
           "t4": 24.824,
           "top_speed_kmh": 310.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'35.886",
+          "time_sec": 95.886,
+          "t1": 21.99,
+          "t2": 27.138,
+          "t3": 22.043,
+          "t4": 24.715,
+          "top_speed_kmh": 313.4,
           "type": "Flying"
         },
         {

@@ -10,7 +10,7 @@
     "date": "2020-08-16",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2020/AUT_MGP_RAC2.pdf",
-    "parsed_at": "2026-06-23T00:56:21Z"
+    "parsed_at": "2026-06-23T21:41:48Z"
   },
   "riders": [
     {
@@ -2558,6 +2558,18 @@
         {
           "run": 1,
           "lap": 20,
+          "time": "1'26.669",
+          "time_sec": 86.669,
+          "t1": 17.647,
+          "t2": 27.311,
+          "t3": 24.498,
+          "t4": 17.213,
+          "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
           "time": "1'26.078",
           "time_sec": 86.078,
           "t1": 17.558,
@@ -3107,13 +3119,13 @@
         "total_laps": 20,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'27.184",
+        "best_lap_sec": 87.184,
+        "best_t1": 17.779,
+        "best_t2": 27.571,
+        "best_t3": 24.272,
+        "best_t4": 17.562,
+        "top_speed_kmh": 309.0
       },
       "laps": [
         {
@@ -3127,6 +3139,18 @@
           "t4": 16.986,
           "top_speed_kmh": 307.6,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'27.184",
+          "time_sec": 87.184,
+          "t1": 17.779,
+          "t2": 27.571,
+          "t3": 24.272,
+          "t4": 17.562,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
         }
       ]
     },

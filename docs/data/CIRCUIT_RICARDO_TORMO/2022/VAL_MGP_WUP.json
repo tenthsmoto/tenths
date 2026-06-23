@@ -10,7 +10,7 @@
     "date": "2022-11-06",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2022/VAL_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:49:51Z"
+    "parsed_at": "2026-06-23T21:40:58Z"
   },
   "riders": [
     {
@@ -1084,15 +1084,40 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'31.431",
+        "best_lap_sec": 91.431,
+        "best_t1": 20.53,
+        "best_t2": 24.66,
+        "best_t3": 21.8,
+        "best_t4": 24.441,
+        "top_speed_kmh": 322.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'52.491",
+          "time_sec": 112.491,
+          "t1": 22.509,
+          "t2": 27.215,
+          "t3": 23.364,
+          "t4": 25.658,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'31.431",
+          "time_sec": 91.431,
+          "t1": 20.53,
+          "t2": 24.66,
+          "t3": 21.8,
+          "t4": 24.441,
+          "top_speed_kmh": 322.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,
@@ -2571,6 +2596,18 @@
         },
         {
           "run": 1,
+          "lap": 1,
+          "time": "2'10.112",
+          "time_sec": 130.112,
+          "t1": 23.983,
+          "t2": 27.815,
+          "t3": 24.303,
+          "t4": 26.085,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
           "lap": 4,
           "time": "1'32.079",
           "time_sec": 92.079,
@@ -2591,18 +2628,6 @@
           "t3": 22.05,
           "t4": 24.765,
           "top_speed_kmh": 321.3,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
-          "lap": 1,
-          "time": "2'10.112",
-          "time_sec": 130.112,
-          "t1": 23.983,
-          "t2": 27.815,
-          "t3": 24.303,
-          "t4": 26.085,
-          "top_speed_kmh": null,
           "type": "Flying"
         },
         {

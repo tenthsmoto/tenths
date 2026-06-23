@@ -10,7 +10,7 @@
     "date": "2022-04-03",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2022/ARG_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:58:29Z"
+    "parsed_at": "2026-06-23T21:42:05Z"
   },
   "riders": [
     {
@@ -2947,13 +2947,13 @@
         "total_laps": 19,
         "full_laps": 15,
         "valid_laps": null,
-        "best_lap": "1'40.835",
-        "best_lap_sec": 100.835,
-        "best_t1": 27.455,
-        "best_t2": 23.68,
-        "best_t3": 25.604,
-        "best_t4": 24.096,
-        "top_speed_kmh": 332.7
+        "best_lap": "1'39.798",
+        "best_lap_sec": 99.798,
+        "best_t1": 27.194,
+        "best_t2": 23.442,
+        "best_t3": 25.329,
+        "best_t4": 23.833,
+        "top_speed_kmh": 339.9
       },
       "laps": [
         {
@@ -2978,6 +2978,18 @@
           "t3": 26.243,
           "t4": 25.042,
           "top_speed_kmh": 334.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'39.798",
+          "time_sec": 99.798,
+          "t1": 27.194,
+          "t2": 23.442,
+          "t3": 25.329,
+          "t4": 23.833,
+          "top_speed_kmh": 339.9,
           "type": "Flying"
         }
       ]
@@ -3097,6 +3109,18 @@
           "t3": 25.307,
           "t4": 23.997,
           "top_speed_kmh": 337.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'44.223",
+          "time_sec": 104.223,
+          "t1": 29.23,
+          "t2": 23.708,
+          "t3": 26.243,
+          "t4": 25.042,
+          "top_speed_kmh": 334.4,
           "type": "Flying"
         }
       ]
@@ -3602,13 +3626,13 @@
         "total_laps": 18,
         "full_laps": 14,
         "valid_laps": null,
-        "best_lap": "1'47.777",
-        "best_lap_sec": 107.777,
-        "best_t1": 27.392,
-        "best_t2": 24.937,
-        "best_t3": 31.237,
-        "best_t4": 24.211,
-        "top_speed_kmh": 339.0
+        "best_lap": "1'40.695",
+        "best_lap_sec": 100.695,
+        "best_t1": 27.185,
+        "best_t2": 23.417,
+        "best_t3": 25.314,
+        "best_t4": 24.779,
+        "top_speed_kmh": 341.8
       },
       "laps": [
         {
@@ -3634,6 +3658,18 @@
           "t4": 31.088,
           "top_speed_kmh": 324.0,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'40.695",
+          "time_sec": 100.695,
+          "t1": 27.185,
+          "t2": 23.417,
+          "t3": 25.314,
+          "t4": 24.779,
+          "top_speed_kmh": 341.8,
+          "type": "Flying"
         }
       ]
     }

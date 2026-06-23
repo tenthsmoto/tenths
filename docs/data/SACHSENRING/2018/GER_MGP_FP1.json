@@ -10,7 +10,7 @@
     "date": "2018-07-13",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2018/GER_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:57:04Z"
+    "parsed_at": "2026-06-23T21:41:54Z"
   },
   "riders": [
     {
@@ -1862,6 +1862,18 @@
         "top_speed_kmh": 286.0
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'22.695",
+          "time_sec": 82.695,
+          "t1": 18.318,
+          "t2": 23.837,
+          "t3": 19.335,
+          "t4": 21.205,
+          "top_speed_kmh": 290.0,
+          "type": "Flying"
+        },
         {
           "run": 2,
           "lap": 17,
@@ -4955,6 +4967,18 @@
           "t4": 25.078,
           "top_speed_kmh": 282.8,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'42.881",
+          "time_sec": 102.881,
+          "t1": 19.037,
+          "t2": 27.272,
+          "t3": 30.263,
+          "t4": 26.309,
+          "top_speed_kmh": 277.8,
+          "type": "Pit In"
         },
         {
           "run": 1,

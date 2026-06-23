@@ -10,7 +10,7 @@
     "date": "2018-11-02",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2018/MAL_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:54:44Z"
+    "parsed_at": "2026-06-23T21:41:36Z"
   },
   "riders": [
     {
@@ -1575,13 +1575,13 @@
         "total_laps": 17,
         "full_laps": 12,
         "valid_laps": null,
-        "best_lap": "2'02.317",
-        "best_lap_sec": 122.317,
-        "best_t1": 25.879,
-        "best_t2": 27.897,
-        "best_t3": 37.827,
-        "best_t4": 30.714,
-        "top_speed_kmh": 309.1
+        "best_lap": "2'01.147",
+        "best_lap_sec": 121.147,
+        "best_t1": 25.096,
+        "best_t2": 27.836,
+        "best_t3": 37.596,
+        "best_t4": 30.619,
+        "top_speed_kmh": 325.3
       },
       "laps": [
         {
@@ -1618,6 +1618,18 @@
           "t3": 37.694,
           "t4": 37.391,
           "top_speed_kmh": 321.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "2'01.147",
+          "time_sec": 121.147,
+          "t1": 25.096,
+          "t2": 27.836,
+          "t3": 37.596,
+          "t4": 30.619,
+          "top_speed_kmh": 325.3,
           "type": "Flying"
         }
       ]

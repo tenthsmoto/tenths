@@ -10,7 +10,7 @@
     "date": "2023-03-25",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2023/POR_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T01:47:16Z"
+    "parsed_at": "2026-06-23T21:40:16Z"
   },
   "riders": [
     {
@@ -1192,18 +1192,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 12,
-          "time": "1'39.969",
-          "time_sec": 99.969,
-          "t1": 20.718,
-          "t2": 31.76,
-          "t3": 15.34,
-          "t4": 32.151,
-          "top_speed_kmh": 33.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 4,
           "time": "1'39.771",
           "time_sec": 99.771,
@@ -1212,6 +1200,18 @@
           "t3": 15.219,
           "t4": 31.696,
           "top_speed_kmh": 340.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'39.969",
+          "time_sec": 99.969,
+          "t1": 20.718,
+          "t2": 31.76,
+          "t3": 15.34,
+          "t4": 32.151,
+          "top_speed_kmh": 33.0,
           "type": "Flying"
         }
       ]

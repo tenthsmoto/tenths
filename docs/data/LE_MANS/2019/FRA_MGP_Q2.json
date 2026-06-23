@@ -10,7 +10,7 @@
     "date": "2019-05-18",
     "class": "MotoGP",
     "source_file": "LE_MANS/2019/FRA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:50:28Z"
+    "parsed_at": "2026-06-23T21:41:03Z"
   },
   "riders": [
     {
@@ -363,7 +363,56 @@
         "best_t4": 26.985,
         "top_speed_kmh": 286.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'33.943",
+          "time_sec": 153.943,
+          "t1": 34.569,
+          "t2": 24.546,
+          "t3": 28.915,
+          "t4": 27.276,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'51.600",
+          "time_sec": 111.6,
+          "t1": 23.463,
+          "t2": 29.583,
+          "t3": 30.73,
+          "t4": 27.824,
+          "top_speed_kmh": 288.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'44.292",
+          "time_sec": 104.292,
+          "t1": 23.877,
+          "t2": 24.351,
+          "t3": 28.991,
+          "t4": 27.073,
+          "top_speed_kmh": 287.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'43.389",
+          "time_sec": 103.389,
+          "t1": 23.824,
+          "t2": 23.853,
+          "t3": 28.727,
+          "t4": 26.985,
+          "top_speed_kmh": 286.3,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

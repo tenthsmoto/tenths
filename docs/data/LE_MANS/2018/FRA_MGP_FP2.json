@@ -10,7 +10,7 @@
     "date": "2018-05-18",
     "class": "MotoGP",
     "source_file": "LE_MANS/2018/FRA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:50:21Z"
+    "parsed_at": "2026-06-23T21:41:03Z"
   },
   "riders": [
     {
@@ -1816,15 +1816,27 @@
         "total_laps": 18,
         "full_laps": 11,
         "valid_laps": null,
-        "best_lap": "1'32.576",
-        "best_lap_sec": 92.576,
-        "best_t1": 21.246,
-        "best_t2": 21.237,
-        "best_t3": 25.51,
-        "best_t4": 24.583,
-        "top_speed_kmh": 304.0
+        "best_lap": "1'32.572",
+        "best_lap_sec": 92.572,
+        "best_t1": 21.321,
+        "best_t2": 21.053,
+        "best_t3": 25.524,
+        "best_t4": 24.674,
+        "top_speed_kmh": 296.5
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'32.572",
+          "time_sec": 92.572,
+          "t1": 21.321,
+          "t2": 21.053,
+          "t3": 25.524,
+          "t4": 24.674,
+          "top_speed_kmh": 296.5,
+          "type": "Flying"
+        },
         {
           "run": 3,
           "lap": 11,
@@ -3165,13 +3177,13 @@
         "total_laps": 15,
         "full_laps": 14,
         "valid_laps": null,
-        "best_lap": "2'38.586",
-        "best_lap_sec": 158.586,
-        "best_t1": 18.485,
-        "best_t2": 24.211,
-        "best_t3": 27.913,
-        "best_t4": 26.335,
-        "top_speed_kmh": null
+        "best_lap": "1'32.851",
+        "best_lap_sec": 92.851,
+        "best_t1": 21.428,
+        "best_t2": 21.209,
+        "best_t3": 25.603,
+        "best_t4": 24.611,
+        "top_speed_kmh": 299.6
       },
       "laps": [
         {
@@ -3185,6 +3197,18 @@
           "t4": 26.335,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'32.851",
+          "time_sec": 92.851,
+          "t1": 21.428,
+          "t2": 21.209,
+          "t3": 25.603,
+          "t4": 24.611,
+          "top_speed_kmh": 299.6,
+          "type": "Flying"
         }
       ]
     },

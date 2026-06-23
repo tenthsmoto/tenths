@@ -10,7 +10,7 @@
     "date": "2018-11-03",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2018/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:54:46Z"
+    "parsed_at": "2026-06-23T21:41:35Z"
   },
   "riders": [
     {
@@ -318,7 +318,32 @@
         "best_t4": 32.721,
         "top_speed_kmh": 296.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'27.791",
+          "time_sec": 147.791,
+          "t1": 28.107,
+          "t2": 32.567,
+          "t3": 43.499,
+          "t4": 33.875,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'13.097",
+          "time_sec": 133.097,
+          "t1": 27.453,
+          "t2": 30.929,
+          "t3": 41.994,
+          "t4": 32.721,
+          "top_speed_kmh": 296.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,
@@ -838,7 +863,44 @@
         "best_t4": 33.656,
         "top_speed_kmh": 293.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'33.703",
+          "time_sec": 153.703,
+          "t1": 26.988,
+          "t2": 32.662,
+          "t3": 43.995,
+          "t4": 34.327,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "2'15.859",
+          "time_sec": 135.859,
+          "t1": 27.938,
+          "t2": 31.664,
+          "t3": 42.661,
+          "t4": 33.596,
+          "top_speed_kmh": 289.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'14.856",
+          "time_sec": 134.856,
+          "t1": 27.71,
+          "t2": 31.123,
+          "t3": 42.367,
+          "t4": 33.656,
+          "top_speed_kmh": 293.1,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

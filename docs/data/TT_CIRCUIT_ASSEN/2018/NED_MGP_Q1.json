@@ -10,7 +10,7 @@
     "date": "2018-06-30",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2018/NED_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:58:46Z"
+    "parsed_at": "2026-06-23T21:42:07Z"
   },
   "riders": [
     {
@@ -1376,6 +1376,18 @@
           "t3": 27.898,
           "t4": 22.307,
           "top_speed_kmh": 305.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'53.811",
+          "time_sec": 113.811,
+          "t1": 31.144,
+          "t2": 15.441,
+          "t3": 40.039,
+          "t4": 27.187,
+          "top_speed_kmh": 306.5,
           "type": "Flying"
         }
       ]

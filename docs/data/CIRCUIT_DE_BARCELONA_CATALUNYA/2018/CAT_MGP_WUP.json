@@ -10,7 +10,7 @@
     "date": "2018-06-17",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2018/CAT_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:47:48Z"
+    "parsed_at": "2026-06-23T21:40:43Z"
   },
   "riders": [
     {
@@ -2511,7 +2511,7 @@
       },
       "laps": [
         {
-          "run": 1,
+          "run": 2,
           "lap": 2,
           "time": "1'45.848",
           "time_sec": 105.848,
@@ -2523,7 +2523,7 @@
           "type": "Flying"
         },
         {
-          "run": 1,
+          "run": 2,
           "lap": 6,
           "time": "1'56.652",
           "time_sec": 116.652,

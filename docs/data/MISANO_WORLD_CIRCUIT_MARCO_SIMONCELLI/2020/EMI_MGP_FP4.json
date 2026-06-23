@@ -10,7 +10,7 @@
     "date": "2020-09-19",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2020/EMI_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:52:08Z"
+    "parsed_at": "2026-06-23T21:41:16Z"
   },
   "riders": [
     {
@@ -605,6 +605,18 @@
           "t3": 25.15,
           "t4": 20.693,
           "top_speed_kmh": 295.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'32.797",
+          "time_sec": 92.797,
+          "t1": 25.956,
+          "t2": 20.796,
+          "t3": 25.336,
+          "t4": 20.709,
+          "top_speed_kmh": 288.7,
           "type": "Flying"
         }
       ]

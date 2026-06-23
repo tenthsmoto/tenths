@@ -10,7 +10,7 @@
     "date": "2022-04-23",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2022/POR_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:44:10Z"
+    "parsed_at": "2026-06-23T21:40:15Z"
   },
   "riders": [
     {
@@ -3432,6 +3432,18 @@
           "t4": 36.104,
           "top_speed_kmh": 322.3,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "2'14.439",
+          "time_sec": 134.439,
+          "t1": 23.536,
+          "t2": 37.438,
+          "t3": 18.823,
+          "t4": 54.642,
+          "top_speed_kmh": 313.9,
+          "type": "Pit In"
         },
         {
           "run": 2,

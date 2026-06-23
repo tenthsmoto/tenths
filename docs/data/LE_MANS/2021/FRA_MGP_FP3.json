@@ -10,7 +10,7 @@
     "date": "2021-05-15",
     "class": "MotoGP",
     "source_file": "LE_MANS/2021/FRA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:50:35Z"
+    "parsed_at": "2026-06-23T21:41:04Z"
   },
   "riders": [
     {
@@ -2660,6 +2660,18 @@
           "t4": 27.944,
           "top_speed_kmh": 295.9,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'51.284",
+          "time_sec": 111.284,
+          "t1": 26.327,
+          "t2": 25.758,
+          "t3": 30.85,
+          "t4": 28.349,
+          "top_speed_kmh": 301.2,
+          "type": "Cancelled"
         }
       ]
     },

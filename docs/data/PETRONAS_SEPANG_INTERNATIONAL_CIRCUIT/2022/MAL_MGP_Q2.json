@@ -10,7 +10,7 @@
     "date": "2022-10-22",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2022/MAL_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:54:55Z"
+    "parsed_at": "2026-06-23T21:41:36Z"
   },
   "riders": [
     {
@@ -366,6 +366,18 @@
           "t4": 30.385,
           "top_speed_kmh": null,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'26.864",
+          "time_sec": 146.864,
+          "t1": 37.703,
+          "t2": 32.209,
+          "t3": 41.312,
+          "t4": 35.64,
+          "top_speed_kmh": 33.0,
+          "type": "Flying"
         },
         {
           "run": 1,

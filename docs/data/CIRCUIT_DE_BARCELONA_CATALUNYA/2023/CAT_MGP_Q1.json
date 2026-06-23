@@ -10,7 +10,7 @@
     "date": "2023-09-02",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2023/CAT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:48:12Z"
+    "parsed_at": "2026-06-23T21:40:45Z"
   },
   "riders": [
     {
@@ -429,6 +429,18 @@
         {
           "run": 1,
           "lap": 8,
+          "time": "2'12.006",
+          "time_sec": 132.006,
+          "t1": 25.068,
+          "t2": 42.407,
+          "t3": 25.287,
+          "t4": 39.244,
+          "top_speed_kmh": 268.6,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 8,
           "time": "1'39.903",
           "time_sec": 99.903,
           "t1": 16.873,
@@ -460,7 +472,44 @@
         "best_t4": 30.681,
         "top_speed_kmh": 34.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'39.581",
+          "time_sec": 99.581,
+          "t1": 16.877,
+          "t2": 31.518,
+          "t3": 20.454,
+          "t4": 30.732,
+          "top_speed_kmh": 346.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'39.452",
+          "time_sec": 99.452,
+          "t1": 16.835,
+          "t2": 31.475,
+          "t3": 20.461,
+          "t4": 30.681,
+          "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'39.903",
+          "time_sec": 99.903,
+          "t1": 16.873,
+          "t2": 31.598,
+          "t3": 20.549,
+          "t4": 30.883,
+          "top_speed_kmh": 345.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

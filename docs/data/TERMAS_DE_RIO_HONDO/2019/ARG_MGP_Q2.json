@@ -10,7 +10,7 @@
     "date": "2019-03-30",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2019/ARG_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:58:24Z"
+    "parsed_at": "2026-06-23T21:42:04Z"
   },
   "riders": [
     {
@@ -1107,13 +1107,13 @@
         "total_laps": 8,
         "full_laps": 5,
         "valid_laps": null,
-        "best_lap": "1'40.280",
-        "best_lap_sec": 100.28,
-        "best_t1": 28.564,
-        "best_t2": 23.819,
-        "best_t3": 25.318,
-        "best_t4": 22.579,
-        "top_speed_kmh": 319.0
+        "best_lap": "1'39.093",
+        "best_lap_sec": 99.093,
+        "best_t1": 28.046,
+        "best_t2": 23.498,
+        "best_t3": 25.209,
+        "best_t4": 22.34,
+        "top_speed_kmh": 321.5
       },
       "laps": [
         {
@@ -1139,6 +1139,18 @@
           "t4": 25.504,
           "top_speed_kmh": 298.3,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'39.093",
+          "time_sec": 99.093,
+          "t1": 28.046,
+          "t2": 23.498,
+          "t3": 25.209,
+          "t4": 22.34,
+          "top_speed_kmh": 321.5,
+          "type": "Flying"
         },
         {
           "run": 1,
@@ -1209,6 +1221,18 @@
           "t3": 25.873,
           "t4": 22.686,
           "top_speed_kmh": 315.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'40.576",
+          "time_sec": 100.576,
+          "t1": 28.515,
+          "t2": 23.875,
+          "t3": 25.307,
+          "t4": 22.879,
+          "top_speed_kmh": 319.0,
           "type": "Flying"
         },
         {

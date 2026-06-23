@@ -10,7 +10,7 @@
     "date": "2022-03-05",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2022/QAT_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:51:26Z"
+    "parsed_at": "2026-06-23T21:41:11Z"
   },
   "riders": [
     {
@@ -1683,15 +1683,40 @@
         "total_laps": 13,
         "full_laps": 8,
         "valid_laps": null,
-        "best_lap": "2'06.776",
-        "best_lap_sec": 126.776,
-        "best_t1": 33.949,
-        "best_t2": 31.252,
-        "best_t3": 29.141,
-        "best_t4": 32.434,
-        "top_speed_kmh": 133.4
+        "best_lap": "1'59.307",
+        "best_lap_sec": 119.307,
+        "best_t1": 28.349,
+        "best_t2": 30.468,
+        "best_t3": 28.736,
+        "best_t4": 31.754,
+        "top_speed_kmh": 342.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "2'06.776",
+          "time_sec": 126.776,
+          "t1": 33.949,
+          "t2": 31.252,
+          "t3": 29.141,
+          "t4": 32.434,
+          "top_speed_kmh": 133.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'59.307",
+          "time_sec": 119.307,
+          "t1": 28.349,
+          "t2": 30.468,
+          "t3": 28.736,
+          "t4": 31.754,
+          "top_speed_kmh": 342.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 12,

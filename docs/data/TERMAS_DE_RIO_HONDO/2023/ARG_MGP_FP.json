@@ -10,7 +10,7 @@
     "date": "2023-04-01",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2023/ARG_MGP_FP.pdf",
-    "parsed_at": "2026-06-23T00:58:29Z"
+    "parsed_at": "2026-06-23T21:42:05Z"
   },
   "riders": [
     {
@@ -899,7 +899,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'46.915",
+          "time_sec": 106.915,
+          "t1": 29.575,
+          "t2": 24.218,
+          "t3": 27.172,
+          "t4": 25.95,
+          "top_speed_kmh": 334.4,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 10,
@@ -921,7 +934,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'46.915",
+          "time_sec": 106.915,
+          "t1": 29.575,
+          "t2": 24.218,
+          "t3": 27.172,
+          "t4": 25.95,
+          "top_speed_kmh": 334.4,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 11,
@@ -1527,6 +1553,18 @@
         "top_speed_kmh": null
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'54.321",
+          "time_sec": 114.321,
+          "t1": 33.895,
+          "t2": 26.068,
+          "t3": 28.145,
+          "t4": 26.213,
+          "top_speed_kmh": 326.6,
+          "type": "Pit In"
+        },
         {
           "run": 2,
           "lap": 6,

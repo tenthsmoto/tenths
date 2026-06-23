@@ -10,7 +10,7 @@
     "date": "2019-06-14",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2019/CAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:47:50Z"
+    "parsed_at": "2026-06-23T21:40:43Z"
   },
   "riders": [
     {
@@ -1956,7 +1956,44 @@
         "best_t4": 30.999,
         "top_speed_kmh": 331.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'40.890",
+          "time_sec": 100.89,
+          "t1": 17.304,
+          "t2": 31.877,
+          "t3": 20.71,
+          "t4": 30.999,
+          "top_speed_kmh": 331.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'41.434",
+          "time_sec": 101.434,
+          "t1": 17.397,
+          "t2": 31.991,
+          "t3": 20.847,
+          "t4": 31.199,
+          "top_speed_kmh": 332.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'41.543",
+          "time_sec": 101.543,
+          "t1": 17.372,
+          "t2": 31.946,
+          "t3": 21.035,
+          "t4": 31.19,
+          "top_speed_kmh": 333.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,

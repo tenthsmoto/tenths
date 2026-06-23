@@ -10,7 +10,7 @@
     "date": "2017-11-10",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2017/VAL_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:49:19Z"
+    "parsed_at": "2026-06-23T21:40:55Z"
   },
   "riders": [
     {
@@ -1243,13 +1243,13 @@
         "total_laps": 21,
         "full_laps": 16,
         "valid_laps": null,
-        "best_lap": "1'32.356",
-        "best_lap_sec": 92.356,
-        "best_t1": 20.738,
-        "best_t2": 24.672,
-        "best_t3": 22.117,
-        "best_t4": 24.829,
-        "top_speed_kmh": 313.9
+        "best_lap": "1'31.843",
+        "best_lap_sec": 91.843,
+        "best_t1": 20.743,
+        "best_t2": 24.62,
+        "best_t3": 21.915,
+        "best_t4": 24.565,
+        "top_speed_kmh": 312.1
       },
       "laps": [
         {
@@ -1310,6 +1310,18 @@
           "t3": 22.107,
           "t4": 24.764,
           "top_speed_kmh": 314.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "1'31.843",
+          "time_sec": 91.843,
+          "t1": 20.743,
+          "t2": 24.62,
+          "t3": 21.915,
+          "t4": 24.565,
+          "top_speed_kmh": 312.1,
           "type": "Flying"
         }
       ]

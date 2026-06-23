@@ -10,7 +10,7 @@
     "date": "2022-04-09",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2022/AME_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:48:57Z"
+    "parsed_at": "2026-06-23T21:40:51Z"
   },
   "riders": [
     {
@@ -879,6 +879,18 @@
         {
           "run": 1,
           "lap": 7,
+          "time": "2'13.253",
+          "time_sec": 133.253,
+          "t1": 35.034,
+          "t2": 30.124,
+          "t3": 38.162,
+          "t4": 29.933,
+          "top_speed_kmh": 333.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
           "time": "2'04.140",
           "time_sec": 124.14,
           "t1": 34.835,
@@ -902,12 +914,12 @@
         "total_laps": 6,
         "full_laps": 1,
         "valid_laps": null,
-        "best_lap": "2'04.185",
-        "best_lap_sec": 124.185,
-        "best_t1": 34.985,
-        "best_t2": 30.265,
-        "best_t3": 30.581,
-        "best_t4": 28.354,
+        "best_lap": "2'04.140",
+        "best_lap_sec": 124.14,
+        "best_t1": 34.835,
+        "best_t2": 30.233,
+        "best_t3": 30.495,
+        "best_t4": 28.577,
         "top_speed_kmh": 330.2
       },
       "laps": [
@@ -958,6 +970,18 @@
           "t4": 33.137,
           "top_speed_kmh": 327.2,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'04.140",
+          "time_sec": 124.14,
+          "t1": 34.835,
+          "t2": 30.233,
+          "t3": 30.495,
+          "t4": 28.577,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
         }
       ]
     },
@@ -1005,6 +1029,18 @@
           "t4": 28.624,
           "top_speed_kmh": 332.3,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'09.236",
+          "time_sec": 129.236,
+          "t1": 35.027,
+          "t2": 30.148,
+          "t3": 30.924,
+          "t4": 33.137,
+          "top_speed_kmh": 327.2,
+          "type": "Cancelled"
         },
         {
           "run": 1,

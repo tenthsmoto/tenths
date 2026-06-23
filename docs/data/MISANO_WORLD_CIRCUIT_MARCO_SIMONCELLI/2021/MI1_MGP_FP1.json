@@ -10,7 +10,7 @@
     "date": "2021-09-21",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2021/MI1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:52:19Z"
+    "parsed_at": "2026-06-23T21:41:17Z"
   },
   "riders": [
     {
@@ -225,6 +225,18 @@
         "top_speed_kmh": 26.0
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'34.121",
+          "time_sec": 94.121,
+          "t1": 26.503,
+          "t2": 20.832,
+          "t3": 25.799,
+          "t4": 20.987,
+          "top_speed_kmh": 29.0,
+          "type": "Cancelled"
+        },
         {
           "run": 2,
           "lap": 2,

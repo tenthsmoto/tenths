@@ -10,7 +10,7 @@
     "date": "2017-10-29",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2017/MAL_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T01:50:57Z"
+    "parsed_at": "2026-06-23T21:41:35Z"
   },
   "riders": [
     {
@@ -1566,18 +1566,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "2'15.235",
-          "time_sec": 135.235,
-          "t1": 27.725,
-          "t2": 31.289,
-          "t3": 42.544,
-          "t4": 33.677,
-          "top_speed_kmh": 295.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 3,
           "time": "2'16.743",
           "time_sec": 136.743,
@@ -1718,6 +1706,18 @@
           "t3": 42.266,
           "t4": 33.439,
           "top_speed_kmh": 284.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "2'15.235",
+          "time_sec": 135.235,
+          "t1": 27.725,
+          "t2": 31.289,
+          "t3": 42.544,
+          "t4": 33.677,
+          "top_speed_kmh": 295.0,
           "type": "Flying"
         }
       ]
@@ -1912,18 +1912,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "2'16.076",
-          "time_sec": 136.076,
-          "t1": 28.185,
-          "t2": 31.365,
-          "t3": 42.795,
-          "t4": 33.731,
-          "top_speed_kmh": 283.2,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 4,
           "time": "2'17.420",
           "time_sec": 137.42,
@@ -2112,6 +2100,18 @@
           "t3": 42.328,
           "t4": 33.553,
           "top_speed_kmh": 273.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "2'16.076",
+          "time_sec": 136.076,
+          "t1": 28.185,
+          "t2": 31.365,
+          "t3": 42.795,
+          "t4": 33.731,
+          "top_speed_kmh": 283.2,
           "type": "Flying"
         },
         {

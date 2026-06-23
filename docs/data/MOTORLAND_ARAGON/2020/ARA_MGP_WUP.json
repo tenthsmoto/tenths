@@ -10,7 +10,7 @@
     "date": "2020-10-18",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2020/ARA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:53:52Z"
+    "parsed_at": "2026-06-23T21:41:29Z"
   },
   "riders": [
     {
@@ -1085,13 +1085,13 @@
         "total_laps": 11,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": "1'52.713",
-        "best_lap_sec": 112.713,
-        "best_t1": 33.105,
-        "best_t2": 32.042,
-        "best_t3": 22.082,
-        "best_t4": 25.484,
-        "top_speed_kmh": 342.9
+        "best_lap": "1'49.173",
+        "best_lap_sec": 109.173,
+        "best_t1": 31.518,
+        "best_t2": 30.95,
+        "best_t3": 21.344,
+        "best_t4": 25.361,
+        "top_speed_kmh": 340.0
       },
       "laps": [
         {
@@ -1104,6 +1104,18 @@
           "t3": 22.082,
           "t4": 25.484,
           "top_speed_kmh": 342.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'49.173",
+          "time_sec": 109.173,
+          "t1": 31.518,
+          "t2": 30.95,
+          "t3": 21.344,
+          "t4": 25.361,
+          "top_speed_kmh": 340.0,
           "type": "Flying"
         }
       ]

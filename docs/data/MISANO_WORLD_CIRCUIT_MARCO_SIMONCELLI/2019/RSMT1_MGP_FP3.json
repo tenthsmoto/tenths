@@ -10,7 +10,7 @@
     "date": "2019-08-30",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2019/RSMT1_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:52:00Z"
+    "parsed_at": "2026-06-23T21:41:15Z"
   },
   "riders": [
     {
@@ -811,6 +811,18 @@
         "top_speed_kmh": 28.0
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 38,
+          "time": "1'39.762",
+          "time_sec": 99.762,
+          "t1": 20.274,
+          "t2": 23.554,
+          "t3": 31.503,
+          "t4": 24.431,
+          "top_speed_kmh": 19.0,
+          "type": "Flying"
+        },
         {
           "run": 2,
           "lap": 2,
@@ -2880,6 +2892,18 @@
           "t4": 22.259,
           "top_speed_kmh": 139.8,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 40,
+          "time": "1'34.830",
+          "time_sec": 94.83,
+          "t1": 25.595,
+          "t2": 22.173,
+          "t3": 25.859,
+          "t4": 21.203,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
         }
       ]
     },

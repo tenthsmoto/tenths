@@ -10,7 +10,7 @@
     "date": "2017-09-24",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2017/ARA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:53:39Z"
+    "parsed_at": "2026-06-23T21:41:27Z"
   },
   "riders": [
     {
@@ -2290,6 +2290,18 @@
           "t4": 26.0,
           "top_speed_kmh": 333.5,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'04.669",
+          "time_sec": 124.669,
+          "t1": 38.675,
+          "t2": 33.101,
+          "t3": 22.756,
+          "t4": 30.137,
+          "top_speed_kmh": 317.4,
+          "type": "Pit In"
         },
         {
           "run": 1,

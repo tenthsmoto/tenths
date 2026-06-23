@@ -10,7 +10,7 @@
     "date": "2019-10-05",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2019/THA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:45:57Z"
+    "parsed_at": "2026-06-23T21:40:29Z"
   },
   "riders": [
     {
@@ -3216,7 +3216,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'54.517",
+          "time_sec": 114.517,
+          "t1": 20.477,
+          "t2": 28.771,
+          "t3": 25.338,
+          "t4": 39.931,
+          "top_speed_kmh": 297.0,
+          "type": "Pit In"
+        }
+      ]
     }
   ]
 }

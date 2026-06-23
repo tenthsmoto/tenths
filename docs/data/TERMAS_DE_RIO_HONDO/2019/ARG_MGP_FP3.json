@@ -10,7 +10,7 @@
     "date": "2019-03-30",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2019/ARG_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:58:23Z"
+    "parsed_at": "2026-06-23T21:42:04Z"
   },
   "riders": [
     {
@@ -1684,13 +1684,13 @@
         "total_laps": 20,
         "full_laps": 13,
         "valid_laps": null,
-        "best_lap": "1'39.251",
-        "best_lap_sec": 99.251,
-        "best_t1": 28.198,
-        "best_t2": 23.371,
-        "best_t3": 25.286,
-        "best_t4": 22.396,
-        "top_speed_kmh": 326.4
+        "best_lap": "1'39.202",
+        "best_lap_sec": 99.202,
+        "best_t1": 28.146,
+        "best_t2": 23.516,
+        "best_t3": 25.121,
+        "best_t4": 22.419,
+        "top_speed_kmh": 320.5
       },
       "laps": [
         {
@@ -1727,6 +1727,18 @@
           "t3": 25.355,
           "t4": 22.384,
           "top_speed_kmh": 323.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'39.202",
+          "time_sec": 99.202,
+          "t1": 28.146,
+          "t2": 23.516,
+          "t3": 25.121,
+          "t4": 22.419,
+          "top_speed_kmh": 320.5,
           "type": "Flying"
         },
         {
@@ -2923,6 +2935,18 @@
       },
       "laps": [
         {
+          "run": 1,
+          "lap": 20,
+          "time": "1'40.224",
+          "time_sec": 100.224,
+          "t1": 28.369,
+          "t2": 23.878,
+          "t3": 25.449,
+          "t4": 22.528,
+          "top_speed_kmh": 313.3,
+          "type": "Flying"
+        },
+        {
           "run": 3,
           "lap": 16,
           "time": "1'40.996",
@@ -3545,6 +3569,18 @@
         {
           "run": 1,
           "lap": 18,
+          "time": "2'02.655",
+          "time_sec": 122.655,
+          "t1": 29.873,
+          "t2": 27.844,
+          "t3": 31.911,
+          "t4": 33.027,
+          "top_speed_kmh": 310.4,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 18,
           "time": "1'40.489",
           "time_sec": 100.489,
           "t1": 28.576,
@@ -3568,13 +3604,13 @@
         "total_laps": 19,
         "full_laps": 14,
         "valid_laps": null,
-        "best_lap": "1'40.716",
-        "best_lap_sec": 100.716,
-        "best_t1": 28.638,
-        "best_t2": 23.717,
-        "best_t3": 25.79,
-        "best_t4": 22.571,
-        "top_speed_kmh": 324.7
+        "best_lap": "1'40.489",
+        "best_lap_sec": 100.489,
+        "best_t1": 28.576,
+        "best_t2": 23.601,
+        "best_t3": 25.472,
+        "best_t4": 22.84,
+        "top_speed_kmh": 327.7
       },
       "laps": [
         {
@@ -3587,6 +3623,18 @@
           "t3": 25.79,
           "t4": 22.571,
           "top_speed_kmh": 324.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'40.489",
+          "time_sec": 100.489,
+          "t1": 28.576,
+          "t2": 23.601,
+          "t3": 25.472,
+          "t4": 22.84,
+          "top_speed_kmh": 327.7,
           "type": "Flying"
         }
       ]

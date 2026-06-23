@@ -10,7 +10,7 @@
     "date": "2022-04-09",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2022/AME_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:48:57Z"
+    "parsed_at": "2026-06-23T21:40:51Z"
   },
   "riders": [
     {
@@ -342,6 +342,18 @@
           "t4": 28.126,
           "top_speed_kmh": 341.7,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "2'29.624",
+          "time_sec": 149.624,
+          "t1": 52.851,
+          "t2": 32.38,
+          "t3": 31.701,
+          "t4": 32.692,
+          "top_speed_kmh": 338.0,
+          "type": "Cancelled"
         }
       ]
     },
@@ -890,12 +902,12 @@
         "total_laps": 6,
         "full_laps": 3,
         "valid_laps": null,
-        "best_lap": "2'03.096",
-        "best_lap_sec": 123.096,
-        "best_t1": 34.774,
-        "best_t2": 29.759,
-        "best_t3": 30.2,
-        "best_t4": 28.363,
+        "best_lap": "2'03.059",
+        "best_lap_sec": 123.059,
+        "best_t1": 34.771,
+        "best_t2": 29.878,
+        "best_t3": 30.187,
+        "best_t4": 28.223,
         "top_speed_kmh": 340.6
       },
       "laps": [
@@ -921,6 +933,18 @@
           "t3": 32.519,
           "t4": 28.402,
           "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'03.059",
+          "time_sec": 123.059,
+          "t1": 34.771,
+          "t2": 29.878,
+          "t3": 30.187,
+          "t4": 28.223,
+          "top_speed_kmh": 340.6,
           "type": "Flying"
         }
       ]

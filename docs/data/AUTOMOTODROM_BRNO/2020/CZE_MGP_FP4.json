@@ -10,7 +10,7 @@
     "date": "2020-08-08",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2020/CZE_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:45:26Z"
+    "parsed_at": "2026-06-23T21:40:25Z"
   },
   "riders": [
     {
@@ -402,6 +402,18 @@
           "t3": 32.706,
           "t4": 19.809,
           "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'58.111",
+          "time_sec": 118.111,
+          "t1": 29.885,
+          "t2": 35.73,
+          "t3": 32.731,
+          "t4": 19.765,
+          "top_speed_kmh": 309.0,
           "type": "Flying"
         }
       ]
@@ -1774,6 +1786,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 12,
+          "time": "2'02.369",
+          "time_sec": 122.369,
+          "t1": 29.976,
+          "t2": 39.485,
+          "t3": 32.932,
+          "t4": 19.976,
+          "top_speed_kmh": 304.2,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 9,
           "time": "1'58.763",
@@ -1878,6 +1902,18 @@
           "t3": 33.224,
           "t4": 28.417,
           "top_speed_kmh": 307.6,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'10.453",
+          "time_sec": 130.453,
+          "t1": 30.197,
+          "t2": 36.727,
+          "t3": 34.192,
+          "t4": 29.337,
+          "top_speed_kmh": 305.0,
           "type": "Pit In"
         }
       ]

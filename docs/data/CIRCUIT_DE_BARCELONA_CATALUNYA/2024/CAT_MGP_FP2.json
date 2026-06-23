@@ -10,7 +10,7 @@
     "date": "2024-05-25",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2024/CAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:48:15Z"
+    "parsed_at": "2026-06-23T21:40:46Z"
   },
   "riders": [
     {
@@ -2583,6 +2583,18 @@
           "t3": 20.607,
           "t4": 31.501,
           "top_speed_kmh": 349.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'40.180",
+          "time_sec": 100.18,
+          "t1": 16.8,
+          "t2": 31.57,
+          "t3": 20.646,
+          "t4": 31.164,
+          "top_speed_kmh": 34.0,
           "type": "Flying"
         },
         {

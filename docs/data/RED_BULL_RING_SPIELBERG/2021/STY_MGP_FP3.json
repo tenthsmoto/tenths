@@ -10,7 +10,7 @@
     "date": "2021-08-07",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2021/STY_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:56:33Z"
+    "parsed_at": "2026-06-23T21:41:50Z"
   },
   "riders": [
     {
@@ -4499,6 +4499,18 @@
           "t4": 16.774,
           "top_speed_kmh": 300.8,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 23,
+          "time": "1'26.956",
+          "time_sec": 86.956,
+          "t1": 17.493,
+          "t2": 26.737,
+          "t3": 23.916,
+          "t4": 18.81,
+          "top_speed_kmh": 309.4,
+          "type": "Cancelled"
         }
       ]
     }

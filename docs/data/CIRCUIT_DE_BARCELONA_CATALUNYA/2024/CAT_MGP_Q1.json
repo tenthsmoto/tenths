@@ -10,7 +10,7 @@
     "date": "2024-05-25",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2024/CAT_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:48:17Z"
+    "parsed_at": "2026-06-23T21:40:46Z"
   },
   "riders": [
     {
@@ -1329,7 +1329,44 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'40.713",
+          "time_sec": 100.713,
+          "t1": 16.794,
+          "t2": 31.826,
+          "t3": 20.693,
+          "t4": 31.4,
+          "top_speed_kmh": 347.2,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'56.333",
+          "time_sec": 116.333,
+          "t1": 17.986,
+          "t2": 34.572,
+          "t3": 21.32,
+          "t4": 42.455,
+          "top_speed_kmh": 346.1,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'49.036",
+          "time_sec": 109.036,
+          "t1": 18.187,
+          "t2": 35.354,
+          "t3": 22.704,
+          "t4": 32.791,
+          "top_speed_kmh": 346.1,
+          "type": "Cancelled"
+        }
+      ]
     }
   ]
 }

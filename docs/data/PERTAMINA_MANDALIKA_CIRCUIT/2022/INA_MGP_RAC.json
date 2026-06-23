@@ -10,7 +10,7 @@
     "date": "2022-03-20",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2022/INA_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T01:50:48Z"
+    "parsed_at": "2026-06-23T21:41:33Z"
   },
   "riders": [
     {
@@ -2353,18 +2353,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "1'40.454",
-          "time_sec": 100.454,
-          "t1": 28.491,
-          "t2": 20.612,
-          "t3": 20.702,
-          "t4": 30.649,
-          "top_speed_kmh": 300.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 1,
           "time": "1'50.633",
           "time_sec": 110.633,
@@ -2589,6 +2577,18 @@
           "t3": 20.621,
           "t4": 31.109,
           "top_speed_kmh": 289.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'40.454",
+          "time_sec": 100.454,
+          "t1": 28.491,
+          "t2": 20.612,
+          "t3": 20.702,
+          "t4": 30.649,
+          "top_speed_kmh": 300.0,
           "type": "Flying"
         },
         {
@@ -3154,18 +3154,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "1'41.306",
-          "time_sec": 101.306,
-          "t1": 28.264,
-          "t2": 21.095,
-          "t3": 20.699,
-          "t4": 31.248,
-          "top_speed_kmh": 284.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 1,
           "time": "1'50.569",
           "time_sec": 110.569,
@@ -3175,6 +3163,18 @@
           "t4": 32.67,
           "top_speed_kmh": 232.2,
           "type": "Start"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'41.306",
+          "time_sec": 101.306,
+          "t1": 28.264,
+          "t2": 21.095,
+          "t3": 20.699,
+          "t4": 31.248,
+          "top_speed_kmh": 284.0,
+          "type": "Flying"
         }
       ]
     },

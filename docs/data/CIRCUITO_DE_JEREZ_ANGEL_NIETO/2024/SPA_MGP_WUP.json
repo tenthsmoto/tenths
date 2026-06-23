@@ -10,7 +10,7 @@
     "date": "2024-04-28",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2024/SPA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:47:22Z"
+    "parsed_at": "2026-06-23T21:40:39Z"
   },
   "riders": [
     {
@@ -1016,7 +1016,32 @@
         "best_t4": 29.882,
         "top_speed_kmh": 291.1
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'39.565",
+          "time_sec": 99.565,
+          "t1": 24.646,
+          "t2": 14.345,
+          "t3": 30.692,
+          "t4": 29.882,
+          "top_speed_kmh": 291.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 5,
+          "time": "1'38.032",
+          "time_sec": 98.032,
+          "t1": 24.447,
+          "t2": 14.294,
+          "t3": 29.592,
+          "t4": 29.699,
+          "top_speed_kmh": 287.2,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 15,

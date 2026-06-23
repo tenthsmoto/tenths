@@ -10,7 +10,7 @@
     "date": "2021-06-26",
     "class": "MotoGP",
     "source_file": "TT_CIRCUIT_ASSEN/2021/NED_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:58:55Z"
+    "parsed_at": "2026-06-23T21:42:08Z"
   },
   "riders": [
     {
@@ -437,6 +437,18 @@
           "t4": 21.694,
           "top_speed_kmh": 312.2,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'47.317",
+          "time_sec": 107.317,
+          "t1": 35.354,
+          "t2": 15.339,
+          "t3": 32.294,
+          "t4": 24.33,
+          "top_speed_kmh": 276.9,
+          "type": "Cancelled"
         }
       ]
     },
@@ -452,15 +464,64 @@
         "total_laps": 8,
         "full_laps": 5,
         "valid_laps": null,
-        "best_lap": "1'32.450",
-        "best_lap_sec": 92.45,
-        "best_t1": 30.325,
-        "best_t2": 13.832,
-        "best_t3": 26.912,
-        "best_t4": 21.381,
-        "top_speed_kmh": 309.0
+        "best_lap": "1'32.394",
+        "best_lap_sec": 92.394,
+        "best_t1": 30.131,
+        "best_t2": 13.718,
+        "best_t3": 26.851,
+        "best_t4": 21.694,
+        "top_speed_kmh": 312.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'45.346",
+          "time_sec": 105.346,
+          "t1": 32.626,
+          "t2": 14.535,
+          "t3": 28.361,
+          "t4": 29.824,
+          "top_speed_kmh": 303.7,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'32.394",
+          "time_sec": 92.394,
+          "t1": 30.131,
+          "t2": 13.718,
+          "t3": 26.851,
+          "t4": 21.694,
+          "top_speed_kmh": 312.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'32.450",
+          "time_sec": 92.45,
+          "t1": 30.325,
+          "t2": 13.832,
+          "t3": 26.912,
+          "t4": 21.381,
+          "top_speed_kmh": 309.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'32.704",
+          "time_sec": 92.704,
+          "t1": 30.411,
+          "t2": 13.838,
+          "t3": 26.989,
+          "t4": 21.466,
+          "top_speed_kmh": 308.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

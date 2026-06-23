@@ -10,7 +10,7 @@
     "date": "2024-05-31",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2024/ITA_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:44:55Z"
+    "parsed_at": "2026-06-23T21:40:21Z"
   },
   "riders": [
     {
@@ -964,7 +964,56 @@
         "best_t4": 23.963,
         "top_speed_kmh": 350.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'47.368",
+          "time_sec": 107.368,
+          "t1": 25.105,
+          "t2": 22.77,
+          "t3": 35.312,
+          "t4": 24.181,
+          "top_speed_kmh": 350.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'47.458",
+          "time_sec": 107.458,
+          "t1": 25.099,
+          "t2": 22.78,
+          "t3": 35.487,
+          "t4": 24.092,
+          "top_speed_kmh": 351.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'47.061",
+          "time_sec": 107.061,
+          "t1": 25.03,
+          "t2": 22.741,
+          "t3": 35.303,
+          "t4": 23.987,
+          "top_speed_kmh": 350.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'47.007",
+          "time_sec": 107.007,
+          "t1": 25.008,
+          "t2": 22.802,
+          "t3": 35.234,
+          "t4": 23.963,
+          "top_speed_kmh": 350.6,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,
@@ -1045,6 +1094,18 @@
           "t3": 37.318,
           "t4": 24.871,
           "top_speed_kmh": 34.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'47.007",
+          "time_sec": 107.007,
+          "t1": 25.008,
+          "t2": 22.802,
+          "t3": 35.234,
+          "t4": 23.963,
+          "top_speed_kmh": 350.6,
           "type": "Flying"
         }
       ]

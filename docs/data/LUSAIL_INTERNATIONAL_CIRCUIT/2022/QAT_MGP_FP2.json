@@ -10,7 +10,7 @@
     "date": "2022-03-04",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2022/QAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:51:25Z"
+    "parsed_at": "2026-06-23T21:41:11Z"
   },
   "riders": [
     {
@@ -1107,7 +1107,44 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "2'06.803",
+          "time_sec": 126.803,
+          "t1": 32.978,
+          "t2": 34.032,
+          "t3": 29.494,
+          "t4": 30.299,
+          "top_speed_kmh": 346.1,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "2'01.068",
+          "time_sec": 121.068,
+          "t1": 30.429,
+          "t2": 31.511,
+          "t3": 29.601,
+          "t4": 29.527,
+          "top_speed_kmh": 347.2,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "2'01.460",
+          "time_sec": 121.46,
+          "t1": 24.804,
+          "t2": 34.098,
+          "t3": 30.146,
+          "t4": 32.412,
+          "top_speed_kmh": 350.6,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 8,

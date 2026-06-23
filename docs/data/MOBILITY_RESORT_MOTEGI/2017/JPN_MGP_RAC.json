@@ -10,7 +10,7 @@
     "date": "2017-10-15",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2017/JPN_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T01:50:22Z"
+    "parsed_at": "2026-06-23T21:41:23Z"
   },
   "riders": [
     {
@@ -1661,18 +1661,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 24,
-          "time": "2'01.330",
-          "time_sec": 121.33,
-          "t1": 31.538,
-          "t2": 23.414,
-          "t3": 32.948,
-          "t4": 33.43,
-          "top_speed_kmh": 254.9,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 3,
           "time": "1'59.057",
           "time_sec": 119.057,
@@ -1921,6 +1909,18 @@
           "t3": 33.369,
           "t4": 32.53,
           "top_speed_kmh": 278.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 24,
+          "time": "2'01.330",
+          "time_sec": 121.33,
+          "t1": 31.538,
+          "t2": 23.414,
+          "t3": 32.948,
+          "t4": 33.43,
+          "top_speed_kmh": 254.9,
           "type": "Flying"
         },
         {

@@ -10,7 +10,7 @@
     "date": "2018-10-20",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2018/JPN_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:53:08Z"
+    "parsed_at": "2026-06-23T21:41:24Z"
   },
   "riders": [
     {
@@ -1064,13 +1064,13 @@
         "total_laps": 19,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": "1'45.428",
-        "best_lap_sec": 105.428,
-        "best_t1": 27.163,
-        "best_t2": 20.34,
-        "best_t3": 29.354,
-        "best_t4": 28.571,
-        "top_speed_kmh": 306.1
+        "best_lap": "1'45.422",
+        "best_lap_sec": 105.422,
+        "best_t1": 27.09,
+        "best_t2": 20.371,
+        "best_t3": 29.206,
+        "best_t4": 28.755,
+        "top_speed_kmh": 303.0
       },
       "laps": [
         {
@@ -1131,6 +1131,18 @@
           "t3": 29.354,
           "t4": 28.571,
           "top_speed_kmh": 306.1,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'45.422",
+          "time_sec": 105.422,
+          "t1": 27.09,
+          "t2": 20.371,
+          "t3": 29.206,
+          "t4": 28.755,
+          "top_speed_kmh": 303.0,
           "type": "Flying"
         },
         {
@@ -1238,6 +1250,18 @@
           "t3": 29.85,
           "t4": 28.77,
           "top_speed_kmh": 306.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'45.546",
+          "time_sec": 105.546,
+          "t1": 27.229,
+          "t2": 20.431,
+          "t3": 29.255,
+          "t4": 28.631,
+          "top_speed_kmh": 306.9,
           "type": "Flying"
         }
       ]

@@ -10,7 +10,7 @@
     "date": "2022-06-03",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2022/CAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:48:05Z"
+    "parsed_at": "2026-06-23T21:40:45Z"
   },
   "riders": [
     {
@@ -1980,7 +1980,56 @@
         "best_t4": 31.021,
         "top_speed_kmh": 340.6
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'53.355",
+          "time_sec": 113.355,
+          "t1": 17.897,
+          "t2": 38.345,
+          "t3": 24.993,
+          "t4": 32.12,
+          "top_speed_kmh": 336.4,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'40.204",
+          "time_sec": 100.204,
+          "t1": 16.945,
+          "t2": 31.581,
+          "t3": 20.657,
+          "t4": 31.021,
+          "top_speed_kmh": 340.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'40.296",
+          "time_sec": 100.296,
+          "t1": 16.887,
+          "t2": 31.655,
+          "t3": 20.616,
+          "t4": 31.138,
+          "top_speed_kmh": 349.5,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'56.206",
+          "time_sec": 116.206,
+          "t1": 19.885,
+          "t2": 43.047,
+          "t3": 21.912,
+          "t4": 31.362,
+          "top_speed_kmh": 339.6,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 11,
@@ -3050,6 +3099,18 @@
           "t4": 31.317,
           "top_speed_kmh": 345.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'40.174",
+          "time_sec": 100.174,
+          "t1": 16.878,
+          "t2": 31.554,
+          "t3": 20.715,
+          "t4": 31.027,
+          "top_speed_kmh": 348.3,
+          "type": "Cancelled"
         },
         {
           "run": 1,

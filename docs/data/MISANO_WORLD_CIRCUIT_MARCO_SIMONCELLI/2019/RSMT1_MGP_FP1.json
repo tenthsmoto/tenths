@@ -10,7 +10,7 @@
     "date": "2019-08-29",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2019/RSMT1_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:51:58Z"
+    "parsed_at": "2026-06-23T21:41:15Z"
   },
   "riders": [
     {
@@ -1352,6 +1352,18 @@
       },
       "laps": [
         {
+          "run": 1,
+          "lap": 36,
+          "time": "1'35.130",
+          "time_sec": 95.13,
+          "t1": 25.633,
+          "t2": 22.255,
+          "t3": 26.023,
+          "t4": 21.219,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 2,
           "time": "1'35.342",
@@ -1733,6 +1745,18 @@
         "top_speed_kmh": 28.0
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 32,
+          "time": "1'34.415",
+          "time_sec": 94.415,
+          "t1": 25.501,
+          "t2": 21.922,
+          "t3": 25.837,
+          "t4": 21.155,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
+        },
         {
           "run": 2,
           "lap": 2,
@@ -4316,6 +4340,18 @@
           "t4": 21.396,
           "top_speed_kmh": 28.0,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 47,
+          "time": "1'34.915",
+          "time_sec": 94.915,
+          "t1": 25.601,
+          "t2": 22.003,
+          "t3": 26.038,
+          "t4": 21.273,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
         }
       ]
     },
@@ -4340,6 +4376,18 @@
         "top_speed_kmh": 287.2
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'34.781",
+          "time_sec": 94.781,
+          "t1": 25.517,
+          "t2": 21.956,
+          "t3": 25.912,
+          "t4": 21.396,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
+        },
         {
           "run": 2,
           "lap": 2,

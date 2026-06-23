@@ -10,7 +10,7 @@
     "date": "2022-10-23",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2022/MAL_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T01:51:01Z"
+    "parsed_at": "2026-06-23T21:41:37Z"
   },
   "riders": [
     {
@@ -2401,18 +2401,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "2'02.041",
-          "time_sec": 122.041,
-          "t1": 25.003,
-          "t2": 28.016,
-          "t3": 38.034,
-          "t4": 30.988,
-          "top_speed_kmh": 323.3,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 1,
           "time": "2'08.758",
           "time_sec": 128.758,
@@ -2637,6 +2625,18 @@
           "t3": 37.997,
           "t4": 30.665,
           "top_speed_kmh": 316.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "2'02.041",
+          "time_sec": 122.041,
+          "t1": 25.003,
+          "t2": 28.016,
+          "t3": 38.034,
+          "t4": 30.988,
+          "top_speed_kmh": 323.3,
           "type": "Flying"
         },
         {
@@ -3202,18 +3202,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "2'02.048",
-          "time_sec": 122.048,
-          "t1": 25.518,
-          "t2": 27.962,
-          "t3": 37.84,
-          "t4": 30.728,
-          "top_speed_kmh": 32.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 1,
           "time": "2'10.845",
           "time_sec": 130.845,
@@ -3234,6 +3222,18 @@
           "t3": 37.912,
           "t4": 30.734,
           "top_speed_kmh": 313.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "2'02.048",
+          "time_sec": 122.048,
+          "t1": 25.518,
+          "t2": 27.962,
+          "t3": 37.84,
+          "t4": 30.728,
+          "top_speed_kmh": 32.0,
           "type": "Flying"
         }
       ]

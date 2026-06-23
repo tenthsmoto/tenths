@@ -10,7 +10,7 @@
     "date": "2022-09-30",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2022/THA_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:46:00Z"
+    "parsed_at": "2026-06-23T21:40:29Z"
   },
   "riders": [
     {
@@ -1972,6 +1972,18 @@
         {
           "run": 1,
           "lap": 20,
+          "time": "1'31.044",
+          "time_sec": 91.044,
+          "t1": 18.464,
+          "t2": 26.135,
+          "t3": 23.128,
+          "t4": 23.317,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
           "time": "1'30.950",
           "time_sec": 90.95,
           "t1": 18.501,
@@ -2587,6 +2599,18 @@
           "t3": 23.367,
           "t4": 23.552,
           "top_speed_kmh": 298.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'31.703",
+          "time_sec": 91.703,
+          "t1": 18.528,
+          "t2": 26.45,
+          "t3": 23.176,
+          "t4": 23.549,
+          "top_speed_kmh": 329.2,
           "type": "Flying"
         },
         {

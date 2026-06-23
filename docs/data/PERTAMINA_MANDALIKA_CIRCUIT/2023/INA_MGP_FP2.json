@@ -10,7 +10,7 @@
     "date": "2023-10-14",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2023/INA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:54:25Z"
+    "parsed_at": "2026-06-23T21:41:33Z"
   },
   "riders": [
     {
@@ -1362,13 +1362,13 @@
         "total_laps": 17,
         "full_laps": 14,
         "valid_laps": 13,
-        "best_lap": "1'31.525",
-        "best_lap_sec": 91.525,
-        "best_t1": 25.369,
-        "best_t2": 19.004,
-        "best_t3": 18.925,
-        "best_t4": 28.227,
-        "top_speed_kmh": 312.1
+        "best_lap": "1'31.488",
+        "best_lap_sec": 91.488,
+        "best_t1": 25.457,
+        "best_t2": 18.909,
+        "best_t3": 18.862,
+        "best_t4": 28.26,
+        "top_speed_kmh": 310.3
       },
       "laps": [
         {
@@ -1392,6 +1392,18 @@
           "t2": 18.738,
           "t3": 32.952,
           "t4": 28.733,
+          "top_speed_kmh": 310.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'31.488",
+          "time_sec": 91.488,
+          "t1": 25.457,
+          "t2": 18.909,
+          "t3": 18.862,
+          "t4": 28.26,
           "top_speed_kmh": 310.3,
           "type": "Flying"
         },
@@ -2991,6 +3003,18 @@
           "t3": 21.387,
           "t4": 31.086,
           "top_speed_kmh": 300.8,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'41.034",
+          "time_sec": 101.034,
+          "t1": 28.755,
+          "t2": 21.358,
+          "t3": 21.63,
+          "t4": 29.291,
+          "top_speed_kmh": 313.9,
           "type": "Pit In"
         }
       ]

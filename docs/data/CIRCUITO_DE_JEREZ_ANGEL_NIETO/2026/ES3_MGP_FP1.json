@@ -10,7 +10,7 @@
     "date": "2026-04-27",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2026/ES3_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:47:30Z"
+    "parsed_at": "2026-06-23T21:40:40Z"
   },
   "riders": [
     {
@@ -1585,6 +1585,18 @@
       },
       "laps": [
         {
+          "run": 1,
+          "lap": 8,
+          "time": "1'38.907",
+          "time_sec": 98.907,
+          "t1": 26.649,
+          "t2": 13.312,
+          "t3": 29.862,
+          "t4": 29.084,
+          "top_speed_kmh": 293.4,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 2,
           "time": "1'38.929",
@@ -2287,6 +2299,18 @@
         "top_speed_kmh": 291.8
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'32.741",
+          "time_sec": 92.741,
+          "t1": 26.116,
+          "t2": 13.222,
+          "t3": 29.705,
+          "t4": 23.698,
+          "top_speed_kmh": 291.8,
+          "type": "Pit In"
+        },
         {
           "run": 2,
           "lap": 2,

@@ -10,7 +10,7 @@
     "date": "2024-07-05",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2024/GER_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:57:28Z"
+    "parsed_at": "2026-06-23T21:41:57Z"
   },
   "riders": [
     {
@@ -2114,6 +2114,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 20,
+          "time": "1'21.672",
+          "time_sec": 81.672,
+          "t1": 17.944,
+          "t2": 23.559,
+          "t3": 19.115,
+          "t4": 21.054,
+          "top_speed_kmh": 302.5,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 19,
           "time": "1'22.107",
@@ -3621,13 +3633,13 @@
         "total_laps": 23,
         "full_laps": 17,
         "valid_laps": 15,
-        "best_lap": "1'22.306",
-        "best_lap_sec": 82.306,
-        "best_t1": 18.301,
-        "best_t2": 23.704,
-        "best_t3": 19.369,
-        "best_t4": 20.932,
-        "top_speed_kmh": 295.8
+        "best_lap": "1'22.093",
+        "best_lap_sec": 82.093,
+        "best_t1": 18.1,
+        "best_t2": 23.735,
+        "best_t3": 19.123,
+        "best_t4": 21.135,
+        "top_speed_kmh": 295.0
       },
       "laps": [
         {
@@ -3664,6 +3676,18 @@
           "t3": 19.405,
           "t4": 21.117,
           "top_speed_kmh": 296.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'22.093",
+          "time_sec": 82.093,
+          "t1": 18.1,
+          "t2": 23.735,
+          "t3": 19.123,
+          "t4": 21.135,
+          "top_speed_kmh": 295.0,
           "type": "Flying"
         },
         {

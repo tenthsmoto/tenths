@@ -10,7 +10,7 @@
     "date": "2021-08-14",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2021/AUT_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:56:29Z"
+    "parsed_at": "2026-06-23T21:41:49Z"
   },
   "riders": [
     {
@@ -419,6 +419,18 @@
         {
           "run": 1,
           "lap": 15,
+          "time": "1'24.589",
+          "time_sec": 84.589,
+          "t1": 17.299,
+          "t2": 26.463,
+          "t3": 24.264,
+          "t4": 16.563,
+          "top_speed_kmh": 313.0,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 15,
           "time": "1'24.523",
           "time_sec": 84.523,
           "t1": 17.369,
@@ -509,6 +521,18 @@
           "t3": 27.049,
           "t4": 23.432,
           "top_speed_kmh": 308.5,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'38.226",
+          "time_sec": 98.226,
+          "t1": 19.639,
+          "t2": 29.035,
+          "t3": 25.973,
+          "t4": 23.579,
+          "top_speed_kmh": 259.6,
           "type": "Pit In"
         }
       ]
@@ -2578,15 +2602,28 @@
         "total_laps": 17,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'25.039",
+        "best_lap_sec": 85.039,
+        "best_t1": 17.297,
+        "best_t2": 26.832,
+        "best_t3": 24.213,
+        "best_t4": 16.697,
+        "top_speed_kmh": 315.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'25.039",
+          "time_sec": 85.039,
+          "t1": 17.297,
+          "t2": 26.832,
+          "t3": 24.213,
+          "t4": 16.697,
+          "top_speed_kmh": 315.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,

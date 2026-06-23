@@ -10,7 +10,7 @@
     "date": "2019-08-03",
     "class": "MotoGP",
     "source_file": "AUTOMOTODROM_BRNO/2019/CZE_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:45:21Z"
+    "parsed_at": "2026-06-23T21:40:24Z"
   },
   "riders": [
     {
@@ -1987,6 +1987,18 @@
           "t3": 35.686,
           "t4": 26.3,
           "top_speed_kmh": 277.6,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "2'17.422",
+          "time_sec": 137.422,
+          "t1": 33.714,
+          "t2": 40.652,
+          "t3": 36.308,
+          "t4": 26.748,
+          "top_speed_kmh": 255.9,
           "type": "Pit In"
         }
       ]

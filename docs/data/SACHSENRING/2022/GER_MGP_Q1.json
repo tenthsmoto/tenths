@@ -10,7 +10,7 @@
     "date": "2022-06-18",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2022/GER_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:57:21Z"
+    "parsed_at": "2026-06-23T21:41:56Z"
   },
   "riders": [
     {
@@ -507,6 +507,18 @@
           "t3": 18.902,
           "t4": 20.809,
           "top_speed_kmh": 298.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'21.098",
+          "time_sec": 81.098,
+          "t1": 17.976,
+          "t2": 23.387,
+          "t3": 18.87,
+          "t4": 20.865,
+          "top_speed_kmh": 296.7,
           "type": "Flying"
         }
       ]

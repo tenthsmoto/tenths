@@ -10,7 +10,7 @@
     "date": "2023-09-30",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2023/JPN_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:53:21Z"
+    "parsed_at": "2026-06-23T21:41:25Z"
   },
   "riders": [
     {
@@ -413,6 +413,18 @@
           "t4": 22.807,
           "top_speed_kmh": 302.5,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'44.370",
+          "time_sec": 104.37,
+          "t1": 26.974,
+          "t2": 20.163,
+          "t3": 28.841,
+          "t4": 28.392,
+          "top_speed_kmh": 309.4,
+          "type": "Cancelled"
         }
       ]
     },
@@ -875,7 +887,56 @@
         "best_t4": 28.636,
         "top_speed_kmh": 311.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 3,
+          "time": "1'46.058",
+          "time_sec": 106.058,
+          "t1": 27.382,
+          "t2": 20.489,
+          "t3": 29.469,
+          "t4": 28.718,
+          "top_speed_kmh": 306.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'45.707",
+          "time_sec": 105.707,
+          "t1": 27.369,
+          "t2": 20.58,
+          "t3": 29.122,
+          "t4": 28.636,
+          "top_speed_kmh": 311.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'46.115",
+          "time_sec": 106.115,
+          "t1": 27.483,
+          "t2": 20.547,
+          "t3": 29.259,
+          "t4": 28.826,
+          "top_speed_kmh": 308.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'54.929",
+          "time_sec": 114.929,
+          "t1": 27.225,
+          "t2": 24.355,
+          "t3": 32.757,
+          "t4": 30.592,
+          "top_speed_kmh": 298.3,
+          "type": "Cancelled"
+        }
+      ]
     }
   ]
 }

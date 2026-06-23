@@ -10,7 +10,7 @@
     "date": "2022-04-30",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/SPA_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:47:10Z"
+    "parsed_at": "2026-06-23T21:40:37Z"
   },
   "riders": [
     {
@@ -1103,6 +1103,18 @@
           "t4": 29.659,
           "top_speed_kmh": 292.6,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'38.596",
+          "time_sec": 98.596,
+          "t1": 24.472,
+          "t2": 14.223,
+          "t3": 29.066,
+          "t4": 30.835,
+          "top_speed_kmh": 293.4,
+          "type": "Cancelled"
         }
       ]
     },
@@ -1126,7 +1138,44 @@
         "best_t4": 29.622,
         "top_speed_kmh": 291.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 2,
+          "time": "1'37.668",
+          "time_sec": 97.668,
+          "t1": 24.325,
+          "t2": 14.225,
+          "t3": 29.406,
+          "t4": 29.712,
+          "top_speed_kmh": 291.8,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'41.358",
+          "time_sec": 101.358,
+          "t1": 26.477,
+          "t2": 14.709,
+          "t3": 30.404,
+          "t4": 29.768,
+          "top_speed_kmh": 289.5,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'37.675",
+          "time_sec": 97.675,
+          "t1": 24.451,
+          "t2": 14.249,
+          "t3": 29.353,
+          "t4": 29.622,
+          "top_speed_kmh": 291.8,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,7 @@
     "date": "2023-04-01",
     "class": "MotoGP",
     "source_file": "TERMAS_DE_RIO_HONDO/2023/ARG_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:58:31Z"
+    "parsed_at": "2026-06-23T21:42:04Z"
   },
   "riders": [
     {
@@ -370,15 +370,28 @@
         "total_laps": 8,
         "full_laps": 7,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'55.945",
+        "best_lap_sec": 115.945,
+        "best_t1": 32.975,
+        "best_t2": 26.753,
+        "best_t3": 28.78,
+        "best_t4": 27.437,
+        "top_speed_kmh": 30.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'55.945",
+          "time_sec": 115.945,
+          "t1": 32.975,
+          "t2": 26.753,
+          "t3": 28.78,
+          "t4": 27.437,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 5,

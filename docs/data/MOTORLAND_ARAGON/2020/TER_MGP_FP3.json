@@ -10,7 +10,7 @@
     "date": "2020-10-24",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2020/TER_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:53:54Z"
+    "parsed_at": "2026-06-23T21:41:29Z"
   },
   "riders": [
     {
@@ -1157,6 +1157,18 @@
           "type": "Cancelled"
         },
         {
+          "run": 1,
+          "lap": 19,
+          "time": "1'50.991",
+          "time_sec": 110.991,
+          "t1": 31.168,
+          "t2": 32.477,
+          "t3": 21.774,
+          "t4": 25.572,
+          "top_speed_kmh": 332.3,
+          "type": "Cancelled"
+        },
+        {
           "run": 3,
           "lap": 17,
           "time": "1'49.304",
@@ -1703,6 +1715,18 @@
           "t3": 21.355,
           "t4": 25.317,
           "top_speed_kmh": 337.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'54.358",
+          "time_sec": 114.358,
+          "t1": 33.216,
+          "t2": 32.21,
+          "t3": 22.442,
+          "t4": 26.49,
+          "top_speed_kmh": 335.4,
           "type": "Flying"
         }
       ]

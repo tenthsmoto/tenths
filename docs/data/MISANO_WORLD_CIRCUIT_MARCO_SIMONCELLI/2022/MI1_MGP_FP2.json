@@ -10,7 +10,7 @@
     "date": "2022-09-06",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2022/MI1_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:52:30Z"
+    "parsed_at": "2026-06-23T21:41:19Z"
   },
   "riders": [
     {
@@ -548,7 +548,44 @@
         "best_t4": 20.499,
         "top_speed_kmh": 29.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 43,
+          "time": "1'32.360",
+          "time_sec": 92.36,
+          "t1": 25.943,
+          "t2": 20.807,
+          "t3": 24.976,
+          "t4": 20.634,
+          "top_speed_kmh": 291.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 44,
+          "time": "1'32.384",
+          "time_sec": 92.384,
+          "t1": 25.486,
+          "t2": 20.598,
+          "t3": 25.063,
+          "t4": 21.237,
+          "top_speed_kmh": 29.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 45,
+          "time": "1'31.473",
+          "time_sec": 91.473,
+          "t1": 25.593,
+          "t2": 20.556,
+          "t3": 24.825,
+          "t4": 20.499,
+          "top_speed_kmh": 29.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 3,
@@ -3426,7 +3463,32 @@
         "best_t4": 20.715,
         "top_speed_kmh": 28.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'32.589",
+          "time_sec": 92.589,
+          "t1": 25.913,
+          "t2": 20.65,
+          "t3": 25.32,
+          "t4": 20.706,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 27,
+          "time": "1'32.487",
+          "time_sec": 92.487,
+          "t1": 25.965,
+          "t2": 20.538,
+          "t3": 25.269,
+          "t4": 20.715,
+          "top_speed_kmh": 28.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 15,

@@ -10,7 +10,7 @@
     "date": "2022-06-03",
     "class": "MotoGP",
     "source_file": "CIRCUIT_DE_BARCELONA_CATALUNYA/2022/CAT_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:48:04Z"
+    "parsed_at": "2026-06-23T21:40:45Z"
   },
   "riders": [
     {
@@ -2539,7 +2539,56 @@
         "best_t4": 31.529,
         "top_speed_kmh": 348.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'42.615",
+          "time_sec": 102.615,
+          "t1": 17.298,
+          "t2": 32.599,
+          "t3": 21.004,
+          "t4": 31.714,
+          "top_speed_kmh": 343.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'42.176",
+          "time_sec": 102.176,
+          "t1": 17.203,
+          "t2": 32.405,
+          "t3": 20.985,
+          "t4": 31.583,
+          "top_speed_kmh": 346.1,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'41.805",
+          "time_sec": 101.805,
+          "t1": 17.068,
+          "t2": 32.187,
+          "t3": 21.021,
+          "t4": 31.529,
+          "top_speed_kmh": 348.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 22,
+          "time": "1'41.978",
+          "time_sec": 101.978,
+          "t1": 17.224,
+          "t2": 32.263,
+          "t3": 20.933,
+          "t4": 31.558,
+          "top_speed_kmh": 341.7,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 15,
@@ -3529,13 +3578,13 @@
         "total_laps": 19,
         "full_laps": 14,
         "valid_laps": null,
-        "best_lap": "1'42.027",
-        "best_lap_sec": 102.027,
-        "best_t1": 17.133,
-        "best_t2": 32.349,
-        "best_t3": 20.953,
-        "best_t4": 31.592,
-        "top_speed_kmh": 339.6
+        "best_lap": "1'41.897",
+        "best_lap_sec": 101.897,
+        "best_t1": 17.2,
+        "best_t2": 32.149,
+        "best_t3": 21.138,
+        "best_t4": 31.41,
+        "top_speed_kmh": 330.2
       },
       "laps": [
         {
@@ -3548,6 +3597,18 @@
           "t3": 20.953,
           "t4": 31.592,
           "top_speed_kmh": 339.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'41.897",
+          "time_sec": 101.897,
+          "t1": 17.2,
+          "t2": 32.149,
+          "t3": 21.138,
+          "t4": 31.41,
+          "top_speed_kmh": 330.2,
           "type": "Flying"
         },
         {

@@ -10,7 +10,7 @@
     "date": "2019-05-31",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2019/ITA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:44:37Z"
+    "parsed_at": "2026-06-23T21:40:19Z"
   },
   "riders": [
     {
@@ -956,13 +956,13 @@
         "total_laps": 19,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": "1'48.327",
-        "best_lap_sec": 108.327,
-        "best_t1": 25.278,
-        "best_t2": 22.901,
-        "best_t3": 35.577,
-        "best_t4": 24.571,
-        "top_speed_kmh": 338.0
+        "best_lap": "1'46.973",
+        "best_lap_sec": 106.973,
+        "best_t1": 25.072,
+        "best_t2": 22.585,
+        "best_t3": 34.848,
+        "best_t4": 24.468,
+        "top_speed_kmh": 334.0
       },
       "laps": [
         {
@@ -1048,6 +1048,18 @@
           "t4": 28.15,
           "top_speed_kmh": 336.7,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'46.973",
+          "time_sec": 106.973,
+          "t1": 25.072,
+          "t2": 22.585,
+          "t3": 34.848,
+          "t4": 24.468,
+          "top_speed_kmh": 334.0,
+          "type": "Flying"
         }
       ]
     },

@@ -10,7 +10,7 @@
     "date": "2022-08-19",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2022/AUT_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:56:37Z"
+    "parsed_at": "2026-06-23T21:41:50Z"
   },
   "riders": [
     {
@@ -2696,7 +2696,32 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'50.905",
+          "time_sec": 110.905,
+          "t1": 30.497,
+          "t2": 28.717,
+          "t3": 27.113,
+          "t4": 24.578,
+          "top_speed_kmh": 289.1,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 21,
+          "time": "1'37.453",
+          "time_sec": 97.453,
+          "t1": 27.342,
+          "t2": 27.509,
+          "t3": 25.246,
+          "t4": 17.356,
+          "top_speed_kmh": 305.0,
+          "type": "Cancelled"
+        }
+      ]
     },
     {
       "position": 15,

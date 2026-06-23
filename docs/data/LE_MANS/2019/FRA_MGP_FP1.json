@@ -10,7 +10,7 @@
     "date": "2019-05-17",
     "class": "MotoGP",
     "source_file": "LE_MANS/2019/FRA_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:50:25Z"
+    "parsed_at": "2026-06-23T21:41:03Z"
   },
   "riders": [
     {
@@ -2748,6 +2748,18 @@
         {
           "run": 1,
           "lap": 17,
+          "time": "1'36.187",
+          "time_sec": 96.187,
+          "t1": 21.399,
+          "t2": 21.327,
+          "t3": 28.271,
+          "t4": 25.19,
+          "top_speed_kmh": 297.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
           "time": "1'33.091",
           "time_sec": 93.091,
           "t1": 21.338,
@@ -4260,7 +4272,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'36.644",
+          "time_sec": 96.644,
+          "t1": 22.305,
+          "t2": 22.976,
+          "t3": 26.183,
+          "t4": 25.18,
+          "top_speed_kmh": 295.7,
+          "type": "Cancelled"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,7 @@
     "date": "2023-09-09",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2023/RSM_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:52:39Z"
+    "parsed_at": "2026-06-23T21:41:19Z"
   },
   "riders": [
     {
@@ -1401,6 +1401,18 @@
           "t4": 20.983,
           "top_speed_kmh": 296.7,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "1'47.248",
+          "time_sec": 107.248,
+          "t1": 32.251,
+          "t2": 22.409,
+          "t3": 28.592,
+          "t4": 23.996,
+          "top_speed_kmh": 268.6,
+          "type": "Cancelled"
         }
       ]
     }

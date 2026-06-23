@@ -10,7 +10,7 @@
     "date": "2024-08-16",
     "class": "MotoGP",
     "source_file": "RED_BULL_RING_SPIELBERG/2024/AUT_MGP_PR.pdf",
-    "parsed_at": "2026-06-23T00:56:49Z"
+    "parsed_at": "2026-06-23T21:41:52Z"
   },
   "riders": [
     {
@@ -4602,13 +4602,13 @@
         "total_laps": 8,
         "full_laps": 5,
         "valid_laps": 2,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'29.952",
+        "best_lap_sec": 89.952,
+        "best_t1": 24.524,
+        "best_t2": 25.191,
+        "best_t3": 23.833,
+        "best_t4": 16.404,
+        "top_speed_kmh": 306.3
       },
       "laps": [
         {
@@ -4646,6 +4646,18 @@
           "t4": 15.512,
           "top_speed_kmh": 302.5,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 26,
+          "time": "1'29.952",
+          "time_sec": 89.952,
+          "t1": 24.524,
+          "t2": 25.191,
+          "t3": 23.833,
+          "t4": 16.404,
+          "top_speed_kmh": 306.3,
+          "type": "Flying"
         }
       ]
     },

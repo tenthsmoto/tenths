@@ -10,7 +10,7 @@
     "date": "2024-03-08",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2024/QAT_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:51:37Z"
+    "parsed_at": "2026-06-23T21:41:12Z"
   },
   "riders": [
     {
@@ -383,13 +383,13 @@
         "total_laps": 15,
         "full_laps": 12,
         "valid_laps": null,
-        "best_lap": "2'10.212",
-        "best_lap_sec": 130.212,
-        "best_t1": 31.394,
-        "best_t2": 35.373,
-        "best_t3": 31.422,
-        "best_t4": 32.023,
-        "top_speed_kmh": 338.5
+        "best_lap": "2'09.889",
+        "best_lap_sec": 129.889,
+        "best_t1": 31.522,
+        "best_t2": 34.857,
+        "best_t3": 31.456,
+        "best_t4": 32.054,
+        "top_speed_kmh": 31.0
       },
       "laps": [
         {
@@ -415,6 +415,18 @@
           "t4": 31.91,
           "top_speed_kmh": 336.4,
           "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "2'09.889",
+          "time_sec": 129.889,
+          "t1": 31.522,
+          "t2": 34.857,
+          "t3": 31.456,
+          "t4": 32.054,
+          "top_speed_kmh": 31.0,
+          "type": "Flying"
         },
         {
           "run": 1,
@@ -450,7 +462,44 @@
         "best_t4": 31.458,
         "top_speed_kmh": 338.5
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "2'08.260",
+          "time_sec": 128.26,
+          "t1": 31.118,
+          "t2": 34.581,
+          "t3": 31.103,
+          "t4": 31.458,
+          "top_speed_kmh": 338.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "2'10.212",
+          "time_sec": 130.212,
+          "t1": 31.394,
+          "t2": 35.373,
+          "t3": 31.422,
+          "t4": 32.023,
+          "top_speed_kmh": 338.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "2'16.951",
+          "time_sec": 136.951,
+          "t1": 35.86,
+          "t2": 36.08,
+          "t3": 31.997,
+          "t4": 33.014,
+          "top_speed_kmh": 340.6,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 5,

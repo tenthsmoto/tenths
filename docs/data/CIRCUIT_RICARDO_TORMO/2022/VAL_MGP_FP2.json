@@ -10,7 +10,7 @@
     "date": "2022-11-04",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2022/VAL_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:49:47Z"
+    "parsed_at": "2026-06-23T21:40:58Z"
   },
   "riders": [
     {
@@ -2018,6 +2018,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 20,
+          "time": "1'34.337",
+          "time_sec": 94.337,
+          "t1": 20.383,
+          "t2": 24.481,
+          "t3": 23.22,
+          "t4": 26.253,
+          "top_speed_kmh": 327.4,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 18,
           "time": "1'32.356",
@@ -3840,6 +3852,18 @@
           "t3": 26.578,
           "t4": 31.024,
           "top_speed_kmh": 316.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'31.939",
+          "time_sec": 91.939,
+          "t1": 20.616,
+          "t2": 24.76,
+          "t3": 21.887,
+          "t4": 24.676,
+          "top_speed_kmh": 321.3,
           "type": "Flying"
         },
         {

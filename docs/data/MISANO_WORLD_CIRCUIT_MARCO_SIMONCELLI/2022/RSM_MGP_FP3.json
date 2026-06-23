@@ -10,7 +10,7 @@
     "date": "2022-09-03",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2022/RSM_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:52:34Z"
+    "parsed_at": "2026-06-23T21:41:19Z"
   },
   "riders": [
     {
@@ -1168,6 +1168,18 @@
           "t4": 20.524,
           "top_speed_kmh": 294.2,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'31.594",
+          "time_sec": 91.594,
+          "t1": 25.56,
+          "t2": 20.445,
+          "t3": 25.013,
+          "t4": 20.576,
+          "top_speed_kmh": 296.7,
+          "type": "Cancelled"
         }
       ]
     },
@@ -4486,6 +4498,18 @@
           "t4": 22.939,
           "top_speed_kmh": 291.1,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'40.676",
+          "time_sec": 100.676,
+          "t1": 29.586,
+          "t2": 21.713,
+          "t3": 26.845,
+          "t4": 22.532,
+          "top_speed_kmh": 288.0,
+          "type": "Cancelled"
         }
       ]
     },
@@ -4520,6 +4544,18 @@
           "t3": 26.624,
           "t4": 21.741,
           "top_speed_kmh": 288.7,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'44.370",
+          "time_sec": 104.37,
+          "t1": 26.057,
+          "t2": 21.005,
+          "t3": 34.369,
+          "t4": 22.939,
+          "top_speed_kmh": 291.1,
           "type": "Cancelled"
         }
       ]

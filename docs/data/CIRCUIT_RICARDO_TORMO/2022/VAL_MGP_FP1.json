@@ -10,7 +10,7 @@
     "date": "2022-11-04",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2022/VAL_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:49:46Z"
+    "parsed_at": "2026-06-23T21:40:58Z"
   },
   "riders": [
     {
@@ -2064,7 +2064,44 @@
         "best_t4": 24.641,
         "top_speed_kmh": 325.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'31.968",
+          "time_sec": 91.968,
+          "t1": 20.633,
+          "t2": 24.828,
+          "t3": 21.901,
+          "t4": 24.606,
+          "top_speed_kmh": 324.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'32.175",
+          "time_sec": 92.175,
+          "t1": 20.711,
+          "t2": 24.722,
+          "t3": 22.066,
+          "t4": 24.676,
+          "top_speed_kmh": 325.8,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'31.867",
+          "time_sec": 91.867,
+          "t1": 20.608,
+          "t2": 24.708,
+          "t3": 21.91,
+          "t4": 24.641,
+          "top_speed_kmh": 325.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,
@@ -2706,6 +2743,18 @@
           "t3": 22.004,
           "t4": 24.626,
           "top_speed_kmh": 327.4,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'32.416",
+          "time_sec": 92.416,
+          "t1": 20.778,
+          "t2": 24.722,
+          "t3": 22.029,
+          "t4": 24.887,
+          "top_speed_kmh": 319.8,
           "type": "Flying"
         },
         {
@@ -4259,6 +4308,18 @@
           "t3": 22.116,
           "t4": 24.767,
           "top_speed_kmh": 321.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 18,
+          "time": "1'32.405",
+          "time_sec": 92.405,
+          "t1": 20.786,
+          "t2": 24.982,
+          "t3": 22.044,
+          "t4": 24.593,
+          "top_speed_kmh": 325.8,
           "type": "Flying"
         },
         {

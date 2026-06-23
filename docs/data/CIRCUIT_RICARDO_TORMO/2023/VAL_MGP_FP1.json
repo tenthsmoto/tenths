@@ -10,7 +10,7 @@
     "date": "2023-11-24",
     "class": "MotoGP",
     "source_file": "CIRCUIT_RICARDO_TORMO/2023/VAL_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:49:51Z"
+    "parsed_at": "2026-06-23T21:40:59Z"
   },
   "riders": [
     {
@@ -2652,6 +2652,18 @@
         {
           "run": 1,
           "lap": 18,
+          "time": "1'43.332",
+          "time_sec": 103.332,
+          "t1": 26.244,
+          "t2": 26.057,
+          "t3": 22.471,
+          "t4": 28.56,
+          "top_speed_kmh": 325.8,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 18,
           "time": "1'31.337",
           "time_sec": 91.337,
           "t1": 20.393,
@@ -3376,6 +3388,18 @@
           "t4": 24.818,
           "top_speed_kmh": 319.8,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'52.534",
+          "time_sec": 112.534,
+          "t1": 25.676,
+          "t2": 27.302,
+          "t3": 27.985,
+          "t4": 31.571,
+          "top_speed_kmh": 327.4,
+          "type": "Pit In"
         }
       ]
     },

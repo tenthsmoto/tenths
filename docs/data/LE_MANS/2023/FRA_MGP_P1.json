@@ -10,7 +10,7 @@
     "date": "2023-05-12",
     "class": "MotoGP",
     "source_file": "LE_MANS/2023/FRA_MGP_P1.pdf",
-    "parsed_at": "2026-06-23T00:50:44Z"
+    "parsed_at": "2026-06-23T21:41:05Z"
   },
   "riders": [
     {
@@ -3196,7 +3196,32 @@
         "best_t4": 32.633,
         "top_speed_kmh": 306.8
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'51.236",
+          "time_sec": 171.236,
+          "t1": 33.324,
+          "t2": 23.705,
+          "t3": 27.516,
+          "t4": 26.396,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 18,
+          "time": "1'41.071",
+          "time_sec": 101.071,
+          "t1": 21.383,
+          "t2": 21.429,
+          "t3": 25.626,
+          "t4": 32.633,
+          "top_speed_kmh": 306.8,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 19,

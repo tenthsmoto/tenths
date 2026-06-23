@@ -10,7 +10,7 @@
     "date": "2019-10-26",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2019/AUS_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:55:40Z"
+    "parsed_at": "2026-06-23T21:41:42Z"
   },
   "riders": [
     {
@@ -1831,15 +1831,28 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
+        "best_lap": "2'05.720",
+        "best_lap_sec": 125.72,
+        "best_t1": 35.993,
+        "best_t2": 31.34,
+        "best_t3": 19.703,
+        "best_t4": 28.209,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'05.720",
+          "time_sec": 125.72,
+          "t1": 35.993,
+          "t2": 31.34,
+          "t3": 19.703,
+          "t4": 28.209,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 20,
@@ -1853,15 +1866,52 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'36.084",
+        "best_lap_sec": 96.084,
+        "best_t1": 22.922,
+        "best_t2": 27.989,
+        "best_t3": 19.02,
+        "best_t4": 26.153,
+        "top_speed_kmh": 326.3
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'19.247",
+          "time_sec": 139.247,
+          "t1": 34.618,
+          "t2": 29.383,
+          "t3": 19.535,
+          "t4": 27.077,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "1'36.084",
+          "time_sec": 96.084,
+          "t1": 22.922,
+          "t2": 27.989,
+          "t3": 19.02,
+          "t4": 26.153,
+          "top_speed_kmh": 326.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'49.150",
+          "time_sec": 109.15,
+          "t1": 34.964,
+          "t2": 28.805,
+          "t3": 19.099,
+          "t4": 26.282,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 21,

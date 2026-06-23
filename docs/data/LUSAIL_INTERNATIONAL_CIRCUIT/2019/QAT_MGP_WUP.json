@@ -10,7 +10,7 @@
     "date": "2019-03-10",
     "class": "MotoGP",
     "source_file": "LUSAIL_INTERNATIONAL_CIRCUIT/2019/QAT_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:51:15Z"
+    "parsed_at": "2026-06-23T21:41:09Z"
   },
   "riders": [
     {
@@ -1721,6 +1721,18 @@
           "t3": 28.702,
           "t4": 32.044,
           "top_speed_kmh": 333.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "2'00.392",
+          "time_sec": 120.392,
+          "t1": 26.6,
+          "t2": 31.767,
+          "t3": 29.938,
+          "t4": 32.087,
+          "top_speed_kmh": 324.0,
           "type": "Flying"
         }
       ]

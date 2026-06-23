@@ -10,7 +10,7 @@
     "date": "2024-03-23",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2024/POR_MGP_Q2.pdf",
-    "parsed_at": "2026-06-23T00:44:19Z"
+    "parsed_at": "2026-06-23T21:40:16Z"
   },
   "riders": [
     {
@@ -417,12 +417,12 @@
         "total_laps": 8,
         "full_laps": 5,
         "valid_laps": 5,
-        "best_lap": "1'41.949",
-        "best_lap_sec": 101.949,
-        "best_t1": 20.621,
-        "best_t2": 33.199,
-        "best_t3": 15.669,
-        "best_t4": 32.46,
+        "best_lap": "1'37.922",
+        "best_lap_sec": 97.922,
+        "best_t1": 20.372,
+        "best_t2": 31.241,
+        "best_t3": 14.862,
+        "best_t4": 31.447,
         "top_speed_kmh": 343.9
       },
       "laps": [
@@ -448,6 +448,18 @@
           "t3": 19.113,
           "t4": 32.337,
           "top_speed_kmh": 339.6,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'37.922",
+          "time_sec": 97.922,
+          "t1": 20.372,
+          "t2": 31.241,
+          "t3": 14.862,
+          "t4": 31.447,
+          "top_speed_kmh": 343.9,
           "type": "Flying"
         },
         {

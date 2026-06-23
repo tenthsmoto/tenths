@@ -10,7 +10,7 @@
     "date": "2022-09-03",
     "class": "MotoGP",
     "source_file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2022/RSM_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:52:35Z"
+    "parsed_at": "2026-06-23T21:41:19Z"
   },
   "riders": [
     {
@@ -1129,15 +1129,27 @@
         "total_laps": 7,
         "full_laps": 4,
         "valid_laps": null,
-        "best_lap": "1'48.272",
-        "best_lap_sec": 108.272,
-        "best_t1": 28.737,
-        "best_t2": 22.054,
-        "best_t3": 34.087,
-        "best_t4": 23.394,
-        "top_speed_kmh": 252.9
+        "best_lap": "1'41.909",
+        "best_lap_sec": 101.909,
+        "best_t1": 27.764,
+        "best_t2": 22.568,
+        "best_t3": 27.854,
+        "best_t4": 23.723,
+        "top_speed_kmh": 287.2
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 8,
+          "time": "1'41.909",
+          "time_sec": 101.909,
+          "t1": 27.764,
+          "t2": 22.568,
+          "t3": 27.854,
+          "t4": 23.723,
+          "top_speed_kmh": 287.2,
+          "type": "Flying"
+        },
         {
           "run": 2,
           "lap": 6,

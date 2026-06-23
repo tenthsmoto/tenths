@@ -10,7 +10,7 @@
     "date": "2018-05-19",
     "class": "MotoGP",
     "source_file": "LE_MANS/2018/FRA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:50:23Z"
+    "parsed_at": "2026-06-23T21:41:02Z"
   },
   "riders": [
     {
@@ -1138,6 +1138,18 @@
           "t3": 25.884,
           "t4": 24.761,
           "top_speed_kmh": 289.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'33.448",
+          "time_sec": 93.448,
+          "t1": 21.394,
+          "t2": 21.389,
+          "t3": 25.959,
+          "t4": 24.706,
+          "top_speed_kmh": 299.5,
           "type": "Flying"
         },
         {

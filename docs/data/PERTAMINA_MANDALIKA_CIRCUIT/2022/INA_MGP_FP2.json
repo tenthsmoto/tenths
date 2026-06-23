@@ -10,7 +10,7 @@
     "date": "2022-03-18",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2022/INA_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:54:21Z"
+    "parsed_at": "2026-06-23T21:41:33Z"
   },
   "riders": [
     {
@@ -2864,6 +2864,18 @@
           "t4": 40.841,
           "top_speed_kmh": 295.8,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "1'33.138",
+          "time_sec": 93.138,
+          "t1": 25.834,
+          "t2": 18.806,
+          "t3": 19.533,
+          "t4": 28.965,
+          "top_speed_kmh": 307.6,
+          "type": "Cancelled"
         }
       ]
     },

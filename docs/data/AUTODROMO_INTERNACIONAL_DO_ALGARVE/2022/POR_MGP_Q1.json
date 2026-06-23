@@ -10,7 +10,7 @@
     "date": "2022-04-23",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2022/POR_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:44:11Z"
+    "parsed_at": "2026-06-23T21:40:15Z"
   },
   "riders": [
     {
@@ -358,15 +358,28 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
+        "best_lap": "2'51.398",
+        "best_lap_sec": 171.398,
+        "best_t1": 14.407,
+        "best_t2": 37.452,
+        "best_t3": 17.783,
+        "best_t4": 36.114,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'51.398",
+          "time_sec": 171.398,
+          "t1": 14.407,
+          "t2": 37.452,
+          "t3": 17.783,
+          "t4": 36.114,
+          "top_speed_kmh": null,
+          "type": "Out"
+        }
+      ]
     },
     {
       "position": 5,
@@ -380,15 +393,52 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'50.486",
+        "best_lap_sec": 110.486,
+        "best_t1": 23.643,
+        "best_t2": 35.668,
+        "best_t3": 17.14,
+        "best_t4": 34.035,
+        "top_speed_kmh": 320.4
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 2,
+          "lap": 2,
+          "time": "3'19.192",
+          "time_sec": 199.192,
+          "t1": 15.618,
+          "t2": 45.641,
+          "t3": 20.222,
+          "t4": 38.178,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 2,
+          "lap": 3,
+          "time": "1'57.437",
+          "time_sec": 117.437,
+          "t1": 25.474,
+          "t2": 37.735,
+          "t3": 18.333,
+          "t4": 35.895,
+          "top_speed_kmh": 316.7,
+          "type": "Flying"
+        },
+        {
+          "run": 2,
+          "lap": 5,
+          "time": "1'50.486",
+          "time_sec": 110.486,
+          "t1": 23.643,
+          "t2": 35.668,
+          "t3": 17.14,
+          "t4": 34.035,
+          "top_speed_kmh": 320.4,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 6,
@@ -402,15 +452,52 @@
         "total_laps": null,
         "full_laps": null,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'49.695",
+        "best_lap_sec": 109.695,
+        "best_t1": 22.745,
+        "best_t2": 34.966,
+        "best_t3": 16.868,
+        "best_t4": 35.116,
+        "top_speed_kmh": 313.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'08.668",
+          "time_sec": 128.668,
+          "t1": 13.766,
+          "t2": 37.194,
+          "t3": 18.255,
+          "t4": 37.918,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "2'18.707",
+          "time_sec": 138.707,
+          "t1": 27.955,
+          "t2": 40.106,
+          "t3": 18.049,
+          "t4": 52.597,
+          "top_speed_kmh": 318.5,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 6,
+          "time": "1'49.695",
+          "time_sec": 109.695,
+          "t1": 22.745,
+          "t2": 34.966,
+          "t3": 16.868,
+          "t4": 35.116,
+          "top_speed_kmh": 313.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 7,

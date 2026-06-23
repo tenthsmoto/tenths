@@ -10,7 +10,7 @@
     "date": "2023-10-29",
     "class": "MotoGP",
     "source_file": "CHANG_INTERNATIONAL_CIRCUIT/2023/THA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:46:08Z"
+    "parsed_at": "2026-06-23T21:40:30Z"
   },
   "riders": [
     {
@@ -1625,15 +1625,28 @@
         "total_laps": 7,
         "full_laps": 6,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'31.273",
+        "best_lap_sec": 91.273,
+        "best_t1": 18.698,
+        "best_t2": 26.059,
+        "best_t3": 23.18,
+        "best_t4": 23.336,
+        "top_speed_kmh": 327.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'31.273",
+          "time_sec": 91.273,
+          "t1": 18.698,
+          "t2": 26.059,
+          "t3": 23.18,
+          "t4": 23.336,
+          "top_speed_kmh": 327.0,
+          "type": "Flying"
+        }
+      ]
     }
   ]
 }

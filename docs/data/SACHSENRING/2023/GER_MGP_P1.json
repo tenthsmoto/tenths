@@ -10,7 +10,7 @@
     "date": "2023-06-16",
     "class": "MotoGP",
     "source_file": "SACHSENRING/2023/GER_MGP_P1.pdf",
-    "parsed_at": "2026-06-23T00:57:24Z"
+    "parsed_at": "2026-06-23T21:41:56Z"
   },
   "riders": [
     {
@@ -1906,7 +1906,56 @@
         "best_t4": 20.894,
         "top_speed_kmh": 296.7
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "1'43.456",
+          "time_sec": 103.456,
+          "t1": 20.896,
+          "t2": 25.387,
+          "t3": 20.547,
+          "t4": 22.358,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'21.515",
+          "time_sec": 81.515,
+          "t1": 18.098,
+          "t2": 23.482,
+          "t3": 19.041,
+          "t4": 20.894,
+          "top_speed_kmh": 296.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'22.883",
+          "time_sec": 82.883,
+          "t1": 17.923,
+          "t2": 23.295,
+          "t3": 19.345,
+          "t4": 22.32,
+          "top_speed_kmh": 298.3,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 16,
+          "time": "1'21.949",
+          "time_sec": 81.949,
+          "t1": 17.938,
+          "t2": 23.522,
+          "t3": 19.216,
+          "t4": 21.273,
+          "top_speed_kmh": 297.5,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 13,

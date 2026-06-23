@@ -10,7 +10,7 @@
     "date": "2020-07-26",
     "class": "MotoGP",
     "source_file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2020/ANC_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:46:51Z"
+    "parsed_at": "2026-06-23T21:40:35Z"
   },
   "riders": [
     {
@@ -1060,13 +1060,13 @@
         "total_laps": 11,
         "full_laps": 8,
         "valid_laps": null,
-        "best_lap": "1'38.072",
-        "best_lap_sec": 98.072,
-        "best_t1": 24.51,
-        "best_t2": 14.372,
-        "best_t3": 29.291,
-        "best_t4": 29.899,
-        "top_speed_kmh": 288.0
+        "best_lap": "1'38.039",
+        "best_lap_sec": 98.039,
+        "best_t1": 24.504,
+        "best_t2": 14.413,
+        "best_t3": 29.279,
+        "best_t4": 29.843,
+        "top_speed_kmh": 283.4
       },
       "laps": [
         {
@@ -1139,6 +1139,18 @@
           "t3": 29.412,
           "t4": 30.005,
           "top_speed_kmh": 289.5,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'38.039",
+          "time_sec": 98.039,
+          "t1": 24.504,
+          "t2": 14.413,
+          "t3": 29.279,
+          "t4": 29.843,
+          "top_speed_kmh": 283.4,
           "type": "Flying"
         }
       ]
@@ -1258,6 +1270,18 @@
           "t3": 29.488,
           "t4": 30.007,
           "top_speed_kmh": 289.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'38.248",
+          "time_sec": 98.248,
+          "t1": 24.474,
+          "t2": 14.357,
+          "t3": 29.412,
+          "t4": 30.005,
+          "top_speed_kmh": 289.5,
           "type": "Flying"
         },
         {
@@ -1703,13 +1727,13 @@
         "total_laps": 11,
         "full_laps": 8,
         "valid_laps": null,
-        "best_lap": "1'38.342",
-        "best_lap_sec": 98.342,
-        "best_t1": 24.557,
-        "best_t2": 14.433,
-        "best_t3": 29.34,
-        "best_t4": 30.012,
-        "top_speed_kmh": 288.7
+        "best_lap": "1'38.308",
+        "best_lap_sec": 98.308,
+        "best_t1": 24.62,
+        "best_t2": 14.386,
+        "best_t3": 29.313,
+        "best_t4": 29.989,
+        "top_speed_kmh": 291.8
       },
       "laps": [
         {
@@ -1747,6 +1771,18 @@
           "t4": 30.012,
           "top_speed_kmh": 288.7,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'38.308",
+          "time_sec": 98.308,
+          "t1": 24.62,
+          "t2": 14.386,
+          "t3": 29.313,
+          "t4": 29.989,
+          "top_speed_kmh": 291.8,
+          "type": "Flying"
         }
       ]
     },
@@ -1762,15 +1798,52 @@
         "total_laps": 12,
         "full_laps": 11,
         "valid_laps": null,
-        "best_lap": "1'38.873",
-        "best_lap_sec": 98.873,
-        "best_t1": 24.79,
-        "best_t2": 14.469,
-        "best_t3": 29.626,
-        "best_t4": 29.988,
-        "top_speed_kmh": 288.0
+        "best_lap": "1'38.342",
+        "best_lap_sec": 98.342,
+        "best_t1": 24.557,
+        "best_t2": 14.433,
+        "best_t3": 29.34,
+        "best_t4": 30.012,
+        "top_speed_kmh": 288.7
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'38.342",
+          "time_sec": 98.342,
+          "t1": 24.557,
+          "t2": 14.433,
+          "t3": 29.34,
+          "t4": 30.012,
+          "top_speed_kmh": 288.7,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'44.150",
+          "time_sec": 104.15,
+          "t1": 24.71,
+          "t2": 14.575,
+          "t3": 32.361,
+          "t4": 32.504,
+          "top_speed_kmh": 287.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'38.873",
+          "time_sec": 98.873,
+          "t1": 24.79,
+          "t2": 14.469,
+          "t3": 29.626,
+          "t4": 29.988,
+          "top_speed_kmh": 288.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 17,

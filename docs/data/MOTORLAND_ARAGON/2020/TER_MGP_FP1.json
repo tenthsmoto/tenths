@@ -10,7 +10,7 @@
     "date": "2020-10-23",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2020/TER_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:53:52Z"
+    "parsed_at": "2026-06-23T21:41:29Z"
   },
   "riders": [
     {
@@ -3818,7 +3818,20 @@
         "best_t4": 25.688,
         "top_speed_kmh": 337.0
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'55.836",
+          "time_sec": 115.836,
+          "t1": 31.81,
+          "t2": 36.807,
+          "t3": 21.531,
+          "t4": 25.688,
+          "top_speed_kmh": 337.0,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 20,

@@ -10,7 +10,7 @@
     "date": "2019-06-01",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2019/ITA_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:44:38Z"
+    "parsed_at": "2026-06-23T21:40:19Z"
   },
   "riders": [
     {
@@ -1480,13 +1480,13 @@
         "total_laps": 16,
         "full_laps": 9,
         "valid_laps": null,
-        "best_lap": "1'46.713",
-        "best_lap_sec": 106.713,
-        "best_t1": 25.007,
-        "best_t2": 22.558,
-        "best_t3": 34.835,
-        "best_t4": 24.313,
-        "top_speed_kmh": 336.2
+        "best_lap": "1'46.518",
+        "best_lap_sec": 106.518,
+        "best_t1": 24.993,
+        "best_t2": 22.398,
+        "best_t3": 34.769,
+        "best_t4": 24.358,
+        "top_speed_kmh": 330.6
       },
       "laps": [
         {
@@ -1535,6 +1535,18 @@
           "t3": 37.359,
           "t4": 26.784,
           "top_speed_kmh": 338.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'46.518",
+          "time_sec": 106.518,
+          "t1": 24.993,
+          "t2": 22.398,
+          "t3": 34.769,
+          "t4": 24.358,
+          "top_speed_kmh": 330.6,
           "type": "Flying"
         }
       ]
@@ -2107,6 +2119,18 @@
           "t3": 37.917,
           "t4": 26.11,
           "top_speed_kmh": 344.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'55.818",
+          "time_sec": 115.818,
+          "t1": 26.949,
+          "t2": 27.266,
+          "t3": 36.595,
+          "t4": 25.008,
+          "top_speed_kmh": 333.0,
           "type": "Flying"
         }
       ]

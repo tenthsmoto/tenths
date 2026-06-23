@@ -10,7 +10,7 @@
     "date": "2021-05-14",
     "class": "MotoGP",
     "source_file": "LE_MANS/2021/FRA_MGP_FP1.pdf",
-    "parsed_at": "2026-06-23T00:50:34Z"
+    "parsed_at": "2026-06-23T21:41:04Z"
   },
   "riders": [
     {
@@ -2495,13 +2495,13 @@
         "total_laps": 17,
         "full_laps": 10,
         "valid_laps": null,
-        "best_lap": "1'41.807",
-        "best_lap_sec": 101.807,
-        "best_t1": 23.19,
-        "best_t2": 23.324,
-        "best_t3": 28.357,
-        "best_t4": 26.936,
-        "top_speed_kmh": 304.0
+        "best_lap": "1'41.524",
+        "best_lap_sec": 101.524,
+        "best_t1": 23.046,
+        "best_t2": 23.49,
+        "best_t3": 28.221,
+        "best_t4": 26.767,
+        "top_speed_kmh": 295.0
       },
       "laps": [
         {
@@ -2526,6 +2526,18 @@
           "t3": 28.357,
           "t4": 26.936,
           "top_speed_kmh": 304.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "1'41.524",
+          "time_sec": 101.524,
+          "t1": 23.046,
+          "t2": 23.49,
+          "t3": 28.221,
+          "t4": 26.767,
+          "top_speed_kmh": 295.0,
           "type": "Flying"
         }
       ]

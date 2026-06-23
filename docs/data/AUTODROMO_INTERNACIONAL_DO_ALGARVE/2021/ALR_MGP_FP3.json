@@ -10,7 +10,7 @@
     "date": "2021-11-06",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2021/ALR_MGP_FP3.pdf",
-    "parsed_at": "2026-06-23T00:44:01Z"
+    "parsed_at": "2026-06-23T21:40:14Z"
   },
   "riders": [
     {
@@ -3042,6 +3042,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 19,
+          "time": "1'41.102",
+          "time_sec": 101.102,
+          "t1": 21.324,
+          "t2": 32.187,
+          "t3": 15.373,
+          "t4": 32.218,
+          "top_speed_kmh": 329.2,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 10,
           "time": "1'41.251",
@@ -3672,7 +3684,68 @@
         "best_t4": 32.67,
         "top_speed_kmh": 328.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 1,
+          "time": "2'00.934",
+          "time_sec": 120.934,
+          "t1": 13.571,
+          "t2": 35.124,
+          "t3": 16.351,
+          "t4": 33.464,
+          "top_speed_kmh": null,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 10,
+          "time": "1'41.719",
+          "time_sec": 101.719,
+          "t1": 21.326,
+          "t2": 32.418,
+          "t3": 15.305,
+          "t4": 32.67,
+          "top_speed_kmh": 328.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'07.881",
+          "time_sec": 127.881,
+          "t1": 23.144,
+          "t2": 34.495,
+          "t3": 16.11,
+          "t4": 54.132,
+          "top_speed_kmh": 327.2,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 15,
+          "time": "1'45.460",
+          "time_sec": 105.46,
+          "t1": 20.929,
+          "t2": 33.963,
+          "t3": 16.544,
+          "t4": 34.024,
+          "top_speed_kmh": 330.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 17,
+          "time": "1'39.964",
+          "time_sec": 99.964,
+          "t1": 20.907,
+          "t2": 31.768,
+          "t3": 15.167,
+          "t4": 32.122,
+          "top_speed_kmh": 340.6,
+          "type": "Cancelled"
+        }
+      ]
     }
   ]
 }

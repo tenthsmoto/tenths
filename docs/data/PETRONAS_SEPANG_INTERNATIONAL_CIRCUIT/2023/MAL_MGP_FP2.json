@@ -10,7 +10,7 @@
     "date": "2023-11-11",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2023/MAL_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:55:00Z"
+    "parsed_at": "2026-06-23T21:41:37Z"
   },
   "riders": [
     {
@@ -1044,7 +1044,44 @@
         "best_t4": 30.342,
         "top_speed_kmh": 328.2
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "1'59.517",
+          "time_sec": 119.517,
+          "t1": 24.847,
+          "t2": 27.418,
+          "t3": 36.91,
+          "t4": 30.342,
+          "top_speed_kmh": 328.2,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "2'14.543",
+          "time_sec": 134.543,
+          "t1": 29.09,
+          "t2": 29.923,
+          "t3": 41.184,
+          "t4": 34.346,
+          "top_speed_kmh": 281.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'59.648",
+          "time_sec": 119.648,
+          "t1": 24.79,
+          "t2": 27.491,
+          "t3": 37.106,
+          "t4": 30.261,
+          "top_speed_kmh": 331.2,
+          "type": "Flying"
+        }
+      ]
     },
     {
       "position": 11,
@@ -1568,6 +1605,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 12,
+          "time": "2'00.175",
+          "time_sec": 120.175,
+          "t1": 24.863,
+          "t2": 27.672,
+          "t3": 37.092,
+          "t4": 30.548,
+          "top_speed_kmh": 331.2,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 9,
           "time": "2'00.641",
@@ -1672,6 +1721,18 @@
           "t3": 37.097,
           "t4": 41.079,
           "top_speed_kmh": 325.3,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "2'26.645",
+          "time_sec": 146.645,
+          "t1": 28.966,
+          "t2": 32.003,
+          "t3": 41.586,
+          "t4": 44.09,
+          "top_speed_kmh": 314.8,
           "type": "Pit In"
         },
         {

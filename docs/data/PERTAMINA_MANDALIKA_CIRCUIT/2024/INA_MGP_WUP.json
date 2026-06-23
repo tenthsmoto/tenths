@@ -10,7 +10,7 @@
     "date": "2024-09-29",
     "class": "MotoGP",
     "source_file": "PERTAMINA_MANDALIKA_CIRCUIT/2024/INA_MGP_WUP.pdf",
-    "parsed_at": "2026-06-23T00:54:32Z"
+    "parsed_at": "2026-06-23T21:41:34Z"
   },
   "riders": [
     {
@@ -1022,13 +1022,13 @@
         "total_laps": 7,
         "full_laps": 6,
         "valid_laps": null,
-        "best_lap": "1'33.093",
-        "best_lap_sec": 93.093,
-        "best_t1": 25.493,
-        "best_t2": 18.779,
-        "best_t3": 20.379,
-        "best_t4": 28.442,
-        "top_speed_kmh": 305.9
+        "best_lap": "1'31.001",
+        "best_lap_sec": 91.001,
+        "best_t1": 25.473,
+        "best_t2": 18.532,
+        "best_t3": 18.808,
+        "best_t4": 28.188,
+        "top_speed_kmh": 30.0
       },
       "laps": [
         {
@@ -1041,6 +1041,18 @@
           "t3": 20.379,
           "t4": 28.442,
           "top_speed_kmh": 305.9,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'31.001",
+          "time_sec": 91.001,
+          "t1": 25.473,
+          "t2": 18.532,
+          "t3": 18.808,
+          "t4": 28.188,
+          "top_speed_kmh": 30.0,
           "type": "Flying"
         }
       ]

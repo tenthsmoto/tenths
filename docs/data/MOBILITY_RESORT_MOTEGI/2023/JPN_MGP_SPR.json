@@ -10,7 +10,7 @@
     "date": "2023-09-30",
     "class": "MotoGP",
     "source_file": "MOBILITY_RESORT_MOTEGI/2023/JPN_MGP_SPR.pdf",
-    "parsed_at": "2026-06-23T01:50:28Z"
+    "parsed_at": "2026-06-23T21:41:25Z"
   },
   "riders": [
     {
@@ -1192,18 +1192,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 12,
-          "time": "1'45.723",
-          "time_sec": 105.723,
-          "t1": 27.322,
-          "t2": 20.572,
-          "t3": 29.244,
-          "t4": 28.585,
-          "top_speed_kmh": 30.0,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 2,
           "time": "1'45.199",
           "time_sec": 105.199,
@@ -1213,6 +1201,18 @@
           "t4": 28.454,
           "top_speed_kmh": 313.0,
           "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 12,
+          "time": "1'45.723",
+          "time_sec": 105.723,
+          "t1": 27.322,
+          "t2": 20.572,
+          "t3": 29.244,
+          "t4": 28.585,
+          "top_speed_kmh": 30.0,
+          "type": "Flying"
         }
       ]
     },

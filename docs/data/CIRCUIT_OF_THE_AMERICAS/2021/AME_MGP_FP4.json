@@ -10,7 +10,7 @@
     "date": "2021-10-02",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2021/AME_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:48:52Z"
+    "parsed_at": "2026-06-23T21:40:51Z"
   },
   "riders": [
     {
@@ -1025,6 +1025,18 @@
         {
           "run": 1,
           "lap": 12,
+          "time": "2'30.200",
+          "time_sec": 150.2,
+          "t1": 35.46,
+          "t2": 38.651,
+          "t3": 39.477,
+          "t4": 36.612,
+          "top_speed_kmh": 235.2,
+          "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 12,
           "time": "2'04.790",
           "time_sec": 124.79,
           "t1": 35.436,
@@ -1104,6 +1116,18 @@
           "t4": 28.483,
           "top_speed_kmh": 340.6,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "2'18.761",
+          "time_sec": 138.761,
+          "t1": 37.777,
+          "t2": 32.82,
+          "t3": 32.67,
+          "t4": 35.494,
+          "top_speed_kmh": 337.5,
+          "type": "Pit In"
         }
       ]
     },
@@ -1691,6 +1715,18 @@
         {
           "run": 1,
           "lap": 11,
+          "time": "2'06.272",
+          "time_sec": 126.272,
+          "t1": 36.014,
+          "t2": 30.584,
+          "t3": 31.201,
+          "t4": 28.473,
+          "top_speed_kmh": 338.5,
+          "type": "Cancelled"
+        },
+        {
+          "run": 1,
+          "lap": 11,
           "time": "2'30.863",
           "time_sec": 150.863,
           "t1": 42.409,
@@ -1758,6 +1794,18 @@
           "t4": 28.763,
           "top_speed_kmh": 343.9,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 11,
+          "time": "2'30.863",
+          "time_sec": 150.863,
+          "t1": 42.409,
+          "t2": 33.317,
+          "t3": 37.222,
+          "t4": 37.915,
+          "top_speed_kmh": 330.2,
+          "type": "Pit In"
         },
         {
           "run": 1,
@@ -2258,7 +2306,20 @@
         "best_t4": null,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 9,
+          "time": "2'22.184",
+          "time_sec": 142.184,
+          "t1": 35.583,
+          "t2": 36.012,
+          "t3": 33.857,
+          "t4": 36.732,
+          "top_speed_kmh": 319.5,
+          "type": "Pit In"
+        }
+      ]
     },
     {
       "position": 21,

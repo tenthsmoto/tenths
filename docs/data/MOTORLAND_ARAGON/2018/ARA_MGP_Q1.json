@@ -10,7 +10,7 @@
     "date": "2018-09-22",
     "class": "MotoGP",
     "source_file": "MOTORLAND_ARAGON/2018/ARA_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:53:42Z"
+    "parsed_at": "2026-06-23T21:41:27Z"
   },
   "riders": [
     {
@@ -369,13 +369,13 @@
         "total_laps": 6,
         "full_laps": 3,
         "valid_laps": null,
-        "best_lap": null,
-        "best_lap_sec": null,
-        "best_t1": null,
-        "best_t2": null,
-        "best_t3": null,
-        "best_t4": null,
-        "top_speed_kmh": null
+        "best_lap": "1'48.083",
+        "best_lap_sec": 108.083,
+        "best_t1": 30.844,
+        "best_t2": 30.588,
+        "best_t3": 20.992,
+        "best_t4": 25.659,
+        "top_speed_kmh": 327.3
       },
       "laps": [
         {
@@ -389,6 +389,18 @@
           "t4": 28.244,
           "top_speed_kmh": 320.0,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'48.083",
+          "time_sec": 108.083,
+          "t1": 30.844,
+          "t2": 30.588,
+          "t3": 20.992,
+          "t4": 25.659,
+          "top_speed_kmh": 327.3,
+          "type": "Flying"
         }
       ]
     },

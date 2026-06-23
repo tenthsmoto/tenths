@@ -10,7 +10,7 @@
     "date": "2024-04-12",
     "class": "MotoGP",
     "source_file": "CIRCUIT_OF_THE_AMERICAS/2024/AME_MGP_PR.pdf",
-    "parsed_at": "2026-06-23T00:49:04Z"
+    "parsed_at": "2026-06-23T21:40:53Z"
   },
   "riders": [
     {
@@ -1049,6 +1049,18 @@
         "top_speed_kmh": 343.9
       },
       "laps": [
+        {
+          "run": 1,
+          "lap": 19,
+          "time": "2'17.064",
+          "time_sec": 137.064,
+          "t1": 41.14,
+          "t2": 31.665,
+          "t3": 32.639,
+          "t4": 31.62,
+          "top_speed_kmh": 334.3,
+          "type": "Cancelled"
+        },
         {
           "run": 3,
           "lap": 16,

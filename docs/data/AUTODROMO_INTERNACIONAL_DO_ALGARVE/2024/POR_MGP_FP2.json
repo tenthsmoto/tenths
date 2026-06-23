@@ -10,7 +10,7 @@
     "date": "2024-03-23",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNACIONAL_DO_ALGARVE/2024/POR_MGP_FP2.pdf",
-    "parsed_at": "2026-06-23T00:44:17Z"
+    "parsed_at": "2026-06-23T21:40:16Z"
   },
   "riders": [
     {
@@ -451,6 +451,18 @@
           "t4": 32.003,
           "top_speed_kmh": 338.5,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "2'07.499",
+          "time_sec": 127.499,
+          "t1": 24.552,
+          "t2": 35.118,
+          "t3": 16.053,
+          "t4": 51.776,
+          "top_speed_kmh": 33.0,
+          "type": "Pit In"
         }
       ]
     },
@@ -2000,6 +2012,18 @@
           "t4": 49.649,
           "top_speed_kmh": 336.4,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'58.485",
+          "time_sec": 118.485,
+          "t1": 20.869,
+          "t2": 32.12,
+          "t3": 15.314,
+          "t4": 50.182,
+          "top_speed_kmh": 333.3,
+          "type": "Pit In"
         }
       ]
     },
@@ -2047,6 +2071,18 @@
           "t4": 32.006,
           "top_speed_kmh": 338.5,
           "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 13,
+          "time": "1'58.196",
+          "time_sec": 118.196,
+          "t1": 20.959,
+          "t2": 32.219,
+          "t3": 15.369,
+          "t4": 49.649,
+          "top_speed_kmh": 336.4,
+          "type": "Pit In"
         },
         {
           "run": 2,

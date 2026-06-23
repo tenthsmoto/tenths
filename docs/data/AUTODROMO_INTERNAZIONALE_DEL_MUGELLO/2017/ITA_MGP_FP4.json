@@ -10,7 +10,7 @@
     "date": "2017-06-03",
     "class": "MotoGP",
     "source_file": "AUTODROMO_INTERNAZIONALE_DEL_MUGELLO/2017/ITA_MGP_FP4.pdf",
-    "parsed_at": "2026-06-23T00:44:29Z"
+    "parsed_at": "2026-06-23T21:40:18Z"
   },
   "riders": [
     {
@@ -1096,6 +1096,18 @@
           "type": "Flying"
         },
         {
+          "run": 1,
+          "lap": 13,
+          "time": "1'47.982",
+          "time_sec": 107.982,
+          "t1": 25.099,
+          "t2": 22.876,
+          "t3": 35.47,
+          "t4": 24.537,
+          "top_speed_kmh": 349.0,
+          "type": "Flying"
+        },
+        {
           "run": 2,
           "lap": 8,
           "time": "1'56.477",
@@ -1284,6 +1296,18 @@
           "t3": 35.362,
           "t4": 24.623,
           "top_speed_kmh": 347.0,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 14,
+          "time": "1'56.739",
+          "time_sec": 116.739,
+          "t1": 29.481,
+          "t2": 25.531,
+          "t3": 36.756,
+          "t4": 24.971,
+          "top_speed_kmh": 339.0,
           "type": "Flying"
         },
         {

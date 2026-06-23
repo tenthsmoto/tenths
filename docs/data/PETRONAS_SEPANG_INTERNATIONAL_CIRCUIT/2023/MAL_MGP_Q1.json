@@ -10,7 +10,7 @@
     "date": "2023-11-11",
     "class": "MotoGP",
     "source_file": "PETRONAS_SEPANG_INTERNATIONAL_CIRCUIT/2023/MAL_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:55:01Z"
+    "parsed_at": "2026-06-23T21:41:37Z"
   },
   "riders": [
     {
@@ -846,7 +846,32 @@
         "best_t4": 30.248,
         "top_speed_kmh": null
       },
-      "laps": []
+      "laps": [
+        {
+          "run": 1,
+          "lap": 4,
+          "time": "3'46.138",
+          "time_sec": 226.138,
+          "t1": 22.435,
+          "t2": 28.046,
+          "t3": 37.347,
+          "t4": 30.248,
+          "top_speed_kmh": null,
+          "type": "Out"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "2'12.479",
+          "time_sec": 132.479,
+          "t1": 29.367,
+          "t2": 31.217,
+          "t3": 39.945,
+          "t4": 31.95,
+          "top_speed_kmh": 320.4,
+          "type": "Cancelled"
+        }
+      ]
     }
   ]
 }

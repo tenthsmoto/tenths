@@ -10,7 +10,7 @@
     "date": "2022-10-15",
     "class": "MotoGP",
     "source_file": "PHILLIP_ISLAND/2022/AUS_MGP_Q1.pdf",
-    "parsed_at": "2026-06-23T00:55:46Z"
+    "parsed_at": "2026-06-23T21:41:43Z"
   },
   "riders": [
     {
@@ -448,6 +448,18 @@
           "t4": 25.617,
           "top_speed_kmh": 344.0,
           "type": "Pit In"
+        },
+        {
+          "run": 1,
+          "lap": 7,
+          "time": "1'28.385",
+          "time_sec": 88.385,
+          "t1": 21.004,
+          "t2": 25.674,
+          "t3": 17.092,
+          "t4": 24.615,
+          "top_speed_kmh": 347.3,
+          "type": "Cancelled"
         },
         {
           "run": 1,

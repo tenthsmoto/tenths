@@ -10,7 +10,7 @@
     "date": "2024-08-04",
     "class": "MotoGP",
     "source_file": "SILVERSTONE_CIRCUIT/2024/GBR_MGP_RAC.pdf",
-    "parsed_at": "2026-06-23T01:52:03Z"
+    "parsed_at": "2026-06-23T21:42:02Z"
   },
   "riders": [
     {
@@ -2305,18 +2305,6 @@
       "laps": [
         {
           "run": 1,
-          "lap": 20,
-          "time": "2'01.389",
-          "time_sec": 121.389,
-          "t1": 27.638,
-          "t2": 30.983,
-          "t3": 23.786,
-          "t4": 38.982,
-          "top_speed_kmh": 323.3,
-          "type": "Flying"
-        },
-        {
-          "run": 1,
           "lap": 1,
           "time": "2'04.052",
           "time_sec": 124.052,
@@ -2541,6 +2529,18 @@
           "t3": 24.118,
           "t4": 39.009,
           "top_speed_kmh": 332.3,
+          "type": "Flying"
+        },
+        {
+          "run": 1,
+          "lap": 20,
+          "time": "2'01.389",
+          "time_sec": 121.389,
+          "t1": 27.638,
+          "t2": 30.983,
+          "t3": 23.786,
+          "t4": 38.982,
+          "top_speed_kmh": 323.3,
           "type": "Flying"
         },
         {

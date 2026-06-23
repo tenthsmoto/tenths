@@ -4,8 +4,13 @@ __pycache__/
 .processed_files.json
 
 # MotoGP PDFs — large binaries, stored locally and cached in CI
-# Track folders (all caps directories at repo root)
+# Track folders (all-caps directories at repo root).
+# core.ignorecase=true on macOS makes [A-Z] match any letter,
+# so explicitly un-ignore the source directories we want tracked.
 [A-Z]*/
+!python/
+!docs/
+!.github/
 
 # Local tools
 *.command

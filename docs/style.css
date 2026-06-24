@@ -858,7 +858,10 @@ table.rider-table {
   border-radius: 50%;
   background: var(--chip-color, var(--text-3));
   flex-shrink: 0;
+  opacity: 0;
+  transition: opacity 0.15s;
 }
+.rider-chip.selected .chip-color-dot { opacity: 1; }
 
 .chip-bike {
   font-family: var(--font-data);

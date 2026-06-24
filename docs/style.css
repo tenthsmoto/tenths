@@ -1554,9 +1554,9 @@ table.rider-table {
     opacity: 0.7;
   }
 
-  /* Push content above the tab bar */
+  /* Shrink the fixed container so content stops above the tab bar */
   .app-container {
-    padding-bottom: calc(60px + env(safe-area-inset-bottom));
+    bottom: calc(60px + env(safe-area-inset-bottom));
   }
 
   /* ── Sessions ── */

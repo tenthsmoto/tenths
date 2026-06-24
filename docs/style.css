@@ -1559,6 +1559,11 @@ table.rider-table {
     bottom: calc(60px + env(safe-area-inset-bottom));
   }
 
+  /* Stack sector charts vertically */
+  .cmp-sector-grid {
+    grid-template-columns: 1fr;
+  }
+
   /* ── Sessions ── */
   .sessions-toolbar {
     padding: 10px 12px;

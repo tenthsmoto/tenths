@@ -648,22 +648,14 @@ function initCompareView() {
 
 function renderCompareRiderList() {
   const riders = cmpData.riders;
-  const bestT  = [1,2,3,4].map(i =>
-    Math.min(...riders.map(r => r.summary[`best_t${i}`]).filter(v => v != null)));
 
   const html = `<table class="rider-table">
     <thead><tr>
       <th>POS</th><th>#</th><th>RIDER</th><th>BIKE</th>
-      <th>BEST LAP</th><th>T1</th><th>T2</th><th>T3</th><th>T4</th><th>TOP SPD</th>
     </tr></thead>
     <tbody>
-      ${riders.map(r => {
-        const s = r.summary;
-        const t1cls = s.best_t1 === bestT[0] ? ' best-sector' : '';
-        const t2cls = s.best_t2 === bestT[1] ? ' best-sector' : '';
-        const t3cls = s.best_t3 === bestT[2] ? ' best-sector' : '';
-        const t4cls = s.best_t4 === bestT[3] ? ' best-sector' : '';
-        return `<tr class="rider-row" data-pos="${r.position}">
+      ${riders.map(r => `
+        <tr class="rider-row" data-pos="${r.position}">
           <td class="td-pos">${r.position}</td>
           <td class="td-num">#${r.number}</td>
           <td class="td-name">
@@ -671,14 +663,7 @@ function renderCompareRiderList() {
             <span class="team-name">${r.team || ''}</span>
           </td>
           <td class="td-bike" style="color:${mfrColor(r.bike)}">${r.bike || '—'}</td>
-          <td class="td-laptime">${fmt(s.best_lap_sec)}</td>
-          <td class="td-sector${t1cls}">${fmtSec(s.best_t1)}</td>
-          <td class="td-sector${t2cls}">${fmtSec(s.best_t2)}</td>
-          <td class="td-sector${t3cls}">${fmtSec(s.best_t3)}</td>
-          <td class="td-sector${t4cls}">${fmtSec(s.best_t4)}</td>
-          <td class="td-speed">${fmtSpeed(s.top_speed_kmh)}</td>
-        </tr>`;
-      }).join('')}
+        </tr>`).join('')}
     </tbody>
   </table>`;
 

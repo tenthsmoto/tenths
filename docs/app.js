@@ -647,33 +647,62 @@ function initCompareView() {
 }
 
 function renderCompareRiderList() {
-  const list = document.getElementById('cmp-rider-list');
-  list.innerHTML = cmpData.riders.map((r, i) => `
-    <div class="rider-chip" data-pos="${r.position}">
-      <span class="chip-color-dot" style="background:var(--text-3)"></span>
-      <span>${fmtName(r.name)}</span>
-      <span class="chip-bike" style="color:${mfrColor(r.bike)}">${r.bike || ''}</span>
-    </div>`
-  ).join('');
+  const riders = cmpData.riders;
+  const bestT  = [1,2,3,4].map(i =>
+    Math.min(...riders.map(r => r.summary[`best_t${i}`]).filter(v => v != null)));
 
-  list.addEventListener('click', e => {
-    const chip = e.target.closest('.rider-chip');
-    if (!chip) return;
-    const pos   = parseInt(chip.dataset.pos);
+  const html = `<table class="rider-table">
+    <thead><tr>
+      <th>POS</th><th>#</th><th>RIDER</th><th>BIKE</th>
+      <th>BEST LAP</th><th>T1</th><th>T2</th><th>T3</th><th>T4</th><th>TOP SPD</th>
+    </tr></thead>
+    <tbody>
+      ${riders.map(r => {
+        const s = r.summary;
+        const t1cls = s.best_t1 === bestT[0] ? ' best-sector' : '';
+        const t2cls = s.best_t2 === bestT[1] ? ' best-sector' : '';
+        const t3cls = s.best_t3 === bestT[2] ? ' best-sector' : '';
+        const t4cls = s.best_t4 === bestT[3] ? ' best-sector' : '';
+        return `<tr class="rider-row" data-pos="${r.position}">
+          <td class="td-pos">${r.position}</td>
+          <td class="td-num">#${r.number}</td>
+          <td class="td-name">
+            <span class="rider-name">${fmtName(r.name)}</span>
+            <span class="team-name">${r.team || ''}</span>
+          </td>
+          <td class="td-bike" style="color:${mfrColor(r.bike)}">${r.bike || '—'}</td>
+          <td class="td-laptime">${fmt(s.best_lap_sec)}</td>
+          <td class="td-sector${t1cls}">${fmtSec(s.best_t1)}</td>
+          <td class="td-sector${t2cls}">${fmtSec(s.best_t2)}</td>
+          <td class="td-sector${t3cls}">${fmtSec(s.best_t3)}</td>
+          <td class="td-sector${t4cls}">${fmtSec(s.best_t4)}</td>
+          <td class="td-speed">${fmtSpeed(s.top_speed_kmh)}</td>
+        </tr>`;
+      }).join('')}
+    </tbody>
+  </table>`;
+
+  const wrap = document.getElementById('cmp-rider-list');
+  wrap.innerHTML = html;
+
+  wrap.addEventListener('click', e => {
+    const row = e.target.closest('.rider-row');
+    if (!row) return;
+    const pos   = parseInt(row.dataset.pos);
     const rider = cmpData.riders.find(r => r.position === pos);
     if (!rider) return;
 
     const idx = cmpRiders.findIndex(x => x.rider.number === rider.number);
     if (idx >= 0) {
       cmpRiders.splice(idx, 1);
-      chip.classList.remove('selected');
+      row.classList.remove('selected');
+      row.style.removeProperty('--row-color');
     } else if (cmpRiders.length < PALETTE.length) {
       const usedColors = new Set(cmpRiders.map(x => x.color));
       const color = PALETTE.find(c => !usedColors.has(c)) || PALETTE[0];
       cmpRiders.push({ rider, color });
-      chip.classList.add('selected');
-      chip.style.setProperty('--chip-color', color);
-      chip.querySelector('.chip-color-dot').style.background = color;
+      row.classList.add('selected');
+      row.style.setProperty('--row-color', color);
     }
 
     if (cmpRiders.length >= 2) {

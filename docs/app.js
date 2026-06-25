@@ -661,8 +661,9 @@ function renderCompareRiderList() {
           <td class="td-name">
             <span class="rider-name">${fmtName(r.name)}</span>
             <span class="team-name">${r.team || ''}</span>
+            <span class="cmp-bike-inline" style="color:${mfrColor(r.bike)}">${r.bike || ''}</span>
           </td>
-          <td class="td-bike" style="color:${mfrColor(r.bike)}">${r.bike || '—'}</td>
+          <td class="td-bike cmp-bike-col" style="color:${mfrColor(r.bike)}">${r.bike || '—'}</td>
         </tr>`).join('')}
     </tbody>
   </table>`;

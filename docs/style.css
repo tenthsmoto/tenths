@@ -863,6 +863,9 @@ table.rider-table {
 }
 .rider-chip.selected .chip-color-dot { opacity: 1; }
 
+/* Compare rider list — bike shown inline on mobile, as a column on desktop */
+.cmp-bike-inline { display: none; font-size: 10px; font-weight: 700; font-family: var(--font-data); }
+
 .chip-bike {
   font-family: var(--font-data);
   font-size: 10px;
@@ -1566,6 +1569,10 @@ table.rider-table {
   .cmp-sector-grid {
     grid-template-columns: 1fr;
   }
+
+  /* Hide bike column in compare list; show inline badge instead */
+  .cmp-bike-col { display: none; }
+  .cmp-bike-inline { display: inline; }
 
   /* ── Sessions ── */
   .sessions-toolbar {

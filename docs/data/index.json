@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T22:36:11Z",
-  "session_count": 1635,
+  "last_updated": "2026-06-26T21:54:14Z",
+  "session_count": 1637,
   "sessions": [
     {
       "file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/JE1_MGP_FP1.json",
@@ -21232,7 +21232,7 @@
       "rider_count": 21
     },
     {
-      "file": "CREDITAS_AUTODROM_BRNO/2026/CZE_MGP_RAC.json",
+      "file": "AUTOMOTODROM_BRNO/2026/CZE_MGP_RAC.json",
       "year": 2026,
       "gp": "Czechia",
       "gp_name": "Czechia",
@@ -21245,7 +21245,7 @@
       "rider_count": 20
     },
     {
-      "file": "CREDITAS_AUTODROM_BRNO/2026/CZE_MGP_WUP.json",
+      "file": "AUTOMOTODROM_BRNO/2026/CZE_MGP_WUP.json",
       "year": 2026,
       "gp": "Czechia",
       "gp_name": "Czechia",
@@ -21256,6 +21256,32 @@
       "date": "2026-06-21",
       "class": "MotoGP",
       "rider_count": 20
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_FP1.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "FP1",
+      "session_long": "Free Practice Nr. 1",
+      "date": "2026-06-26",
+      "class": "MotoGP",
+      "rider_count": 23
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_PR.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "PR",
+      "session_long": "Practice",
+      "date": "2026-06-26",
+      "class": "MotoGP",
+      "rider_count": 23
     }
   ]
 }

@@ -92,39 +92,36 @@ canvas { display: block; }
 .topnav-brand {
   display: flex;
   align-items: center;
+  gap: 10px;
   flex-shrink: 0;
 }
 
-/* "tenths●" wordmark */
+.brand-mark {
+  height: 30px;
+  width: auto;
+  flex-shrink: 0;
+}
+
+.brand-divider {
+  width: 1px;
+  height: 22px;
+  background: var(--border);
+  flex-shrink: 0;
+}
+
 .brand-wordmark {
   font-family: var(--font-brand);
-  font-size: 20px;
+  font-size: 19px;
   font-weight: 700;
   letter-spacing: -0.02em;
-  color: var(--text-1);
+  line-height: 1;
   display: flex;
   align-items: baseline;
-  line-height: 1;
+  gap: 5px;
 }
 
-/* Dot centre on the baseline — grounded, anchored, deliberate */
-.brand-dot {
-  display: block;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: var(--accent-hi);
-  box-shadow:
-    0 0 6px  var(--accent),
-    0 0 16px var(--accent),
-    0 0 32px rgba(139,92,246,0.45);
-  margin-left: 4px;
-  flex-shrink: 0;
-  /* align-items:baseline puts the dot's bottom edge on the baseline;
-     shift down by half the dot height to centre it there */
-  position: relative;
-  top: 3.5px;
-}
+.brand-purple { color: #a78bfa; }
+.brand-lap    { color: var(--text-1); }
 
 /* Nav links */
 .topnav-links {

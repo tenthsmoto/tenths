@@ -1,0 +1,63 @@
+name: Update MotoGP Data
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC (after Sunday race day)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      from_year:
+        description: 'Download from year (leave blank for current season only)'
+        required: false
+        default: ''
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pdfplumber requests
+
+      - name: Restore PDF cache
+        uses: actions/cache@v4
+        with:
+          # Cache the track-named PDF directories at repo root
+          path: |
+            [A-Z]*/
+          key: motogp-pdfs-${{ github.run_id }}
+          restore-keys: |
+            motogp-pdfs-
+
+      - name: Download new PDFs
+        run: |
+          YEAR=${{ github.event.inputs.from_year }}
+          if [ -z "$YEAR" ]; then
+            YEAR=$(date +%Y)
+          fi
+          python python/download_pdfs.py --from-year $YEAR
+
+      - name: Parse PDFs → JSON
+        run: python python/motogp_parser.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --cached --quiet; then
+            echo "No new data — nothing to commit."
+          else
+            git commit -m "Data update $(date +%Y-%m-%d) [skip ci]"
+            git push
+          fi

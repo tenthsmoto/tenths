@@ -29,15 +29,15 @@ jobs:
       - name: Install dependencies
         run: pip install pdfplumber requests
 
-      - name: Restore PDF cache
+      - name: Restore PDF + parser cache
         uses: actions/cache@v4
         with:
-          # Cache the track-named PDF directories at repo root
           path: |
             [A-Z]*/
-          key: motogp-pdfs-${{ github.run_id }}
+            .processed_files.json
+          key: motogp-data-${{ github.run_id }}
           restore-keys: |
-            motogp-pdfs-
+            motogp-data-
 
       - name: Download new PDFs
         run: |

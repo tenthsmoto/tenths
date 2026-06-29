@@ -1108,13 +1108,21 @@ async function initHomeView() {
     return;
   }
 
-  const meta = races[0];
-  try {
-    const data = await loadSession(meta.file);
-    renderHomeView(meta, data);
-  } catch (e) {
-    document.getElementById('home-placeholder').querySelector('p').textContent = 'Could not load race data';
+  // Try each race in date order until one loads (handles index entries for
+  // upcoming races whose JSON doesn't exist yet)
+  for (const meta of races) {
+    try {
+      const data = await loadSession(meta.file);
+      renderHomeView(meta, data);
+      return;
+    } catch (e) {
+      // file not available yet — try next
+    }
   }
+
+  const ph = document.getElementById('home-placeholder');
+  ph.querySelector('.spinner').style.display = 'none';
+  ph.querySelector('p').textContent = 'No race data found';
 }
 
 function renderHomeView(meta, data) {

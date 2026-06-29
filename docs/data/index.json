@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T22:05:10Z",
-  "session_count": 1637,
+  "last_updated": "2026-06-29T17:31:51Z",
+  "session_count": 1643,
   "sessions": [
     {
       "file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/JE1_MGP_FP1.json",
@@ -21282,6 +21282,84 @@
       "date": "2026-06-26",
       "class": "MotoGP",
       "rider_count": 23
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_FP2.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "FP2",
+      "session_long": "Free Practice Nr. 2",
+      "date": "2026-06-27",
+      "class": "MotoGP",
+      "rider_count": 22
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_Q1.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "Q1",
+      "session_long": "Grand Prix",
+      "date": "2026-06-27",
+      "class": "MotoGP",
+      "rider_count": 12
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_Q2.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "Q2",
+      "session_long": "Grand Prix",
+      "date": "2026-06-27",
+      "class": "MotoGP",
+      "rider_count": 11
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_SPR.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "SPR",
+      "session_long": "Grand Prix",
+      "date": "2026-06-27",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_RAC.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "RAC",
+      "session_long": "Grand Prix",
+      "date": "2026-06-28",
+      "class": "MotoGP",
+      "rider_count": 22
+    },
+    {
+      "file": "TT_CIRCUIT_ASSEN/2026/NED_MGP_WUP.json",
+      "year": 2026,
+      "gp": "The Netherlandstissot Grand Prix Of Th",
+      "gp_name": "The Netherlandstissot Grand Prix Of Th",
+      "circuit": "Tt Circuit Assen",
+      "track_folder": "TT_CIRCUIT_ASSEN",
+      "session": "WUP",
+      "session_long": "Grand Prix",
+      "date": "2026-06-28",
+      "class": "MotoGP",
+      "rider_count": 22
     }
   ]
 }

@@ -1563,9 +1563,26 @@ table.rider-table {
     grid-template-columns: 1fr;
   }
 
-  /* Hide bike column in compare list; show inline badge instead */
+  /* Hide bike column (cells AND header) in compare list; show inline badge instead */
   .cmp-bike-col { display: none; }
+  #cmp-rider-list .rider-table th:nth-child(4) { display: none; }
   .cmp-bike-inline { display: inline; }
+
+  /* Compare view: edge-to-edge like sessions */
+  #view-compare .view-main.padded { padding: 0; gap: 0; }
+  #view-compare .view-header { padding: 14px 16px; }
+  .compare-setup { gap: 0; }
+  .compare-step {
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    padding: 14px 16px;
+  }
+  .compare-step + .compare-step { border-top: none; }
+  /* Let the rider table bleed to the screen edges like the sessions table */
+  #cmp-rider-list { margin: 0 -16px; }
+  #cmp-rider-list .rider-table { width: 100%; }
+  .cmp-chart-area { padding: 14px 10px; }
 
   /* ── Sessions ── */
   .sessions-toolbar {

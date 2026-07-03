@@ -916,6 +916,12 @@ table.rider-table {
 }
 .cmp-sector-chart-wrap { height: 200px; position: relative; }
 
+#cmp-sectors-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 /* Best sector summary table */
 .cmp-sector-best-wrap {
   background: var(--bg-2);

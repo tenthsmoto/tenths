@@ -1584,6 +1584,18 @@ table.rider-table {
   #cmp-rider-list .rider-table { width: 100%; }
   .cmp-chart-area { padding: 14px 10px; }
 
+  /* Best-sector table: tighter cells + shorter headers so 5 columns fit */
+  .cmp-sector-best-wrap table { font-size: 11px; table-layout: fixed; }
+  .cmp-sector-best-wrap th,
+  .cmp-sector-best-wrap td { padding: 7px 6px; }
+  .cmp-sector-best-wrap th:first-child,
+  .cmp-sector-best-wrap td:first-child { width: 32%; }
+  .cmp-sector-best-wrap td.rider-name-cell {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   /* ── Sessions ── */
   .sessions-toolbar {
     padding: 10px 12px;

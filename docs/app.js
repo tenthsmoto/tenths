@@ -888,7 +888,7 @@ function renderSectorCharts() {
     return { vals, min };
   });
 
-  const headerCells = sectorKeys.map((_, i) => `<th>Best T${i + 1}</th>`).join('');
+  const headerCells = sectorKeys.map((_, i) => `<th>T${i + 1}</th>`).join('');
   const rows = cmpRiders.map(({ rider, color }, ri) => {
     const cells = sectorKeys.map((key, si) => {
       const val = bestPerSector[si].vals[ri];

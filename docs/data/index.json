@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T23:50:45Z",
-  "session_count": 1643,
+  "last_updated": "2026-07-13T13:43:13Z",
+  "session_count": 1651,
   "sessions": [
     {
       "file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/JE1_MGP_FP1.json",
@@ -21360,6 +21360,110 @@
       "date": "2026-06-28",
       "class": "MotoGP",
       "rider_count": 22
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_FP1.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "FP1",
+      "session_long": "Free Practice Nr. 1",
+      "date": "2026-07-10",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_PR.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "PR",
+      "session_long": "Practice",
+      "date": "2026-07-10",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_FP2.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "FP2",
+      "session_long": "Free Practice Nr. 2",
+      "date": "2026-07-11",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_Q1.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "Q1",
+      "session_long": "Grand Prix",
+      "date": "2026-07-11",
+      "class": "MotoGP",
+      "rider_count": 11
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_Q2.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "Q2",
+      "session_long": "Grand Prix",
+      "date": "2026-07-11",
+      "class": "MotoGP",
+      "rider_count": 12
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_SPR.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "SPR",
+      "session_long": "Grand Prix",
+      "date": "2026-07-11",
+      "class": "MotoGP",
+      "rider_count": 20
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_RAC.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "RAC",
+      "session_long": "Grand Prix",
+      "date": "2026-07-12",
+      "class": "MotoGP",
+      "rider_count": 20
+    },
+    {
+      "file": "SACHSENRING/2026/GER_MGP_WUP.json",
+      "year": 2026,
+      "gp": "Germany",
+      "gp_name": "Germany",
+      "circuit": "Sachsenring",
+      "track_folder": "SACHSENRING",
+      "session": "WUP",
+      "session_long": "Grand Prix",
+      "date": "2026-07-12",
+      "class": "MotoGP",
+      "rider_count": 20
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T13:03:01Z",
-  "session_count": 1667,
+  "last_updated": "2026-09-14T12:11:32Z",
+  "session_count": 1675,
   "sessions": [
     {
       "file": "CIRCUITO_DE_JEREZ_ANGEL_NIETO/2022/JE1_MGP_FP1.json",
@@ -21672,6 +21672,110 @@
       "date": "2026-08-30",
       "class": "MotoGP",
       "rider_count": 22
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_FP1.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "FP1",
+      "session_long": "Free Practice Nr. 1",
+      "date": "2026-09-11",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_PR.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "PR",
+      "session_long": "Practice",
+      "date": "2026-09-11",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_FP2.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "FP2",
+      "session_long": "Free Practice Nr. 2",
+      "date": "2026-09-12",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_Q1.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "Q1",
+      "session_long": "Grand Prix",
+      "date": "2026-09-12",
+      "class": "MotoGP",
+      "rider_count": 11
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_Q2.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "Q2",
+      "session_long": "Grand Prix",
+      "date": "2026-09-12",
+      "class": "MotoGP",
+      "rider_count": 12
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_SPR.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "SPR",
+      "session_long": "Grand Prix",
+      "date": "2026-09-12",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_RAC.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "RAC",
+      "session_long": "Grand Prix",
+      "date": "2026-09-13",
+      "class": "MotoGP",
+      "rider_count": 21
+    },
+    {
+      "file": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI/2026/RSM_MGP_WUP.json",
+      "year": 2026,
+      "gp": "San Marino And The Rimini Rivie",
+      "gp_name": "San Marino And The Rimini Rivie",
+      "circuit": "Misano World Circuit Marco",
+      "track_folder": "MISANO_WORLD_CIRCUIT_MARCO_SIMONCELLI",
+      "session": "WUP",
+      "session_long": "Grand Prix",
+      "date": "2026-09-13",
+      "class": "MotoGP",
+      "rider_count": 21
     }
   ]
 }
